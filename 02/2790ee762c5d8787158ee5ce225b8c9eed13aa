@@ -1,0 +1,19 @@
+ancient-secret-wealth-principle/SKILL.md
+  s_2ac5f43b6e2a16::t_65d334f92b75bd 1-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "022790ee762c5d8787158ee5ce225b8c9eed13aa",
+  "prompts": {},
+  "sessions": {
+    "s_2ac5f43b6e2a16": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c186c35f-3a61-430f-84fe-14633e41cb1a",
+        "model": "unknown"
+      },
+      "human_author": "Alex Crișan <acrisan@altametrics.com>"
+    }
+  }
+}
