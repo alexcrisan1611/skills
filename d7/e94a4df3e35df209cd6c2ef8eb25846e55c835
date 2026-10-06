@@ -1,0 +1,92 @@
+body-first-principles/SKILL.md
+  h_84058f52c6231b 1-363
+body-first-principles/references/body-scripture-map.md
+  h_84058f52c6231b 1-370
+body-first-principles/references/body-systems.md
+  h_84058f52c6231b 1-760
+body-first-principles/references/where-the-body-misleads.md
+  h_84058f52c6231b 1-403
+business-first-principles/SKILL.md
+  h_84058f52c6231b 1-387
+business-first-principles/references/axioms.md
+  h_84058f52c6231b 1-3046
+business-first-principles/references/canon-survey.md
+  h_84058f52c6231b 1-245
+business-first-principles/references/capital-and-stewardship.md
+  h_84058f52c6231b 1-2135
+business-first-principles/references/ethics.md
+  h_84058f52c6231b 1-2100
+business-first-principles/references/org-and-labour.md
+  h_84058f52c6231b 1-2309
+business-first-principles/references/trends-and-timing.md
+  h_84058f52c6231b 1-1936
+business-idea-generation/SKILL.md
+  h_84058f52c6231b 1-698
+business-idea-generation/references/opportunity-method.md
+  h_84058f52c6231b 1-616
+business-idea-generation/references/reading-the-times.md
+  h_84058f52c6231b 1-502
+first-principles-reasoning/SKILL.md
+  h_84058f52c6231b 1-408
+first-principles-reasoning/references/epistemic-limits.md
+  h_84058f52c6231b 1-325
+first-principles-reasoning/references/method.md
+  h_84058f52c6231b 1-266
+problem-solving-first-principles/SKILL.md
+  h_84058f52c6231b 1-505
+problem-solving-first-principles/references/crisis.md
+  h_84058f52c6231b 1-296
+problem-solving-first-principles/references/diagnosis.md
+  h_84058f52c6231b 1-342
+renewing-the-mind/SKILL.md
+  h_84058f52c6231b 1-217
+renewing-the-mind/references/institutions.md
+  h_84058f52c6231b 1-793
+renewing-the-mind/references/thought-patterns.md
+  h_84058f52c6231b 1-1812
+scripture-foundations/SKILL.md
+  h_84058f52c6231b 1-277
+scripture-foundations/references/chapter-map.md
+  h_84058f52c6231b 1-511
+scripture-foundations/references/genesis-1-3.md
+  h_84058f52c6231b 1-852
+scripture-foundations/references/kjv-1611.md
+  h_84058f52c6231b 1-594
+scripture-foundations/references/original-language.md
+  h_84058f52c6231b 1-1007
+scripture-foundations/scripts/lexicon.py
+  h_84058f52c6231b 1-250
+scripture-foundations/scripts/lexicon.ts
+  h_84058f52c6231b 1-198
+scripture-foundations/scripts/lib/books.ts
+  h_84058f52c6231b 1-246
+scripture-foundations/scripts/lib/cli.ts
+  h_84058f52c6231b 1-109
+scripture-foundations/scripts/lib/kjv.ts
+  h_84058f52c6231b 1-155
+scripture-foundations/scripts/lib/paths.ts
+  h_84058f52c6231b 1-89
+scripture-foundations/scripts/lib/strongs.ts
+  h_84058f52c6231b 1-150
+scripture-foundations/scripts/scripture.py
+  h_84058f52c6231b 1-370
+scripture-foundations/scripts/scripture.ts
+  h_84058f52c6231b 1-168
+technology-selection/SKILL.md
+  h_84058f52c6231b 1-705
+technology-selection/references/decision-framework.md
+  h_84058f52c6231b 1-431
+technology-selection/references/total-cost.md
+  h_84058f52c6231b 1-334
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d7e94a4df3e35df209cd6c2ef8eb25846e55c835",
+  "prompts": {},
+  "humans": {
+    "h_84058f52c6231b": {
+      "author": "Alex Crișan <acrisan@altametrics.com>"
+    }
+  }
+}
