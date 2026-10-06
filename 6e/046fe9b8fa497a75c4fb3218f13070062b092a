@@ -1,0 +1,16 @@
+skills/marketing-psychology/SKILL.md
+  h_84058f52c6231b 1-455
+skills/marketing-psychology/evals/evals.json
+  h_84058f52c6231b 1-88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6e046fe9b8fa497a75c4fb3218f13070062b092a",
+  "prompts": {},
+  "humans": {
+    "h_84058f52c6231b": {
+      "author": "Alex Crișan <acrisan@altametrics.com>"
+    }
+  }
+}
