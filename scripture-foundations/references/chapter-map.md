@@ -5,22 +5,24 @@ on the list. `SKILL.md` carries a short starter set and a reading order. This fi
 full list, grouped by the question each chapter answers.
 
 Every verse below came from the local KJV through `scripture.ts`. Every definition came from
-`lexicon.ts`. Reproduce any line with:
+`lexicon.ts`. Run these commands from the skill folder to reproduce any line:
 
 ```
-bun run verse "Genesis 1:1"
-bun run lexicon lookup H7287
+bun run scripts/scripture.ts lookup "Genesis 1:1"
+bun run scripts/lexicon.ts lookup H7287
 ```
+
+If Bun is not installed, use `python scripts/scripture.py` and `python scripts/lexicon.py` with the same arguments.
 
 Labels used in this file:
 
-- _Text states_: the verse itself makes the claim.
-- _Lexical_: the claim rests on the Hebrew or Greek entry.
-- _Inference_: this skill draws the claim from the text. The text does not state it.
-- _Contested_: faithful readers disagree, or the bundled tools cannot settle the point.
+- Text states: the verse itself makes the claim.
+- Lexical: the claim rests on the Hebrew or Greek entry.
+- Inference: this skill draws the claim from the text. The text does not state it.
+- Contested: faithful readers disagree, or the bundled tools cannot settle the point.
 
 A selection reason is a judgment about what carries weight. Every reason in a Why column is
-_Inference_ unless the entry marks it otherwise. Verse text is _Text states_.
+"Inference" unless the entry marks it otherwise. Verse text is "Text states".
 
 ---
 
@@ -45,19 +47,19 @@ _Inference_ unless the entry marks it otherwise. Verse text is _Text states_.
 
 The three tests, quoted from `SKILL.md`:
 
-> Scripture names the category and develops it from beginning to end. Three tests select a
-> foundation chapter: **(1)** explicit foundation language ("first," "beginning," "foundation,"
-> "cornerstone"); **(2)** chapters later Scripture quotes as foundations — a chapter cited by
-> Romans, Hebrews, or 1 Peter is load-bearing by definition; **(3)** direct windows into God's
-> own mind and ways.
+> Scripture names the category of foundations and develops it from the beginning to the end. Three tests select a foundation chapter:
+>
+> 1. Explicit foundation language ("first," "beginning," "foundation," "cornerstone").
+> 2. Later Scripture quotes the chapter as a foundation. A chapter that Romans, Hebrews, or 1 Peter cites is load-bearing by definition.
+> 3. The chapter gives a direct view into the mind and ways of God.
 
 The tests are not equal. Test 1 is checkable by search. Test 2 is checkable by quotation. Test 3
 rests on a reader's judgment, so it produces the most disagreement.
 
 ### Test 1. Explicit foundation language
 
-A search for the word "foundation" returns 21 verses in the four books below alone. The list
-below is the load-bearing subset. Every entry is _Text states_.
+A search for the word "foundation" in only four books (Isaiah, Matthew, Hebrews, and Revelation)
+returns 21 verses. The list below is the load-bearing subset of the foundation language. Every entry is "Text states".
 
 | Verse              | Text                                                                                                                                                                                |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -72,15 +74,15 @@ below is the load-bearing subset. Every entry is _Text states_.
 | 2 Timothy 2:19     | "Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity."   |
 | Revelation 21:14   | "And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb."                                                                        |
 
-_Lexical:_ the Greek behind "foundation" in these verses is G2310 `themélios`, _"something put
+Lexical: the Greek behind "foundation" in these verses is G2310 `themélios`, _"something put
 down, i.e. a substruction (of a building, etc.), (literally or figuratively)"_, glossed
-"foundation". The reverse map `english "foundation"` returns 16 entries, 10 Hebrew and 6 Greek.
-That is a warning against treating one English word as one idea.
+"foundation". The reverse map `english foundation` returns 16 entries: 14 Hebrew and 2 Greek
+(G2310 `themélios` and G2602 `katabolḗ`). One English word does not equal one idea.
 
 ### Test 2. Chapters later Scripture quotes as foundations
 
 A chapter that a later book quotes as the ground of an argument is load-bearing by definition.
-This table lists the quotations this map relies on. Every quote is _Text states_.
+This table lists the quotations this map relies on. Every quote is "Text states".
 
 | Earlier chapter | Quoted or cited in                             | Verified text                                                                                                                        |
 | --------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -93,7 +95,7 @@ This table lists the quotations this map relies on. Every quote is _Text states_
 | Deuteronomy 6:5 | Matthew 22:37                                  | "Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind."                                 |
 | 2 Samuel 7:14   | Hebrews 1:5                                    | "I will be to him a Father, and he shall be to me a Son"                                                                             |
 | Psalms 22:1     | Matthew 27:46                                  | "My God, my God, why hast thou forsaken me?"                                                                                         |
-| Psalms 110:1    | Matthew 22:44, Acts 2:34-35, and Hebrews 1:13  | "The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?"                                    |
+| Psalms 110:1    | Matthew 22:44, Mark 12:36, Luke 20:42, Acts 2:34-35, and Hebrews 1:13 | "The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?"                                    |
 | Isaiah 7:14     | Matthew 1:23                                   | "Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel"                           |
 | Hosea 11:1      | Matthew 2:15                                   | "Out of Egypt have I called my son."                                                                                                 |
 | Micah 5:2       | Matthew 2:6                                    | "for out of thee shall come a Governor, that shall rule my people Israel."                                                           |
@@ -103,7 +105,7 @@ This table lists the quotations this map relies on. Every quote is _Text states_
 | Jeremiah 31:33  | Hebrews 8:10                                   | "I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:" |
 | Habakkuk 2:4    | Romans 1:17, Galatians 3:11, and Hebrews 10:38 | "The just shall live by faith."                                                                                                      |
 
-_Inference:_ the list is not exhaustive. It contains the quotations that carry the gospel spine
+Inference: the list is not exhaustive. It contains the quotations that carry the gospel spine
 in group 4. A full quotation index is a separate project.
 
 ### Test 3. Direct windows into God's own mind and ways
@@ -112,7 +114,7 @@ These chapters report what God says about his own reasoning, or they show a pers
 The list includes Isaiah 55:6-9, Jeremiah 29:11, Psalms 139:17 with Psalms 147:5, Job 38 to 41,
 Romans 11:33-36, and 1 Corinthians 2:9-16. Group 3 below treats each one.
 
-_Inference:_ a reader cannot verify test 3 the way a reader verifies test 1. The claim is that
+Inference: a reader cannot verify test 3 the way a reader verifies test 1. The claim is that
 the passage gives access to God's mind. A reader who rejects the premise rejects the group.
 The chapters stay on the map because they are where the skill family's claims about thinking
 come from.
@@ -123,19 +125,21 @@ come from.
 
 ### Hebrews 5:11 to 6:2
 
-This is the only place in the Bible that uses the phrase "first principles" (_Text states_, and
+This is the only place in the Bible that uses the phrase "first principles" ("Text states", and
 verified by search: the query returns exactly one verse).
 
 - Hebrews 5:12: "For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat."
 - Hebrews 6:1: "Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,"
 - Hebrews 6:2: "Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment."
 
-_Lexical:_ the skill associates the phrase with G746 `archḗ`, defined as _"(properly abstract) a
-commencement, or (concretely) chief (in various applications of order, time, place, or rank)"_
-and glossed "beginning, corner, (at the, the) first (estate), magistrate, power, principality,
-principle, rule". The reverse map confirms that the KJV renders G746 as "principle". The bundled
-tools do not tag individual verses with Strong's numbers, so the tools cannot confirm that G746
-stands behind this exact occurrence. Treat the link as the skill's reading, not a tool result.
+Lexical: in Hebrews 5:12 the Greek phrase behind "first principles" is _ta stoicheia tēs
+archēs_. It uses two words: G4747 `stoicheîon` ("element") and G746 `archḗ` ("beginning"). In
+Hebrews 6:1 the word "principles" renders G746 `archḗ` alone. The lexicon defines G746 as
+_"(properly abstract) a commencement, or (concretely) chief (in various applications of order,
+time, place, or rank)"_ and glosses it "beginning, corner, (at the, the) first (estate),
+magistrate, power, principality, principle, rule". The reverse map confirms that the KJV renders
+both G746 and G4747 as "principle". The bundled tools do not tag individual verses with Strong's
+numbers. The two-word reading of each verse comes from the Greek text, not from a tool result.
 
 The passage names six items. They are the starter curriculum, and the author treats them as
 already known. The author argues for leaving them and moving on, not for repeating them.
@@ -147,12 +151,14 @@ already known. The author argues for leaving them and moving on, not for repeati
 5. Resurrection of the dead.
 6. Eternal judgment.
 
-_Inference:_ the list orders the material from turning, to trusting, to belonging, to the end.
+Inference: the list orders the material from turning, to trusting, to belonging, to the end.
 That order is a reading of the sequence, not a statement in the text.
 
-Six of the chapters in group 6 and group 7 carry the same foundation vocabulary. That is why
-the author can call these items first. The word "foundation" in Hebrews 6:1 is the ordinary
-building word, not a metaphor invented for the passage.
+All seven passages in group 7 carry the same foundation vocabulary. Six of them use "foundation"
+or "foundations", and Matthew 7:25 uses "founded". Group 6 (1 Corinthians 13) has no foundation
+vocabulary. Inference: the shared vocabulary is the reason that the author can call these items
+first. The word "foundation" in Hebrews 6:1 is the ordinary building word, not a metaphor invented
+for the passage.
 
 ---
 
@@ -173,10 +179,10 @@ canon's account of who God is, in his own words and in vision.
 | Colossians 1:15-20     | The image of the invisible God. All things were created by him and for him, and all things consist by him.       | Colossians 1:17: "And he is before all things, and by him all things consist."                                                                                                |
 | Revelation 4 to 5      | The throne room. It gives the end-state picture of God and the Lamb, and the ground of all worship.              | Revelation 4:11: "Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created."          |
 
-_Text states:_ Isaiah 40:28 adds "there is no searching of his understanding." That line is a
+Text states: Isaiah 40:28 adds "there is no searching of his understanding." That line is a
 bridge into group 3.
 
-_Contested:_ readers divide over the authorship and unity of Isaiah. Some treat chapters 40 to 66
+Contested: readers divide over the authorship and unity of Isaiah. Some treat chapters 40 to 66
 as a separate work. This map follows the skill's usage and treats the book as one. The division
 does not change the content of the chapters listed here.
 
@@ -206,7 +212,7 @@ follows.
 | John 17:3                             | Eternal life is defined as knowing God and Jesus Christ. Knowledge is the content of the goal.                                   | John 17:3: "And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent."                                                                                                                                                          |
 | 1 John 5:20                           | An understanding is given, and its purpose is to know him that is true.                                                          | 1 John 5:20: "And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true"                                                                                                                                                       |
 
-_Cross-reference:_ John 17 and 1 John sit in group 4 as whole books. Philippians 2 pairs with
+Cross-reference: John 17 and 1 John sit in group 4 as whole books. Philippians 2 pairs with
 John 13 in the reading sequence. Colossians 1:15-20 sits in group 2. Isaiah 55 sits beside
 Isaiah 53 in group 4.
 
@@ -241,7 +247,7 @@ its claims about failure, cost, substitution, and restoration from them.
 | 2 Timothy 2:19 and 3:14-17             | The foundation of God stands sure, and the scriptures furnish the man of God. Cross-reference group 7 for 2:19.                                  | 2 Timothy 3:16: "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:"                                                                           |
 | 1 John 1 to 2, 4, and 5:20             | Light, advocacy, and love as the proof. The letters give the tests of the profession.                                                            | 1 John 1:9: "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness."                                                                                                        |
 
-_Inference:_ the spine is an ordering of the material, not a claim that the chapters form one
+Inference: the spine is an ordering of the material, not a claim that the chapters form one
 argument. The order runs from the problem, through the provision, to the practice.
 
 ---
@@ -268,7 +274,7 @@ The foundation chapters state what is true. These chapters state how to live in 
 | Acts 1:8                                        | Witnesses in expanding circles, from the city to the end of the earth.                                                         | Acts 1:8: "ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth."                                                                                    |
 | Acts 17:22-31                                   | The model pitch to a culture. It moves from creation, to providence, to repentance, to judgment.                               | Acts 17:26-27: "And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation; That they should seek the Lord" |
 
-_Cross-reference:_ Matthew 5 to 7 supplies the foundation vocabulary in 7:24-27, and that entry
+Cross-reference: Matthew 5 to 7 supplies the foundation vocabulary in 7:24-27, and that entry
 sits in group 7. Proverbs 24:3-4 states the form, establish, fill pattern and appears in the
 appendix.
 
@@ -279,10 +285,12 @@ appendix.
 This chapter is the keystone because it governs motive. A correct conclusion reached for a
 wrong reason is not a win. The skill family applies this test to every other axiom.
 
-_Lexical:_ the KJV word "charity" in this chapter is G26 `agápē`, _("love, i.e. affection or
+Lexical: the KJV word "charity" in this chapter is G26 `agápē`, _("love, i.e. affection or
 benevolence; specially (plural) a love-feast")_, glossed "(feast of) charity(-ably), dear, love".
-The reverse map `english "charity"` returns G26 alone. In 1611 "charity" meant benevolent love.
-It did not mean alms. A reader who hears "philanthropy" in verse 13 has heard a modern word.
+The reverse map `english charity` returns G26 alone. The KJV uses "charity" for love (_agapē_) in
+this chapter. Elsewhere it usually renders the same word "love". The sense "alms" also existed in
+1611, but this chapter does not use it. A reader who hears "philanthropy" in verse 13 hears the
+wrong sense.
 
 Four observations.
 
@@ -292,7 +300,7 @@ Four observations.
 - 1 Corinthians 13:2: "And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing."
 - 1 Corinthians 13:3: "And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing."
 
-_Inference:_ the three verses name the highest available gifts, then the highest available
+Inference: the three verses name the highest available gifts, then the highest available
 sacrifice, and set them at zero without love. The act and the motive are one thing in this
 account. Love is not a supplement added to an otherwise valuable act.
 
@@ -303,7 +311,7 @@ account. Love is not a supplement added to an otherwise valuable act.
 - 1 Corinthians 13:6: "Rejoiceth not in iniquity, but rejoiceth in the truth;"
 - 1 Corinthians 13:7: "Beareth all things, believeth all things, hopeth all things, endureth all things."
 
-_Inference:_ most of the list is negative. The text says what love does not do more often than
+Inference: most of the list is negative. The text says what love does not do more often than
 what it does. That makes the passage usable as a checklist, and it makes self-assessment
 uncomfortable.
 
@@ -312,7 +320,7 @@ uncomfortable.
 - 1 Corinthians 13:8: "Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away."
 - 1 Corinthians 13:13: "And now abideth faith, hope, charity, these three; but the greatest of these is charity."
 
-_Inference:_ the chapter ranks three permanent things and puts love first. The ranking is the
+Inference: the chapter ranks three permanent things and puts love first. The ranking is the
 reason the skill family calls this chapter the keystone and not a supplement.
 
 ### Observation 4. Present knowledge is partial (13:9-12)
@@ -320,7 +328,7 @@ reason the skill family calls this chapter the keystone and not a supplement.
 - 1 Corinthians 13:9: "For we know in part, and we prophesy in part."
 - 1 Corinthians 13:12: "For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known."
 
-_Inference:_ this is a direct limit on reasoning. The tool is real and it is incomplete. The
+Inference: this is a direct limit on reasoning. The tool is real and it is incomplete. The
 correction is not to reason less. The correction is to hold conclusions at the confidence the
 instrument supports.
 
@@ -341,7 +349,7 @@ the structure. These seven entries are the vocabulary the skill family uses.
 | Isaiah 28:16          | The sure foundation in Zion, with a promise attached to belief.                                  | Isaiah 28:16: "he that believeth shall not make haste."                                                                                                                                           |
 | Revelation 21:14      | The city wall has twelve foundations, and the names are on them.                                 | Revelation 21:14: "And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb."                                                                    |
 
-_Lexical:_ the nearest thing to a definition is Hebrews 11:1, "Now faith is the substance of
+Lexical: the nearest thing to a definition is Hebrews 11:1, "Now faith is the substance of
 things hoped for, the evidence of things not seen." G5287 `hypóstasis` is defined as _"a setting
 under (support), i.e. (figuratively) concretely, essence, or abstractly, assurance (objectively
 or subjectively)"_ and glossed "confidence, confident, person, substance". A foundation is what
@@ -375,7 +383,7 @@ cross-reference points to the other section.
 ## 10. The reading sequence
 
 `SKILL.md` gives a starter set in reading order. This is the same shape with the full map
-included. The order is this skill's _Inference_. It is a reading plan, not a claim the text
+included. The order is this skill's "Inference". It is a reading plan, not a claim the text
 makes.
 
 | Order | Reading                                           | Why it sits here                                                                     |
@@ -431,7 +439,7 @@ makes.
 | 49    | 1 John 1 to 2, 4, and 5:20                        | Light, love, and understanding.                                                      |
 | 50    | Revelation 4 to 5 and 21                          | The throne and the city. The last answer to the first line.                          |
 
-_Inference:_ the sequence front-loads the definition and the Old Testament. It places
+Inference: the sequence front-loads the definition and the Old Testament. It places
 1 Corinthians 13 after the foundation vocabulary, so that love governs the use of that
 vocabulary.
 
@@ -451,18 +459,19 @@ vocabulary.
 
 ## 11. The through-line
 
-The arc runs from the first line of the Bible to the fifth verse of Revelation 21, with one
-verse in the middle.
+The arc runs from the first line of the Bible to Revelation 21:5-6, with one verse in the
+middle.
 
-- Genesis 1:1: "In the beginning God created the heaven and the earth." (_Text states_)
-- 1 Corinthians 3:11: "For other foundation can no man lay than that is laid, which is Jesus Christ." (_Text states_)
-- Revelation 21:5-6: "And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful. And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely." (_Text states_)
+- Genesis 1:1: "In the beginning God created the heaven and the earth." ("Text states")
+- 1 Corinthians 3:11: "For other foundation can no man lay than that is laid, which is Jesus Christ." ("Text states")
+- Revelation 21:5-6: "And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful. And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely." ("Text states")
 
 The first verse states the source. The middle verse names the foundation that is already laid.
-The last verses close the arc with the same words, "the beginning and the end," and with a new
-creation. Everything in groups 2 through 7 sits inside that frame.
+The last verses close the arc with a new creation and with the words "the beginning and the end."
+Inference: those words answer "In the beginning" in Genesis 1:1. Genesis 1:1 does not say "the
+end". Everything in groups 2 through 7 sits inside that frame.
 
-_Inference:_ the through-line is the reason this skill treats foundations as a single subject
+Inference: the through-line is the reason this skill treats foundations as a single subject
 rather than a set of topics. The frame is stated in the text. The use of the frame as an
 organizing device is the skill's choice.
 
@@ -488,24 +497,29 @@ cultivation, boundary, work, partnership, and the first "not good."
 | Ecclesiastes 1 to 2, 9:11, 10:10, and 11:1-6 | Experiment, vanity tested, the sharpened axe, and action under uncertainty.                                       | Ecclesiastes 11:4: "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap."                                     |
 | Matthew 25:14-30                             | The talents. Capital allocated unequally, and a return expected.                                                  | Matthew 25:21: "thou hast been faithful over a few things, I will make thee ruler over many things"                                                 |
 | Luke 14:28-30                                | Counting the cost before the build.                                                                               | Luke 14:28: "For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have sufficient to finish it?" |
-| Acts 6                                       | The first org design decision, made to protect the primary work.                                                  | Acts 6:3: "look ye out among you seven men of honest report, full of the Holy Ghost and wisdom, whom we may appoint over this business."            |
+| Acts 6                                       | The first decision about organization design. Its purpose was to protect the primary work.                                                  | Acts 6:3: "look ye out among you seven men of honest report, full of the Holy Ghost and wisdom, whom we may appoint over this business."            |
 
-_Text states:_ the KJV word "talent" in Matthew 25:15 is G5007 `tálanton`, a weight of money. The
-1611 sense is not "ability." See `references/kjv-1611.md`.
+Lexical: the KJV word "talent" in Matthew 25:15 is G5007 `tálanton`, a weight of money. Whatever
+the English word meant in 1611, the parable is about capital, not about natural ability. See
+`references/kjv-1611.md`.
 
-_Cross-reference:_ Acts 17 appears in group 5. The appendix records Acts 6.
+Cross-reference: Acts 17 appears in group 5. The appendix records Acts 6.
 
 ---
 
 ## 13. Reproducing the checks
 
+Run these commands from the skill folder:
+
 ```
-bun run verse "Genesis 1:1" "Revelation 21:5-6"
-bun run verse:search "first principles"
-bun run verse:search "foundation" --book Isaiah --book Matthew --book Hebrews --book Revelation
-bun run lexicon lookup G26 G746 G2310 G5287
-bun run lexicon english foundation
+bun run scripts/scripture.ts lookup "Genesis 1:1" "Revelation 21:5-6"
+bun run scripts/scripture.ts search "first principles"
+bun run scripts/scripture.ts search "foundation" --book Isaiah --book Matthew --book Hebrews --book Revelation
+bun run scripts/lexicon.ts lookup G26 G746 G2310 G4747 G5287
+bun run scripts/lexicon.ts english foundation
 ```
+
+If Bun is not installed, use `python scripts/scripture.py` and `python scripts/lexicon.py` with the same arguments.
 
 The data directory holds 66 books, 1,189 chapters, and 31,102 verses. The Strong's dictionary
 holds 8,674 Hebrew entries and 5,523 Greek entries.
