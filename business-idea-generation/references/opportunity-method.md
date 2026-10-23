@@ -99,6 +99,10 @@ workaround. Your message then has no shared content.
 Inference: The observation in Acts is specific. Paul names an altar and an inscription. He
 does not name a demographic.
 
+Inference: The original audience is the Athenians, and Paul's message is the gospel. He starts
+at their altar, but he preaches "Jesus, and the resurrection" (17:18) and calls them to repent
+(17:30). A business use of this text is an analogy.
+
 ### Step 3. Name the workaround
 
 The question: What do these people do today, and what do they pay for it?
@@ -153,8 +157,10 @@ arithmetic.
 The failure mode: You use a number from a report that gives no method. A top-down percentage
 of a large figure is a guess. It only looks like a measurement.
 
-Inference: The same seed returns nothing or a hundredfold, and the ground decides which.
-Segment size and segment fit matter more than the quality of the offer.
+Inference: Jesus explains the seed as "the word of the kingdom" and the ground as the heart of
+the hearer (Matthew 13:19-23). A business use of this text is an analogy. By analogy, the same
+seed returns nothing or a hundredfold, and the ground decides which. Segment size and segment
+fit matter more than the quality of the offer.
 
 ### Step 6. Name the distribution
 
@@ -164,8 +170,8 @@ Text states (Matthew 13:31-33): The mustard seed becomes a tree, "so that the bi
 air come and lodge in the branches thereof." The leaven is hidden in meal, "till the whole
 was leavened."
 
-Inference: The parables give two growth models. The mustard model is visible and central.
-The leaven model is hidden.
+Inference: The parables picture "the kingdom of heaven" (13:31, 13:33). By analogy, they give
+two growth models. The mustard model is visible and central. The leaven model is hidden.
 
 The evidence standard: A named sales channel, a named owner, and a cost per new customer that
 the price can carry. Test the sales channel before you build the product.
@@ -208,8 +214,13 @@ Text states: Both forecasts come true: "and so it is", and "it cometh to pass."
 Text states: The people "can discern the face of the sky and of the earth". They "do not
 discern this time".
 
+Text states: Jesus calls them "Ye hypocrites" (verse 56).
+
 Inference: The charge is inconsistency, not incapacity. The people have the skill in one area
-and do not use it in another.
+and do not use it in another. The word "hypocrites" makes the failure a moral one.
+
+Inference: The time that they missed is the time of Christ among them (compare Luke 19:44, "the
+time of thy visitation"). A business use of this text is an analogy.
 
 Lexical: G2540 _kairos_ is the word behind "time" in verse 56. The entry reads "an occasion,
 i.e. set or proper time". The KJV gloss list includes "opportunity" and "(convenient, due)
@@ -259,22 +270,28 @@ Text states: The three properties appear in one sequence, and the act follows.
 Inference: The three properties are appetite, beauty, and status. A24 (Desire runs on three
 channels) states that a buyer decides each purchase, hire, and commitment on all three at once.
 
+Inference: Appetite and beauty are goods that God made (Genesis 2:9: "pleasant to the sight,
+and good for food"). The third channel, "to be desired to make one wise", is the serpent's
+promise "ye shall be as gods" (3:5), and 1 John 2:16 says "the pride of life, is not of the
+Father". Use the three as an ethics check, not a sales lever. Serve real need and real beauty,
+do not sell standing, and audit your own decisions for the third channel.
+
 ### The three questions
 
-1. Appetite: What need does this remove, and what does the buyer pay for the workaround now?
+1. Appetite: What real need does this meet, and what does the buyer pay for the workaround now?
    Put a number on the current cost. Include the hours of the buyer at a real rate.
-2. Beauty: What does the buyer see, hold, or show? The interface, the van, the packaging, the
-   invoice, and the handover all carry this answer. A product with no answer here loses to a
-   worse product with one.
-3. Status: What standing does the buyer gain or protect? A purchase can raise the buyer in
-   front of clients, peers, or staff. It can also lower the buyer. A purchase that lowers
-   standing does not happen.
+2. Beauty: Is what the buyer sees, holds, or shows true to what the product does? The
+   interface, the van, the packaging, the invoice, and the handover all carry this answer.
+   Beauty that serves the use is a good. Beauty that hides the use deceives.
+3. Status: Does the pitch sell standing? A pitch that rests on making the buyer feel above
+   clients, peers, or staff sells the third channel. Remove that part of the pitch. Then ask
+   the same question about your own decision to build the offer.
 
-The failure mode: Your offer answers two desire channels and leaves one open. The buyer takes
-the offer that answers the missing desire channel, even when its other two answers are weaker.
+The failure mode: The offer meets no real need, its beauty hides what it does, or its pitch
+sells standing.
 
 The caution: The verse describes desire ahead of judgment. It records a fall, and it commands
-nothing. The test is descriptive. The ethics of what you sell come from
+nothing. The ethics of what you sell come from
 `../business-first-principles/references/ethics.md`.
 
 ---
@@ -319,6 +336,13 @@ they both shall be alike good."
 
 Contested: The idiom reading in rule 6 is one reading. The tools verify the verse text. They do
 not verify the idiom.
+
+Contested: Readers differ on what verses 1-2 are about. One view reads them as generosity: give
+bread and portions to many, because a day of evil may come (compare Proverbs 19:17 and Luke
+6:38). Another view reads them as trade: send goods over the water, and spread the risk across
+several ventures (compare Psalm 107:23, "They that go down to the sea in ships, that do business
+in great waters"). Many readers hold both. Verses 4-6 apply to sowing and work under either
+view. The rules above follow the second view, and they do not settle the question.
 
 ---
 
@@ -416,10 +440,11 @@ Measure the template sharing by the rate at which non-customers use a shared tem
 
 - Appetite: The firm gets back staff hours in the filing season. The number is the hours saved
   times the billing rate.
-- Beauty: The partner shows a clean status board to the client. The firm looks organized at the
-  moment when the client is anxious.
-- Status: The firm looks modern to its clients and to its own junior staff. The second group
-  matters for hiring, because this trade finds it hard to hire.
+- Beauty: The partner shows a clean status board to the client. The board shows the real state
+  of each file at the moment when the client is anxious.
+- Status: The pitch does not promise that the firm will look above its peers. It states the
+  hours saved and what the board shows. The founder checks that the product is built to serve
+  the firms, not to look modern.
 
 ### The cycle
 
@@ -511,8 +536,8 @@ referrals.
   bike that the service removes.
 - Beauty: A clean van, a tidy handover, and a clear note of the work done. In a service
   business, the visible work is the product.
-- Status: The owner is a commuter who is not stuck. The employer is a workplace that supports
-  cycling.
+- Status: The pitch states the days without the bike that the service removes. It does not sell
+  the owner or the employer an image.
 
 ### The cycle
 
@@ -561,8 +586,10 @@ Inference: The verse commands a count of the real state. It does not command opt
 
 Text states (Numbers 13:28): "Nevertheless the people be strong that dwell in the land".
 
-Inference: The majority report carried true facts and a false conclusion. Keep the two
-separate in your own report.
+Inference: The majority report began with true facts and reached a false conclusion. Then it
+slandered the land: "an evil report of the land... a land that eateth up the inhabitants
+thereof" (13:32). The text names the root as unbelief (Numbers 14:11, Hebrews 3:19). Keep the
+facts and the conclusion separate in your own report.
 
 ---
 
@@ -605,7 +632,8 @@ Inference: The skill file gives an output format. This list gives the content of
 3. The formless part: The boundary, the name, and the contents.
 4. The ground: The three layers, the floor case, and the source of each number.
 5. The distribution: The sales channel, the owner, the cost per customer, and the growth model.
-6. The demand check: All three desire channels, with an answer for each.
+6. The ethics check: The real need that the offer meets, the beauty that is true to the use,
+   and a check that the pitch does not sell standing.
 7. The cycle position: The driver, the measure, and the countercyclical action.
 8. The test: The threshold, the date, and the stopping rule.
 9. The first step: Small, reversible, and aimed at the riskiest assumption.
@@ -626,6 +654,10 @@ Genesis 1:2, Genesis 1:4-5, Genesis 2:19-20, Genesis 3:6, Genesis 3:22, Genesis 
 Genesis 41:29-36, Genesis 41:53-57, Genesis 47:13-26, Ecclesiastes 1:9-10, Ecclesiastes
 11:1-6, Nehemiah 2:11-16, Numbers 13:27-33, Matthew 13:3-9, Matthew 13:31-33, Proverbs 27:23,
 Proverbs 22:29, 1 Samuel 17:34-37, 1 Samuel 17:38-40, Isaiah 28:16.
+
+Added in the doctrinal review, retrieved with `../scripture-foundations/scripts/scripture.py`:
+Genesis 2:9, Genesis 3:5, 1 John 2:16, Luke 19:44, Acts 17:16-20, Matthew 13:19-23, Numbers
+13:32, Numbers 14:11, Hebrews 3:19, Proverbs 19:17, Luke 6:38, Psalm 107:23.
 
 ### Lexical claims verified with `../scripture-foundations/scripts/lexicon.ts`
 

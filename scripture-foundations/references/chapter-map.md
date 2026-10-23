@@ -29,7 +29,7 @@ A selection reason is a judgment about what carries weight. Every reason in a Wh
 ## Table of contents
 
 1. [How a chapter gets on this list](#1-how-a-chapter-gets-on-this-list)
-2. [Group 1. The chapter that names the topic](#2-group-1-the-chapter-that-names-the-topic)
+2. [Group 1. The chapter that names the phrase](#2-group-1-the-chapter-that-names-the-phrase)
 3. [Group 2. Who God is](#3-group-2-who-god-is)
 4. [Group 3. The thoughts and mind of God](#4-group-3-the-thoughts-and-mind-of-god)
 5. [Group 4. The gospel spine](#5-group-4-the-gospel-spine)
@@ -99,8 +99,8 @@ This table lists the quotations this map relies on. Every quote is "Text states"
 | Isaiah 7:14     | Matthew 1:23                                   | "Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel"                           |
 | Hosea 11:1      | Matthew 2:15                                   | "Out of Egypt have I called my son."                                                                                                 |
 | Micah 5:2       | Matthew 2:6                                    | "for out of thee shall come a Governor, that shall rule my people Israel."                                                           |
-| Isaiah 28:16    | Romans 9:33 and 1 Peter 2:6                    | "Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed."                   |
-| Isaiah 53:1     | John 12:38 and Romans 10:16                    | "Lord, who hath believed our report? and to whom hath the arm of the Lord been revealed?"                                            |
+| Isaiah 28:16    | Romans 9:33 and 1 Peter 2:6                    | Romans 9:33: "Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed." 1 Peter 2:6: "Behold, I lay in Sion a chief corner stone, elect, precious: and he that believeth on him shall not be confounded." |
+| Isaiah 53:1     | John 12:38 and Romans 10:16                    | John 12:38: "Lord, who hath believed our report? and to whom hath the arm of the Lord been revealed?" Romans 10:16 quotes the first question only. |
 | Isaiah 53:5     | 1 Peter 2:24                                   | "by whose stripes ye were healed."                                                                                                   |
 | Jeremiah 31:33  | Hebrews 8:10                                   | "I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:" |
 | Habakkuk 2:4    | Romans 1:17, Galatians 3:11, and Hebrews 10:38 | "The just shall live by faith."                                                                                                      |
@@ -121,7 +121,7 @@ come from.
 
 ---
 
-## 2. Group 1. The chapter that names the topic
+## 2. Group 1. The chapter that names the phrase
 
 ### Hebrews 5:11 to 6:2
 
@@ -154,11 +154,21 @@ already known. The author argues for leaving them and moving on, not for repeati
 Inference: the list orders the material from turning, to trusting, to belonging, to the end.
 That order is a reading of the sequence, not a statement in the text.
 
-All seven passages in group 7 carry the same foundation vocabulary. Six of them use "foundation"
-or "foundations", and Matthew 7:25 uses "founded". Group 6 (1 Corinthians 13) has no foundation
-vocabulary. Inference: the shared vocabulary is the reason that the author can call these items
-first. The word "foundation" in Hebrews 6:1 is the ordinary building word, not a metaphor invented
-for the passage.
+Text states: the writer calls these items "the principles of the doctrine of Christ" (6:1). He
+calls the first principles "milk" (5:12), and he explains: "For every one that useth milk is
+unskilful in the word of righteousness: for he is a babe" (5:13). Inference: the passage names
+the phrase "first principles", but its subject is the basic teaching about Christ. Using the
+phrase for a method of reasoning is an analogy from a shared English phrase, not the sense of the
+passage. The same word `stoicheîon` is a warning at Colossians 2:8: "after the rudiments of the
+world, and not after Christ".
+
+Hebrews 6:1 calls these items a "foundation". All seven passages in group 7 use the same
+building vocabulary. Six of them use "foundation" or "foundations", and Matthew 7:25 uses
+"founded". Group 6 (1 Corinthians 13) has no foundation vocabulary. Inference: the shared word
+lets this map read the passages together. It does not explain why the writer of Hebrews calls
+these items first. The text gives its own reason: they are the beginning of "the doctrine of
+Christ" (6:1). The word "foundation" in Hebrews 6:1 is the ordinary building word, not a metaphor
+invented for the passage.
 
 ---
 
@@ -230,7 +240,7 @@ its claims about failure, cost, substitution, and restoration from them.
 | Exodus 12 and Leviticus 16             | The Passover and the day of atonement. Substitution and covering are established as practice before they are explained.                          | Leviticus 16:30: "For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the LORD."                                                                                  |
 | Exodus 20                              | The covenant law, spoken by God and given before the people enter the land.                                                                      | Exodus 20:2-3: "I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage. Thou shalt have no other gods before me."                                                                          |
 | 2 Samuel 7                             | The throne promise to David. Hebrews quotes it of the Son.                                                                                       | 2 Samuel 7:16: "And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever."                                                                                                    |
-| Psalms 22 and 110                      | The suffering and the session. The first is spoken from the cross. The second is quoted in three New Testament books.                            | Psalms 22:1: "My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?"                                                                                                         |
+| Psalms 22 and 110                      | The suffering and the session. The first is spoken from the cross. The second is quoted in five New Testament books.                             | Psalms 22:1: "My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?"                                                                                                         |
 | Isaiah 28:16                           | The sure foundation in Zion. Paul and Peter both quote it.                                                                                       | Isaiah 28:16: "Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: he that believeth shall not make haste."                                                                       |
 | Isaiah 53                              | The suffering servant. The Ethiopian official reads it and asks who it describes.                                                                | Isaiah 53:5: "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed."                                                             |
 | Jeremiah 31:31-34 and Ezekiel 36:25-27 | The new covenant and the new heart. Hebrews 8 quotes the first at length.                                                                        | Jeremiah 31:33: "I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people."                                                                                             |
@@ -272,7 +282,7 @@ The foundation chapters state what is true. These chapters state how to live in 
 | Mark 10:43-45                                   | Greatness defined as service, with the Son of man as the pattern.                                                              | Mark 10:45: "For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many."                                                                                               |
 | Luke 24:44-47                                   | The scriptures fulfilled, and repentance preached among all nations.                                                           | Luke 24:47: "And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem."                                                                                            |
 | Acts 1:8                                        | Witnesses in expanding circles, from the city to the end of the earth.                                                         | Acts 1:8: "ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth."                                                                                    |
-| Acts 17:22-31                                   | The model pitch to a culture. It moves from creation, to providence, to repentance, to judgment.                               | Acts 17:26-27: "And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation; That they should seek the Lord" |
+| Acts 17:22-31                                   | The model address to a culture. It moves from creation, to providence, to repentance, to judgment, and it ends with the resurrection (17:31). | Acts 17:26-27: "And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation; That they should seek the Lord" |
 
 Cross-reference: Matthew 5 to 7 supplies the foundation vocabulary in 7:24-27, and that entry
 sits in group 7. Proverbs 24:3-4 states the form, establish, fill pattern and appears in the
@@ -301,8 +311,9 @@ Four observations.
 - 1 Corinthians 13:3: "And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing."
 
 Inference: the three verses name the highest available gifts, then the highest available
-sacrifice, and set them at zero without love. The act and the motive are one thing in this
-account. Love is not a supplement added to an otherwise valuable act.
+sacrifice. Without love the verdict falls on the person: "I am nothing" (13:2), and "it profiteth
+me nothing" (13:3). The poor are still fed. The act and the motive are one thing in this account,
+so love is not a supplement added on top.
 
 ### Observation 2. Love is described by conduct (13:4-7)
 
@@ -349,11 +360,15 @@ the structure. These seven entries are the vocabulary the skill family uses.
 | Isaiah 28:16          | The sure foundation in Zion, with a promise attached to belief.                                  | Isaiah 28:16: "he that believeth shall not make haste."                                                                                                                                           |
 | Revelation 21:14      | The city wall has twelve foundations, and the names are on them.                                 | Revelation 21:14: "And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb."                                                                    |
 
-Lexical: the nearest thing to a definition is Hebrews 11:1, "Now faith is the substance of
-things hoped for, the evidence of things not seen." G5287 `hypóstasis` is defined as _"a setting
-under (support), i.e. (figuratively) concretely, essence, or abstractly, assurance (objectively
-or subjectively)"_ and glossed "confidence, confident, person, substance". A foundation is what
-stands under the thing before the outcome is visible.
+Text states: the foundation itself is Christ: "For other foundation can no man lay than that is
+laid, which is Jesus Christ" (1 Corinthians 3:11).
+
+Lexical: the nearest thing to a definition of the idea is Hebrews 11:1, "Now faith is the
+substance of things hoped for, the evidence of things not seen." G5287 `hypóstasis` is defined as
+_"a setting under (support), i.e. (figuratively) concretely, essence, or abstractly, assurance
+(objectively or subjectively)"_ and glossed "confidence, confident, person, substance". It is
+not the New Testament word for "foundation". That word is G2310 `themélios`. Inference: a
+foundation is what stands under the thing before the outcome is visible.
 
 ---
 
@@ -388,7 +403,7 @@ makes.
 
 | Order | Reading                                           | Why it sits here                                                                     |
 | ----- | ------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| 1     | Hebrews 5:11 to 6:2                               | The passage names the topic. Read it first so the rest is read for foundations.      |
+| 1     | Hebrews 5:11 to 6:2                               | The passage names the phrase and ties it to "the doctrine of Christ". Read it first so the rest is read for foundations. |
 | 2     | Genesis 1                                         | The source and the method.                                                           |
 | 3     | Genesis 2                                         | The rhythm, the boundary, and the first "not good."                                  |
 | 4     | Genesis 3                                         | The fracture and the first promise.                                                  |
@@ -419,7 +434,7 @@ makes.
 | 29    | John 1                                            | The Word in the beginning.                                                           |
 | 30    | John 3 and 17                                     | New birth and eternal life.                                                          |
 | 31    | Acts 2 and 15                                     | The Spirit and the council.                                                          |
-| 32    | Acts 17:22-31                                     | The model pitch to a culture.                                                        |
+| 32    | Acts 17:22-31                                     | The model address to a culture.                                                      |
 | 33    | Romans 1 to 8                                     | The compact system.                                                                  |
 | 34    | Romans 11:33-36 and 12:1-2                        | The depth, then the renewed mind.                                                    |
 | 35    | 1 Corinthians 2:9-16                              | The mind of Christ.                                                                  |
@@ -490,17 +505,21 @@ cultivation, boundary, work, partnership, and the first "not good."
 | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Genesis 2                                    | Cultivation, boundaries, work, partnership, the first "not good." Treated in full in `references/genesis-1-3.md`. | Genesis 2:15: "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it."                                      |
 | Exodus 18                                    | Delegation and triage. The first management fix.                                                                  | Exodus 18:21: "Moreover thou shalt provide out of all the people able men, such as fear God, men of truth, hating covetousness;"                    |
-| Deuteronomy 8                                | Wealth, wilderness testing, and the forgetting that follows success.                                              | Deuteronomy 8:18: "But thou shalt remember the LORD thy God: for it is he that giveth thee power to get wealth"                                     |
+| Deuteronomy 8                                | Wealth, wilderness testing, and the forgetting that follows success. The power to get wealth is God's gift, given to establish his covenant with Israel's fathers. | Deuteronomy 8:18: "But thou shalt remember the LORD thy God: for it is he that giveth thee power to get wealth, that he may establish his covenant which he sware unto thy fathers, as it is this day." |
 | 1 Chronicles 12:32                           | Reading the times to know what to do.                                                                             | 1 Chronicles 12:32: "men that had understanding of the times, to know what Israel ought to do"                                                      |
 | Nehemiah 1 to 6                              | Reconnaissance, vision, threat, build and defend, focus.                                                          | Nehemiah 2:18: "And they said, Let us rise up and build. So they strengthened their hands for this good work."                                      |
 | Proverbs 24:3-4                              | Build, establish, fill. The same shape as the two passes of Genesis 1.                                            | Proverbs 24:3: "Through wisdom is an house builded; and by understanding it is established:"                                                        |
 | Ecclesiastes 1 to 2, 9:11, 10:10, and 11:1-6 | Experiment, vanity tested, the sharpened axe, and action under uncertainty.                                       | Ecclesiastes 11:4: "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap."                                     |
-| Matthew 25:14-30                             | The talents. Capital allocated unequally, and a return expected.                                                  | Matthew 25:21: "thou hast been faithful over a few things, I will make thee ruler over many things"                                                 |
-| Luke 14:28-30                                | Counting the cost before the build.                                                                               | Luke 14:28: "For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have sufficient to finish it?" |
+| Matthew 25:14-30                             | The talents. Faithfulness until the Lord returns. The image is capital allocated unequally, with a return expected. | Matthew 25:21: "thou hast been faithful over a few things, I will make thee ruler over many things"                                                 |
+| Luke 14:28-30                                | Counting the cost before the build. The cost in view is discipleship (14:33).                                     | Luke 14:28: "For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have sufficient to finish it?" |
 | Acts 6                                       | The first decision about organization design. Its purpose was to protect the primary work.                                                  | Acts 6:3: "look ye out among you seven men of honest report, full of the Holy Ghost and wisdom, whom we may appoint over this business."            |
 
-Lexical: the KJV word "talent" in Matthew 25:15 is G5007 `tálanton`, a weight of money. Whatever
-the English word meant in 1611, the parable is about capital, not about natural ability. See
+Lexical: the KJV word "talent" in Matthew 25:15 is G5007 `tálanton`, a weight of money, so the
+image of the parable is capital. Text states: the parable opens with "Watch therefore, for ye
+know neither the day nor the hour wherein the Son of man cometh" (Matthew 25:13) and ends in
+judgment (25:30). Its stated subject is faithfulness until the Lord returns. Inference: applying
+it to entrusted capital is an analogy from its image. Abilities are also received (1 Corinthians
+4:7, 1 Peter 4:10), so a reading about abilities is an analogy too, not a change of subject. See
 `references/kjv-1611.md`.
 
 Cross-reference: Acts 17 appears in group 5. The appendix records Acts 6.

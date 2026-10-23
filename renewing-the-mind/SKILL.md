@@ -11,13 +11,15 @@ This skill finds broken patterns of thought. It then rebuilds them.
 
 Inference: this skill infers that three forces train most people into false patterns. Those forces are the school system, social media, and television with advertising. A person does not choose most of their assumptions. They absorb them, and then they defend them as if they chose them.
 
-The skill has one purpose. It replaces a false pattern with a true one. It is not a tool to win arguments, and it is not a tool for contempt.
+The skill has one purpose. It helps a person replace a false pattern with a true one. The skill does not renew anyone. God does. See "Who renews" below. It is not a tool to win arguments, and it is not a tool for contempt.
 
 ## Rule one: removal is not enough
 
 Matthew 12:43-45 records the warning. An unclean spirit goes out of a man. Verse 44 says that the spirit returns and "findeth it empty, swept, and garnished." The spirit then brings seven other spirits, and "the last state of that man is worse than the first."
 
-Inference: a false pattern that you tear out and do not replace leaves a vacancy. Something fills it. For this reason, the skill always ends with a replacement and never with a deletion.
+Read it in context. Jesus applies the warning to "this wicked generation" (12:45). Verse 28 says what had come to them: "if I cast out devils by the Spirit of God, then the kingdom of God is come unto you." Verse 41 says "a greater than Jonas is here." The house is clean, but it is empty. It has no occupant. Inference: the passage points first to receiving Christ, not to a better idea.
+
+Inference: this skill borrows the shape of the warning. A false pattern that you tear out and do not replace leaves a vacancy. Something fills it. For this reason, the skill always ends with a replacement and never with a deletion. A true sentence does not fill the house by itself. See "Who renews".
 
 Romans 12:2 states the same shape in one verse: "And be not conformed to this world: but be ye transformed by the renewing of your mind..." The negative command and the positive command arrive together.
 
@@ -37,19 +39,37 @@ A person can correctly name the error of another person and do it with contempt.
 
 ## The mandate
 
-Scripture commands the renewal of the mind as an act, not as a mood.
+Scripture commands the renewal of the mind. It is a command, not a mood. But the KJV verb is passive: "be ye transformed by the renewing of your mind" (Romans 12:2). Inference: the person obeys, and God does the transforming.
 
-2 Corinthians 10:3-5 describes the work. The weapons are not carnal. Their use is to cast down imaginations and every high thing that exalts itself against the knowledge of God. Their use is also to bring every thought into captivity.
+2 Corinthians 10:3-5 describes a warfare. Verse 4 says that the weapons "are not carnal, but mighty through God to the pulling down of strong holds". Their use is to cast down imaginations and every high thing that exalts itself against the knowledge of God, "and bringing into captivity every thought to the obedience of Christ". In context, Paul defends his ministry against opponents in Corinth (10:2, 10:10-12). Inference: the passage also applies to the thoughts of a believer. The power is God's, not the power of a technique.
 
 Proverbs 4:23 states the stakes: "Keep thy heart with all diligence; for out of it are the issues of life."
 
-The supporting texts are Romans 12:1-2, Isaiah 26:3, Philippians 2:5, Philippians 4:8, Colossians 3:1-2, 1 Peter 1:13, 2 Timothy 1:7, and Titus 2:6.
+The supporting texts are Romans 12:1-2, Isaiah 26:3, Philippians 2:5, Philippians 4:8, Colossians 3:1-2, 1 Peter 1:13, 2 Timothy 1:7, and Titus 2:6. Several of them name God as the one who acts. "Thou wilt keep him in perfect peace" (Isaiah 26:3). "God hath not given us the spirit of fear; but of power, and of love, and of a sound mind" (2 Timothy 1:7).
+
+## Who renews
+
+Text states: God renews. The KJV uses "renewing" twice. Romans 12:2 is one. Titus 3:5 is the other: "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;" In the New Testament, "renewed" appears three times, and each time it is passive. 2 Corinthians 4:16 says "the inward man is renewed day by day". Ephesians 4:23 says "be renewed in the spirit of your mind". The new man "is renewed in knowledge after the image of him that created him" (Colossians 3:10). 2 Corinthians 3:18 says that we "are changed into the same image from glory to glory, even as by the Spirit of the LORD."
+
+Text states: the person also acts. Philippians 2:12-13: "work out your own salvation with fear and trembling. For it is God which worketh in you both to will and to do of his good pleasure." John 15:5: "for without me ye can do nothing."
+
+Inference: the eight steps below are the human side of a work that God does. They are not a technique that renews by its own power. So do them before God, in prayer. The replacement is truth for the Spirit to use, not a mantra.
+
+Contested: Christian traditions differ on how the two works relate. Some stress that God's work comes first and makes the person's work possible (Philippians 2:13). Others stress that the person cooperates with grace (Philippians 2:12). Both hold that God renews and that the person must act.
+
+## Who this is for
+
+Romans 12:1 addresses "brethren, by the mercies of God". In Ephesians 4:20-24, "be renewed" follows "ye have not so learned Christ", and it comes with "put on the new man, which after God is created in righteousness and true holiness." 1 Corinthians 2:14 says, "But the natural man receiveth not the things of the Spirit of God".
+
+Inference: the renewal that Romans 12:2 describes follows the gospel. If the user is not a believer, or does not say, you can still test a thought for truth, wisdom, and love. Most entries in the catalog describe errors that any person can see. But say plainly that the steps are not that renewal. Where the user is open to it, point to the gospel itself: "according to his mercy he saved us" (Titus 3:5). Do not press it on someone who did not ask.
 
 ## The deconstruction procedure
 
 Do these eight steps in order. Steps 1 through 6 take the pattern apart. Steps 7 and 8 put something true in its place.
 
-### Step 1. Write the thought in one sentence
+### Step 1. Pray, and write the thought in one sentence
+
+Begin before God, as Psalm 139:23-24 does: "Search me, O God, and know my heart: try me, and know my thoughts: And see if there be any wicked way in me, and lead me in the way everlasting." The heart does not audit itself well, so ask the one who searches it.
 
 If you cannot state the thought in one sentence, you do not yet know what you believe. When you write it down, most of the vagueness shows at once.
 
@@ -107,7 +127,7 @@ James 3:13-18 sets two wisdoms against each other, and it supplies a practical t
 
 The wisdom that is earthly, sensual, and devilish produces envy, strife, confusion, boasting, and every evil work. The wisdom from above produces purity, peace, gentleness, mercy, good fruits, impartiality, and sincerity.
 
-To do the test on a pattern of thought, ask what the pattern produces in the group that holds it. A belief that reliably produces suspicion, division, and self-congratulation fails, even when nobody can find the error in its logic. The full procedure is in `references/thought-patterns.md`.
+To do the test on a pattern of thought, ask what the pattern produces in the group that holds it. A way of holding a belief that reliably produces suspicion, strife, and self-congratulation fails, even when nobody can find the error in its logic. The test is about how a belief is held. It does not decide whether the belief is true. Truth itself can divide: "So there was a division among the people because of him" (John 7:43). The full procedure is in `references/thought-patterns.md`.
 
 ## The sources
 
@@ -115,7 +135,13 @@ Inference: this skill infers that three institutions shape most of the patterns 
 
 `references/institutions.md` sets out the mechanisms, the counter-practices, and the parts that are contested. That file labels each claim as Text states, Inference, or Contested.
 
-The contested parts need a note. The theological claim is strong, and the texts speak to it directly. Proverbs 1:7 and Proverbs 9:10 say that knowledge without the fear of the LORD rests on a broken foundation. The empirical claims about the outcomes of schooling are different. They change by school and by country, and some schools teach well. Treat the theological claim as firm and the empirical claims as testable. Do not merge the two.
+The contested parts need a note. There are three kinds of claim here.
+
+- Text states: "The fear of the LORD is the beginning of knowledge" (Proverbs 1:7). "The fear of the LORD is the beginning of wisdom" (Proverbs 9:10). Hold this as firm.
+- Inference: a given school or medium leaves that foundation out. Each case needs evidence. Scripture also shows God giving real knowledge to people trained in a pagan school. Daniel was taught "the learning and the tongue of the Chaldeans" (Daniel 1:4), and "God gave them knowledge and skill in all learning and wisdom" (Daniel 1:17).
+- Contested: the empirical claims about the outcomes of schooling. They change by school and by country, and some schools teach well. Treat them as testable.
+
+Do not merge the three.
 
 ## Output format
 
@@ -135,7 +161,7 @@ Keep the output short. A long answer about a single pattern usually shows that y
 
 ## Where this skill refuses
 
-This skill does not do three things.
+This skill does not do four things.
 
 It does not diagnose other people. It has no authority to name the spiritual condition of a person. The texts forbid the attempt in the manner that most people attempt it.
 
@@ -143,9 +169,11 @@ It does not resolve disputable matters. Romans 14 draws a line between matters o
 
 It does not give medical advice. Anxiety, depression, and intrusive thought have medical dimensions. A person in distress needs a physician as well as a pastor. When that is what you see, say so plainly.
 
+It does not correct a lament. Grief and godly sorrow spoken to God are not patterns to replace. "How long wilt thou forget me, O LORD? for ever?" (Psalm 13:1). Job's friends answered his grief with true-sounding rules, and God said to them, "ye have not spoken of me the thing that is right, as my servant Job hath" (Job 42:7). Matching a sufferer's words to a pattern and a counter-verse is their method. Listen first. The full guard is guard 10 in `references/thought-patterns.md`.
+
 ## References
 
-- `references/thought-patterns.md` has 43 named patterns in six groups. The groups are truth and evidence, desire and comparison, fear and the opinion of others, self-deception, words and information, and the character of the thinker. Each entry gives the description, the lie, the cause, the fruit, the counter-truth, and a verified counter-text. The file also has the two wisdoms test and the guards against false detection.
+- `references/thought-patterns.md` has 43 named patterns in six groups. The groups are truth and evidence, desire and comparison, fear and the opinion of others, self-deception, words and information, and the character of the thinker. Each entry gives the description, the lie, the cause, the fruit, the counter-truth, and a verified counter-text. The file also has the two wisdoms test and ten guards against false detection.
 - `references/institutions.md` examines the school system, social media, and television with advertising by mechanism. It gives counter-practices and an honest note on what is contested.
 
 ## Related skills

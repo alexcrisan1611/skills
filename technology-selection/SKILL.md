@@ -38,11 +38,15 @@ Text (Proverbs 24:3-4, KJV):
 > 3 Through wisdom is an house builded; and by understanding it is established:
 > 4 And by knowledge shall the chambers be filled with all precious and pleasant riches.
 
-Text states: the verses give a sequence. Wisdom builds. Understanding establishes. Knowledge
+Text states: the verses name three works. Wisdom builds. Understanding establishes. Knowledge
 fills.
 
-Text states: the filling comes last, and it is the filling of chambers. The rooms exist before
-the contents arrive.
+Text states: the filling is the filling of chambers. Inference: the rooms exist before the
+contents arrive.
+
+Inference: the lines are Hebrew poetry, and the three works may be parallel rather than a
+sequence. Proverbs 3:19-20 uses wisdom, understanding, and knowledge in the same order for the
+creation. This file reads the order as a sequence, and that reading is an inference.
 
 Inference: the sequence applies to systems. People build a house, then make it stable, then
 furnish it. A team specifies a system, then makes it reliable, then loads it with features and
@@ -65,15 +69,21 @@ Text states: the blunt tool has a cost. The worker must "put to more strength".
 
 Text states: the remedy is to sharpen. The text says "whet the edge".
 
-Text states: the result clause attaches to direction, not to the tool. The verse says "wisdom is
-profitable to direct."
+Text states: the verse ends with "wisdom is profitable to direct."
+
+Lexical: H3787 _kasher_ is the standard word behind "direct" here. The entry gives the root sense
+"to be straight or right" and the definition "by implication, to be acceptable; also to succeed
+or prosper". The KJV gloss list gives "direct, be right, prosper". In this verse, "to direct"
+means to make the work go right. It does not mean to steer.
+
+Inference: the verse credits wisdom with success. Sharpening the edge is one act of that wisdom.
 
 Inference: tooling is an investment with a return. The return arrives as less effort for the same
 output, or the same effort for more output.
 
-Inference: the verse attaches the return to direction. A sharp tool in the wrong direction
-produces bad work faster. This is the failure mode of an adoption that the appeal of the tool
-drives.
+Inference: the verse attaches the return to wisdom, not to the tool. A sharp tool used without
+wisdom produces bad work faster. This is the failure mode of an adoption that the appeal of the
+tool drives.
 
 The practical test: state the labor that the tool removes, and estimate the hours. Then state who
 directs the tool. If nobody directs it, the sharpening will not return its cost.
@@ -206,16 +216,24 @@ Text states: the foundation is "tried", which means tested.
 Text states: the verse states the result for the one who trusts it in the negative: "shall not
 make haste."
 
+Text states: the Lord GOD lays the stone: "I lay in Zion for a foundation a stone". The New
+Testament reads the verse of Christ: "he that believeth on him shall not be confounded" (1 Peter
+2:6).
+
+Inference: the verse speaks of faith in a tried foundation stone. It does not speak of business
+decisions. This file uses it only as an analogy: a sure foundation removes the need to hurry. The
+verse does not ground A32.
+
 A32 in `business-first-principles`, "Some states must not be allowed to become permanent," also
 states that speed is for reversible decisions. The axiom rests on Genesis 3:22-23, where God
 prevents a bad condition from becoming irreversible.
 
-Inference: hurry is a symptom of a foundation that nobody trusts. It is not a property of the
-work. This is the reading in `../business-first-principles/references/trends-and-timing.md`, Part
-7.
+Inference: by analogy, hurry is a symptom of a foundation that nobody trusts. It is not a
+property of the work. This is the reading in
+`../business-first-principles/references/trends-and-timing.md`, Part 7.
 
-Inference: the same logic gates technology decisions. A reversible decision can move fast. An
-irreversible decision deserves the delay.
+Inference: A32 gates technology decisions. A reversible decision can move fast. An irreversible
+decision deserves the delay.
 
 ### The reversibility test
 
@@ -345,8 +363,10 @@ Inference: the total cost of ownership is the dress plus the keep. The build is 
 maintenance, the support, the upgrades, the monitoring, and the eventual replacement are the
 keep.
 
-Inference: a system with no named keeper will decay. The decay is not a risk. It is the baseline,
-and A2, "The default state is formless and empty," states it directly.
+Inference: a system with no named keeper will decay. In this world the decay is not a risk. It is
+the baseline. Scripture ties decay to the fall: "the bondage of corruption" (Romans 8:21). The
+unformed earth of Genesis 1:2 is unfinished, not corrupt, so A2, "The default state is formless
+and empty," is a parallel here, not the source of decay.
 
 Inference: the keep cost recurs, and it does not end. A system that ships without a keeper
 borrows against a future budget that nobody approved.
@@ -383,7 +403,13 @@ Text (Haggai 1:5-6, KJV):
 > 5 Now therefore thus saith the LORD of hosts; Consider your ways.
 > 6 Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes.
 
-Text states: the instruction is to consider, which means to examine the ways of the work.
+Text states: the text gives the cause first. "Is it time for you, O ye, to dwell in your cieled
+houses, and this house lie waste?" (1:4). God says, "when ye brought it home, I did blow upon it.
+Why? saith the LORD of hosts. Because of mine house that is waste, and ye run every man unto his
+own house" (1:9). He adds, "And I called for a drought upon the land" (1:11).
+
+Text states: the instruction is "Consider your ways." Inference: in context, the ways to examine
+are the priorities of the people. They built their own houses and left the house of God waste.
 
 Text states: five symptoms appear in one verse:
 
@@ -400,12 +426,18 @@ Lexical: H5344 _naqab_ stands behind "holes" in the phrase. The entry reads "to 
 literally (to perforate, with more or less violence) or figuratively (to specify, designate,
 libel)". The gloss list includes "bore", "with holes", and "pierce".
 
-Text states: the wages go into the bag, and the bag does not hold them. The loss is not at the
-earning. The loss is at the retaining.
+Text states: the wages go into the bag, and the bag does not hold them. Inference: in the image,
+the loss is at the retaining, not at the earning. In the text, the cause of the loss is that God
+withheld the harvest, because his house lay waste (1:9-11).
 
 ### The symptoms in a system
 
-Inference: a system that consumes effort and does not retain value shows these signs:
+Inference: the original audience is the people of Judah after the exile, who left the house of
+God waste. A business use of this text is an analogy drawn from the image of the bag with holes.
+The text's own lesson also applies. Before you ask how to retain the output, ask whether the work
+serves the right priority.
+
+Inference: by analogy, a system that consumes effort and does not retain value shows these signs:
 
 1. The same work repeats. The record is lost, so someone enters the input again.
 2. People enter the same data more than once. Two systems both claim to be the source.
@@ -414,7 +446,7 @@ Inference: a system that consumes effort and does not retain value shows these s
 5. The workaround multiplies. People build private spreadsheets beside the official system.
 6. The budget renews and the problem does not go away. The cost recurs and the symptom returns.
 
-Inference: the diagnosis is at the retaining step, not the effort step. If you add effort to a
+Inference: by analogy, look at the retaining step before the effort step. If you add effort to a
 system with holes, you increase the wage and not the store.
 
 ## The limits of one great system
@@ -438,23 +470,30 @@ Lexical: H1101 _balal_ is the standard word behind "confound". The entry reads "
 Text states: verse 9 links the name Babel to "confound". This is wordplay in the text. It is not
 a claim about the history of the word.
 
-Text states: the project is unified. One language, one speech, one plan, one purpose.
+Text states: the people are one. Verse 1 says "the whole earth was of one language, and of one
+speech", and verse 6 says "the people is one".
 
 Text states: the builders state two purposes. They want a name, "let us make us a name". They also
 want protection, "lest we be scattered abroad".
 
+Inference: the second purpose works against the command that God gave after the flood: "Be
+fruitful, and multiply, and replenish the earth" (Genesis 9:1).
+
 Text states: the coordination worked. Verse 6: "nothing will be restrained from them, which they
 have imagined to do."
 
-Text states: the confusion of language is the means, and the dispersal is the result. Verse 7:
-"that they may not understand one another's speech." Verse 8: "So the LORD scattered them
-abroad", and "they left off to build the city."
+Text states: the LORD stops the work. The confusion of language is the means, and the dispersal
+is the result. Verse 7: "that they may not understand one another's speech." Verse 8: "So the
+LORD scattered them abroad", and "they left off to build the city."
 
-Inference: a single unified system concentrates coordination. It also concentrates failure, and
-it removes the boundaries between failure domains.
+Inference: the text does not show a system that failed from inside. It shows a project that was
+working, and God stopped it. The verdict falls on the aim: "let us make us a name". The first
+lesson is about the aim. Beware of a project whose purpose is to make a name for its builders.
 
-Inference: the text is a judgment, not a management textbook. The business inference is narrow
-and specific. Total centralization buys coordination at the price of one shared failure mode.
+Inference: the text is a judgment, not a management textbook. A business use of this text is an
+analogy, and any engineering lesson rests on the image, not on the verdict. By analogy, one
+unified system concentrates coordination. In practice, total centralization can also create one
+shared failure mode.
 
 Inference: modularity trades some efficiency for independent failure. A module can fail while the
 rest of the system serves. A monolith fails once, everywhere.
@@ -618,7 +657,7 @@ Inference: answer all fourteen questions in writing before you adopt anything:
 2. Is this core or context?
 3. What is the total cost for three years, including keeping?
 4. Who is the named keeper after it ships? (Genesis 2:15, A17)
-5. What is the exit cost, and how long does exit take? (Isaiah 28:16, A32)
+5. What is the exit cost, and how long does exit take? (A32)
 6. How many people must understand it to run it and to repair it? (Exodus 35:34)
 7. What is the failure mode, and what happens at the worst time?
 8. Does it fit the running system without forcing that system to change? (Matthew 9:17)
@@ -647,19 +686,23 @@ When the user asks a technology question, answer in this shape:
 
 ## Anti-patterns
 
-| Anti-pattern                                 | Violates           | The bill arrives as                                     |
-| -------------------------------------------- | ------------------ | ------------------------------------------------------- |
-| Choosing the tool before the shape           | A5                 | Features in rooms that must not exist                   |
-| Comparing license prices only                | Luke 14:28         | Integration and training costs discovered mid-project   |
-| No named keeper                              | A17                | Rot, then a rewrite at a multiple of the original cost  |
-| A permanent decision made quickly            | A32, Isaiah 28:16  | A decade on a platform chosen in a week                 |
-| A new component forced into an old container | Matthew 9:17       | Both the component and the container perish             |
-| Removing a boundary as if it were waste      | Proverbs 22:28     | Someone outside the team loses their dependency         |
-| Effort added to a leaking system             | Haggai 1:6         | The wage grows and the store does not                   |
-| One system for everything                    | Genesis 11:6-8     | One failure stops all, and every release needs everyone |
-| A system only one person understands         | Exodus 35:34       | The gift dies with the person                           |
-| Building before the provision                | 1 Chronicles 22:14 | Stopped work with a visible foundation (Luke 14:29-30)  |
-| Adopting on the free tier and staying        | 2 Samuel 24:24     | A cost that arrives later with no budget line           |
+| Anti-pattern                                 | Drawn from (inference) | The bill arrives as                                     |
+| -------------------------------------------- | ---------------------- | ------------------------------------------------------- |
+| Choosing the tool before the shape           | A5                     | Features in rooms that must not exist                   |
+| Comparing license prices only                | Luke 14:28             | Integration and training costs discovered mid-project   |
+| No named keeper                              | A17                    | Rot, then a rewrite at a multiple of the original cost  |
+| A permanent decision made quickly            | A32                    | A decade on a platform chosen in a week                 |
+| A new component forced into an old container | Matthew 9:17           | Both the component and the container perish             |
+| Removing a boundary as if it were waste      | Proverbs 22:28         | Someone outside the team loses their dependency         |
+| Effort added to a leaking system             | Haggai 1:6 (analogy)   | The wage grows and the store does not                   |
+| One system for everything                    | Genesis 11 (analogy)   | One failure stops all, and every release needs everyone |
+| A system only one person understands         | Exodus 35:34           | The gift dies with the person                           |
+| Building before the provision                | 1 Chronicles 22:14     | Stopped work with a visible foundation (Luke 14:29-30)  |
+| Adopting on the free tier and staying        | 2 Samuel 24:24 (analogy) | A cost that arrives later with no budget line         |
+
+Each entry in the second column is a source that the file draws an inference from. A business
+anti-pattern does not violate a verse. Where the column says "analogy", the verse has another
+subject, and the file says so above.
 
 ## References
 

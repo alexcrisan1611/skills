@@ -71,19 +71,19 @@ holds only where the comparison holds. (Inference)
 | B7. Growth comes from the head, through the joints.                 | Central signals from the pituitary and the liver drive growth, and connective tissue carries it out. Injure the growth plate and that bone stops lengthening.                        | Ephesians 4:15-16, Colossians 2:19              | It names the head as Christ and the goal as edification in love. A body cannot state a goal, and it cannot love.                                                                          |
 | B8. The body defends a set point.                                   | Temperature, blood pH, blood glucose, and blood pressure stay inside ranges. Sensors, thresholds, and responses act without conscious thought.                                       | Proverbs 27:23                                  | It commands diligence in knowing the state of what is entrusted. A body cannot be diligent, and it holds nothing in trust.                                                                |
 | B9. Pain is a signal, and the signal must be preserved.             | Congenital insensitivity to pain is rare and disabling. Children with it injure themselves repeatedly, and many die young.                                                           | Proverbs 27:5-6                                 | It tells the reader to receive the honest wound and to distrust the flattering one. A body cannot tell a faithful rebuke from an enemy's kiss.                                            |
-| B10. Acute inflammation heals. Chronic inflammation destroys.       | The repair response either resolves and the tissue heals, or it persists and damages the tissue it was sent to protect.                                                              | Genesis 3:17-19                                 | It gives the reason the friction is permanent, which is the curse on the ground. A body cannot explain why the friction does not end.                                                     |
+| B10. Acute inflammation heals. Chronic inflammation destroys.       | The repair response either resolves and the tissue heals, or it persists and damages the tissue it was sent to protect.                                                              | Genesis 3:17-19, Revelation 22:3                | It gives the reason for the friction, which is the curse on the ground "all the days of thy life". It also states that the curse will end: "there shall be no more curse". A body cannot explain why the friction came or when it ends. |
 | B11. The immune system must tell self from non-self.                | Autoimmune disease attacks the body's own tissue. The response is correct in kind and wrong in target. More than 80 conditions carry the label.                                      | Matthew 12:25                                   | It states the outcome of internal division and sets the boundary of the house. A body cannot say who belongs to the household.                                                            |
 | B12. Fear degrades the instrument.                                  | Sustained cortisol is associated with impaired memory, reduced immune defense, and a shift toward habit and away from flexible choice.                                               | Psalm 94:19, Philippians 4:6-8, 1 Peter 5:7     | It gives the fear somewhere to go and names the objects of thought. A body offers no substitute for the fear it produces.                                                                 |
 | B13. Fluid must circulate and must not pool.                        | A clot stops the flow. The tissue downstream of the blockage dies, even though the blocked vessel is only the site and not the damage.                                               | Proverbs 11:24, Proverbs 21:20, Ecclesiastes 11:1-2 | It attaches a promise to scattering and a warning to withholding past what is fitting. It also commends reserves. The body has no motive and no promise. |
 | B14. The barrier is selective, not absolute.                        | The cell membrane and the blood brain barrier admit some material and refuse the rest. A wall starves the tissue and an open door poisons it.                                        | Genesis 2:15, Genesis 3:24                      | It gives the boundary a purpose and an authority. The man is placed to dress and to keep, and the way back is guarded. A membrane has no purpose.                                         |
-| B15. Waste removal is a permanent function.                         | The kidneys, liver, lymph system, and colon remove waste continuously. Retained waste kills in roughly 1 to 2 weeks, sooner than starvation without food.                            | John 15:2, Malachi 3:3                          | It names the standard for removal, which is fruit, and it names the one who removes. A body cannot judge what is worth keeping.                                                           |
+| B15. Waste removal is a permanent function.                         | The kidneys, liver, lymph system, and colon remove waste continuously. Retained waste kills in roughly 1 to 2 weeks, sooner than starvation without food.                            | John 15:2, Malachi 3:2-3                        | It names the standard for removal, which is fruit, and it names the one who removes. A body cannot judge what is worth keeping.                                                           |
 | B16. Input quality sets output quality.                             | The body is built only from material it absorbs. Nine amino acids, two fatty acids (linoleic and alpha-linolenic), and a set of vitamins and minerals must come from outside.                                 | Philippians 4:8, Proverbs 4:23                  | It supplies the standard for the diet, which is true, honest, just, pure, lovely, and of good report. A body cannot set a standard.                                                       |
 | B17. The body adapts to the load it bears.                          | Bone remodels under load. Muscle grows under demand. Unused systems atrophy, and immobilization costs mass within weeks.                                                             | James 1:2-4, Hebrews 12:11, Romans 5:3-5        | It states the product of the load, which is patience, experience, and hope, and it calls the load a ground for joy. Adaptation has no purpose in the tissue.                              |
 | B18. Growth needs load and recovery together.                       | Stimulus without recovery causes overtraining and decline. Recovery without stimulus causes atrophy.                                                                                 | Genesis 2:2-3, Exodus 20:9-10                   | It grounds the rhythm in God's own rest and makes the pause a pattern rather than a concession. A body cannot institute a sabbath.                                                        |
 | B19. Repair happens at rest, and repair is what makes you stronger. | Tissue rebuilds during sleep. Growth hormone peaks in deep sleep, and memory consolidates across the night.                                                                          | Psalm 127:2, Mark 6:31                          | It calls sleep a gift and commands the withdrawal to rest. A mechanism cannot command, and it cannot give.                                                                                |
 | B20. The body oscillates.                                           | Heartbeat, breath, the sleep cycle, digestion, and hormonal cycles all run as rhythms. A heart with no rhythm is in arrest.                                                          | Genesis 1:5, 1:31, Ecclesiastes 3:1             | It gives the rhythm an author and a first instance in the creation week, and it names the seasons of a human life. The body cannot date its own rhythms to a maker.                       |
-| B21. The body has a design limit.                                   | Most human cells divide about 40 to 60 times in culture and then stop. Telomeres shorten with each division. Aging is a normal process, not a single disease.                        | Genesis 3:19, Psalm 90:12, Hebrews 9:27         | It states what follows death and tells the reader to number the days for the sake of wisdom. A body cannot see past its own end. Whether death belongs to the design is contested (Genesis 2:17, Romans 5:12). |
-| B22. Redundancy in critical systems is design, not waste.           | Two kidneys, two lungs, two carotid arteries, and paired nerves. One member of a pair can carry the load. The heart, liver, and pancreas are single, so redundancy is not universal. | Ecclesiastes 4:9-12, Genesis 2:18               | It gives the reason the pair is stronger, which is help in a fall, warmth, and defense, and it grounds the need in God's own verdict of "not good." A body cannot call solitude not good. |
+| B21. The body has a design limit.                                   | Most human cells divide about 40 to 60 times in culture and then stop. Telomeres shorten with each division. Aging is not a single disease.                        | Genesis 2:7, Psalm 103:14, Romans 5:12, 1 Corinthians 15:26, Revelation 21:4, Psalm 90:12, Hebrews 9:27 | It names the creature as dust and dependent. It states that death entered by sin, that it is an enemy, and that it will end. It states what follows death and tells the reader to number the days for the sake of wisdom. A body cannot see past its own end. Contested: whether Adam was mortal by nature and kept alive by the tree of life (Genesis 3:22), or immortal until the fall. |
+| B22. Redundancy in critical systems is design, not waste.           | Two kidneys, two lungs, two carotid arteries, and paired nerves. One member of a pair can carry the load. The heart, liver, and pancreas are single, so redundancy is not universal. | Ecclesiastes 4:9-12                             | It gives the reason the pair is stronger, which is help in a fall, warmth, and defense. The pair in the text is two companions, not a part and its spare. A body cannot choose to help a fellow up. |
 | B23. Small failures kill the whole.                                 | The failure of a capillary bed causes tissue death, then organ failure, then death. Sepsis runs the same chain from one infection site.                                                           | Song of Solomon 2:15                            | It names the small agents as the threat and calls for action before the fruit is lost. A body cannot take preventive action.                                                              |
 | B24. Breath is the first act and it continues without attention.    | A newborn breathes first. The brainstem then runs the rhythm, and the cortex can take control and release it.                                                                        | Genesis 2:7, Job 33:4, Psalm 104:29, Acts 17:25 | It names the giver of the breath and states the dependence at every moment. A body cannot name its own source.                                                                            |
 
@@ -276,8 +276,8 @@ than a technique. The pattern is older than the body. It is in the creation week
 ### B22: the two and the threefold cord
 
 The body fact is that the body provisions some critical systems twice, and that a single
-member of a pair can carry the load. The text reasons in the same direction and grounds
-the need in a verdict rather than in a mechanism. (Inference)
+member of a pair can carry the load. The text reasons in the same direction, from cases of
+help between companions. (Inference)
 
 "Two are better than one; because they have a good reward for their labour. For if they
 fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for
@@ -297,22 +297,15 @@ The passage argues by cases, and each case names a specific failure.
 The last item is a small argument in itself. A cord is not three cords. It is one object
 made of three, and its strength is a property of the whole. (Inference)
 
-Genesis supplies the ground of the pattern. "And the LORD God said, It is not good that
-the man should be alone; I will make him an help meet for him." (Genesis 2:18) (Text
-states) The verse is the first place in Scripture where God calls something not good.
-That placement gives the verdict weight. (Inference) The word rendered "help" is H5828
-`ezer`, defined as "aid". (Lexical)
+The passage is about companions, not about spares. Its use for redundancy in a firm is an
+analogy. (Inference) Genesis 2:18 does not belong in this row. "And the LORD God said, It is
+not good that the man should be alone; I will make him an help meet for him." (Genesis
+2:18) (Text states) The woman is a fitting counterpart, not a duplicate held in reserve.
+The verse is about companionship and marriage, so it does not ground redundancy.
+(Inference)
 
-Two cautions follow from that word.
-
-- The KJV phrase "help meet" is not one Hebrew idea. "Meet" is a separate English word
-  meaning suitable. Do not build on the two-word English phrase.
-- The same English word applies to God. "My help cometh from the LORD, which made heaven
-  and earth." (Psalms 121:2) (Text states) The word says nothing about rank.
-
-The body fact and the text agree that a single point of failure is dangerous. The text
-adds that the need for the other person is a verdict from God and not an accident of
-physiology. (Inference)
+The body fact and the text agree that a person or a system with no one to help is exposed
+when it falls. (Inference)
 
 ---
 
@@ -358,7 +351,7 @@ The rest of the map divides into four groups, and none of them is a body argumen
   Ecclesiastes 11:1-2, and Song of Solomon 2:15 reason from experience and from the
   ordinary order of things. Ecclesiastes 4:9-12 argues, but it argues from cases a reader
   can check, not from the anatomy of a body.
-- Figures of speech. John 15:2 uses the vine and the branches. Malachi 3:3 uses the
+- Figures of speech. John 15:2 uses the vine and the branches. Malachi 3:2-3 uses the
   refiner and the fire. Song of Solomon 2:15 uses the foxes and the vines. These are
   images. Each one carries real force in its own passage, and none of them is an anatomy
   lesson.

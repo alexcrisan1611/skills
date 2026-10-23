@@ -53,12 +53,13 @@ Inference: a crisis has four properties, and each one changes the work.
   to depart thence also... And when the south wind blew softly, supposing that they had obtained
   their purpose, loosing thence, they sailed close by Crete."
 
-Text states: the text gives four reasons for the decision. The centurion believed the master and
+Inference: the text gives four reasons for the decision. The centurion believed the master and
 the owner more than Paul. The haven was not good for the winter. The majority advised to depart.
 The south wind blew softly.
 
-Inference: the standing of the speakers weighed more than the evidence of the warning. The owner
-of the ship had an interest in the voyage, and the centurion gave his account more weight.
+Inference: the standing of the speakers was one reason among four. The owner of the ship had an
+interest in the voyage, and the centurion gave his account more weight. The gentle south wind
+also seemed to argue against the warning (27:13).
 
 ### The first moves in the storm
 
@@ -89,13 +90,20 @@ when protection is not enough.
   believe God, that it shall be even as it was told me. Howbeit we must be cast upon a certain
   island."
 
+Text states: the message comes from God. It is a disclosure, not a forecast. Paul says, "there
+stood by me this night the angel of God" (27:23), and "I believe God, that it shall be even as
+it was told me" (27:25).
+
 Text states: the message has three features that matter in a crisis.
 
-1. The message states the loss. The forecast gives up the ship.
+1. The message states the loss. It gives up the ship.
 2. The message states the preservation. No life is lost.
 3. The message names a condition: "we must be cast upon a certain island."
 
 Inference: a message that promises no loss at all is not the message in this chapter.
+
+Inference: a leader today does not receive this kind of message by a method. By analogy, what
+carries over is the honesty of the message. It states the loss and the preservation together.
 
 ### The escape attempt
 
@@ -116,7 +124,11 @@ move as a task. The correction is physical, not a speech. The soldiers cut the r
   gave thanks to God in presence of them all: and when he had broken it, he began to eat. Then
   were they all of good cheer, and they also took some meat."
 
-Text states: Paul treats food as a matter of health and of morale. The leader eats first.
+Text states: Paul treats food as a matter of health: "for this is for your health". He grounds
+the confidence in the promise: "there shall not an hair fall from the head of any of you". He
+"gave thanks to God in presence of them all", and then he eats first.
+
+Inference: the meal also restores morale: "Then were they all of good cheer" (27:36).
 
 Lexical: "meat" here means food of any kind, in the 1611 sense.
 
@@ -130,7 +142,7 @@ Lexical: "meat" here means food of any kind, in the 1611 sense.
 
 Text states: in the last hour the asset is gone, and the decision is about people. The soldiers
 propose a policy that protects an institution at the cost of the people in it. The centurion
-refuses, and the outcome is the one that Paul promised in 27:22.
+refuses, and the outcome is the one that God promised through Paul in 27:22-24.
 
 ---
 
@@ -282,7 +294,7 @@ Without the third part, the emergency ends by exhaustion, not by decision.
 
 | Failure                                    | What it looks like                                         | The text that names it                                              |
 | ------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------- |
-| Fighting for the asset                     | Effort spent on a loss that is already certain             | Acts 27:22, the forecast gives up the ship                          |
+| Fighting for the asset                     | Effort spent on a loss that is already certain             | Acts 27:22, the message from God gives up the ship                  |
 | Abandoning the people with the asset       | The people closest to the exit leave first                 | Acts 27:30, the sailors lower the boat                              |
 | Punishing the people to protect the system | A policy applied at the cost of the people inside it       | Acts 27:42, the soldiers' counsel                                   |
 | Running the crisis alone                   | The leader holds every decision and becomes the bottleneck | Exodus 18:18, "too heavy for thee"                                  |
@@ -303,8 +315,9 @@ The order after the emergency ends is fixed:
 1. Close the losses. Account for the people, the money, and the commitments. Text states: Acts
    27 ends with everyone safe and the ship and cargo lost.
 2. Debrief the warning. Find the warning in the record. Ask how it can arrive earlier, or how
-   the team can give it a different weight. In Acts 27 the warning was right, and the centurion
-   gave its source less weight.
+   the team can give it a different weight. In Acts 27 the warning was right about the ship and
+   the cargo, and the centurion gave its source less weight. The loss of life that it foresaw
+   did not happen, because "God hath given thee all them that sail with thee" (27:24).
 3. Run the diagnosis procedure. Classify the failure before you write the fix.
 4. Write the permanent change. This is the policy, the gate, or the capacity model that the
    classification calls for.

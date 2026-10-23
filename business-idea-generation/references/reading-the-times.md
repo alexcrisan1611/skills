@@ -107,7 +107,8 @@ Nobody can make the distinction with certainty in real time. Two consequences fo
    assume.
 
 Text states (Proverbs 27:1): "Boast not thyself of to morrow; for thou knowest not what a day may
-bring forth." The verse prohibits the boast. It does not prohibit the plan.
+bring forth." The verse prohibits the boast. It does not prohibit the plan. James 4:15 gives the
+form of the plan: "ye ought to say, If the Lord will, we shall live, and do this, or that."
 
 ---
 
@@ -187,8 +188,9 @@ Text states (Daniel 2:41-43): The fourth kingdom "shall be divided". It is "part
 partly broken", and its parts "shall not cleave one to another, even as iron is not mixed with
 clay."
 
-Text states (Daniel 2:44): A kingdom "shall break in pieces and consume all these kingdoms, and
-it shall stand for ever."
+Text states (Daniel 2:44): "in the days of these kings shall the God of heaven set up a kingdom,
+which shall never be destroyed". This kingdom "shall break in pieces and consume all these
+kingdoms, and it shall stand for ever."
 
 Text states (Daniel 7:17): "These great beasts, which are four, are four kings, which shall arise
 out of the earth."
@@ -205,11 +207,16 @@ and another shall rise after them..."
    the final stage mixes strength with fragility.
 3. Text states: The parts do not bond. "they shall not cleave one to another".
 4. Text states: The stone breaks all the metals and the clay in one event (Daniel 2:45).
-   Inference: The end is not gradual.
+   Inference: The end is not gradual. Text states: The stone was "cut out without hands"
+   (2:34). Verses 44-45 tie the stone to the kingdom that "the God of heaven" sets up.
 5. Text states: Daniel 2:21 states the cause. "he changeth the times and the seasons: he removeth
    kings, and setteth up kings".
 
 ### The business inference
+
+Inference: The original audience is Nebuchadnezzar, and the subject is the succession of
+kingdoms under God. The stone is the kingdom of God, not a competitor. A business use of this
+text is an analogy, and each inference below is an analogy.
 
 Inference: Assume that something will replace the category. The question is when and by what,
 not whether.
@@ -220,7 +227,7 @@ that sees its own position as the leading edge reads the sequence backwards.
 Inference: Watch for internal incoherence inside a large competitor. An organization made of
 parts that do not bond is at the iron and clay stage. It can look strong while it is fragile.
 
-Inference: The disruption often comes from outside the category. In Daniel 2, the stone comes
+Inference: By analogy, the disruption often comes from outside the category, as the stone comes
 from outside the image. A threat that competes in the same frame is a normal rival.
 
 Contested: Many readers hold that the four kingdoms lasted for centuries. That reading depends on
@@ -282,10 +289,18 @@ Text states: Isaiah 45:1-3 names a person, Cyrus, and specific objects: "the gat
 ### The business inference
 
 Inference: These verses describe declarations by God. They are not a method for human forecasts,
-and this file does not present them as one. Two features transfer as a pattern:
+and this file does not present them as one.
 
-1. The track record is the warrant. A prediction is worth what the earlier predictions of the
-   same person are worth. Keep your record, and ask for the record of the other party.
+Text states: In Isaiah, the power to declare what is to come marks the true God against the
+idols: "Shew the things that are to come hereafter, that we may know that ye are gods" (41:23).
+God says that he is "Declaring the end from the beginning" (46:10).
+
+Inference: No human forecaster shares that standing. A business use of these verses is an
+analogy. By analogy, two features transfer as a pattern:
+
+1. The track record is part of the warrant. A prediction is worth what the earlier predictions
+   of the same person are worth. Keep your record, and ask for the record of the other party. A
+   good record is necessary, but it is not enough (see Part 7).
 2. Specificity is the test. The declaration in Isaiah 45:1-3 names a person, gates, bars, and
    treasures. Nobody can show that a forecast is false if it names nothing that can be checked.
 
@@ -331,6 +346,17 @@ Inference: The reconnaissance produced observations, not disclosures. See Part 3
 
 Working rule: Label the source of every claim about the future. Write "model output", "reported,
 unverified", or "stated directly".
+
+Contested: Faithful readers differ on whether God still gives prophecy today. One view holds that
+predictive prophecy ended with the apostles and the finished canon. It cites the church "built
+upon the foundation of the apostles and prophets" (Ephesians 2:20), God who "Hath in these last
+days spoken unto us by his Son" (Hebrews 1:2), and "the faith which was once delivered unto the
+saints" (Jude 3). Another view holds that prophecy continues and must be tested. It cites "your
+sons and your daughters shall prophesy" (Acts 2:17), "Let the prophets speak two or three, and
+let the other judge" (1 Corinthians 14:29), and "Despise not prophesyings. Prove all things"
+(1 Thessalonians 5:20-21). Both views agree that a claimed word must be tested and cannot add to
+Scripture. In this file, "disclosed" in business use means information that a source states
+directly, such as a published rule. It never means a business forecast presented as revelation.
 
 ---
 
@@ -383,6 +409,14 @@ can work.
 | 3    | 1 Thessalonians 5:21 | Can you test the claim, and did the predictor state the threshold?   |
 | 4    | Deuteronomy 18:22    | If the claim fails, does the predictor keep authority?               |
 | 5    | Amos 3:7             | Is the claim disclosed or deduced?                                   |
+
+Text states (Deuteronomy 13:1-3): A prophet may give "a sign or a wonder", and "the sign or the
+wonder come to pass". If he then says "Let us go after other gods", the instruction is "Thou
+shalt not hearken unto the words of that prophet".
+
+Inference: The outcome test is necessary, and it is not sufficient. A claim that came true still
+needs a test of where it leads. By analogy, a forecaster with a good record still needs a check
+on the content and the aim of the claim.
 
 Inference: The procedure has a half that verifies and no half that generates. The passages tell
 you how to test a forecast. They do not tell you how to produce a certain one.
@@ -466,13 +500,14 @@ Rules on durability:
    fashion in real time (A32).
 10. Write the reversal condition before the commitment, not after it.
 
-Rules on positions:
+Rules on positions (each is an analogy from Daniel 2, whose subject is the kingdom of God):
 
 11. Assume that something will replace the category (Daniel 2:39).
 12. Do not see the incumbent as the top of a progression (Daniel 2:32-33).
 13. Watch for internal incoherence in a large competitor (Daniel 2:43).
 14. Expect the disruption from outside the category (Daniel 2:45).
-15. Expect a long transition and a short end (Daniel 2:44).
+15. Expect a short end (Daniel 2:35, 2:44). If each kingdom lasted for centuries, also expect a
+    long transition. That reading is contested (Part 4).
 
 Rules on claims about the future:
 
@@ -481,7 +516,7 @@ Rules on claims about the future:
 18. Test the claim, then keep what passes (1 Thessalonians 5:21).
 19. Label a claim as disclosed or deduced (Amos 3:7).
 20. State the threshold and the date, so that the claim can fail (Isaiah 42:9, Isaiah 45:1-3).
-21. Check the track record before the content (Isaiah 42:9).
+21. Check the track record, and then check the content (Isaiah 42:9, Deuteronomy 13:1-3).
 
 Rules on the limits:
 
@@ -500,6 +535,10 @@ Rules on the limits:
 2:20-22, Daniel 2:32-33, Daniel 2:39, Daniel 2:41-45, Daniel 7:17, Daniel 7:24, Isaiah 28:16,
 Isaiah 42:9, Isaiah 43:19, Isaiah 45:1-3, Amos 3:7, Deuteronomy 18:21-22, 1 John 4:1,
 1 Thessalonians 5:21, Ecclesiastes 3:11, Ecclesiastes 9:11, and Proverbs 27:1.
+
+Added in the doctrinal review, retrieved with `../scripture-foundations/scripts/scripture.py`:
+James 4:15, Daniel 2:34-35, Isaiah 41:23, Isaiah 46:10, Deuteronomy 13:1-3, Ephesians 2:20,
+Hebrews 1:2, Jude 3, Acts 2:17, 1 Corinthians 14:29, and 1 Thessalonians 5:20.
 
 ### Lexical claims verified with `../scripture-foundations/scripts/lexicon.ts`
 

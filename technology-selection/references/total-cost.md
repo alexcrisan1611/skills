@@ -185,7 +185,11 @@ Text (Haggai 1:6, KJV):
 
 > Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes.
 
-Text states: the wages are earned, and the bag loses them. The loss is at the retaining.
+Text states: the wages are earned, and the bag loses them. The text gives the cause: "Because
+of mine house that is waste" (Haggai 1:9), and "I called for a drought upon the land" (1:11).
+
+Inference: the business use is an analogy drawn from the image of the bag with holes. In the
+image, the loss is at the retaining.
 
 Text (Proverbs 24:30-34, KJV):
 
@@ -198,9 +202,12 @@ Text (Proverbs 24:30-34, KJV):
 Text states: two signs appear together. Thorns and nettles cover the field, and the stone wall is
 broken down.
 
-Inference: A17 reads both signs as one keep (_shamar_) failure. The field is still a field, and
-the vineyard is still a vineyard. Someone dressed it once. What failed is the guarding. The wall
-is broken down, and the thorns took the ground.
+Inference: A17 reads both signs as one keep (_shamar_) failure. The wall is broken down, and the
+thorns took the ground. Speculation: someone dressed the field once, and the field is still a
+field. The text does not say so.
+
+Text states: the text names the cause in the owner: "the field of the slothful" and "the
+vineyard of the man void of understanding" (24:30).
 
 Text states: the diagnosis is small and repeated. "Yet a little sleep, a little slumber".
 
@@ -305,9 +312,10 @@ Inference:
 10. Retire systems on purpose. A14 states that completion is a real state, and a system with no
     retirement date has no completion.
 
-Text states (Isaiah 28:16): "he that believeth shall not make haste." Inference: a foundation
-that restores, drills, and rehearsals tested removes the hurry. An untested foundation produces
-it.
+Text states (Isaiah 28:16): "he that believeth shall not make haste." Inference: the verse
+speaks of faith in a tried foundation stone that God lays. It does not speak of business
+decisions. This file uses it only as an analogy. By analogy, a foundation that restores, drills,
+and rehearsals tested removes the hurry. An untested foundation produces it.
 
 ---
 
@@ -316,7 +324,8 @@ it.
 ### Verses retrieved with `../scripture-foundations/scripts/scripture.ts`
 
 Genesis 2:15, 2 Chronicles 24:13, Matthew 7:25, Proverbs 24:30-34, Proverbs 27:23, Haggai 1:6,
-Isaiah 28:16, Exodus 35:34, Proverbs 22:28.
+Isaiah 28:16, Exodus 35:34, Proverbs 22:28. Added in the doctrinal review, retrieved with
+`../scripture-foundations/scripts/scripture.py`: Haggai 1:9 and Haggai 1:11.
 
 ### Lexical claims verified with `../scripture-foundations/scripts/lexicon.ts`
 

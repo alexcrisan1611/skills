@@ -102,12 +102,15 @@ much more those members of the body, which seem to be more feeble, are necessary
 those members of the body, which we think to be less honourable, upon these we bestow more
 abundant honour; and our uncomely parts have more abundant comeliness. For our comely
 parts have no need: but God hath tempered the body together, having given more abundant
-honour to that part which lacked:" (1 Corinthians 12:22-24) (Text states) The standard
-for service to the weak is the standard for service to Christ himself. "And the King shall
-answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of
-the least of these my brethren, ye have done it unto me." (Matthew 25:40) (Text states)
-Note what the text does not say. It does not call strength evil. It denies that strength is
-the measure of worth. (Inference)
+honour to that part which lacked:" (1 Corinthians 12:22-24) (Text states) Christ counts
+service to the least as service to himself. "And the King shall answer and say unto them,
+Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my
+brethren, ye have done it unto me." (Matthew 25:40) (Text states) Contested: who "my
+brethren" are. Some readers take them as everyone in need. Others take them as the
+disciples of Christ, because in Matthew 12:49 he points "toward his disciples" and says,
+"Behold my mother and my brethren!" On either reading, the verse honors the least and not
+the strong. (Inference) Note what the text does not say. It does not call strength evil.
+It denies that strength is the measure of worth. (Inference)
 
 The counter-practice: State the requirements of a role in terms of the work and not in
 terms of the person. (Inference) Test for the work itself, and check who never gets
@@ -376,9 +379,9 @@ Limits that are by design: The body is creaturely and dependent. It is formed fr
 dust, and God remembers that. "For he knoweth our frame; he remembereth that we are dust."
 (Psalms 103:14) (Text states) Dependence on other members is by design, and B2 states
 it. The need for rest is by design, and Genesis 2:2-3 states the pattern. The need for the
-other person is by design, and Genesis 2:18 calls solitude not good. Mortality as
-creaturely finitude belongs on this side, and B21 treats it as part of creaturely life.
-(Inference)
+other person is by design, and Genesis 2:18 calls solitude not good. Finitude belongs on
+this side. The man was formed "of the dust of the ground" before the fall (Genesis 2:7), and
+B21 treats finitude as part of creaturely life. (Inference)
 
 Distortions that came with the fall: Fear driving concealment belongs on this side, and
 Genesis 3:10 gives the sequence. "And he said, I heard thy voice in the garden, and I was
@@ -392,15 +395,19 @@ enemy. "And God shall wipe away all tears from their eyes; and there shall be no
 death, neither sorrow, nor crying, neither shall there be any more pain: for the former
 things are passed away." (Revelation 21:4) (Text states)
 
-One point in the distinction is genuinely contested, and honesty requires naming it.
-Mortality sits on both sides at once. The body is creaturely and finite by design. Scripture
-also treats death as the penalty of sin and as an enemy that God will destroy. (Contested)
-Genesis 2:17 and Romans 5:12 tie death to sin, and Genesis 3:19 is part of the curse. The
-skill file treats finitude as creaturely in B21. Romans 8 and Revelation 21 treat death as a
-condition that will end. Both readings have textual support,
-and the body itself cannot settle the question. (Contested) What the body shows is
-that aging and death are normal processes in its design. What the text adds is that the
-present state is a bondage under hope, and not the final state. (Inference)
+Paul names death as an enemy. "The last enemy that shall be destroyed is death."
+(1 Corinthians 15:26) (Text states) So the text states that death entered by sin, that it is
+an enemy, and that it will end. Genesis 3:19, the return to dust, is part of the curse.
+
+One narrower point is contested, and honesty requires naming it. Contested: whether
+Adam was mortal by nature and kept alive by the tree of life, or immortal until the fall.
+One view reads Genesis 3:22 to mean that the man's life depended on the tree: "lest he put
+forth his hand, and take also of the tree of life, and eat, and live for ever". The other
+view reads Genesis 2:17 to mean that the man would not have died without sin: "for in the
+day that thou eatest thereof thou shalt surely die". On both views, death came to the man
+because he sinned. The body cannot settle the question, and this skill does not use the
+body to settle it. What the text adds is that the present state is a bondage under hope,
+and not the final state. (Inference)
 
 Three consequences follow for the use of this skill.
 

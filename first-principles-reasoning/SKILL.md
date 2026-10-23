@@ -56,8 +56,10 @@ An argument cannot go back forever. Each justification needs another one, and an
 justifies nothing. Reasoning stops at what nobody can reduce further.
 
 Scripture opens at that point. Text states: Genesis 1:1 says, "In the beginning God created the
-heaven and the earth." The book begins with an act and not with an argument. Nothing justifies
-the act, because nothing comes before it.
+heaven and the earth." Psalm 90:2 says, "even from everlasting to everlasting, thou art God."
+Inference: the regress stops at God, who is before all things (Psalm 90:2). Genesis 1:1 begins
+with him and does not argue for him. Text states: the act has a stated reason, "for thy
+pleasure they are and were created" (Revelation 4:11).
 
 - Lexical: the KJV word "beginning" in Genesis 1:1 comes from a Hebrew family that includes
   H7225 _reshiyth_, defined as "the first, in place, time, order or rank (specifically, a
@@ -79,12 +81,20 @@ become such as have need of milk, and not of strong meat."
   "element, principle, rudiment".
 - Lexical: the Greek phrase in 5:12 is _ta stoicheia tes arches_. "Principles" is G4747, and
   "first" is G746 _archē_.
+- Lexical: the same word G4747 is used for the first principles "of the oracles of God"
+  (Hebrews 5:12) and for "the rudiments of the world, and not after Christ" (Colossians 2:8).
+  Galatians 4:9 calls them "the weak and beggarly elements". So the word alone does not tell you
+  whether a starting point is sound. Colossians 2:8 warns against "philosophy and vain deceit"
+  that rests on the wrong ones.
 - Text states: the passage from Hebrews 5:12 to 6:2 continues with the list. Verses 6:1 and 6:2
   name the items: "repentance from dead works, and of faith toward God, Of the doctrine of
   baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal
   judgment." That is six items.
-- Contested: the passage describes doctrine, not method. A reading of it as a method for
-  reasoning is an inference, and the text does not make that move.
+- Text states: the first principles of Hebrews are "the principles of the doctrine of Christ"
+  (6:1). The writer calls the readers "such as have need of milk" (5:12) and tells them to "go
+  on unto perfection" (6:1).
+- Inference: the passage describes doctrine, not method. Using the phrase for a reasoning
+  method is an analogy, and the text does not make that move.
 
 Lexical: verse 6:1 uses G746 _archē_ alone for "principles". This is the same word that Aristotle
 used. It is also the word behind "first" in 5:12, so 6:1 does not bring in a new word. The first
@@ -156,8 +166,10 @@ but then shall I know even as also I am known."
 - Lexical: "glass" is G2072 _esoptron_, "a mirror (for looking into)". "Darkly" is G135
   _ainigma_, "an obscure saying ('enigma'), i.e. (abstractly) obscureness". The image is a mirror
   in poor light, and not total darkness.
-- Text states: the limit is temporary. Verse 13:12 ends with complete knowledge. Partial
-  knowledge is the current condition and not the permanent one.
+- Text states: the partial knowing is temporary. Verse 13:12 ends, "then shall I know even as
+  also I am known." Inference: partial knowledge is the current condition and not the
+  permanent one. It does not follow that the creature will know as God knows. His ways stay
+  "past finding out" (Romans 11:33).
 
 Text states: Deuteronomy 29:29 draws the boundary in one sentence: "The secret things belong unto
 the LORD our God: but those things which are revealed belong unto us and to our children for
@@ -194,7 +206,7 @@ Six failure modes do most of the damage. Each one has a test.
 
 1. The inherited assumption. A claim arrived without a decision. It came from a family, a school,
    a profession, or a feed. It feels like a fact because nobody examined it. The test: name the
-   source. If the answer is "everyone knows", the claim is in this category. Text states:
+   source. If the answer is "everyone knows", the claim is in this category. Inference:
    Proverbs 18:17 gives the correction: "He that is first in his own cause seemeth just; but his
    neighbour cometh and searcheth him." The first account of anything sounds just. Only the
    opposing account tests it.
@@ -202,9 +214,10 @@ Six failure modes do most of the damage. Each one has a test.
 2. The substituted authority. Someone answers the question "is it true?" with "who says so?". The
    authority can be a person, a credential, a market, a majority, or a study. Authority is
    evidence, but it is not the claim itself. The test: state the claim as one sentence. Then ask
-   what supports the sentence apart from the reputation of the speaker. Text states: Acts 17:11
-   gives the practice. The Bereans "received the word with all readiness of mind, and searched
-   the scriptures daily, whether those things were so."
+   what supports the sentence apart from the reputation of the speaker. Text states: the
+   Bereans tested what Paul preached against the scriptures. They "received the word with all
+   readiness of mind, and searched the scriptures daily, whether those things were so" (Acts
+   17:11). Inference: the standard they used was Scripture, not the standing of the speaker.
 
 3. The worship of an analogy. Someone applies a model that fitted one situation to another
    situation. The map becomes the territory. Financial models, biological metaphors, military
@@ -221,17 +234,23 @@ Six failure modes do most of the damage. Each one has a test.
    a line. A gap is visible on paper and invisible in speech.
 
 6. Haste. The conclusion arrives before the evidence. Haste is not only a vice. Pressure produces
-   it, and it produces work that fails every test above. Text states: Isaiah 28:16 gives the
-   counter: "Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner
-   stone, a sure foundation: he that believeth shall not make haste."
+   it, and it produces work that fails every test above. Inference: Isaiah 28:16 gives a
+   counter by analogy: "Behold, I lay in Zion for a foundation a stone, a tried stone, a
+   precious corner stone, a sure foundation: he that believeth shall not make haste."
 
+   - Text states: the verse sets trust in God's stone against the boast of the rulers, "we have
+     made lies our refuge" (28:15). The New Testament applies the stone to Christ: "he that
+     believeth on him shall not be confounded" (1 Peter 2:6). Inference: the use of the verse
+     for the pace of reasoning is an analogy.
    - Lexical: "make haste" is among the renderings of H2363 _chush_, defined as "to hurry;
      figuratively, to be eager with excitement or enjoyment".
    - Text states: the verse puts belief in the foundation and the pace of action in the same
      sentence.
 
-Text states: Luke 14:28-30 states the cost of the opposite. The builder who starts without a
-count "is not able to finish it", and the people who see the half-built tower mock him.
+Inference: Luke 14:28-30 shows the cost of the opposite. Text states: the builder who starts
+without a count "is not able to finish it", and the people who see the half-built tower mock
+him. Jesus tells the story about the cost of following him (14:27, 14:33), so its use for
+planning is an analogy.
 
 ---
 
@@ -335,11 +354,23 @@ Scripture treats the condition of the mind as part of the work and not as a step
 - Jeremiah 17:9. "The heart is deceitful above all things, and desperately wicked: who can know
   it?" Text states: the verse calls the heart deceitful and asks who can know it. Inference: the
   instrument carries a bias toward its own account, and it cannot audit itself.
+- Romans 1:21. "Because that, when they knew God, they glorified him not as God, neither were
+  thankful; but became vain in their imaginations, and their foolish heart was darkened."
+  Ephesians 4:18 speaks of people "Having the understanding darkened". 1 Corinthians 2:14 says,
+  "But the natural man receiveth not the things of the Spirit of God: for they are foolishness
+  unto him: neither can he know them, because they are spiritually discerned." Text states: those
+  who knew God and did not glorify him as God had their heart darkened, and the natural man
+  cannot know the things of the Spirit.
+  Inference: the damage is moral and not only a matter of limits. The text names the repair as
+  the work of God: "the washing of regeneration, and renewing of the Holy Ghost" (Titus 3:5).
 
-Inference: the practical results are ordinary. Sleep, fear, appetite, debt, and loyalty all shape
-judgment before the reasoning starts. A frightened person will find the conclusion that ends the
-fear, and then build the argument for it. The method cannot repair this. So the method must name
-the condition of the thinker as an input.
+Inference: some practical results are ordinary. Sleep, fear, appetite, debt, and loyalty all
+shape judgment before the reasoning starts. Pride and the fear of others shape it too: "The fear
+of man bringeth a snare" (Proverbs 29:25). A frightened person will find the conclusion that ends
+the fear, and then build the argument for it. The method cannot repair this. So the method must
+name the condition of the thinker as an input, and the thinker must ask God for wisdom. "If any of
+you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it
+shall be given him." (James 1:5)
 
 ---
 
@@ -380,14 +411,16 @@ Use this shape for a first-principles answer:
 1. The question, in one sentence.
 2. What is given. The facts, constraints, and resources that nobody chose. Mark the uncertain
    ones.
-3. The load-bearing claim. Name the principle or axiom that the answer rests on, with its status:
+3. The condition of the thinker. Name what presses on the person who reasons, such as fear,
+   fatigue, pride, or a stake in the result. Ask God for wisdom (James 1:5).
+4. The load-bearing claim. Name the principle or axiom that the answer rests on, with its status:
    Text states, Lexical, Inference, or Contested.
-4. The derivation. The steps from the given to the conclusion, one claim a line. A gap here is
+5. The derivation. The steps from the given to the conclusion, one claim a line. A gap here is
    the whole point of the exercise.
-5. The tests. What you checked the claim against, and who checked it.
-6. The falsifier. The observation that ends the argument.
-7. The limit. What this answer cannot settle, and why.
-8. Confidence. What the text states and what you inferred, and the cost of being wrong.
+6. The tests. What you checked the claim against, and who checked it.
+7. The falsifier. The observation that ends the argument.
+8. The limit. What this answer cannot settle, and why.
+9. Confidence. What the text states and what you inferred, and the cost of being wrong.
 
 Keep the answer short when the question is small. The format is a tool for hard questions, and
 not a ritual for easy ones.

@@ -49,9 +49,12 @@ Where an observation carries an axiom number, the derivation lives in
 
 ## 1. How to read this file
 
-Genesis 1 to 3 is the account of a first venture. It has raw material, a maker, a method, a
-domain, workers, a boundary, a failure, and a recovery. The skill family reads it that way. The reading
-is an inference. The text itself is a narrative about God and the world.
+Genesis 1 to 3 is the account of creation and the fall. Read as a pattern for making things, it
+has raw material, a maker, a method, a domain, workers, a boundary, a human failure, and the
+first promise of recovery (3:15). The skill family reads it that way. The reading is an
+inference. The text itself is a narrative about God and the world. The failure is the sin of
+the man and the woman, not a failure of God's work, and the recovery that 3:15 promises comes
+in Christ, not in a method.
 
 Two habits keep the reading honest.
 
@@ -70,9 +73,12 @@ Text states:
 - Genesis 1:1: "In the beginning God created the heaven and the earth."
 - Genesis 1:2: "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters."
 
-The opening clause puts God before the material. Nothing in the chapter explains where God came
-from, and nothing explains where the raw material came from. The text treats both as given.
-A1 follows from this: all value is derived.
+The opening clause puts God before the material. The chapter does not explain God. It begins
+with him. Text states: the material comes from God's creating act, "In the beginning God created
+the heaven and the earth" (1:1). Hebrews 11:3 and John 1:3 teach that all things were made by his
+word: "the worlds were framed by the word of God, so that things which are seen were not made of
+things which do appear", and "without him was not any thing made that was made". Inference: A1
+follows from this: all value is derived.
 
 ### The verb
 
@@ -95,8 +101,10 @@ Lexical: H7225 `reshith`, _"the first, in place, time, order or rank (specifical
 firstfruit)"_, from the same as H7218, glossed "beginning, chief(-est), first(-fruits, part,
 time), principal thing".
 
-The word carries rank as well as sequence. A beginning is the first item and the governing item.
-A1 and A14 both rest on that double sense.
+The range of the word covers rank as well as sequence. Inference: in Genesis 1:1 the sense is
+first in time. One occurrence does not carry every sense in the range of a word (see
+`original-language.md`, "How to use this without overclaiming"). Where A1 and A14 use the sense of
+rank, treat it as an inference from the whole account, not from this one word.
 
 Lexical: H8414 `tohu`, _"a desolation (of surface), i.e. desert; figuratively, a worthless
 thing; adverbially, in vain"_, from an unused root meaning to lie waste, glossed "confusion,
@@ -123,8 +131,8 @@ reading verse 2 as a description of evil reads a later sense into the first occu
 Lexical: H7363 `rachaph`, _"to brood; by implication, to be relaxed"_, from a primitive root,
 glossed "flutter, move, shake".
 
-Text states: the Spirit of God moves on the face of the waters before anything is said. A3
-follows: presence precedes production. Attention comes before output.
+Text states: the Spirit of God moves on the face of the waters before anything is said.
+Inference: A3 follows: presence precedes production. Attention comes before output.
 
 ### Where the text speaks and where readers divide
 
@@ -185,8 +193,9 @@ Lexical: H914 `badal`, _"to divide (in variation senses literally or figurativel
 distinguish, differ, select, etc.)"_, from a primitive root, glossed "(make, put) difference,
 divide (asunder), (make) separate (self, -ation), sever (out), [idiom] utterly".
 
-Text states: God divides the light from the darkness before he names either one. A6 follows:
-distinction precedes order. A thing becomes definable when it is separated from what it is not.
+Text states: God divides the light from the darkness before he names either one. Inference: A6
+follows: distinction precedes order. A thing becomes definable when it is separated from what it
+is not.
 
 Inference: division is the first ordering act in the chapter, and it happens on day one. Scope,
 segment, and boundary work is therefore not a later refinement. It is the beginning of making.
@@ -199,6 +208,14 @@ animals to the man to see what he will call them (2:19), and the man names the w
 Inference: A7 follows. Naming is an act of authority, not a label. The maker establishes what
 a thing is by naming it. The text delegates animal naming to the man and keeps the naming of
 Day, Night, Heaven, Earth, and Seas with God. Authority to name is real and it is granted.
+
+Contested: whether the man's words in 2:23 are an act of authority over the woman. Readers who
+see an order of roles in Genesis 2 say yes. They note that "she shall be called Woman" (2:23)
+uses the same verb as "whatsoever Adam called every living creature" (2:19), and that Paul reads
+an order from these chapters (1 Corinthians 11:8-9, 1 Timothy 2:13). Other readers note that
+2:23 does not use the word "name". The man uses the full naming words of 2:19 of his wife only
+after the fall: "Adam called his wife’s name Eve" (3:20). See the note on "help meet" in
+`SKILL.md`.
 
 ---
 
@@ -308,8 +325,9 @@ Inference: A11 follows. Growth is intrinsic to the design, and seeds yield the s
 were planted. Culture, standards, and character replicate in hires and subsidiaries with high
 fidelity. A person cannot scale a thing they do not want more of.
 
-Text states: verse 22 blesses the sea creatures and the birds with the same command that the
-man receives in verse 28. Fruitfulness is a blessing before it is a duty.
+Text states: verse 22 blesses the sea creatures and the birds with the words "Be fruitful, and
+multiply", the same words that the man receives in verse 28. Verse 28 adds "subdue it" and "have
+dominion". Inference: fruitfulness is a blessing before it is a duty.
 
 ---
 
@@ -350,10 +368,15 @@ Lexical: H3533 `kabash`, _"to tread down; hence, negatively, to disregard; posit
 conquer, subjugate, violate"_, from a primitive root, glossed "bring into bondage, force, keep
 under, subdue, bring into subjection".
 
-These are not gentle words. Both definitions begin with "to tread down". The KJV choice of
-"dominion" and "subdue" is weaker than the Hebrew, not stronger.
+Both definitions begin with "to tread down". That is the root sense, and etymology is not
+meaning (see `SKILL.md`), so read the use as well. In the standard concordance, `radah` stands
+behind "dominion" in 1 Kings 4:24, where Solomon "had dominion over all the region" and "had peace
+on all sides round about him". It also stands behind "rule" in Leviticus 25:43, which must add a
+phrase to make the rule harsh: "Thou shalt not rule over him with rigour". `kabash` is the
+stronger verb, and it is used of conquest. Inference: "dominion" and "subdue" are fair renderings.
+The KJV does not soften the Hebrew.
 
-Inference: a stronger verb does not license aggressive extraction. Three facts in the text
+Inference: even a strong verb does not license aggressive extraction. Three facts in the text
 constrain the reading.
 
 1. Inference: the mandate is bounded. Verse 26 names its objects: the fish, the fowl, the
@@ -362,9 +385,11 @@ constrain the reading.
 2. Inference: the authority is granted, as to a steward. The text says "let them have dominion".
    It does not say that they took it. The verb is given before it is exercised. The word
    "steward" is the term of this skill. Genesis 1 does not use it.
-3. Text states (in Leviticus and Psalms): the owner keeps the title. Leviticus 25:23: "The land shall not be sold for
-   ever: for the land is mine; for ye are strangers and sojourners with me." Psalms 24:1: "The
-   earth is the LORD's, and the fulness thereof; the world, and they that dwell therein."
+3. Text states (in Psalms): the owner keeps the title. Psalms 24:1: "The earth is the LORD's,
+   and the fulness thereof; the world, and they that dwell therein." Leviticus 25:23 applies the
+   same claim to the land of Israel in its law of redemption: "The land shall not be sold for
+   ever: for the land is mine; for ye are strangers and sojourners with me." Inference: the law
+   is for Israel's land, but it rests on the general claim of Psalms 24:1.
 
 Text states: Genesis 2:15 puts the man in the garden "to dress it and to keep it." The same
 account that grants dominion assigns custodial work. Inference: A12 follows. Dominion is
@@ -431,8 +456,9 @@ assesses the work against an intention, and he does it repeatedly.
 
 Inference: A10 follows, and this is the sharper point. Six verdicts call parts of the work
 "good". Day 2 receives no verdict, and day 3 receives two. Only the whole is called "very good".
-Local correctness can compose into a global failure. Good parts can make one bad product. Review
-the assembly, not only the parts.
+The text shows God reviewing the whole as well as the parts. Inference: review the assembly, not
+only the parts. In Genesis 1 the good parts make a very good whole. The risk that good parts can
+make one bad product is a lesson from experience, not a statement of this chapter.
 
 ---
 
@@ -456,8 +482,22 @@ command.
 Inference: A14 follows. There is a finish line, and it is declared. A thing that is never
 finished cannot be evaluated, shipped, celebrated, or built upon.
 
-Inference: A15 follows. Six units of work and one of cessation. The ratio is given, not
-earned. A plan that only works at full throttle forever is not a plan.
+Text states: Genesis 2:1-3 describes the rest of God. It gives no command to the man. Exodus
+20:11 gives the command to Israel on this ground, and Exodus 31:17 calls the sabbath "a sign
+between me and the children of Israel for ever".
+
+Contested: how the sabbath command applies to Christians. Some readers hold that the pattern of
+creation binds all people, because the command rests on creation: "wherefore the LORD blessed the
+sabbath day, and hallowed it" (Exodus 20:11). Of these, some keep the seventh day, and others
+keep the first day as the Christian sabbath. Other readers hold that the sabbath was a sign for
+Israel that Christ fulfills. They cite "Let no man therefore judge you... or of the sabbath days:
+Which are a shadow of things to come; but the body is of Christ" (Colossians 2:16-17), "There
+remaineth therefore a rest to the people of God" (Hebrews 4:9), and "One man esteemeth one day
+above another: another esteemeth every day alike" (Romans 14:5).
+
+Inference: A15 follows as a pattern on either view, not as a command drawn from Genesis 2. Six
+units of work and one of cessation. The ratio is given, not earned. A plan that only works at
+full throttle forever is not a plan.
 
 ---
 
@@ -505,8 +545,8 @@ of hedging a thing about.
 ### The permission and the prohibition
 
 Text states: the permission is wide and the prohibition is single. The command is given before
-the pressure arrives and before the other party appears in the narrative. A20 follows: default
-to generous permission, and keep prohibitions few, explicit, and unambiguous.
+the pressure arrives and before the other party appears in the narrative. Inference: A20
+follows: default to generous permission, and keep prohibitions few, explicit, and unambiguous.
 
 Inference: a rule invented after the temptation arrives is not a rule. It is a negotiation.
 The text gives the boundary first.
@@ -585,8 +625,11 @@ definition puts the word in a bad sense. Do not build on the favorable gloss.
 
 Text states: the chapter calls the figure a snake. It does not call him Satan. Revelation 12:9
 makes that identification later: "And the great dragon was cast out, that old serpent, called
-the Devil, and Satan, which deceiveth the whole world". A reader who brings the identification
-into Genesis 3 brings it from the last book.
+the Devil, and Satan, which deceiveth the whole world". Earlier New Testament texts point the
+same way: "as the serpent beguiled Eve through his subtilty" (2 Corinthians 11:3), "He was a
+murderer from the beginning" (John 8:44, of the devil), and "the God of peace shall bruise Satan
+under your feet shortly" (Romans 16:20), which echoes Genesis 3:15. A reader who brings the
+identification into Genesis 3 brings it from the rest of the canon.
 
 ### The attack
 
@@ -709,9 +752,17 @@ it describes sin's posture toward Cain. Some readers hear a strong longing in ve
 others hear a turning that creates conflict. The tools supply the definition and cannot settle
 the usage.
 
-Inference: A29 follows from `mashal`. Hierarchy after the fall becomes a site of struggle
-rather than a smooth order. The contest is stated as a consequence, and the rest of Scripture
-answers it with service rather than domination.
+Inference: A29 follows from `mashal`. After the fall, rule becomes a site of struggle. The
+contest is stated as a consequence, and the rest of Scripture answers it with service rather
+than domination.
+
+Contested: whether the verse distorts an order of roles that existed before the fall, or
+introduces the rule of one over the other as a result of the fall. On the first view, the
+parallel in 4:7 ("unto thee shall be his desire, and thou shalt rule over him") shows a desire
+to master met by rule. So 3:16 describes a good order bent by sin, and Ephesians 5:23-25
+restores headship as self-giving love. On the second view, the rule is a consequence like the
+thorns, described and not commanded, and Galatians 3:28 looks past it. See the note on "help
+meet" in `SKILL.md`.
 
 ### The man and the ground
 
@@ -727,8 +778,10 @@ Lexical: H2188 `zeah`, _"perspiration"_, from H2111, glossed "sweat".
 Text states: the ground is cursed, not the man. "Cursed is the ground for thy sake". The man
 still eats. The bread still comes. The ground resists and the yield costs more.
 
-Inference: A27 follows. Friction becomes structural. Resistance is permanent, "all the days of
-thy life." Every plan must price the thorns.
+Inference: A27 follows. Friction becomes structural. Resistance lasts for this age, "all the
+days of thy life" (Genesis 3:17). It is not the last word. Text states: "there shall be no more
+curse" (Revelation 22:3), and "the creature itself also shall be delivered from the bondage of
+corruption" (Romans 8:21). Every plan in this age must price the thorns.
 
 Inference: A30 follows from "till thou return unto the ground". Finite time is the base
 constraint under every plan.
@@ -739,7 +792,10 @@ Text states: verse 15 places enmity between the serpent and the woman, and betwe
 seeds. It states a bruising on both sides.
 
 Inference: the victory is asymmetric. The promise is a head wound against a heel wound. A34
-follows. Conflict is not a phase, and the long game is the only game.
+follows. The conflict lasts through this age, so the long game is the only game. But the
+conflict ends. Text states: "the God of peace shall bruise Satan under your feet shortly"
+(Romans 16:20), and "the devil that deceived them was cast into the lake of fire and brimstone"
+(Revelation 20:10).
 
 Contested: the traditional reading calls this verse the protoevangelium ("first gospel") and
 takes it as the first promise of recovery in the canon. The verse states enmity and a bruising on
@@ -812,13 +868,14 @@ does not support them.
 
 ### 1. That "dominion" and "subdue" authorize aggressive extraction
 
-Lexical: the words are strong. `radah` is "to tread down, i.e. subjugate" and `kabash` is
-"to tread down; hence, negatively, to disregard; positively, to conquer, subjugate, violate".
+Lexical: the root senses in Strong's are strong. `radah` is "to tread down, i.e. subjugate" and
+`kabash` is "to tread down; hence, negatively, to disregard; positively, to conquer, subjugate,
+violate". In use, `radah` means to rule (see section 7).
 
 Inference: the reading that turns them into a license ignores three things in the same
 account. The mandate names a domain with stated contents. The authority is granted rather than seized. The text says "let
-them have dominion". The owner keeps the title, "The land shall not be sold for ever: for the land is
-mine" (Leviticus 25:23), and "The earth is the LORD's, and the fulness thereof" (Psalms 24:1).
+them have dominion". The owner keeps the title: "The earth is the LORD's, and the fulness thereof"
+(Psalms 24:1). Leviticus 25:23 applies the claim to Israel's land: "for the land is mine".
 A steward with strong authority is still a steward. A reader who takes the verbs seriously must
 also take the ownership seriously.
 
@@ -828,17 +885,26 @@ Text states: the man is placed in the garden "to dress it and to keep it" in Gen
 That verse comes before Genesis 3. The fall changes the conditions of work. It does not
 introduce work. The curse reaches the ground and the yield. It does not create the assignment.
 
-### 3. That the six days are 24-hour days, or that they are long ages
+### 3. That the length of the days is beyond dispute
 
-Text states: the days are numbered, and each closes with "the evening and the morning". The
-word `yom` carries a literal sense and a figurative sense. The chapter gives the sequence and
-does not give a mechanism or a duration. This point is contested, and the chapter does not
-settle it. Both views are open to a reader. The reader must not claim the chapter settles it.
+Text states: the days are numbered, and each closes with "the evening and the morning". Exodus
+20:11 later says, "For in six days the LORD made heaven and earth, the sea, and all that in them
+is, and rested the seventh day". Lexical: the word `yom` carries a literal sense and a figurative
+sense.
+
+Contested: the length of the days. Some readers hold that they are ordinary days. They point to
+the numbers, to "the evening and the morning", and to Exodus 20:11 and 31:17, which ground the
+week of Israel in the six days. Other readers hold that the days are long ages, or that the week
+is a literary frame. They point to the range of `yom`, as in "in the day that the LORD God made
+the earth and the heavens" (Genesis 2:4), and to the lights that rule the day and the night,
+which are made only on day 4 (1:14-19). Each view gives reasons from the text. Show the range,
+and do not present either view as what the text states.
 
 ### 4. That Genesis 3 names Satan
 
-Text states: the chapter calls the figure a snake. The identification with Satan comes in
-Revelation 12:9, "that old serpent, called the Devil, and Satan". Reading the identification
+Text states: the chapter calls the figure a snake. The identification with Satan is explicit in
+Revelation 12:9, "that old serpent, called the Devil, and Satan", and 2 Corinthians 11:3 and
+Romans 16:20 point the same way (see section 12). Reading the identification
 back into Genesis 3 is a reading of the whole canon, and it is a reasonable one. It is not what
 the chapter says.
 

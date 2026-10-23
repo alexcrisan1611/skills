@@ -23,7 +23,7 @@ The other skills in the family build on this layer:
 - `renewing-the-mind`
 - `technology-selection`
 
-Load this skill first when a question is foundational. The skill `ancient-secret-wealth-principle` is separate. It does not build on this layer.
+Load this skill first when a question is foundational. The skill `ancient-secret-wealth-principle` is separate. It presents an outside model (Myron Golden's Four Levels of Value), and it is not a first-principles skill. It does use Rule one and the KJV script from this layer.
 
 ---
 
@@ -41,7 +41,7 @@ Follow these rules:
 - Never use Scripture to justify harm, exploitation, or the overriding of the conscience of another person. The keystone governs every application. Love is the first principle of motive (1 Corinthians 13:1-3). A reading that produces cruelty has a mistake in it.
 - Label your confidence. Use these labels, in plain text: "Text states:" for what the verse says, "Inference:" for what follows from it, "Contested:" where faithful readers differ, and "Speculation:" for a guess. These are four different claims.
 
-A foundation that you cannot question is not a foundation. It is an assumption in a costume.
+The foundation itself is Christ, and "the foundation of God standeth sure" (2 Timothy 2:19). But a reading that you cannot question is not a foundation. It is an assumption in a costume.
 
 ---
 
@@ -58,16 +58,21 @@ Each KJV word is a choice of translation, and the choice is not always the neare
 | KJV       | Reference        | Underlying word             | What it carries                                                                     |
 | --------- | ---------------- | --------------------------- | ----------------------------------------------------------------------------------- |
 | charity   | 1 Corinthians 13 | G26 ἀγάπη (_agapē_)         | love. In 1 Corinthians 13 the KJV renders this word "charity". Elsewhere it is usually "love" |
-| faith     | Hebrews 11:1     | G4102 πίστις (_pistis_)     | persuasion, conviction, constancy, not only bare belief                             |
-| dominion  | Genesis 1:26, 28 | H7287 רָדָה (_radah_)       | "to tread down, i.e. subjugate". This is stronger than custodianship                |
-| subdue    | Genesis 1:28     | H3533 כָּבַשׁ (_kabash_)    | to bring into bondage, to force into service                                        |
+| faith     | Hebrews 11:1     | G4102 πίστις (_pistis_)     | persuasion, conviction, "especially reliance upon Christ for salvation", constancy. Not only bare belief |
+| dominion  | Genesis 1:26, 28 | H7287 רָדָה (_radah_)       | to rule. Strong's gives the root sense "to tread down, i.e. subjugate", but the use decides the meaning. Solomon "had dominion" and "had peace on all sides" (1 Kings 4:24). Leviticus 25:43 must add "with rigour" to make the rule harsh |
+| subdue    | Genesis 1:28     | H3533 כָּבַשׁ (_kabash_)    | "to conquer, subjugate". A strong verb, used of conquest. Its object in 1:28 is the earth ("subdue it") |
 | dress     | Genesis 2:15     | H5647 עָבַד (_abad_)        | to work, to serve, to till. The same verb is used of worship                        |
 | keep      | Genesis 2:15     | H8104 שָׁמַר (_shamar_)     | "to hedge about (as with thorns), i.e. guard". The sense is protective              |
 | beginning | Genesis 1:1      | H7225 רֵאשִׁית (_reshith_)  | "the first, in place, time, order or rank (specifically, a firstfruit)"             |
-| help meet | Genesis 2:18     | H5828 עֵזֶר (_ezer_)        | "aid". The same word is used of God as the help of Israel. It is not a subordinate assistant |
+| help meet | Genesis 2:18     | H5828 עֵזֶר (_ezer_)        | "aid". The same word is used of God as the help of Israel, so it implies no lower worth. What it implies about roles is contested (see the note below) |
 | talent    | Matthew 25:15    | G5007 τάλαντον (_talanton_) | a weight of money (about 6,000 denarii, about 20 years of wages), not an ability    |
 
-The last row needs more attention. The popular reading of the parable of the talents is "use your God-given abilities". The English sense "natural ability" came from this parable, and it was in English by the 15th century. But the Greek word is a weight of money. Whatever the English word meant in 1611, the parable is about capital: capital that a master entrusts, allocates unequally, and calls to account. That point is sharper and more demanding than the usual one.
+A note on "help meet". Contested: what Genesis 2 teaches about the roles of man and woman. Both views agree that the word _ezer_ implies no lower worth, and that the word alone does not settle the question of roles.
+
+- Complementarian readers hold that Genesis 2 sets an order of roles within equal worth, before the fall. Paul argues from creation, not from the curse: "Neither was the man created for the woman; but the woman for the man" (1 Corinthians 11:9), and "For Adam was first formed, then Eve" (1 Timothy 2:13). He grounds headship in Christ: "For the husband is the head of the wife, even as Christ is the head of the church" (Ephesians 5:23). He defines it as self-giving: "Husbands, love your wives, even as Christ also loved the church, and gave himself for it" (Ephesians 5:25). On this view, "he shall rule over thee" (Genesis 3:16) describes how sin bends that order. In the Hebrew, Genesis 4:7 uses the same two words, desire and rule: "And unto thee shall be his desire, and thou shalt rule over him." There the desire is a drive to master. So 3:16 can describe a desire to control, met by harsh rule.
+- Egalitarian readers hold that Genesis 2 sets no order of rule. Both bear the image, and both receive the dominion (Genesis 1:27-28). On this view, "he shall rule over thee" (Genesis 3:16) is the first rule of one over the other, and it comes as a result of the fall, like the thorns. Rule one says that "Genesis 3 describes the curse." They read Ephesians 5 in the light of 5:21, "Submitting yourselves one to another in the fear of God". They read the letters to Corinth and to Timothy as directions for particular churches, and they cite "there is neither male nor female: for ye are all one in Christ Jesus" (Galatians 3:28).
+
+The last row needs more attention. The popular reading of the parable of the talents is "use your God-given abilities". The English sense "natural ability" came from this parable, and it was in English by the 15th century. Text states: the talanton is a weight of money, so the image of the parable is capital that a master entrusts, allocates unequally, and calls to account. Text states: the parable opens with "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh" (Matthew 25:13) and ends in judgment (25:30). Its stated subject is faithfulness until the Lord returns. Inference: applying it to entrusted capital is an analogy from its image. Abilities are also received (1 Corinthians 4:7, 1 Peter 4:10), so a reading about abilities is an analogy too, not a change of subject.
 
 ### Check the 1611 sense of the English word
 
@@ -95,7 +100,7 @@ The working rule: when a verse does argumentative work in your reasoning, verify
 ### Two failure modes in the other direction
 
 - Etymology is not meaning. The root of a word does not control its usage. _Ezer_ is related to words for aid, but that fact alone does not license a doctrine of marriage. The usage across the canon does. Lexical data limits interpretation. It does not produce it.
-- Do not overclaim precision. Translation is not mechanical, and the KJV translators sometimes rendered loosely. "The Hebrew is stronger than 'dominion' suggests" is a fair claim with the dictionary open. "The Hebrew proves that Genesis 1 commands aggressive resource extraction" is not a fair claim.
+- Do not overclaim precision. Translation is not mechanical, and the KJV translators sometimes rendered loosely. "Strong's gives the root of _radah_ as 'to tread down'" is a fair claim with the dictionary open. "The Hebrew proves that Genesis 1 commands aggressive resource extraction" is not a fair claim.
 
 Full lexicon: `references/original-language.md`
 
@@ -172,7 +177,9 @@ Scripture names the category of foundations and develops it from the beginning t
 2. Later Scripture quotes the chapter as a foundation. A chapter that Romans, Hebrews, or 1 Peter cites is load-bearing by definition.
 3. The chapter gives a direct view into the mind and ways of God.
 
-The chapter that names the topic is Hebrews 5:11-6:2. It is the only New Testament passage that literally says "first principles". Hebrews 5:12 has "the first principles of the oracles of God". The Greek there is _ta stoicheia tēs archēs_, which uses two words: G4747 _stoicheion_ ("elements") and G746 _archē_ ("beginning"). Hebrews 6:1 has "the principles of the doctrine of Christ", and "principles" there is _archē_ alone. The passage then lists six items: repentance from dead works, faith toward God, baptisms, laying on of hands, resurrection of the dead, and eternal judgment.
+The chapter that names the phrase is Hebrews 5:11-6:2. It is the only New Testament passage that literally says "first principles". Hebrews 5:12 has "the first principles of the oracles of God". The Greek there is _ta stoicheia tēs archēs_, which uses two words: G4747 _stoicheion_ ("elements") and G746 _archē_ ("beginning"). Hebrews 6:1 has "the principles of the doctrine of Christ", and "principles" there is _archē_ alone. The passage then lists six items: repentance from dead works, faith toward God, baptisms, laying on of hands, resurrection of the dead, and eternal judgment.
+
+Text states: these first principles are "the principles of the doctrine of Christ" (6:1). The writer calls them "milk" (5:12-13) and tells the reader to leave them and "go on unto perfection" (6:1). Inference: using the phrase "first principles" for a method of reasoning is an analogy from a shared English phrase. It is not the sense of the passage. The same word _stoicheion_ is a warning at Colossians 2:8: "after the rudiments of the world, and not after Christ".
 
 The starter set, in reading order:
 
@@ -182,7 +189,7 @@ The starter set, in reading order:
 | Genesis 2                              | Cultivation, boundaries, work, partnership, the first "not good."        |
 | Genesis 3                              | The fall, friction, blame, the first promise, guarded access.            |
 | Genesis 12 and 15                      | The covenant with Abraham. Belief counted as righteousness.              |
-| Exodus 3 and 34:5-7                    | "I AM". The self-description of God: merciful, gracious, slow to anger.  |
+| Exodus 3 and 34:5-7                    | "I AM". The self-description of God: "merciful and gracious, longsuffering", and one "that will by no means clear the guilty". |
 | Exodus 18                              | Delegation and triage. The first management fix.                         |
 | Exodus 20                              | Covenant law.                                                            |
 | Deuteronomy 6:4-9                      | The Shema: the foundation of love and obedience.                         |
@@ -199,18 +206,19 @@ The starter set, in reading order:
 | Isaiah 53 and 55                       | The suffering servant. "My thoughts are not your thoughts."              |
 | Matthew 5-7                            | The Sermon on the Mount. The house on the rock.                          |
 | Matthew 22:34-40                       | Love God, love neighbor. All the law and the prophets hang on these two. |
-| Matthew 25:14-30                       | The talents: capital allocated unequally, a return expected.             |
-| Luke 14:28-30                          | "sitteth not down first, and counteth the cost"                          |
+| Matthew 25:14-30                       | The talents: faithfulness until the Lord returns. The image is capital allocated unequally, with a return expected. |
+| Luke 14:28-30                          | "sitteth not down first, and counteth the cost". The cost in view is discipleship (14:33). |
 | John 1                                 | "In the beginning was the Word." The archetype repeats.                  |
-| Acts 6 and 17                          | The first decision about organization design. The model pitch to a culture. |
+| Acts 6 and 17                          | The first decision about organization design. The model address to a culture, which ends with the resurrection (17:31). |
 | Romans 1-8 and 12:1-2                  | The compact system. The renewed mind.                                    |
 | 1 Corinthians 3:10-15                  | "other foundation can no man lay". Work tried by fire.                   |
 | 1 Corinthians 13                       | Love as the first principle of motive. The keystone.                     |
+| 1 Corinthians 15:1-4                   | The gospel "first of all": "Christ died for our sins according to the scriptures", was buried, and "rose again the third day". |
 | Ephesians 1-2                          | Purpose before creation, the corner stone, grace through faith.          |
 | Philippians 2:1-11                     | "Let this mind be in you." Humility as the pattern of thought.           |
 | Hebrews 11                             | "faith is the substance of things hoped for"                             |
 
-Genesis 1, Genesis 2, Genesis 3, and 1 Corinthians 13 are the core of the set.
+The core of the set is Christ. "For other foundation can no man lay than that is laid, which is Jesus Christ" (1 Corinthians 3:11). The gospel that Paul delivered "first of all" is "how that Christ died for our sins according to the scriptures" (1 Corinthians 15:3). Around that core, Genesis 1, Genesis 2, Genesis 3, and 1 Corinthians 13 are the chapters that this skill family reads most closely.
 
 Full map with all chapters and cross-references: `references/chapter-map.md`
 
@@ -231,7 +239,7 @@ Where the text itself says "foundation," it speaks of what you cannot replace wi
 - 2 Timothy 2:19: "the foundation of God standeth sure".
 - Revelation 21:14: the foundations of the New Jerusalem.
 
-The nearest thing to a definition is Hebrews 11:1: "Now faith is the substance of things hoped for, the evidence of things not seen." The Greek word for "substance" is G5287 _hypostasis_, "a setting under (support)". It is a foundation idea, but it is not the New Testament word for "foundation". That word is G2310 _themelios_. A foundation is what you stand on before you can see the outcome. That is the working definition for everything in this skill family.
+The foundation itself is Christ: "other foundation can no man lay than that is laid, which is Jesus Christ" (1 Corinthians 3:11). The nearest thing to a definition of the idea is Hebrews 11:1: "Now faith is the substance of things hoped for, the evidence of things not seen." The Greek word for "substance" is G5287 _hypostasis_, "a setting under (support)". It is a foundation idea, but it is not the New Testament word for "foundation". That word is G2310 _themelios_. Inference: a foundation is what you stand on before you can see the outcome, and the foundation that is already laid is Christ. That is the working definition for everything in this skill family.
 
 ---
 

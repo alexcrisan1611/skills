@@ -9,7 +9,7 @@ The skill is for diagnosis, not for decisions. It explains what went wrong, so t
 Three rules govern the work:
 
 1. Judgment comes after diagnosis, never before it.
-2. Blame is not a finding. A name is not a cause.
+2. Blame is not the first finding. Record both the personal act and the system that permitted it. In Genesis 3, God holds each person to account for that person's own act (3:14, 3:17), and the verdict also carries mercy (3:15, 3:21).
 3. The diagnosis must end in a test that can prove it wrong.
 
 The method comes from the questions in Genesis 3. God asks "Where art thou?" (3:9), then "Who told thee that thou wast naked?" and "Hast thou eaten of the tree...?" (3:11), and then "What is this that thou hast done?" (3:13). The verdict comes later, in 3:14-19. The skill uses that order: where, then source, then act, then judgment.
@@ -56,7 +56,7 @@ The skill draws each tool from a Bible passage:
 
 Each claim in the skill carries a label. "Text states" marks what the verse says. "Lexical" marks a Strong's word definition. "Inference" marks a conclusion that the skill draws. The reference files also use "Contested" and "Illustration".
 
-The output is a diagnosis in eight parts: symptom, location, source and act, classification, evidence, fix and its test, what is not known, and confidence. The diagnosis comes before the judgment, and it keeps blame out of the finding.
+The output is a diagnosis in eight parts: symptom, location, source and act, classification, evidence, fix and its test, what is not known, and confidence. The diagnosis comes before the judgment. It names the act and the system, and it aims at repair and restoration (Galatians 6:1).
 
 ## What is in this folder
 

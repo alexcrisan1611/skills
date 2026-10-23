@@ -15,11 +15,12 @@ repair, waste removal, and a fixed lifespan. It runs at three scales at once. Th
 organism coordinates, the organ systems trade with each other, and the cell does the work.
 You can observe all of it, and you can measure much of it.
 
-Scripture uses the body as its own model for a group of people. For that reason, this layer
-belongs in the framework and not beside it. 1 Corinthians 12 does not offer the body as a
-poetic image. It argues from the structure of the body to how a group of people must work.
-The passage is about the church, which 1 Corinthians 12:27 calls "the body of Christ". The
-use of the passage for a firm is an inference.
+Scripture uses the body as its model for the church. 1 Corinthians 12 does not offer the body
+as a poetic image. It argues from the structure of the body to how the church must work. The
+passage is about the church, which 1 Corinthians 12:27 calls "the body of Christ". The use of
+the passage for a firm is an analogy, so it is an inference. This layer uses the body as
+evidence and illustration for a firm. It does not turn the texts about the church into
+commands for a firm.
 
 ## Rule one: Scripture governs the body
 
@@ -47,6 +48,11 @@ consequence.
 The body is a living thing. A business is not. Do not stretch the comparison past what it can
 carry. A body cannot choose its members, cannot change its species, and cannot be dissolved by
 agreement. A firm can do all three. Where the analogy breaks, say that it breaks.
+
+The body of Christ also has what no firm has. In the text the head is Christ (Ephesians
+4:15-16, Colossians 1:18) and the placer is God (1 Corinthians 12:18). The members are joined
+by one Spirit (1 Corinthians 12:13). A CEO is neither the head nor the placer. A business use
+of these texts is an analogy.
 
 ## Rule three: this skill does not give health advice
 
@@ -105,6 +111,9 @@ The business consequence: put people where they function, not where they want to
 person who wants the visible role is not always the right person for it.
 Scripture: 1 Corinthians 12:18, "God set the members every one of them in the body, as it hath
 pleased him."
+Where the analogy breaks: in the text the placer is God (1 Corinthians 12:18), and the Spirit
+divides the gifts "to every man severally as he will" (12:11). A manager is not God. A business
+use of this text is an analogy.
 
 ### B6. Suffering is shared.
 
@@ -122,7 +131,11 @@ cut the connections, the signal stops arriving.
 The principle: the center directs growth, and the parts deliver it.
 The business consequence: direction is a leadership task. Delivery is an interface task. If
 growth stalled, inspect the joints, which are the handoffs between teams.
-Scripture: Ephesians 4:15-16, growth "by that which every joint supplieth".
+Scripture: Ephesians 4:15-16, "grow up into him in all things, which is the head, even
+Christ", and growth "by that which every joint supplieth". Colossians 2:19 says the body
+"increaseth with the increase of God".
+Where the analogy breaks: in the text the head is Christ (Ephesians 4:15-16, Colossians 1:18),
+and the increase is from God. A CEO is neither. A business use of this text is an analogy.
 
 ## II. Control and feedback
 
@@ -153,8 +166,9 @@ never resolves, it damages the tissue that it came to protect.
 The principle: urgency must have a time limit.
 The business consequence: a crisis that ends is a cost. A crisis that never ends becomes the
 operating disease. Set an end date on every emergency.
-Scripture: Genesis 3:17-19 makes friction permanent. The response to permanent friction must be
-a steady practice, not a permanent emergency.
+Scripture: Genesis 3:17-19 puts friction on work for this age, "all the days of thy life"
+(Genesis 3:17). Text states: "there shall be no more curse" (Revelation 22:3). Inference:
+friction that lasts a lifetime calls for a steady practice, not a permanent emergency.
 
 ### B11. The immune system must tell self from non-self.
 
@@ -208,8 +222,8 @@ waste kills faster than starvation.
 The principle: removal is as important as intake, and it never stops.
 The business consequence: kill dead products, dead processes, dead inventory, and roles that
 no longer fit. Pruning is a function with an owner.
-Scripture: John 15:2, "Every branch in me that beareth not fruit he taketh away". Malachi 3:3
-describes the refiner's fire.
+Scripture: John 15:2, "Every branch in me that beareth not fruit he taketh away". Malachi
+3:2-3 describes the refiner's fire.
 
 ### B16. Input quality sets output quality.
 
@@ -265,17 +279,21 @@ Scripture: Genesis 1 repeats "the evening and the morning". Ecclesiastes 3:1-8.
 
 ### B21. The body has a design limit.
 
-The body fact: most human cells stop dividing after about 40 to 60 divisions in culture. Every
-human body ages and dies.
-Inference: aging is built into the design of the human body, and it is not a defect.
-Mainstream biology does not treat aging as programmed, so this is not a body fact.
-The principle (Inference): a creature is finite and dependent (Psalm 103:14).
-Contested: Genesis 3:19 is part of the curse, and Genesis 2:17 and Romans 5:12 tie death to sin.
-Scripture treats death both as creaturely limit and as an enemy. The body cannot settle the
-question. The reference file `references/where-the-body-misleads.md` names this dispute.
-The business consequence: a firm has a lifespan. Plan for succession, sale, or closure, and do
-it while the firm is strong. A founder who cannot imagine the end will be surprised by it.
-Scripture: Genesis 3:19. Psalm 90:12, "So teach us to number our days".
+The body fact: most human cells stop dividing after about 40 to 60 divisions in culture. In
+ordinary experience, every human body ages and dies. Scripture names exceptions. Enoch "was
+translated that he should not see death" (Hebrews 11:5), and "We shall not all sleep"
+(1 Corinthians 15:51).
+The principle (Inference): a creature is finite and dependent (Genesis 2:7, Psalm 103:14).
+Text states: death entered by sin, "by one man sin entered into the world, and death by sin"
+(Romans 5:12). Death is an enemy, "The last enemy that shall be destroyed is death"
+(1 Corinthians 15:26). Death will end, "there shall be no more death" (Revelation 21:4).
+Contested: whether Adam was mortal by nature and kept alive by the tree of life (Genesis 3:22),
+or immortal until the fall. The body cannot settle the question. The reference file
+`references/where-the-body-misleads.md` names this dispute.
+The business consequence: a firm is finite. Plan for succession, sale, or closure, and do it
+while the firm is strong. A founder who cannot imagine the end will be surprised by it.
+Scripture: Psalm 90:12, "So teach us to number our days". Genesis 3:19 states the return to
+dust as part of the curse.
 
 ### B22. Redundancy in critical systems is design, not waste.
 
@@ -285,7 +303,9 @@ pancreas, so the body does not duplicate everything.
 The principle: protect the irreplaceable.
 The business consequence: single points of failure belong at the top of the risk register. A
 spare is cheaper than the failure.
-Scripture: Ecclesiastes 4:9-12, "Two are better than one", and the threefold cord. Genesis 2:18.
+Scripture: Ecclesiastes 4:9-12, "Two are better than one", and the threefold cord. Inference:
+the passage is about companions who help each other, so its use for spare capacity is an
+analogy.
 
 ### B23. Small failures kill the whole.
 
@@ -300,11 +320,13 @@ Scripture: Song of Solomon 2:15, "the little foxes, that spoil the vines".
 
 The body fact: the first thing a newborn does is breathe. Breathing then runs automatically,
 and a person can take control of it at will.
-The principle: the vital process starts first, then runs on its own. Deliberate control is
-available.
+The principle: the vital process starts first, then runs without conscious attention, never
+apart from God. Deliberate control is available.
 The business consequence: find the breath of the firm. If it needs conscious effort every
 hour, the firm is dying. If nobody can describe it, nobody can protect it.
-Scripture: Genesis 2:7, "breathed into his nostrils the breath of life". Job 33:4.
+Scripture: Genesis 2:7, "breathed into his nostrils the breath of life". Job 33:4. Job 12:10,
+"In whose hand is the soul of every living thing, and the breath of all mankind." Acts 17:25,
+"he giveth to all life, and breath, and all things".
 
 ---
 

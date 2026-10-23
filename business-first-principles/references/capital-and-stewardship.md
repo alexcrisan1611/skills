@@ -121,11 +121,13 @@ Text (Matthew 25:14–30, KJV):
 
 Lexical (verbatim): G5007 τάλαντον (_talanton_): "equivalent to G5342 (φέρω)); a balance (as supporting weights), i.e. (by implication) a certain weight (and thence a coin or rather sum of money) or 'talent'." Strong's derives it from the neuter of a presumed derivative of the original form of _tlao_ (to bear). The KJV renders it "talent."
 
-Text states: the thing that the master delivers is "his goods" (v. 14) and "my money" (v. 27). The master calls it money twice. Whatever else the parable is about, the object in it is capital.
+Text states: the thing that the master delivers is "his goods" (v. 14). The text calls it money twice: "his lord's money" (v. 18) and "my money" (v. 27). Lexical: the _talanton_ is a weight of money, so the image of the parable is capital.
 
-The popular reading of this parable is "use your God-given abilities." That reading rests on the English sense of the word _talent_. The sense "natural ability" came into English from this parable, and English used it before 1611. But the Greek word _talanton_ is a weight of metal used as money. That fact decides the point of the parable, whatever the English word meant in 1611.
+Text states: the parable opens with "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh" (Matthew 25:13). The next verse begins "For the kingdom of heaven is as a man travelling into a far country" (25:14). The parable ends in judgment: "cast ye the unprofitable servant into outer darkness" (25:30). Its stated subject is faithfulness until the Lord returns. Inference: applying it to entrusted capital is an analogy from its image. This file uses it that way.
 
-The point of the parable is this: capital is entrusted, allocated unequally, and accounted for. That claim is sharper and more demanding than the one that readers usually draw from the parable. For the units of money in the KJV, see `../scripture-foundations/references/kjv-1611.md`.
+The popular reading of this parable is "use your God-given abilities." That reading rests on the English sense of the word _talent_. The sense "natural ability" came into English from this parable, and English used it before 1611. Abilities are also received: "what hast thou that thou didst not receive?" (1 Corinthians 4:7), and "As every man hath received the gift, even so minister the same one to another" (1 Peter 4:10). So a reading about abilities is an analogy too, not a change of subject. Neither analogy replaces the stated subject.
+
+Inference: read as an analogy about capital, the parable says this: capital is entrusted, allocated unequally, and accounted for. For the units of money in the KJV, see `../scripture-foundations/references/kjv-1611.md`.
 
 What the lexicon does not establish: Strong's gives no figure. It does not say 6,000 denarii, and it does not mention denarii at all. A direct search of the Strong's source data finds no "denarii". A common figure is one talent ≈ 6,000 denarii ≈ about 20 years of the wages of a laborer. That figure is a historical and numismatic claim from outside these tools.
 
@@ -164,7 +166,7 @@ Text states (the structure of the reckoning):
 - Both receive the same praise: "thou hast been faithful over a few things, I will make thee ruler over many things" (vv. 21, 23).
 - The servant with two talents receives the same treatment as the servant with five. The words are the same, and the reward is the same.
 
-Inference: the verdict follows faithfulness, not absolute return. This is the most important point of the parable, and readers seldom notice it. The servant with two talents produced 40% of the absolute gain of the servant with five. He received the same sentence. The master assessed the ratio of result to allocation, and the ratio was 100% in both cases.
+Inference: the verdict follows faithfulness, not absolute return. For the analogy to capital, this is the most important point, and readers seldom notice it. The servant with two talents produced 40% of the absolute gain of the servant with five. He received the same sentence. The master assessed the ratio of result to allocation, and the ratio was 100% in both cases.
 
 Inference (business consequences):
 
@@ -177,24 +179,25 @@ Inference (business consequences):
 
 Text states: "Thou oughtest therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury."
 
-This verse is the key to the parable, and readers often skip it. The master states the minimum outcome that he accepts. He does not say that the servant had to trade and double the money. He says that the servant had to deposit it at least. Then the master gets his own back "with usury".
+Text states: the master answers the servant from the servant's own words. Verse 26 repeats the charge of the servant, "thou knewest that I reap where I sowed not," and verse 27 begins "Thou oughtest therefore." Inference: the bank deposit is the least that the servant's own view of the master required. For the analogy to capital, this verse is the key, and readers often skip it. Within the story, the master names the minimum outcome. He does not say that the servant had to trade and double the money. He says that the servant had to deposit it at least. Then the master gets his own back "with usury".
 
 Lexical: "usury" here is G5110 τόκος (_tokos_): "interest on money loaned (as a produce)." It comes "from the base of G5088 (τίκτω)", a verb that means to bring forth. Inference: the word for interest is the word for bearing. Here the Greek word carries no moral charge. It is the yield on a deposit.
 
-Text states (what the master does not say): he does not require the servant to match the other two. He requires only that the capital is not idle.
+Inference: the master does not require the servant to match the other two. Within the story, he requires only that the money is not idle.
 
-Inference: the sin is doing nothing. It is not underperformance, low ambition, or a low return. It is doing nothing at all with capital that someone entrusted to you, when even the most passive placement available can produce something. This is the sharp edge of the parable.
+Inference: within the story, the failure is doing nothing. The master names it: "Thou wicked and slothful servant" (v. 26). It is not underperformance, low ambition, or a low return. It is doing nothing at all with what someone entrusted to you, when even the most passive placement available can produce something.
 
-This changes how to read the whole parable. Read as a parable about abilities, it says "develop your gifts." Read as a parable about capital, which is what it is, it says that idle capital is a moral failure.
+Inference: read as an analogy about abilities, the parable says "develop your gifts." Read as an analogy about capital, it says that capital entrusted to you must not sit idle. Neither analogy is the stated subject. The stated subject is faithfulness to the Lord until he returns (25:13).
 
 Inference: the floor that the master names is the yield of the most passive placement that he knew. In a modern treasury, the nearest analogue is a low-risk deposit yield. The analogy is not exact. The exchangers of the first century were not free of risk. A modern deposit is not the same instrument.
 
 Inference (business consequences):
 
-- Cash with no assignment is the talent in the ground. The parable sets its own floor at the yield of the exchangers. Operating cash is different. Cash held for a stated liquidity need, such as payroll or payables, has an assignment. Cash beyond the stated need that earns nothing falls below the floor of the master.
+- By analogy, cash with no assignment is the talent in the ground. Within the story, the floor is the yield of the exchangers. Operating cash is different. Cash held for a stated liquidity need, such as payroll or payables, has an assignment. Cash beyond the stated need that earns nothing falls below the floor of the master.
 - Compare against the passive alternative, not against your peers. A capital project that returns less than a low-risk deposit destroys value relative to the passive option. The master condemned doing nothing, so the bar is higher than it first looks.
 - "I preserved it" is the defense of the servant, and it fails. Verse 25 says: "lo, there thou hast that is thine." Preservation was the goal that the servant stated, and the master rejected it.
 - The rule also applies to reserves, and this creates a tension. A31 says that reserves exist to pay for recovery. The parable condemns idle capital. The answer is that a reserve is allocated to a specific risk, so it does work. Hoarding is capital with no assignment. See Part 7.
+- Money given away is not the talent in the ground. The same Lord says "lend, hoping for nothing again" (Luke 6:35) and "Sell that ye have, and give alms" (Luke 12:33). The floor of the exchangers applies, by analogy, to capital held for a return. It does not apply to capital that is given.
 
 ### The reward is authority, not money
 
@@ -267,14 +270,14 @@ Text states (the contrast with Matthew 25):
 | Results            | 5→10, 2→4, 1→1                     | 1→10, 1→5, 1→1                                   |
 | Reward             | "ruler over many things"           | "authority over ten cities" / "over five cities" |
 
-Text states: in Luke, each of the ten servants receives the same amount. The results differ greatly: 10x, 5x, and 1x. The reward is in proportion to the result: ten cities for ten pounds, and five cities for five pounds.
+Text states: in Luke, each of the ten servants receives the same amount. The results differ greatly: 10x, 5x, and 1x. The reward is in proportion to the result: ten cities for ten pounds, and five cities for five pounds. The stated ground of the reward is still faithfulness: "because thou hast been faithful in a very little" (v. 17).
 
-Inference: the two parables describe two different allocation principles, and the text presents both as valid. This is the reason to read the two parables together.
+Inference: by analogy, the two parables show two different allocation principles, and the text presents both as valid. This is the reason to read the two parables together.
 
 - The principle in Matthew: allocate unequally, by capacity, and assess by faithfulness (the ratio).
-- The principle in Luke: allocate equally, assess by result (the absolute gain), and reward in proportion.
+- The principle in Luke: allocate equally, and reward in proportion to the result. The stated ground of the praise is still faithfulness (v. 17).
 
-This finding matters for a capital allocator. It goes against the common assumption that there is one right way to distribute resources. The text presents both. Six things stay the same across the two parables:
+This finding matters for a capital allocator. It goes against the common assumption that there is one right way to distribute resources. The text presents both. Seven things stay the same across the two parables:
 
 1. The owner delivers capital to servants. The servants do not own it. (Both.)
 2. The owner leaves and returns. (Both.)
@@ -282,6 +285,7 @@ This finding matters for a capital allocator. It goes against the common assumpt
 4. The master condemns idleness. (Both: Matthew 25:27 and Luke 19:23 give the same bank-deposit standard.)
 5. The reward is authority over more. (Both.)
 6. The master moves the capital of the unproductive manager. (Both.)
+7. The stated ground of the praise is faithfulness. (Both: Matthew 25:21, 23 and Luke 19:17.)
 
 Inference (business consequences):
 
@@ -407,7 +411,7 @@ Inference: two consequences follow.
 - Debt transfers decision rights, not only money. The servitude is the real cost. Interest is the visible cost. The loss of discretion is the invisible one.
 - The transfer is not always wrong, but you must price it. A business takes on debt and does not identify which decisions it gave up. That business did not price the instrument.
 
-Text states (the ideal in Deuteronomy): Deuteronomy 15:6 states the desired position explicitly: "and thou shalt lend unto many nations, but thou shalt not borrow; and thou shalt reign over many nations, but they shall not reign over thee." The promise is framed as not borrowing, and the reason given is the reign relationship. The text pairs the two halves.
+Text states (the promise in Deuteronomy): Deuteronomy 15:6 states a promise to Israel: "and thou shalt lend unto many nations, but thou shalt not borrow; and thou shalt reign over many nations, but they shall not reign over thee." The promise depends on obedience: "Only if thou carefully hearken unto the voice of the LORD thy God" (v. 5). The text pairs lending and reigning. The original audience is Israel in the land. A business use of this text is an analogy. It guarantees no commercial outcome.
 
 Inference (business consequences):
 
@@ -503,17 +507,27 @@ Observations:
 6. Contested: Leviticus 25:35–36 forbids interest from the poor stranger, and Deuteronomy 23:20 permits interest from a stranger. Readers reconcile the two in different ways. One common reading is that the two passages mean different kinds of outsider: a resident who fell poor, against a foreign trader. The English text alone does not settle it.
 7. Text states (the pledge rule): Exodus 22:26–27 requires the lender to return a pledged garment before nightfall. The reason is that it is the only covering of the person: "wherein shall he sleep?" The rule protects the minimum that a person needs to live.
 
+Text states (other texts on usury): Psalm 15 asks "who shall abide in thy tabernacle?" (v. 1), and one answer is "He that putteth not out his money to usury, nor taketh reward against the innocent" (v. 5). Ezekiel 18:8 describes the just man: "He that hath not given forth upon usury, neither hath taken any increase". Ezekiel 18:13 says of the man who did: "Hath given forth upon usury, and hath taken increase: shall he then live? he shall not live". Nehemiah 5:7 rebukes the nobles: "Ye exact usury, every one of his brother." Proverbs 28:8 says: "He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor." Jesus says: "lend, hoping for nothing again" (Luke 6:35). Psalm 15:5 and Ezekiel 18:8 and 13 do not repeat the condition of poverty. Ezekiel 18:17 sets usury next to the poor: "That hath taken off his hand from the poor, that hath not received usury nor increase".
+
+Contested: faithful readers disagree on whether interest on a commercial loan is permitted.
+
+- One view, held by the early church fathers and the medieval church, is that all interest on a loan is usury. It cites Psalm 15:5, Ezekiel 18:8 and 13, and Luke 6:35.
+- A second view, from Calvin onward and held by many Christians today, is that the law forbids interest that oppresses the poor or the brother, and that fair interest on a productive loan is permitted. It cites the conditions in Exodus 22:25 and Leviticus 25:35, the permission in Deuteronomy 23:20, and the bank in Matthew 25:27 and Luke 19:23.
+- A third view reads the rule on brother and stranger as covenant law for Israel. It then asks who the "brother" is now.
+
+This file does not settle the question. Where an inference in this file sets aside interest as such, it follows the second view, and it says so.
+
 Inference (the honest limit): the distinction between "brother" and "stranger" makes these statutes the law of a covenant community, not general commercial law. A modern company lends to a customer. An Israelite lent to a brother in the same covenant community. The two positions are not the same. That gap is real, and I do not smooth it over.
 
 Inference: these points transfer from the text:
 
-- The prohibition aims at a specific abuse: extraction from a person whose need makes him unable to refuse. The condition "poor by thee" and the purpose clause "that thy brother may live with thee" both point at the predatory character of the loan. They do not point at the interest rate as such.
+- Exodus 22:25 and Leviticus 25:35–37 aim at a specific abuse: extraction from a person whose need makes him unable to refuse. The condition "poor by thee" and the purpose clause "that thy brother may live with thee" both point at the predatory character of the loan. Deuteronomy 23:19 is wider. It forbids interest to any brother, with no condition of need.
 - The pledge rule protects the survival minimum of the borrower. The garment must go back before nightfall, because otherwise the person is cold. Any collateral policy that takes the thing that the borrower needs to survive is directly in view.
 - The duty reaches the outsider. Leviticus 25:35–36 requires relief for the poor stranger and the sojourner and forbids interest from him.
 
 Inference (business consequences):
 
-- The relevant question is not "is it wrong to charge interest?" It is "does this loan extract from someone who cannot refuse?" The conditions and purpose clauses of the text aim at the second question.
+- On the second view in the Contested note, the relevant question is not "is it wrong to charge interest?" It is "does this loan extract from someone who cannot refuse?" The conditions and purpose clauses of Exodus 22 and Leviticus 25 aim at that question. On the first view, the first question stays open.
 - The logic of the passage reaches modern cases: payday lending, wage-advance products at punitive rates, and debt sold to people who cannot evaluate it. Late fees set to profit from a customer's inability to pay on time are also in view.
 - Collateral policy must have a survival floor. The pledged garment is the model. Some assets are exempt, because to take them is to take the ability of the person to live.
 - Deuteronomy 24:6 states the floor more sharply: "No man shall take the nether or the upper millstone to pledge: for he taketh a man's life to pledge." Text states: the millstone is exempt because it is the means of life. Inference: the millstone grinds the grain, so it is also the means of earning. The principle is that a lender must not take the capacity of the borrower to produce as security. A modern analogue is to take the tools of a tradesperson or the seed of a farmer.
@@ -588,8 +602,8 @@ Inference: the year of release is a structural limit on the accumulation of clai
 
 Inference (business consequences):
 
-- Model debt capacity against the cycle, not against the present. A business that lends into a community with a seven-year release must price that release. More generally, a lending model whose returns depend on collection without end is fragile.
-- The named loophole is the useful part. Verse 9 is a case study in how people get around rules. They do not break the rule. They withdraw from the activity that the rule governs. Any policy design must ask what activity the rule suppresses, and decide whether that is acceptable.
+- Do not let the release shut your hand to the poor. Verse 9 calls that very calculation sin: "Beware that there be not a thought in thy wicked heart, saying, The seventh year, the year of release, is at hand". Inference: a lender may plan for the cycle, but the text forbids planning that withholds the loan from the poor brother because the release is near. More generally, a lending model whose returns depend on collection without end is fragile.
+- The named loophole is the useful part. Verse 9 shows how people get around rules. They do not break the rule. They withdraw from the activity that the rule governs. The text calls this withdrawal sin: "and it be sin unto thee" (v. 9). Inference: any policy design must ask what activity the rule suppresses. Where the suppressed activity is a duty, the withdrawal is not a neutral choice.
 - "The poor shall never cease" is a planning assumption, not despair. The text states it as the ground for a permanent obligation. A business that treats poverty as a solvable problem builds for a world that does not exist.
 - The rules on attitude apply to how a business gives. "Thine heart shall not be grieved". A donation made with visible reluctance damages the relationship between the giver and the recipient.
 - The release connects to the jubilee. The seven-year release and the fifty-year jubilee are the two reset instruments. See Part 6.
@@ -702,7 +716,7 @@ Inference: the reserve did three things at the same time:
 Inference (business consequences):
 
 - A reserve is a competitive position, not only a cushion. A company with cash in a downturn can buy, hire, and lend while others contract. That is the position of Joseph.
-- The countercyclical sale is the mechanism. Joseph accumulated during plenty by a levy, and he sold during scarcity. Text states: the text gives both halves, the levy (41:34) and the sale (41:56). Joseph did not buy the grain. He took it as a fifth of the harvest.
+- The countercyclical sale is the mechanism. Joseph accumulated during plenty by a levy, and he sold during scarcity. Text states: the text gives both halves, the levy (41:34, "take up the fifth part") and the sale (41:56). Inference: the text does not say that Joseph paid for the grain. The natural reading is that he took it as a levy.
 - The ethics of the sale is a live question. The text does not settle it to modern satisfaction. Joseph built the store with a levy on the people during the years of plenty (v. 34, "take up the fifth part"). Then he sold it back to the same people during the famine. Contested: some readers call that prudent administration, and others call it exploitation. The text does not answer directly, and faithful readers differ. I do not invent certainty on it. The next section covers the consolidation that follows, which the text presents as painful.
 - The reserve was a systemic hedge, not a local one. Observation 2. A reserve sized for an outage at one site does not cover a collapse of the whole market. The scenario drives the design.
 
@@ -888,7 +902,9 @@ Observations:
 
 Inference: the jubilee limits accumulation by design. The mechanism is that some kinds of property cannot leave the family for good. A person can become poor and sell. A person can become rich and buy. But the accumulation cannot become permanent.
 
-Inference: this is the sharpest claim about capital in Leviticus 25, so I state it carefully. The text does not condemn the accumulation of wealth. It caps how long the accumulation lasts.
+Inference: this is the sharpest claim about capital in Leviticus 25, so I state it carefully. Leviticus 25 does not condemn the accumulation of wealth. It caps how long the accumulation lasts.
+
+Text states (the prophets): the prophets go further. Isaiah 5:8 says: "Woe unto them that join house to house, that lay field to field, till there be no place, that they may be placed alone in the midst of the earth!" Micah 2:2 names the means: "And they covet fields, and take them by violence; and houses, and take them away". Inference: Leviticus 25 limits how long a holding lasts. The prophets condemn accumulation that pushes the neighbor off his inheritance.
 
 Inference (business consequences):
 
@@ -927,9 +943,9 @@ Text states:
 4. Some property cannot leave its holders for good at all (Leviticus 25:23, 34).
 5. During rest, the provision comes from a store that God blesses in advance (Leviticus 25:20–22).
 
-What the text does not state: that the accumulation of wealth is wrong in itself. Leviticus 25 does not condemn the man with many fields. It limits how long he can keep them.
+What Leviticus 25 does not state: that the accumulation of wealth is wrong in itself. Leviticus 25 does not condemn the man with many fields. It limits how long he can keep them. But Isaiah 5:8 pronounces woe on those who "lay field to field, till there be no place". So Scripture does condemn accumulation that dispossesses others.
 
-Inference (the axiom that this yields): a system with no reset mechanism concentrates. The concentration is an outcome of the design, not a moral failure of the participants. The jubilee is evidence that the design intends a reset. A business or an economy built without one can expect the concentration. It must decide in advance whether it accepts the result.
+Inference (the axiom that this yields): a system with no reset mechanism concentrates. The concentration is in part an outcome of the design. It is not always a moral failure of the participants. But it can be one: Isaiah 5:8 and Micah 2:2 condemn the people who drive it by covetousness. The jubilee is evidence that the design intends a reset. A business or an economy built without one can expect the concentration. It must decide in advance whether it accepts the result.
 
 Inference (business consequences):
 
@@ -959,7 +975,7 @@ Text (Ecclesiastes 11:1–6, KJV):
 
 Observations:
 
-1. Text states: the return comes late, and its timing is uncertain: "for thou shalt find it after many days" (v. 1). Inference: the return is not immediate, but it is certain.
+1. Text states: the return comes late: "for thou shalt find it after many days" (v. 1). Inference: the verse states a general expectation, not a guarantee. Verse 6 qualifies it: "thou knowest not whether shall prosper, either this or that". Ecclesiastes 9:11 adds: "time and chance happeneth to them all."
 2. Text states (the rule of diversification): "Give a portion to seven, and also to eight" (v. 2). The number is seven, and then also eight. Inference: the number deliberately goes past a round allocation.
 3. Text states: the text gives the reason to diversify: "for thou knowest not what evil shall be upon the earth" (v. 2). The reason is not better returns. It is survival of an unknown event.
 4. Text states: verse 3 states events that are sure to happen. Rain falls, and a tree lies where it falls. Inference: these events are irreversible and directional. The point is that they happen, and nobody can negotiate with them.
@@ -967,13 +983,20 @@ Observations:
 6. Text states: verse 5 grounds the uncertainty in the limits of knowledge: "As thou knowest not what is the way of the spirit... even so thou knowest not the works of God who maketh all."
 7. Text states (the rule of parallel bets): "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good" (v. 6). There are two sowings, and both can be good.
 
-Inference: verses 1–2 and verse 6 together give a consistent doctrine of capital:
+Contested: readers take verses 1–2 in two main ways.
+
+- One reading is about generosity. "Cast thy bread" and "Give a portion to seven, and also to eight" mean to give freely and widely, because you do not know what evil will come. Proverbs 11:24 has the same shape: "There is that scattereth, and yet increaseth".
+- Another reading is about trade and the spreading of risk: goods sent by sea, and portions placed in several ventures.
+
+Verse 6, "sow thy seed," fits either reading. This file uses the second reading as an analogy. The first reading is at least as old and as faithful, and this file does not settle the question.
+
+Inference: on the reading as trade, verses 1–2 and verse 6 together give a consistent approach to capital:
 
 - Deploy (cast the bread, sow in the morning).
 - Diversify (a portion to seven, and also to eight).
 - Do not wait for certainty (the observer of the wind).
 - Expect the deployment to take time (after many days).
-- Make parallel bets, and accept that either, both, or neither can prosper (v. 6).
+- Make parallel bets, and accept that you do not know which will prosper: "either this or that, or whether they both shall be alike good" (v. 6).
 
 Inference (business consequences):
 
@@ -995,7 +1018,7 @@ Observations:
 2. Text states: the portions go to seven, then also to eight. Inference: the construction suggests a first allocation and a further one, not a single division into eight.
 3. Text states: the text gives the purpose: the unknown evil.
 
-Inference: the passage does not specify the amounts. It specifies that the distribution goes past the confident allocation. The eighth portion exists because the first seven were confident.
+Inference: the passage does not specify the amounts. It specifies that the distribution goes past the confident allocation. On the reading as generosity, the portions are gifts, and the eighth is one more act of kindness. On the reading as trade, which the consequences below use, the eighth portion exists because the first seven were confident.
 
 Inference (business consequences):
 
@@ -1037,6 +1060,7 @@ Observations:
 1. Text states: the house of the wise holds both treasure and oil. Inference: treasure is a durable store, and oil is a consumable provision. The reserve has two parts: the long-term store and the working provision.
 2. Text states: the text states the difference between the wise and the foolish as a verb: "spendeth it up." The text does not call the fool poor or unlucky. The fool consumes the store.
 3. Text states: the treasure is "to be desired". Inference: the text presents the desire for a reserve as valid, not as greed.
+4. Text states (the limit, in the same book): "Labour not to be rich: cease from thine own wisdom. Wilt thou set thine eyes upon that which is not? for riches certainly make themselves wings; they fly away as an eagle toward heaven" (Proverbs 23:4–5). Inference: the store of the wise is commended, and the labor to be rich is forbidden. The two do not conflict.
 
 Inference (business consequences):
 
@@ -1126,10 +1150,11 @@ Observations:
 3. Text states: the problem that he names is storage capacity: "I have no room where to bestow my fruits" (v. 17). His solution is more capacity (v. 18).
 4. Text states: the text gives the horizon of the plan: "much goods laid up for many years" (v. 19). The plan is long-term, and he directs it for himself.
 5. Inference: the failure is not the barns. It is what he says to his own soul: "Soul, thou hast much goods... take thine ease". He makes the store the ground of his security. The store has a term that he did not count (A30).
-6. Text states: the verdict is "Thou fool". The reason given is the question of whose it will be: "then whose shall those things be, which thou hast provided?" (v. 20). Inference: the question is about succession, and nobody answers it.
+6. Text states: the verdict is "Thou fool". The verse gives two reasons together: "this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?" (v. 20). Inference: death ends his claim, and the store passes to others. The question points to the futility of the store at death. Psalm 39:6 says the same: "he heapeth up riches, and knoweth not who shall gather them."
 7. Text states: verse 21 states the general principle: "So is he that layeth up treasure for himself, and is not rich toward God."
+8. Text states (the context): Jesus gives the verdict before the parable, "Take heed, and beware of covetousness" (v. 15). The teaching continues to verse 33: "Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not". Matthew 6:19–20 says the same: "Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal: But lay up for yourselves treasures in heaven". James 5:3 says of hoarded wealth: "Ye have heaped treasure together for the last days."
 
-Inference: read against Part 5 (Joseph), this passage is the control case. Joseph also stored grain against a famine, and the text presents his storage as wise. The difference is not the barn. The text supplies these differences:
+Inference: read against Part 5 (Joseph), this passage is the control case. Joseph also stored grain against a famine, and the text presents his storage as wise. The difference is not the barn. The stated difference is in verse 21: the rich man laid up treasure "for himself" and was "not rich toward God." The table below adds my own comparison. The Purpose row comes from the text. The Credit, Counsel, and Succession rows are my analogy, not the point that Jesus states:
 
 |             | Joseph (Genesis 41)                    | The rich fool (Luke 12)                    |
 | ----------- | -------------------------------------- | ------------------------------------------ |
@@ -1138,15 +1163,16 @@ Inference: read against Part 5 (Joseph), this passage is the control case. Josep
 | Purpose     | "that the land perish not" (41:36)     | "take thine ease" (v. 19)                  |
 | Succession  | Officers appointed, a system           | No answer: "whose shall those things be"   |
 
-Inference: the sin is not the reserve. The sin is a reserve held for the self, planned alone, with no purpose beyond the ease of the owner, and with no named successor.
+Inference: the sin is not the reserve. Jesus names the sin: covetousness (v. 15), and treasure laid up "for himself" by a man who "is not rich toward God" (v. 21). The plan made alone and the missing successor are symptoms in my comparison. They are not the verdict.
 
 Inference (business consequences):
 
+- Beware of covetousness first. Observation 8. The verdict is about the heart before it is about the balance sheet. The remedy that the text gives is to be "rich toward God" (v. 21) and to "give alms" (v. 33).
 - A reserve needs a stated purpose beyond the comfort of the owner. Observation 5. "So that we survive a downturn" is a purpose. "So that we can relax" is the speech to the soul.
-- Plan with counsel. Observation 2. The man speaks only to himself. This is the failure case of A18 (Aloneness is not good) in a financial setting.
-- Name the successor. Observation 6. The unanswered question is the verdict. A founder with a large balance sheet and no answer to "whose shall those things be" has the same defect.
+- Plan with counsel. Observation 2. The man speaks only to himself. This is the failure case of A18 (Aloneness is not good) in a financial setting. This point is my analogy.
+- Death ends the claim of the owner. Observation 6. Inference: a plan for succession is prudent, but it does not answer the verdict. A founder with a large balance sheet and a plan for succession can still be the fool of verse 20.
 - More capacity is often the wrong answer. Observation 3. The problem he named was storage. His solution was more storage. The real problem was neither.
-- This is not a prohibition on saving. Joseph saved. The text condemns a specific configuration, not the practice.
+- This is not a prohibition on saving. Joseph saved, and Proverbs 21:20 commends the store of the wise. The text condemns covetousness and treasure laid up for oneself, not prudent provision.
 
 ---
 
@@ -1242,12 +1268,12 @@ Observations:
 1. Text states: the tests rise in scale: from least to much, from mammon to true riches, from what belongs to another to your own.
 2. Text states: each test is a prerequisite, stated as a rhetorical question: "If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true riches?" (v. 11). Inference: the answer is implied.
 3. Text states: the smallest amount is the instrument of the test: "He that is faithful in that which is least is faithful also in much" (v. 10).
-4. Text states: verse 12 explicitly separates the things of another man from your own. Inference: the passage assumes that the current holdings of the steward are not his. Faithfulness with them is the qualification for ownership.
+4. Text states: verse 12 explicitly separates the things of another man from your own. Inference: the passage assumes that the current holdings of the steward are not his. Text states: verse 11 sets "the true riches" against "the unrighteous mammon." Inference: the reward for faithfulness with mammon is not more mammon. It is the true riches. Verse 13 adds: "Ye cannot serve God and mammon."
 
 Inference (business consequences):
 
 - Small assignments are the qualification for large ones. The qualification is faithfulness, not brilliance. Observation 3.
-- The test uses the assets of someone else. Observation 4. A manager who stewards the capital of the company is in an audition for capital of his own.
+- The test uses the assets of someone else. Observation 4. A manager who stewards the capital of the company is tested by it. Inference: the passage does not promise him capital of his own. The reward that it names is "the true riches" (v. 11).
 - A record of scattering disqualifies. The accusation was dissipation, the word _diaskorpizo_ (Observation 1 in the previous section). Someone who dispersed assets in the past is not a candidate for a larger allocation, whatever the explanation.
 - Foresight is a valid competence, even when the world shows it better than the church does. This comes from the previous section. It is a rebuke to complacency, not an endorsement of the method.
 - The category of stewardship is the status of an employee. The lexical work shows that the _oikonomos_ is a manager, a fiscal agent, an employee. The capital is not his. This is A1 stated as a job description.
@@ -1298,7 +1324,7 @@ Observations:
    - "that they be not highminded": humility.
    - "nor trust in uncertain riches, but in the living God": the object of trust, not the size of the holding.
    - "That they do good, that they be rich in good works, ready to distribute, willing to communicate": a readiness to give, not a mandated transfer.
-   - "Laying up in store for themselves a good foundation against the time to come": the text permits accumulation and gives it a new frame. The store is "a good foundation". Matthew 25 does not use the phrase "laying up". The nearest contrast is Luke 12:21, "he that layeth up treasure for himself". The two passages use the same English verb for the condemned store and the permitted one. Inference: the difference is the object and the purpose of the store.
+   - "Laying up in store for themselves a good foundation against the time to come": the store is built by what verse 18 commands, "That they do good, that they be rich in good works, ready to distribute, willing to communicate". Its purpose is "that they may lay hold on eternal life" (v. 19). The nearest contrast is Luke 12:21, "he that layeth up treasure for himself". Inference: the store in verse 19 is laid up by giving, and it is a store toward eternal life. It matches "lay up for yourselves treasures in heaven" (Matthew 6:20). Verse 19 is not a permission to accumulate.
 8. Text states: the text states the purpose of the store as eternal: "that they may lay hold on eternal life" (v. 19). Verse 17 adds "who giveth us richly all things to enjoy". The text affirms enjoyment. It does not condemn it.
 9. Text states: the text does not tell the rich to become poor. The charge is to a specific set of attitudes and actions.
 
@@ -1309,7 +1335,7 @@ Inference (business consequences):
 - "The love of money" and "money" are different objects, and the text keeps them separate. Observation 5. A business that needs capital does not violate the text. The warning is for a business that wants to be rich in the sense of verse 9. That desire has no limit.
 - The text names the threshold of sufficiency: food and raiment. Observation 3. Whether a modern business has "food and raiment" is a judgment. The text gives a threshold, and the threshold is low.
 - "Ready to distribute" is an attitude, not a quota. Observation 7. The instruction is about readiness and willingness. That is a standing posture, not a percentage.
-- The text gives accumulation a new frame. It does not forbid it. Observation 7, the fourth instruction: "Laying up in store... a good foundation" is permitted language. Compare Luke 12:21, which condemns the man who lays up treasure "for himself". The difference is the object of the store.
+- The text does not forbid ownership, and it does not tell the rich to become poor (observation 9). But the store that it commends is laid up by doing good and distributing (observation 7, vv. 18–19), not by holding more. The same chapter warns: "But they that will be rich fall into temptation and a snare" (v. 9). Compare Luke 12:21, which condemns the man who lays up treasure "for himself". Inference: wealth that a business holds is for good works and for distribution, and the desire to be rich is the snare.
 - The text affirms enjoyment. Observation 8: "who giveth us richly all things to enjoy". A theology that treats all comfort as suspect does not come from this passage.
 - The harm is self-inflicted. Observation 6: "pierced themselves through with many sorrows." This is a consequence, not a punishment. It pairs with A30 (Mortality makes time the binding constraint) and with A2 (The default state is formless and empty).
 
@@ -1346,7 +1372,7 @@ Observations:
 Inference: the financial teaching of the passage is this:
 
 - Start with an inventory of what is already in the house. Observation 2. The provision came through the asset that was already there, which the owner called nothing.
-- The binding constraint is usually capacity, not supply. Observation 6. The oil did not stop until the vessels ran out. This is A5 (Formation precedes filling) stated as an economic fact: the container limits the filling.
+- The binding constraint is often capacity, not supply. Observation 6. The oil did not stop until the vessels ran out. Inference: in this miracle, God supplied the oil, and the vessels set the limit. In a business, supply is not miraculous, so this is an analogy. It matches A5 (Formation precedes filling): the container limits the filling.
 - Repayment of debt comes before consumption. Observation 7: "pay thy debt, and live thou and thy children of the rest". The text states the order.
 - The asset was already there. Observation 3. The miracle did not create an asset. It multiplied one that existed. Inference: the first question in a cash crisis is not "how do we raise money?" It is "what do we already have?"
 
@@ -1367,11 +1393,11 @@ These rules come from the material above. They are inferences, stated as working
 
 On deployment:
 
-1. Do not leave capital idle (Matthew 25:27 and Luke 19:23). The master condemns idle capital. Inference: his floor is the yield of the most passive placement available, and in modern terms the nearest analogue is a low-risk deposit yield. Cash with no assignment is the talent in the ground. Operating cash held for a stated liquidity need has an assignment.
+1. Do not leave capital idle (Matthew 25:27 and Luke 19:23). This is an analogy from the image of the parables. Their stated subject is faithfulness until the Lord returns (Matthew 25:13, Luke 19:11). In the story, the master condemns the idle servant. Inference: his floor is the yield of the most passive placement available, and in modern terms the nearest analogue is a low-risk deposit yield. Cash with no assignment is the talent in the ground. Operating cash held for a stated liquidity need has an assignment.
 2. Allocate by a stated principle, and know which principle you run. Unequal by capacity (Matthew) and equal by default (Luke) are both in Scripture. If you confuse them, people make accusations that have no basis.
 3. Assess the return against the allocation, not in absolute terms (Matthew 25:21, 23: the same praise for 100% and 100%).
 4. Move capital away from unproductive managers (Matthew 25:28). A ratchet that only goes up is not an allocation process.
-5. Diversify against the unknown event, not the known risk (Ecclesiastes 11:2).
+5. Diversify against the unknown event, not the known risk (Ecclesiastes 11:2). This follows the reading of the verse as trade. Many readers take it as being about generosity (see Part 7).
 6. Give a portion to seven, and also to eight. By design, the extra portion has no thesis.
 7. Sow morning and evening. Make parallel bets under uncertainty (Ecclesiastes 11:6).
 8. Do not wait for certainty (Ecclesiastes 11:4). The observer of the wind never sows.
@@ -1387,10 +1413,10 @@ On debt:
 
 13. Price the servitude, not only the interest (Proverbs 22:7). Read the covenant as a list of authorities that you gave up.
 14. Treat a guarantee as a liability that starts at the moment of speech (Proverbs 6:1–2). If it was a mistake, unwind it urgently and humbly (vv. 3–5).
-15. Do not extract from someone who cannot refuse (Exodus 22:25 and Leviticus 25:35–37). The prohibition targets the poor borrower and the brother, not interest as such. The Hebrew verb for lending on interest also covers the permitted loan to a stranger (Deuteronomy 23:20).
+15. Do not extract from someone who cannot refuse (Exodus 22:25 and Leviticus 25:35–37). Exodus and Leviticus target the poor borrower. Deuteronomy 23:19 forbids interest to any brother. The Hebrew verb for lending on interest also covers the permitted loan to a stranger (Deuteronomy 23:20). Contested: whether interest on a commercial loan is permitted at all (Psalm 15:5, Ezekiel 18:8 and 13, Luke 6:35). See Part 4.
 16. Set a survival floor on collateral (Exodus 22:26–27 and Deuteronomy 24:6, 10–13). Never take the means of production or the thing that a person needs to sleep.
-17. Model debt against the cycle, not the present (Deuteronomy 15:1–11). The law expects the withdrawal behavior that the release year causes, and it forbids that behavior.
-18. The preferred position is to lend and not borrow (Deuteronomy 15:6). The text states this as an ideal, not as a prohibition.
+17. Do not let the cycle shut your hand to the poor (Deuteronomy 15:9–10). The law expects the withdrawal behavior that the release year causes, and it calls that behavior sin.
+18. By analogy, the preferred position is to lend and not borrow (Deuteronomy 15:6). The text states this as a promise to Israel in the land, not as a prohibition. It guarantees no commercial outcome.
 
 On reserves:
 
@@ -1398,14 +1424,14 @@ On reserves:
 20. Name one owner for the reserve (Genesis 41:33). A reserve without an owner gets raided.
 21. Store near production, under central authority (Genesis 41:35, 48).
 22. A reserve is a competitive position, not only a cushion (Genesis 41:54–57).
-23. A reserve needs a purpose beyond the ease of the owner (Luke 12:19 against Genesis 41:36). The barns of Joseph and the barns of the rich fool differ in purpose, counsel, and named succession.
+23. A reserve needs a purpose beyond the ease of the owner (Luke 12:19 against Genesis 41:36). The barns of Joseph and the barns of the rich fool differ in purpose. Jesus names the failure as covetousness and as not being "rich toward God" (Luke 12:15, 21). The differences in counsel and succession are my analogy.
 24. Know the state, not only the total (Proverbs 27:23). An income statement does not show condition.
 25. A reserve is not idle capital (Part 1 against Part 7). A reserve is capital allocated to a specific function of recovery, and that is work. Hoarding is capital with no assignment.
 
 On structure and limits:
 
-26. Resets are a design feature, not a failure (Leviticus 25 and Deuteronomy 15). A system with no reset concentrates. That is the default, not a moral failure of the participants.
-27. Cap durability, not accumulation (Leviticus 25:23). The text does not condemn the man with many fields. It limits how long he can hold them.
+26. Resets are a design feature, not a failure (Leviticus 25 and Deuteronomy 15). A system with no reset concentrates. That is the default. It is not always a moral failure of the participants, but the prophets condemn those who drive it by covetousness (Isaiah 5:8, Micah 2:2).
+27. Cap durability, not accumulation (Leviticus 25:23). Leviticus 25 does not condemn the man with many fields. It limits how long he can hold them. Isaiah 5:8 condemns the man who adds field to field "till there be no place".
 28. Transfers in distress run cash → movables → productive assets → control (Genesis 47:14–21). Decide in advance where you will stop (A20).
 29. Name the exemptions before you need them. Every consolidation has them (Genesis 47:22), and the list is the map of who has standing.
 30. Consider irreversibility explicitly (Genesis 47:26: "And Joseph made it a law over the land of Egypt unto this day"). This is A32 applied to capital: slow down the irreversible decisions.
@@ -1413,7 +1439,7 @@ On structure and limits:
 On what is already there:
 
 31. Start with "what hast thou in the house?" (2 Kings 4:2). The owner's own assessment is unreliable.
-32. The binding constraint is usually capacity, not supply (2 Kings 4:6). The oil stopped when the vessels ran out.
+32. The binding constraint is often capacity, not supply (2 Kings 4:6). The oil stopped when the vessels ran out. This is an analogy from a miracle, in which God supplied the oil.
 33. Repay debt before you fund consumption (2 Kings 4:7). The text states the order.
 34. "Consider your ways" (Haggai 1:5). A bag with holes is a structural leak. The response is a review of the process, not more effort.
 35. Watch for drift in who gets the credit (Genesis 41:16: "It is not in me"). The disclaimer must come before the result to be worth anything.
@@ -1424,7 +1450,7 @@ On what is already there:
 
 ### Verses retrieved with `scripture.ts`
 
-Matthew 25:14–30, Luke 19:11–27, Luke 14:28–32, Proverbs 22:7, Proverbs 6:1–5, Genesis 41:1–57 (including 41:8, 41:13, 41:16, 41:29–36, 41:47–57), Genesis 47:13–26, Leviticus 25:1–37, Deuteronomy 15:1–11, Exodus 22:25–27, Exodus 23:12, Deuteronomy 23:19–20, Deuteronomy 24:6, 10–13, Ecclesiastes 11:1–6, Ecclesiastes 5:10–11, 1 Timothy 6:6–19, Proverbs 27:23–27, Haggai 1:4–6, Luke 16:1–13, Luke 12:15–21, 2 Kings 4:1–7. Also: Proverbs 21:20, Proverbs 11:15, Proverbs 17:18, Proverbs 22:26–27, Genesis 39:6, Matthew 20:2.
+Matthew 25:14–30, Luke 19:11–27, Luke 14:28–32, Proverbs 22:7, Proverbs 6:1–5, Genesis 41:1–57 (including 41:8, 41:13, 41:16, 41:29–36, 41:47–57), Genesis 47:13–26, Leviticus 25:1–37, Deuteronomy 15:1–11, Exodus 22:25–27, Exodus 23:12, Deuteronomy 23:19–20, Deuteronomy 24:6, 10–13, Ecclesiastes 11:1–6, Ecclesiastes 5:10–11, 1 Timothy 6:6–19, Proverbs 27:23–27, Haggai 1:4–6, Luke 16:1–13, Luke 12:15–21, 2 Kings 4:1–7. Also: Proverbs 21:20, Proverbs 11:15, Proverbs 17:18, Proverbs 22:26–27, Genesis 39:6, Matthew 20:2. Added in the doctrinal review: Matthew 25:13, Matthew 25:18, 1 Corinthians 4:7, 1 Peter 4:10, Luke 6:35, Luke 12:33, Matthew 6:19–20, James 5:3, Psalm 39:6, Proverbs 23:4–5, Psalm 15:1, 5, Ezekiel 18:8, 13, 17, Nehemiah 5:7, Proverbs 28:8, Isaiah 5:8, Micah 2:2, Ecclesiastes 9:11, Proverbs 11:24.
 
 ### Lexical claims verified with `lexicon.ts`
 
@@ -1442,7 +1468,7 @@ I state these explicitly and do not smooth them over.
 
 4. G5585 _psephizo_, G1287 _diaskorpizo_, G5430 _phronimos_. I looked up all three and quote their definitions verbatim above. Strong's gives G5585 as "to use pebbles in enumeration, i.e. (generally) to compute". It gives G1287 as "to dissipate, i.e. (genitive case) to rout or separate; specially, to winnow; figuratively, to squander". It gives G5430 as "prudently".
 
-5. The comparison of the barns of the rich fool (Luke 12) with the storage of Joseph, which the text presents as wise. This is my comparison, not a statement in either text. Part 7 labels it as an inference, and the four-row table is an inference throughout.
+5. The comparison of the barns of the rich fool (Luke 12) with the storage of Joseph, which the text presents as wise. This is my comparison, not a statement in either text. Part 7 labels it as an inference, and the four-row table is an inference throughout. The verdict that Jesus states is covetousness and not being "rich toward God" (Luke 12:15, 21). The rows on credit, counsel, and succession are my analogy.
 
 6. The base and the size of the levy in Genesis 41:34. The text gives a rate ("the fifth part") and a duration (seven years). By simple arithmetic, a fifth for seven years is 1.4 years of harvest, if the levy was on the gross harvest. That is my computation, not a claim in the text. The file does not claim that this amount covers seven years of famine. The text gives no such derivation, and it says that the store grew beyond counting (41:49). The text also does not state whether the levy was on the gross harvest or on some other base. I read it as gross production, which is the natural reading of "take up the fifth part of the land of Egypt in the seven plenteous years". But that is a reading.
 

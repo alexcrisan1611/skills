@@ -35,19 +35,20 @@ The skill also tells you when not to use it. Use it when the decision is hard to
 1. Check the six failure modes. These are the inherited assumption, the substituted authority, the worship of an analogy, the false choice between two options, the unstated premise, and haste.
 2. Climb the derivation ladder. It has four rungs: observation, pattern, principle, and axiom (a claim that ends the climb). Each rung rests on the rung below it.
 3. Run the tests. The skill uses six verses as tests, for example Acts 17:11 and Proverbs 18:17. Someone who does not profit from the claim tests it, before the decision.
-4. Name the condition of the thinker. Fear, sleep, debt, and loyalty shape judgment before reasoning starts.
+4. Name the condition of the thinker. Fear, sleep, debt, loyalty, and pride shape judgment before reasoning starts. Scripture also says that sin darkens the understanding (Ephesians 4:18). Ask God for wisdom (James 1:5).
 5. Name the limit. Some questions have no answer from inside the system. The skill says so and acts on what is known.
 
-The answer follows an eight-part shape:
+The answer follows a nine-part shape:
 
 1. The question, in one sentence.
 2. What is given, with the uncertain items marked.
-3. The load-bearing claim and its label.
-4. The derivation, one claim per line.
-5. The tests, and who ran them.
-6. The falsifier: the observation that ends the argument.
-7. The limit: what the answer cannot settle.
-8. Confidence, and the cost of being wrong.
+3. The condition of the thinker, and a request to God for wisdom.
+4. The load-bearing claim and its label.
+5. The derivation, one claim per line.
+6. The tests, and who ran them.
+7. The falsifier: the observation that ends the argument.
+8. The limit: what the answer cannot settle.
+9. Confidence, and the cost of being wrong.
 
 For a small question, the skill keeps the answer short.
 
@@ -75,6 +76,6 @@ For a small question, the skill keeps the answer short.
 
 - The skill does not give you certainty. It names what it cannot settle.
 - Every application of Scripture is an inference, not a statement of the text.
-- The skill cannot repair the mind of the person who reasons. It only names that condition as an input.
+- The skill cannot repair the mind of the person who reasons. It names that condition as an input. Scripture names the repair as the work of God (Titus 3:5).
 - It is expensive. It costs time and unsettles settled things. Do not use it on cheap, reversible decisions.
 - The supplied Strong's lexicon data has no verse-level tagging. A link from a verse to a Strong's number is a standard concordance association, not a tool finding.

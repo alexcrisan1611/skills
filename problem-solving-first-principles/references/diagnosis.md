@@ -128,8 +128,9 @@ Label: Illustration.
 The question (Genesis 3:11): "Who told thee that thou wast naked?"
 
 The work: Ask what fed the failure. The source can be a person, a rule, an incentive, a tool, or
-an absence. Text states: In Genesis 3, God asks this question (verse 11) before the question
-about the act (verse 13). Inference: The question is about the input that produced the state.
+an absence. Text states: In Genesis 3:11, God asks this question first. In the same verse he
+asks about the act: "Hast thou eaten of the tree...?" Inference: The question is about the input
+that produced the state.
 
 What fed stage 4 in this case:
 
@@ -160,10 +161,13 @@ Label: Illustration for the case data. The verse is Text states.
 
 ## Step 5. Establish the act
 
-The question (Genesis 3:13): "What is this that thou hast done?"
+The question (Genesis 3:11): "Hast thou eaten of the tree, whereof I commanded thee that thou
+shouldest not eat?" Verse 3:13 puts the same kind of question to the woman: "What is this that
+thou hast done?"
 
 The work: State what was done, who did it, and which rule permitted it. This step produces a
-finding. The finding is about the process, not about the character of a person.
+finding. The finding names the act and the process. It is not a verdict on the character of a
+person.
 
 The finding in this case:
 
@@ -181,7 +185,9 @@ dishonest" is not a finding. It is a judgment that comes before the diagnosis is
 Axiom A26 in `business-first-principles`, "Diagnose before you judge", names the correct
 sequence. Text states: In Genesis 3:12-13, Adam and the woman both pass the cause to another.
 Inference: The text shows the alternative for the diagnosis. The diagnosis records the transfer
-of blame, but it does not accept it.
+of blame, but it does not accept it. Text states: In 3:14-17, God holds each one to account for
+that one's own act, and in 3:21 he clothes them. Inference: Record the personal act and the
+system together, and aim at restoration (Galatians 6:1).
 
 Label: Illustration.
 
@@ -257,9 +263,11 @@ held" counts activity. The failure count counts the outcome.
 The load: Inference: The end of each quarter in the four-quarter test period is the storm that
 the fix must survive. The first load arrives at the end of the next quarter.
 
-Labels: Illustration for the case. The pattern of naming the test in advance comes from two
-texts. Text states: In Matthew 7:24-27, both houses meet the same rain, floods, and winds. Text
-states: In 1 Corinthians 3:13, the fire tries the work "of what sort it is".
+Labels: Illustration for the case. The pattern of naming the test in advance is drawn by analogy
+from two texts. Their subjects are obedience to the words of Jesus and the work built on Christ
+(Matthew 7:24, 1 Corinthians 3:11). Text states: In Matthew 7:24-27, both houses meet the same
+rain, floods, and winds. Text states: In 1 Corinthians 3:13, the fire tries the work "of what
+sort it is".
 
 ---
 

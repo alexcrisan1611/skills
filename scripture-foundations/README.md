@@ -12,7 +12,7 @@ The skill gives the agent three things:
 
 The skill also has a Strong's lexicon tool. Strong's is a numbered dictionary of the Hebrew and Greek words under the KJV. The agent uses it to check the original word before it draws an inference from an English word.
 
-This skill is the base layer for other skills in this repository: `first-principles-reasoning`, `body-first-principles`, `business-first-principles`, `business-idea-generation`, `problem-solving-first-principles`, `renewing-the-mind`, and `technology-selection`. The skill `ancient-secret-wealth-principle` is separate and does not build on it.
+This skill is the base layer for other skills in this repository: `first-principles-reasoning`, `body-first-principles`, `business-first-principles`, `business-idea-generation`, `problem-solving-first-principles`, `renewing-the-mind`, and `technology-selection`. The skill `ancient-secret-wealth-principle` is separate. It presents an outside model (Myron Golden's Four Levels of Value), and it is not a first-principles skill. It does use Rule one and the KJV script from this layer.
 
 ## When to use it
 

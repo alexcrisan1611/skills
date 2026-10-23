@@ -4,7 +4,7 @@ This file gives the three-part test for an ethics decision. It also shows how to
 
 ## Method and labels
 
-The file uses four labels: Text states, Lexical, Inference, and Speculation. The verses come from `scripture.ts`. The Strong's definitions come verbatim from `lexicon.ts`.
+The file uses five labels: Text states, Lexical, Inference, Contested, and Speculation. The verses come from `scripture.ts`. The Strong's definitions come verbatim from `lexicon.ts`.
 
 These axioms govern the file:
 
@@ -95,7 +95,7 @@ Observations:
 
 1. Text states: the word "and" joins the three, so all three are required. The list is not a menu.
 2. Text states: the three are of three different kinds. Doing is an act. Loving is a disposition. Walking is a continuous manner of life. Inference: you cannot reduce one of the three to another. That is why they work as independent tests.
-3. Text states: the frame is a question and an answer: "what doth the LORD require of thee, but…" Inference: the text presents the answer as complete. The word "but" implies that this is the whole requirement, not a summary of a longer list.
+3. Text states: the frame is a question and an answer: "what doth the LORD require of thee, but…" Inference: the word "but" sets the three requirements against the offers of verses 6-7. As a reply to those offers, the answer is complete. It is a summary of the law, not a replacement for it (see "What the test does not cover").
 4. Text states: the addressee is "O man." That is a person, not an institution.
 5. Text states (context): Micah 6:6-7 lists religious offers that grow larger each time. The offers are burnt offerings, calves, thousands of rams, ten thousands of rivers of oil, and a firstborn child. Verse 8 answers all of them. Inference: the text presents the three requirements as a replacement for elaborate religious performance, not as an addition to it.
 
@@ -172,12 +172,14 @@ Observations:
 5. Text states: the size of the harvest is not a condition. No clause limits the rule to a good year. Inference: the obligation is a fixed part of the field, the corners, whatever the yield.
 6. Text states: the ground given is not a reason but an identity: "I am the LORD your God."
 
-Inference: the gleaning rule sets a specific design. The provision for the poor is part of the productive process. It is not added afterward. It is a reduction in yield, not a charitable deduction. It also keeps the agency of the recipient. The poor person gleans, which is work. The poor person does not receive a distribution, which is dependence.
+Inference: the gleaning rule sets a specific design. The provision for the poor is part of the productive process. It is not added afterward. It is a reduction in yield, not a charitable deduction. It also keeps the agency of the recipient. The poor person gleans, which is work.
+
+Text states (the other mode): gleaning is one mode of provision. Scripture also commands direct gifts. The third-year tithe is laid up so that "the stranger, and the fatherless, and the widow, which are within thy gates, shall come, and shall eat and be satisfied" (Deuteronomy 14:29). "Thou shalt surely give him" (Deuteronomy 15:10). Isaiah 58:7 says to "deal thy bread to the hungry." The rich are to be "ready to distribute" (1 Timothy 6:18). In the church at Jerusalem, "distribution was made unto every man according as he had need" (Acts 4:35). Inference: the two modes work together. Neither replaces the other.
 
 Business consequences:
 
 - Build the provision into the process, not into the philanthropy (observation 3). A margin set aside at the point of production is different from a donation made from the proceeds.
-- Leave the recipient with agency (observation 3). The poor come and gather. Nobody hands them a result. Inference: a program that removes the work of the recipient removes something that the recipient needs.
+- Where the recipient can work, leave the recipient with agency (observation 3). The poor come and gather. Inference: a program that removes work that the recipient is able to do can remove something that the recipient needs. This does not replace direct gifts, which Scripture also commands (Deuteronomy 15:10, Isaiah 58:7).
 - Set the provision as a fixed rule, not a discretionary amount (observation 5). The corners are defined in advance (A20).
 - Include the stranger (observation 4). The rule names the person who has no claim on the community.
 
@@ -279,12 +281,14 @@ Observations:
 5. Text states: the verse gives two more prohibitions: "shalt not avenge, nor bear any grudge." Inference: the text forbids the grudge alongside the vengeance. So the resentment that a person keeps is itself a violation, whether or not the person acts on it.
 6. Text states: the section closes with the summary: "but thou shalt love thy neighbour as thyself." Jesus cites this verse, with Deuteronomy 6:5, as the summary of the whole law. Matthew 22:37-40: "Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, Thou shalt love thy neighbour as thyself. On these two commandments hang all the law and the prophets."
 
-Inference: this is the sharpest management consequence of the passage. The prohibition on hatred in the heart sits next to a command to speak. The verse gives no third option between resentment and confrontation. You rebuke the neighbor, or you hate him in your heart. Silence is the second option.
+Inference: this is the sharpest management consequence of the passage. The prohibition on hatred in the heart sits next to a command to speak. Silent resentment is the forbidden state.
+
+Text states (the qualification, elsewhere): Scripture also commends passing over an offense. "The discretion of a man deferreth his anger; and it is his glory to pass over a transgression" (Proverbs 19:11). Peter writes that "charity shall cover the multitude of sins" (1 Peter 4:8). Inference: so there is a third path. You can forgive and cover the offense, with no grudge kept. What the verse forbids is the silence that keeps the hatred. Where the neighbor stays in the wrong, the rebuke is required, and Jesus gives the first step: "go and tell him his fault between thee and him alone" (Matthew 18:15).
 
 Business consequences:
 
 - Silent resentment is the forbidden state (observation 2). Some organizations train people to be "professional" by not raising concerns. Those organizations create the condition that the verse forbids.
-- The rebuke is an obligation, not an option (observation 3). "In any wise."
+- When the neighbor stays in the wrong, the rebuke is an obligation, not an option (observations 3 and 4). "In any wise."
 - The purpose of the rebuke is the good of the neighbor (observation 4). It is not a release for your own frustration.
 - The text forbids grudges separately from vengeance (observation 5). A manager who does not retaliate but keeps a record does not comply.
 - This is the mechanism behind A25 (Undisclosed failure produces hiding and blame). The failure to speak produces the hiding and the blame.
@@ -336,7 +340,7 @@ Observations:
 2. Text states: the specific prohibition is duplicity: "divers weights, a great and a small" (Deut 25:13) and "divers weights, and divers measures" (Prov 20:10). The offense is having two sets. Inference: the merchant uses one set for buying and one for selling. The dishonest merchant does not use a broken scale. He uses the correct scale for the wrong party.
 3. Text states: the requirement is positive: "a perfect and just weight, a perfect and just measure shalt thou have" (v. 15). The word is "perfect." Inference: "perfect" here means complete, whole, and not adjusted.
 4. Text states: the same English word, "unrighteousness," governs Leviticus 19:15 (judgment) and 19:35 (measurement). Inference: the text treats judgment and measurement as one category.
-5. Text states: Deuteronomy 25:15 attaches a promise: "that thy days may be lengthened in the land." Inference: the text connects honest measurement to long life. That is a business consequence as well as a personal one.
+5. Text states: Deuteronomy 25:15 attaches a promise: "that thy days may be lengthened in the land which the LORD thy God giveth thee." The original audience is Israel in the land. A business use of this text is an analogy. It guarantees no commercial outcome.
 6. Text states (Amos): Amos 8:5 gives the motive for the practice: "Saying, When will the new moon be gone, that we may sell corn? and the sabbath, that we may set forth wheat, making the ephah small, and the shekel great, and falsifying the balances by deceit?" The intent is plain: make the measure smaller and the price larger.
 7. Text states (Habakkuk): "For the stone shall cry out of the wall, and the beam out of the timber shall answer it" (Habakkuk 2:11). Inference: the wrong measurement is part of the structure, and the structure will testify.
 
@@ -363,7 +367,7 @@ Business consequences:
 - The test is duplicity, not inaccuracy (observation 2). An inaccurate scale used the same way for everyone is a different problem from a scale that changes with the counterparty.
 - The strongest form of the rule is one standard, published (observation 3, "perfect and just").
 - Watch the metric that appears in only one document. The board metric and the operating metric must be the same number.
-- The structural consequence is long life (observation 5). The text connects honest measurement to staying in business.
+- By analogy, honest measurement belongs to a business that lasts (observation 5). The promise was given to Israel in the land. It guarantees no commercial outcome.
 
 ---
 
@@ -442,14 +446,14 @@ Observations:
    - believer and infidel
    - temple and idols
 6. Text states: the conclusion is a command to separate: "Wherefore come out from among them, and be ye separate" (v. 17).
-7. Contested: the passage does not say which relationships are in view. Faithful readers differ on whether it covers business partnerships, marriages, or only religious association. This file does not invent certainty here. The text states the principle of the yoke and the list of incompatibilities.
+7. Contested: the passage does not say which relationships are in view. Faithful readers differ. Many apply it first to marriage, and compare "only in the Lord" (1 Corinthians 7:39). Some apply it also to business partnerships and other binding ties with unbelievers. Others limit it to religious association with idolatry, since verse 16 names "the temple of God with idols." This file does not invent certainty here. The text states the principle of the yoke and the list of incompatibilities.
 
-Inference: the principle that transfers, stated carefully, is this. Some combinations cannot work together. If you try the combination, it damages the weaker party and defiles the yield. The image of the ox and the ass is the operational one. It is not about purity. It is about what happens when you bind together two things of different strength and different direction.
+Inference: the principle that transfers, stated carefully, is this. Some combinations cannot work together. Text states: Deuteronomy names the result as defilement (22:9). Paul names the categories as moral and spiritual: righteousness and unrighteousness, light and darkness, Christ and Belial, believer and infidel (2 Corinthians 6:14-15). Inference: the yoke is about purity and allegiance first. The image of the ox and the ass adds a second, practical point. Two things of different strength and different direction, bound together, harm the weaker one.
 
 Business consequences:
 
-- The yoke image is the useful one, and it is about mechanism, not purity (observation 4). A partnership between parties of very different strength, pace, or values damages the weaker party. The damage is mechanical, not moral.
-- Test the combination against the yield (observation 2). The stated consequence is defilement of the fruit, that is, the output. Do not ask whether the partner is bad. Ask what the combination produces.
+- The criterion that Paul states is belief and unbelief (observation 5), and the categories are moral. Inference: a believer who weighs a binding partnership must ask that question first. The ox and the ass add a practical point (observation 4). A partnership between parties of very different strength, pace, or values also damages the weaker party.
+- Test the combination against the yield (observation 2). The stated consequence is defilement of the fruit, that is, the output. Ask both questions: what the partner serves, and what the combination produces.
 - Watch for partnerships that look like synergy and act like a yoke (observation 3). Each component is fine. The mixing is the problem.
 - The passage does not settle which relationships it covers (observation 7). Applying 2 Corinthians 6:14 to a commercial joint venture is a defensible inference, not a stated requirement. Label it as an inference.
 
@@ -633,7 +637,7 @@ Business consequences:
 - The "putting forth of the finger" is an item (observation 7). Accusation is on the list.
 - "Speaking vanity" is an item (observation 7). Empty speech is on the list.
 - Hiding is the failure mode (observation 8). "Hide not thyself from thine own flesh."
-- The promises matter to a business (observation 6): guidance, satisfaction in drought, and a spring that does not fail. Inference: the text connects ethical practice to resilience, not only to reward.
+- The promises are made to Israel (observation 6). The chapter ends with "and feed thee with the heritage of Jacob thy father" (Isaiah 58:14). The original audience is Israel in the land. A business use of this text is an analogy. It guarantees no commercial outcome. Inference: by analogy, ethical practice and resilience belong together.
 
 ### Amos 5:11-12 and 8:4-6: the small ephah
 
@@ -685,13 +689,13 @@ Observations:
 1. Text states: three roles, each with a price. The heads judge for reward. The priests teach for hire. The prophets divine for money. Inference: the list covers the judicial, the teaching, and the advisory functions.
 2. Inference: the three are parallel, and the point is the same for each. Each person does the function for a payment, and the payment determines the output.
 3. Text states: the second clause is the sharper one: "yet will they lean upon the LORD, and say, Is not the LORD among us? none evil can come upon us." Inference: the people use religious confidence as insurance against consequences. The same people who take the payment assume that nobody will hold them to account.
-4. Text states: the payment of the judge is "reward," the payment of the priest is "hire," and the payment of the prophet is "money." Inference: the different words suggest ordinary payments for these functions, not bribes as such. The wrong is that the payment determines the judgment.
+4. Text states: the payment of the judge is "reward," the payment of the priest is "hire," and the payment of the prophet is "money." Text states (the law on judges): a judge was to take no gift at all. "And thou shalt take no gift" (Exodus 23:8). "Thou shalt not wrest judgment; thou shalt not respect persons, neither take a gift" (Deuteronomy 16:19). Micah 7:3 lists "the judge asketh for a reward" among the evils of the land. Inference: for the judge, any reward from a party is a bribe. For the priest and the prophet, the words can mean ordinary support. Their wrong is that the payment determines the answer.
 
-Inference: the passage names a specific corruption. A professional shapes the output to suit the person who pays. The text does not condemn the taking of money. The people supported priests and prophets. The text condemns the payment that determines the answer.
+Inference: the passage names a specific corruption. A professional shapes the output to suit the person who pays. The text does not condemn all support of priests and prophets. The people supported them. For judges, the law forbids any gift (Exodus 23:8). The text condemns the payment that determines the answer.
 
 Business consequences:
 
-- The test is not whether money changed hands. The test is whether the payment shaped the output (observation 4). Paid advice is not the problem. Advice whose content follows the payer is the problem.
+- For the one who judges, the line is bright: no gift from a party (Exodus 23:8, and Part 4). For the one who teaches or advises, the test is whether the payment shaped the output (observation 4). Paid advice is not the problem. Advice whose content follows the payer is the problem.
 - This applies to every advisory function in a company. Examples are auditors, consultants, analysts, rating agencies, in-house counsel, and any function whose answer matters to the payer.
 - The three functions map onto three business roles. The judge is the person who rules on disputes. The priest is the person who teaches the standard. The prophet is the person who forecasts. The payment can capture each one.
 - The confident clause is the diagnostic (observation 3). The text presents "none evil can come upon us," the assumption of immunity, as a symptom of the corruption, not a comfort.
@@ -767,9 +771,9 @@ Observations:
 Business consequences:
 
 - "We knew it not" is not a defense (observations 2-3). The text expects the exact excuse.
-- The test is what was available to know, not what was recorded (observation 3). Inference: if the information is somewhere in the systems of an organization, the organization has the knowledge, even if nobody read it.
+- The test is what was in the heart, not what was recorded (observation 3). The one who "pondereth the heart" knows whether "we knew it not" is true. Inference: willful ignorance is no defense. A person who arranges not to know, or who will not read what is in front of him, cannot claim that he knew it not.
 - The duty is to deliver, not to report (observation 1). The obligation is action.
-- The heart judges the excuse, not the process (observation 3). A process that produced no knowledge does not clear you if the knowledge was there.
+- God judges the excuse by the heart, not by the process (observation 3). A process that recorded no knowledge does not clear you if you knew.
 
 ### Your enemy's ox (Exodus 23:4-5)
 
@@ -867,8 +871,12 @@ Observations:
 5. Text states: the negative version is equally explicit: "Inasmuch as ye did it not to one of the least of these, ye did it not to me" (v. 45). Inference: the failure is omission, not commission. Nobody in the parable did anything harmful.
 6. Text states: all the criteria are personal and physical: food, drink, welcome, clothing, health, and imprisonment.
 7. Text states: "the least" is the category. Inference: the audit runs on the smallest cases, not the largest.
+8. Contested: faithful readers differ on who "the least of these my brethren" are (v. 40).
+   - One view is that they are the disciples of Jesus, especially those sent out in his name. It cites Matthew 12:49, where Jesus "stretched forth his hand toward his disciples, and said, Behold my mother and my brethren!" It also cites "one of these little ones a cup of cold water only in the name of a disciple" (Matthew 10:42) and "go tell my brethren" (Matthew 28:10).
+   - A second view is that they are all who are in need. It cites the parable of the Samaritan (Luke 10:29-37), "let us do good unto all men" (Galatians 6:10), and the fact that "all nations" stand in the judgment (v. 32).
+   - This file does not settle the question. The axiom and the business consequences below follow the second view. On the first view, they still hold by analogy, and Galatians 6:10 supports them directly.
 
-Inference (the axiom): the audit examines acts of ordinary provision to people who cannot repay, and the failure mode is omission. This is the same principle as Exodus 23:5 and Isaiah 58. The passive option is closed.
+Inference (the axiom, on the second view): the audit examines acts of ordinary provision to people who cannot repay, and the failure mode is omission. This is the same principle as Exodus 23:5 and Isaiah 58. The passive option is closed.
 
 Business consequences:
 
@@ -895,7 +903,7 @@ Business consequences:
 
 - Awareness triggers the obligation (observation 2). This is the same structure as "we knew it not" in Proverbs 24:12. Here the awareness is the condition.
 - Having, seeing, and shutting is the named combination (observation 1). Any two of the three are not the violation. All three together are.
-- The verdict is about the internal state, not the act (observation 4). The question is not "why did you not give?" It is "how does love stay in you?"
+- The verdict starts with the internal state (observation 4). The question is "how dwelleth the love of God in him?" The next verse names the evidence: "let us not love in word, neither in tongue; but in deed and in truth" (1 John 3:18). Inference: the shut heart shows in the act that did not happen.
 
 ---
 
@@ -1000,7 +1008,7 @@ Observations:
 2. Text states: the decision is specific: the meat of the king and the wine of the king. It is not a general promise not to compromise.
 3. Text states: the action that follows is a request, not a refusal: "therefore he requested of the prince of the eunuchs." Inference: Daniel holds the boundary through negotiation, not confrontation.
 4. Text states: the stated purpose is about himself: "that he would not defile himself."
-5. Text states (the outcome, vv. 9-16): the official grants the request, Daniel proposes a test, and the outcome is favorable. Inference: Daniel held the boundary without conflict, and he proposed the mechanism that showed it worked.
+5. Text states (the outcome, vv. 9-16): "Now God had brought Daniel into favour and tender love with the prince of the eunuchs" (v. 9). The prince still fears the king (v. 10). Daniel then proposes a ten-day test to Melzar, the steward over them (vv. 11-13), and "he consented to them in this matter" (v. 14). The outcome is favorable (v. 15). Inference: the text credits God with the favor. Daniel held the boundary without conflict, and he proposed the mechanism that showed it worked.
 
 Inference: the pattern is this. Decide privately and specifically. Then negotiate the mechanism instead of announcing the prohibition.
 
@@ -1142,27 +1150,29 @@ Text (James 5:1-6, KJV):
 Observations (1 Thessalonians 4:6):
 
 1. Text states: the prohibition is on going beyond and defrauding: "that no man go beyond and defraud his brother in any matter."
-2. Text states: the scope is "in any matter." It has no limit.
+2. Text states: the KJV wording of the scope is "in any matter." Inference: if verse 6 is a general rule, it has no limit. If verse 6 belongs to the subject of verses 3-7, "any matter" stays inside that subject. See the Contested note below.
 3. Text states: the enforcement is stated: "because that the Lord is the avenger of all such." Inference: the mechanism is not a court.
+4. Text states (context): verses 3-7 are about sexual purity. Verse 3 says, "For this is the will of God, even your sanctification, that ye should abstain from fornication". Verse 7 says, "For God hath not called us unto uncleanness, but unto holiness."
+5. Contested: readers differ on the subject of verse 6. Many read it as part of the teaching on sexual purity in verses 3-7. On that view, to "defraud his brother" is to wrong him by sexual sin, for example with his wife. Others read verse 6 as a turn to dealings in general, including trade, because to "go beyond and defraud" is the language of greed and overreaching. This file does not settle the question. The commercial use below is an inference on the second view.
 
 Observations (James 5):
 
-4. Text states: the addressee is "ye rich men," and the instruction is to "weep and howl." The text does not tell them to repent or to give. Inference: the passage announces judgment. It is not an appeal.
-5. Text states: the text describes the assets as already decaying: riches corrupted, garments motheaten, gold and silver cankered (vv. 2-3). Inference: the description is of value that fails while the owner holds it.
-6. Text states: the rust is a witness: "the rust of them shall be a witness against you" (v. 3). Inference: this is the same structure as Habakkuk 2:11. The material testifies.
-7. Text states: the specific charge is "the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth" (v. 4). The wage itself cries out, and the cries "are entered into the ears of the Lord of sabaoth."
-8. Text states: the charge grows: "Ye have condemned and killed the just; and he doth not resist you" (v. 6). Inference: the passage moves from withheld wages to the death of the defenseless. The note that the victim does not resist reads as a reason the wrong is worse, not as a mitigation.
-9. Text states: the text names the luxury: "Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter" (v. 5).
+6. Text states: the addressee is "ye rich men," and the instruction is to "weep and howl." The text does not tell them to repent or to give. Inference: the passage announces judgment. It is not an appeal.
+7. Text states: the text describes the assets as already decaying: riches corrupted, garments motheaten, gold and silver cankered (vv. 2-3). Inference: the description is of value that fails while the owner holds it.
+8. Text states: the rust is a witness: "the rust of them shall be a witness against you" (v. 3). Inference: this is the same structure as Habakkuk 2:11. The material testifies.
+9. Text states: the specific charge is "the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth" (v. 4). The wage itself cries out, and the cries "are entered into the ears of the Lord of sabaoth."
+10. Text states: the charge grows: "Ye have condemned and killed the just; and he doth not resist you" (v. 6). Inference: the passage moves from withheld wages to the death of the defenseless. The note that the victim does not resist reads as a reason the wrong is worse, not as a mitigation.
+11. Text states: the text names the luxury: "Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter" (v. 5).
 
-Inference: both passages state that the courts are not the only enforcers of commercial obligations. 1 Thessalonians 4:6 names the Lord as "the avenger." James presents the withheld wage as a voice that reaches a specific listener.
+Inference: both passages show that human courts are not the only enforcers. 1 Thessalonians 4:6 names the Lord as "the avenger." James presents the withheld wage as a voice that reaches a specific listener.
 
 Business consequences:
 
-- "In any matter" removes the threshold (observation 2). There is no minimum amount.
-- The assets testify (observations 5-6). The rust, the corrosion, and the moth damage testify. Inference: the wealth shows how the owner got it.
-- The withheld wage cries out (observation 7). Two texts state the cry. Deuteronomy 24:15 says "lest he cry against thee unto the LORD," and James 5:4 says the hire "crieth." Leviticus 19:13 and Jeremiah 22:13 name the same wrong, unpaid wages, without the cry.
-- Non-resistance makes the wrong worse (observation 8). Inference: a defenseless victim increases the wrong. It does not reduce it.
-- The judgment is announced, not negotiated (observation 4). "Weep and howl."
+- If verse 6 is read as a general rule, "in any matter" removes the threshold, and there is no minimum amount (observation 2). That use is Contested (observation 5). The firmer ground for the same point in commerce is Leviticus 19:13 and 19:35-36.
+- The assets testify (observations 7-8). The rust, the corrosion, and the moth damage testify. Inference: the wealth shows how the owner got it.
+- The withheld wage cries out (observation 9). Two texts state the cry. Deuteronomy 24:15 says "lest he cry against thee unto the LORD," and James 5:4 says the hire "crieth." Leviticus 19:13 and Jeremiah 22:13 name the same wrong, unpaid wages, without the cry.
+- Non-resistance makes the wrong worse (observation 10). Inference: a defenseless victim increases the wrong. It does not reduce it.
+- The judgment is announced, not negotiated (observation 6). "Weep and howl."
 
 ### Romans 13:8: owe no man any thing
 
@@ -1297,11 +1307,11 @@ On the test:
 On specific obligations:
 
 5. Build the provision into the process, not the philanthropy (Leviticus 19:9-10). Leave the corners.
-6. Leave the recipient their agency (Leviticus 19:9-10). They glean. You do not distribute.
+6. Leave the recipient their agency where they can work (Leviticus 19:9-10). Gleaning is one mode. Direct gifts are also commanded (Deuteronomy 15:10, Isaiah 58:7, 1 Timothy 6:18).
 7. Payment terms are an ethics issue (Leviticus 19:13). Withheld wages are in the same verse as fraud and robbery.
 8. The standard does not depend on the ability of the other party to detect the harm (Leviticus 19:14). This rule transfers most directly from the chapter.
 9. Favoritism runs both ways (Leviticus 19:15). Discounts for the sympathetic are the same defect as discounts for the powerful.
-10. Rebuke, or you will hate in your heart (Leviticus 19:17). Silence is the second option.
+10. Do not keep silent resentment (Leviticus 19:17). Rebuke the neighbor who stays in the wrong, or forgive and cover the offense with no grudge kept (Proverbs 19:11). Silence that keeps the grudge is the forbidden option.
 11. The text forbids grudges separately from vengeance (Leviticus 19:18). If you do not act on the resentment, you still do not comply.
 12. Use one standard, published (Proverbs 11:1, Deuteronomy 25:15). The offense is duplicity, not inaccuracy.
 13. The gift blinds the recipient, and it does not need to corrupt him (Exodus 23:8). That is why the policy must be a bright line and not a judgment call.
@@ -1334,7 +1344,7 @@ On integrity and accountability:
 31. The test case is the most discretion with the least supervision (Genesis 39:6). Name the terms of the delegation so that the refusal is possible.
 32. Avoid the proximity, not only the act (Genesis 39:10).
 33. Integrity does not guarantee an immediate good outcome (Genesis 39:20).
-34. "We knew it not" is not a defense (Proverbs 24:12). The test is what was available to know.
+34. "We knew it not" is not a defense when it is false (Proverbs 24:12). God weighs the heart, and willful ignorance does not clear you.
 35. The deferral is the named sin (Proverbs 3:28). It says "to morrow" when the means are present.
 36. The building is a witness (Habakkuk 2:11, James 5:3). Anything that you build is readable to whoever comes after you.
 37. The beneficiaries of a bad system do not fix it (Revelation 18:9, 15, 17). They mourn it.
@@ -1354,7 +1364,7 @@ On the procedure:
 
 ### Verses retrieved with `scripture.ts`
 
-Micah 6:6-8, Leviticus 19:9-18, Leviticus 19:19, Leviticus 19:35-37, Proverbs 11:1, Proverbs 20:10, Proverbs 20:23, Deuteronomy 25:13-16, Deuteronomy 24:14-15, Exodus 23:1-9, Deuteronomy 22:9-11, 2 Corinthians 6:14-17, Matthew 7:12, Luke 6:31, Matthew 5:23-24, Matthew 5:33-37, Matthew 5:44, Matthew 22:37-40, Proverbs 6:16-19, Proverbs 12:22, Jeremiah 22:11-18, Isaiah 1:17, Isaiah 58:3-11, Amos 5:11-12, Amos 8:4-6, Micah 3:11, Habakkuk 2:9-11, Proverbs 3:27-28, Proverbs 24:11-12, Luke 10:25-37, John 4:9, Matthew 25:31-46, Genesis 39:1-12, Genesis 20:1-13, Daniel 1:8, Daniel 3:15-19, Daniel 6:4-24, Nehemiah 6:4, Revelation 18:1-24, 1 Thessalonians 4:6, James 5:1-6, 1 John 3:17, Romans 13:7-8, Exodus 22:26-27, Deuteronomy 24:6 and 24:10-13.
+Micah 6:6-8, Leviticus 19:9-18, Leviticus 19:19, Leviticus 19:35-37, Proverbs 11:1, Proverbs 20:10, Proverbs 20:23, Deuteronomy 25:13-16, Deuteronomy 24:14-15, Exodus 23:1-9, Deuteronomy 22:9-11, 2 Corinthians 6:14-17, Matthew 7:12, Luke 6:31, Matthew 5:23-24, Matthew 5:33-37, Matthew 5:44, Matthew 22:37-40, Proverbs 6:16-19, Proverbs 12:22, Jeremiah 22:11-18, Isaiah 1:17, Isaiah 58:3-11, Amos 5:11-12, Amos 8:4-6, Micah 3:11, Habakkuk 2:9-11, Proverbs 3:27-28, Proverbs 24:11-12, Luke 10:25-37, John 4:9, Matthew 25:31-46, Genesis 39:1-12, Genesis 20:1-13, Daniel 1:8, Daniel 3:15-19, Daniel 6:4-24, Nehemiah 6:4, Revelation 18:1-24, 1 Thessalonians 4:6, James 5:1-6, 1 John 3:17, Romans 13:7-8, Exodus 22:26-27, Deuteronomy 24:6 and 24:10-13. Added in the doctrinal review: Deuteronomy 14:29, Deuteronomy 15:10, Isaiah 58:7, Isaiah 58:14, 1 Timothy 6:18, Acts 4:35, Proverbs 19:11, 1 Peter 4:8, Matthew 18:15, 1 Corinthians 7:39, Deuteronomy 16:19, Micah 7:3, Matthew 12:49, Matthew 10:42, Matthew 28:10, Galatians 6:10, Daniel 1:9-15, 1 Thessalonians 4:3-7, 1 John 3:18.
 
 ### Lexical claims verified with `lexicon.ts`
 

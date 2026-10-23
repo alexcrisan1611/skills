@@ -28,7 +28,7 @@ states", "Lexical", "Inference", and "Contested".
 
 ## Why a limit belongs in the method
 
-People say "we do not know" in three different situations, and each one needs a different
+People say "we do not know" in four different situations, and each one needs a different
 response.
 
 | Situation                                              | What is true               | The correct response                               |
@@ -36,9 +36,17 @@ response.
 | The information exists and is not collected            | The gap is a cost problem  | Collect it, or price the ignorance and act         |
 | The system is too complex for the available model      | The gap is a scale problem | Model the part that matters and state the residual |
 | The question is outside the jurisdiction of the method | The gap is structural      | Name it, stop, and act on what is revealed         |
+| The understanding of the knower is darkened            | The gap is moral           | Name it, test the claim against Scripture, and ask God for wisdom |
 
 The first two are ordinary engineering. The third is the subject of this file. A method that
 treats the third case as the first will spend a career on data that cannot settle the question.
+
+The fourth can sit under any of the other three. Text states: "Having the understanding
+darkened, being alienated from the life of God through the ignorance that is in them, because
+of the blindness of their heart:" (Ephesians 4:18). Romans 1:21 says that those who "knew God"
+and "glorified him not as God" became "vain in their imaginations". 1 Corinthians 2:14 says
+that the natural man cannot know the things of the Spirit of God. Inference: no method repairs
+this. The text names the remedy outside the method: "let him ask of God" (James 1:5).
 
 Inference: to recognize the third case is part of the method and not a failure of it. A surgeon
 who names the limit of the operation did not fail at surgery.
@@ -69,7 +77,7 @@ Then God answers. The answer is a sequence of questions about the created order.
 | Job 38:41 | "who provideth for the raven his food?"                                                    | Provision for creatures            |
 | Job 40:2  | "Shall he that contendeth with the Almighty instruct him?"                                 | Standing to bring the case         |
 
-Text states: the questions are not rhetorical decoration. Each one names a thing that Job did not
+Inference: the questions are not rhetorical decoration. Each one names a thing that Job did not
 do and cannot do.
 
 Text states: Job gives his first response in 40:4-5: "Behold, I am vile; what shall I answer
@@ -82,11 +90,16 @@ Three observations follow:
 
 1. Text states: the book never gives Job a reason for his suffering. The reader has one, and Job
    does not.
-2. Text states: in 42:3, Job names his error as speech about what he did not understand. Text
-   states: in 42:7, the LORD tells Eliphaz, "ye have not spoken of me the thing that is right, as
-   my servant Job hath." Inference: so the error is not the asking. The LORD approves what Job
-   spoke, and the book keeps the speeches of Job. God first speaks to Job in chapter 38, and He
-   says, "I will demand of thee, and answer thou me" (38:3).
+2. Text states: in 42:3, Job names his error as speech about what he did not understand. God
+   opens with a rebuke: "Who is this that darkeneth counsel by words without knowledge?" (38:2).
+   He then reverses the demand that Job made. Job had said, "let me speak, and answer thou me"
+   (13:22). God says, "I will demand of thee, and answer thou me" (38:3). Later God asks, "wilt
+   thou condemn me, that thou mayest be righteous?" (40:8). Text states: in 42:7, the LORD tells
+   Eliphaz, "ye have not spoken of me the thing that is right, as my servant Job hath."
+   Contested: what 42:7 commends. Some readers take it as Job's honest speech to God across the
+   book, set against the false account of God that the friends gave. Others take it as Job's
+   confession in 42:1-6. On either reading, 38:2 and 40:8 still rebuke Job's words, and the
+   book keeps his speeches.
 3. Inference: the sequence settles jurisdiction before it settles content. The question of Job
    assumes a standing to evaluate the government of the world. The questions of God remove that
    assumption.
@@ -106,22 +119,27 @@ come forth as gold."
 
 ## Isaiah 55:8-9: the distance claim
 
-Text states: the two verses state a difference in kind. "For my thoughts are not your thoughts,
-neither are your ways my ways, saith the LORD. For as the heavens are higher than the earth, so
-are my ways higher than your ways, and my thoughts than your thoughts."
+Text states: the two verses state a difference between the thoughts of God and ours. "For my
+thoughts are not your thoughts, neither are your ways my ways, saith the LORD. For as the
+heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than
+your thoughts."
 
 Look at three things in how the passage makes the claim:
 
-1. Text states: the comparison is spatial and graded. The heavens are higher than the earth, and
-   the difference in thought is like that. The verse does not say that the two are unrelated. It
-   says that the distance is large and has a direction.
+1. Text states: the comparison is spatial. The heavens are higher than the earth, and the
+   difference in thought is like that. Inference: the verse does not say that the two are
+   unrelated. It says that the distance is large and has a direction.
 2. Text states: the limit sits inside an invitation. Verse 55:1 opens, "Ho, every one that
    thirsteth, come ye to the waters." Verses 55:6-7 call the wicked to return. Verses 55:10-11
    promise that the word will do what God sends it to do. The limit is in the middle of an
-   address that asks for a response.
+   address that asks for a response. The verse just before it reads, "Let the wicked forsake
+   his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will
+   have mercy upon him; and to our God, for he will abundantly pardon." (55:7) Inference: the
+   "For" that opens 55:8 ties the distance to that call. The gap is moral as well as a limit of
+   knowledge.
 3. Inference: the limit does not cancel the communication. The same passage that says that the
-   thoughts are not ours says that the word goes out and does its work. The limit is on
-   comprehension and not on reception.
+   thoughts are not ours says that the word goes out and does its work. The limit is not on
+   reception.
 
 The practical rule that follows is modest. An inference from Scripture carries a label, because
 the difference in Isaiah 55:8 sits between the text and the model that the reader makes of it.
@@ -162,8 +180,10 @@ but then face to face: now I know in part; but then shall I know even as also I 
   reflection in a mirror. The dimness is in the seeing and not in the object.
 - Text states: the passage makes three comparisons. A child against a man (13:11), a mirror
   against a face (13:12), and a part against a whole (13:9-10, 13:12).
-- Text states: the passage states the direction of travel. The partial passes away, and knowledge
-  becomes complete.
+- Text states: the passage states the direction of travel. "that which is in part shall be done
+  away" (13:10), and "then shall I know even as also I am known" (13:12). Inference: the knowing
+  becomes full and face to face. It does not become the knowledge of God, whose ways stay "past
+  finding out" (Romans 11:33).
 
 The text permits neither of two errors at this verse:
 
@@ -188,15 +208,18 @@ revealed belong unto us and to our children for ever, that we may do all the wor
 - Text states: the sentence divides all knowledge into two categories and gives each one an
   owner.
 - Text states: the purpose clause gives the use of the second category. The revealed things
-  belong to us "that we may do all the words of this law". The grant is the size of an action.
+  belong to us "that we may do all the words of this law". Inference: the grant is the size of
+  an action.
 
 Inference: the division does not forbid curiosity. It is a division of labor. The question "who
 owns this?" has an answer, and the answer sets what the reader does next. This verse does not
 forbid curiosity about the secret things. It does rule out a business plan built on them.
 
-A practical test follows. A question is answerable for action when an answer will change what the
-asker does. If no available answer changes any action, the question belongs to the other category
-for now. The correct output is to record it and move on.
+A practical test follows. First ask whether God has revealed the matter. If he has, it belongs
+to us, and the purpose clause says that it is for doing. If he has not, it belongs to the LORD.
+(Inference) A narrower test helps with business questions. If no available answer would change
+any action, record the question and move on. That test sorts questions by use. It does not
+decide what God has revealed. (Inference)
 
 ---
 
@@ -230,8 +253,9 @@ Text states: the verbs are the verbs of a test. He seeks, searches, gives his he
 | Wealth and increase                            | 5:10     | "He that loveth silver shall not be satisfied with silver"              |
 | Right work and the envy it draws               | 4:4      | "for this a man is envied of his neighbour. This is also vanity"        |
 
-Text states: the verdicts are mostly negative, and he records them as results and not as
-opinions. He ran the experiment, looked at the output, and wrote down what he found.
+Text states: the verdicts are mostly negative. Inference: he records them as the results of a
+test. He ran the experiment, looked at the output, and wrote down what he found. How much weight
+those results carry is contested, as the note below says.
 
 ### The limits he hits
 

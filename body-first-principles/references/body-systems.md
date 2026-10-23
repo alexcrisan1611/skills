@@ -147,9 +147,10 @@ differently. (Body fact)
 Scripture states the placement as an act of God. "But now hath God set the members every
 one of them in the body, as it hath pleased him." (1 Corinthians 12:18) (Text states)
 
-The placement is a decision, and it belongs to whoever holds the authority to place.
-(Inference) The person who wants the visible role is not automatically the right person
-for it. A firm that fills roles by preference rather than by fit will place strong
+In the text the placer is God, and a manager is not God. A business use of this text is an
+analogy. (Inference) In a firm, placement is a decision, and it belongs to whoever holds the
+authority to place. (Inference) The person who wants the visible role is not automatically
+the right person for it. A firm that fills roles by preference rather than by fit will place strong
 ambition in the wrong seat and call the result motivation. (Inference)
 
 ### B6. A local infection has a systemic effect
@@ -191,9 +192,11 @@ image appears again in Colossians. "And not holding the Head, from which all the
 joints and bands having nourishment ministered, and knit together, increaseth with the
 increase of God." (Colossians 2:19) (Text states)
 
-Growth is directed centrally and delivered distributively. (Inference) Direction is a
-leadership task. Delivery is an interface task. If growth has stalled, inspect the joints,
-which are the handoffs between teams. (Inference)
+Growth is directed centrally and delivered distributively. (Inference) In the text the head
+is Christ (Ephesians 4:15-16, Colossians 1:18), and the increase is "the increase of God"
+(Colossians 2:19). (Text states) A CEO is neither. A business use of this text is an analogy.
+(Inference) In a firm, direction is a leadership task. Delivery is an interface task. If
+growth has stalled, inspect the joints, which are the handoffs between teams. (Inference)
 
 ---
 
@@ -269,12 +272,14 @@ When the response never resolves, it damages the tissue it was sent to protect. 
 fact) The term covers many different processes, and the boundary between a helpful and
 a harmful response is an active research question. (Contested in the details)
 
-Scripture states that friction is permanent after the fall. "And unto Adam he said,
-Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of
-which I commanded thee, saying, Thou shalt not eat of it: cursed is the ground for thy
-sake; in sorrow shalt thou eat of it all the days of thy life;" (Genesis 3:17) (Text
-states) The curse names a condition that does not end. It does not command an emergency
-that does not end.
+Scripture states that friction came with the fall, and that it lasts for this age. "And
+unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of
+the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed is the ground
+for thy sake; in sorrow shalt thou eat of it all the days of thy life;" (Genesis 3:17) (Text
+states) The curse names a condition for "all the days of thy life". It does not command an
+emergency that does not end. Scripture also states that the curse will end. "And there shall
+be no more curse: but the throne of God and of the Lamb shall be in it; and his servants
+shall serve him:" (Revelation 22:3) (Text states)
 
 A crisis that ends is a cost. A crisis that never ends becomes the operating disease.
 (Inference) Set an end date on every emergency. (Inference)
@@ -395,7 +400,7 @@ the man, and put him into the garden of Eden to dress it and to keep it." (Genes
 rendered "dress" is H5647 `abad`, "to work (in any sense); by implication, to serve, till,
 (causatively) enslave". The word rendered "keep" is H8104 `shamar`, "properly, to hedge
 about (as with thorns), i.e. guard; generally, to protect, attend to". The KJV renders the
-same verb as keep, guard, watch, and observe. (Lexical) Inference: the garden is a guarded
+same verb as keep, observe, preserve, and watch. (Lexical) Inference: the garden is a guarded
 space, not an open one. Speculation: the hedge image comes from the proposed root sense of
 the word. The meaning of a word comes from its use, not from its root, so do not build on
 the hedge.
@@ -572,7 +577,7 @@ Review rhythm, release rhythm, and planning horizon are design choices. (Inferen
 
 ## V. Limits and mortality
 
-### B21. Replication limits and designed aging
+### B21. Replication limits and aging
 
 Most human cells divide a limited number of times in culture. The limit is called the
 Hayflick limit, after Leonard Hayflick, who described it. Human fibroblasts commonly
@@ -585,11 +590,9 @@ partial. Telomere length is one of several recognized hallmarks of aging, and lo
 animals do not all follow the same pattern. (Contested in how far the mechanism drives
 whole-body aging)
 
-Aging is a normal process, not a single disease. It is not one fault. It is a set of
-processes that appear in humans and most animals. (Body fact) Some animals show little or
-no aging, for example Hydra, the jellyfish Turritopsis, some turtles, and some rockfish.
-(Body fact) The claim that aging is designed, and not accidental, is an inference and not a
-measurement. Mainstream biology does not treat aging as programmed. (Inference)
+Aging is not a single disease. It is not one fault. It is a set of processes that appear in
+humans and most animals. (Body fact) Some animals show little or no aging, for example
+Hydra, the jellyfish Turritopsis, some turtles, and some rockfish. (Body fact)
 
 Scripture states the limit in the curse. "In the sweat of thy face shalt thou eat bread,
 till thou return unto the ground; for out of it wast thou taken: for dust thou art, and
@@ -601,13 +604,21 @@ the inward renewal run at the same time. "For which cause we faint not; but thou
 outward man perish, yet the inward man is renewed day by day." (2 Corinthians 4:16)
 (Text states)
 
-A creature is finite and dependent. "For he knoweth our frame; he remembereth that we are
-dust." (Psalms 103:14) (Text states) Whether death itself belongs to the design is
-contested. Genesis 3:19 is part of the curse, and Genesis 2:17 and Romans 5:12 tie death to
-sin. (Contested) The file `references/where-the-body-misleads.md` names this dispute. A
-firm has a lifespan. Plan for succession, sale, or
-closure, and do it while the firm is strong. A founder who cannot imagine the end will be
-surprised by it. (Inference)
+A creature is finite and dependent. The man was formed "of the dust of the ground" before
+the fall (Genesis 2:7). "For he knoweth our frame; he remembereth that we are dust."
+(Psalms 103:14) (Text states) So finitude belongs to creaturely life. (Inference)
+
+Death is a different matter. "Wherefore, as by one man sin entered into the world, and death
+by sin; and so death passed upon all men, for that all have sinned:" (Romans 5:12) (Text
+states) "The last enemy that shall be destroyed is death." (1 Corinthians 15:26) (Text
+states) "And God shall wipe away all tears from their eyes; and there shall be no more
+death, neither sorrow, nor crying, neither shall there be any more pain: for the former
+things are passed away." (Revelation 21:4) (Text states) Contested: whether Adam was mortal
+by nature and kept alive by the tree of life (Genesis 3:22), or immortal until the fall.
+The file `references/where-the-body-misleads.md` names this dispute.
+
+A firm is finite. Plan for succession, sale, or closure, and do it while the firm is
+strong. A founder who cannot imagine the end will be surprised by it. (Inference)
 
 ### B22. Redundancy in critical systems
 
@@ -626,11 +637,10 @@ good reward for their labour. For if they fall, the one will lift up his fellow:
 to him that is alone when he falleth; for he hath not another to help him up. Again, if
 two lie together, then they have heat: but how can one be warm alone? And if one prevail
 against him, two shall withstand him; and a threefold cord is not quickly broken."
-(Ecclesiastes 4:9-12) (Text states) The first "not good" in Scripture is a statement
-about solitude. "And the LORD God said, It is not good that the man should be alone; I
-will make him an help meet for him." (Genesis 2:18) (Text states) The word "help" is
-H5828 `ezer`, defined as "aid". (Lexical) The KJV applies the same English word to God
-in Psalms 121:2, so the word does not settle rank. (Lexical)
+(Ecclesiastes 4:9-12) (Text states) The pair in that passage is two companions who help
+each other. Its use for spare capacity in a system is an analogy. (Inference) Genesis 2:18
+does not ground redundancy. The woman is "an help meet for him", a fitting counterpart and
+not a spare. (Inference)
 
 Protect the irreplaceable. (Inference) Single points of failure belong at the top of
 the risk register. A spare is cheaper than the failure. (Inference)
@@ -680,9 +690,9 @@ Testament states the same dependence. "Neither is worshipped with men's hands, a
 he needed any thing, seeing he giveth to all life, and breath, and all things;" (Acts
 17:25) (Text states)
 
-The vital process starts first, then runs on its own, with deliberate control available.
-(Inference) Find the breath of the firm. If it needs conscious effort every hour, the
-firm is dying. If nobody can describe it, nobody can protect it. (Inference)
+The vital process starts first, then runs without conscious attention, never apart from
+God, with deliberate control available. (Inference) Find the breath of the firm. If it
+needs conscious effort every hour, the firm is dying. If nobody can describe it, nobody can protect it. (Inference)
 
 ---
 
@@ -728,8 +738,8 @@ carries moral weight, and the body carries none. (Inference)
 
 A body cannot be dissolved by agreement. It dies on its own terms. A firm can be closed
 deliberately, sold, merged, or wound down, and the people inside it go on living.
-(Inference) The body's mortality teaches that an end is normal. It does not teach that
-a firm's end must arrive the way a body's does. (Inference)
+(Inference) The body's mortality shows that an end will come. It does not teach that a
+firm's end must arrive the way a body's does. (Inference)
 
 ### Where the body misleads
 
@@ -757,11 +767,13 @@ by the role. "Whoso sheddeth man's blood, by man shall his blood be shed: for in
 of God made he man." (Genesis 9:6) (Text states) The value of the person stands before
 any use the firm has for the person.
 
-Scripture applies the same status to the body of the person. "What? know ye not that your
-body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not
-your own? For ye are bought with a price: therefore glorify God in your body, and in your
-spirit, which are God's." (1 Corinthians 6:19-20) (Text states) A person is not a
-component, and the person's body is not an asset of the firm.
+Scripture says more about the body of a believer. "What? know ye not that your body is the
+temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own? For
+ye are bought with a price: therefore glorify God in your body, and in your spirit, which are
+God's." (1 Corinthians 6:19-20) (Text states) That passage is addressed to believers, whose
+bodies are "the members of Christ" (1 Corinthians 6:15). (Text states) The claim for every
+person rests on the image of God in Genesis 1:27 and 9:6. (Inference) A person is not a
+component, and the person's body is not an asset of the firm. (Inference)
 
 The analogy must never be used to treat a person as a cell. (Inference) Three
 applications of that rule follow.

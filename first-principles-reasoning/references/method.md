@@ -238,8 +238,16 @@ those weeks. If misses next quarter fall in light weeks instead, the principle i
 "I need to be more disciplined."
 
 That sentence is an axiom about character with no observation and no pattern under it. It
-produces no measurable change, and it turns a system problem into a personal verdict. The climb
-shows the same problem as a capacity number, an arrival schedule, and a small group of people.
+produces no measurable change. The climb shows the same problem as a capacity number, an arrival
+schedule, and a small group of people.
+
+The climb does not remove the question of character. It puts that question in the condition of
+the thinker, with evidence under it. P4 shows that a refusal costs an awkward conversation, so
+ask whether the fear of others is at work. "The fear of man bringeth a snare: but whoso putteth
+his trust in the LORD shall be safe." (Proverbs 29:25) (Text states) Inference: a yes that is not
+kept is also a matter of integrity. "But let your communication be, Yea, yea; Nay, nay: for
+whatsoever is more than these cometh of evil." (Matthew 5:37) (Text states) Inference: the
+capacity number helps the person keep the yes that they give.
 
 ### What moves the answer
 

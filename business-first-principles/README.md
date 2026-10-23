@@ -35,7 +35,7 @@ The user does not have to mention Scripture. For a factual or tactical question,
 1. The agent names the decision and its real deadline.
 2. It separates what is given (market, capital, team, constraints) from what is chosen.
 3. It finds the one or two axioms that govern the decision. If no axiom applies, the decision is not foundational, and the agent uses an ordinary pattern.
-4. It writes out the derivation from the axiom to this situation.
+4. It writes out the derivation from the axiom to this situation, and it tests the result against love for God and neighbor.
 5. It names the specific friction and its cost, the owner of maintenance, the boundary, the definition of "finished," the evaluator, and the review cadence with a stopping rule.
 
 That is the full 10-step procedure. For smaller decisions, the skill gives a short form of seven questions. It also lists 12 anti-patterns, each with the axiom it violates and the cost it causes.
@@ -52,7 +52,7 @@ The answer follows a fixed structure: the decision, the substrate, the governing
 - `references/ethics.md`: The Micah 6:8 test, the commerce rules of Leviticus 19, honest measures, the golden rule, and a method to make an ethics call under pressure.
 - `references/trends-and-timing.md`: Reading the times (Issachar), cycles, reconnaissance, testing a forecast, and action under uncertainty.
 
-Each reference file labels each claim as "Text states," "Lexical" (about the Hebrew or Greek word, checked against Strong's), "Inference," or "Speculation." The file `trends-and-timing.md` also uses "Contested."
+The reference files label their claims as "Text states," "Lexical" (about the Hebrew or Greek word, checked against Strong's), "Inference," or "Speculation." They use "Contested" where faithful readers differ, for example on the roles of man and woman, on Genesis 3:16, and on the Sabbath. `canon-survey.md` is a lighter survey. It reads every entry as analogy and labels the main inferences.
 
 ## Dependencies
 
@@ -68,6 +68,7 @@ This skill depends on the `scripture-foundations` skill in the same repository. 
 ## Limits
 
 - The business consequences are inferences by a fallible reader. They are not Scripture, and you can disagree with them.
+- The axioms are not a second foundation. Scripture names one foundation: "other foundation can no man lay than that is laid, which is Jesus Christ" (1 Corinthians 3:11). The axioms are observations for ordinary business decisions, and love for God and neighbor governs how they are used.
 - The skill does not replace legal, tax, or accounting advice.
 - The skill does not give market data, forecasts, or financial models. It gives a method to reason about a decision.
 - The canon survey is analogy. It does not have the same weight as the Genesis 1-3 axioms.

@@ -6,7 +6,11 @@ A skill that finds a false pattern of thought, takes it apart, and replaces it w
 
 The skill works on one thought at a time. It names the thought, finds where it came from, and finds the assumption under it. It then tests the thought and writes a true replacement with a verse that carries it.
 
-The skill always ends with a replacement. It does not end with a deletion. Matthew 12:43-45 is the reason. A pattern that you remove and do not replace leaves an empty place, and something fills it.
+The skill does not claim to renew anyone. In Scripture, God renews the mind: "renewing of the Holy Ghost" (Titus 3:5), "even as by the Spirit of the LORD" (2 Corinthians 3:18). The person also acts: "work out your own salvation with fear and trembling. For it is God which worketh in you" (Philippians 2:12-13). The steps are the human side of that work, and they are done in prayer.
+
+The skill always ends with a replacement. It does not end with a deletion. Matthew 12:43-45 is the reason. A pattern that you remove and do not replace leaves an empty place, and something fills it. In context, the house is clean but has no occupant, and the passage points to Christ (12:28, 12:41). So a true sentence alone is not enough.
+
+Romans 12:1-2 speaks to "brethren, by the mercies of God". For a user who is not a believer, the skill can still test a thought for truth. But it says plainly that the renewal of Romans 12:2 follows the gospel (1 Corinthians 2:14, Ephesians 4:20-24).
 
 The skill uses a catalog of 43 named thought patterns. It also uses a study of three institutions that the skill infers train most false patterns. The three are the school system, social media, and television with advertising.
 
@@ -34,7 +38,7 @@ The skill follows three rules before it starts:
 
 It then does eight steps in order:
 
-1. Write the thought in one sentence.
+1. Pray, and write the thought in one sentence. Psalm 139:23-24 is the model: "Search me, O God, and know my heart".
 2. Name the source: home, classroom, feed, screen, peer group, or your own invention.
 3. Find the assumption under the thought.
 4. Do the three tests: Is it true? Is it wise? Is it loving? All three must pass.
@@ -43,14 +47,14 @@ It then does eight steps in order:
 7. Write the replacement in one sentence, with the verse that carries it.
 8. Change the input that keeps feeding the pattern.
 
-The skill can also run the two wisdoms test from James 3:13-18. This test asks what a belief produces in the group that holds it.
+The skill can also run the two wisdoms test from James 3:13-18. This test asks what a belief produces in the group that holds it. It tests how a belief is held, not whether it is true.
 
 The answer comes back in a short, fixed shape: the pattern, the source, the assumption, the three test results, the fruit, the counterfeit, the replacement with its verse, the change of input, and a confidence note. The confidence note marks what the text states and what the skill inferred.
 
 ## What is in this folder
 
-- `SKILL.md`: The instructions for the agent. It contains the rules, the eight-step procedure, the three tests, the output format, and the limits.
-- `references/thought-patterns.md`: The catalog of 43 patterns in six groups. Each entry gives a description, the lie, the cause, the fruit, the counter-truth, a KJV counter-text, and labels. The file also has the two wisdoms test, nine guards against false detection, and appendices of checked 1611 words and verified passages.
+- `SKILL.md`: The instructions for the agent. It contains the rules, who renews, who the skill is for, the eight-step procedure, the three tests, the output format, and the limits.
+- `references/thought-patterns.md`: The catalog of 43 patterns in six groups. Each entry gives a description, the lie, the cause, the fruit, the counter-truth, a KJV counter-text, and labels. The file also has the two wisdoms test, ten guards against false detection, and appendices of checked 1611 words and verified passages.
 - `references/institutions.md`: A study of the school system, social media, and television with advertising, one mechanism at a time. Each mechanism has a biblical category, a counter-practice, and a note on what is contested.
 
 The six groups in the catalog are:
@@ -69,9 +73,10 @@ The reference files label each claim so that you can see how strong it is:
 - Text states: The KJV passage says this in these words.
 - Lexical: A claim about the Hebrew or Greek word, checked against a lexicon.
 - Inference: Reasoning from the text. You can disagree with it.
-- Contested: An empirical or historical claim that the tools cannot settle.
+- Contested: A reading on which faithful readers differ, or an empirical or historical claim that the tools cannot settle.
+- Speculation: A guess. Hold it loosely.
 
-The skill treats the theological claims as firm and the empirical claims about institutions as testable. It keeps the two apart.
+The skill holds what the text states as firm. It treats the application of a text to an institution as an inference, and the empirical claims about institutions as testable. It keeps the three apart.
 
 ## Example prompts
 
@@ -87,6 +92,7 @@ The skill does not do these things:
 - It does not diagnose other people. It has no authority to name the spiritual condition of a person.
 - It does not resolve disputable matters. Romans 14 separates matters of sin from matters of preference.
 - It does not give medical advice. Anxiety, depression, and intrusive thought can have medical causes. A person in distress needs a physician as well as a pastor.
+- It does not correct a lament. Grief and godly sorrow spoken to God are not patterns to replace (Psalm 13:1, Job 42:7, 2 Corinthians 7:10).
 
 The reference files also state that the Bible does not mention schools, social media, or television. The application of Scripture to these institutions is an inference, and the files label it so.
 

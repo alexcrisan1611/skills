@@ -75,7 +75,8 @@ The reference files take all Scripture quotes from the KJV search tool in the `s
 - The skill is not medical guidance. For a health question, speak to a qualified physician.
 - The skill reasons by analogy. A firm is an agreement among persons, not an organism. The analogy describes coordination, supply, feedback, growth, and decay. It does not describe what a person is worth.
 - The body is not a moral guide. Where the body and Scripture disagree, the skill follows Scripture.
-- Some points are open. For example, the skill marks the question of whether aging is part of the design or a result of the curse as contested. The body cannot settle it.
+- Some points are open. The skill states that death entered by sin, is an enemy, and will end (Romans 5:12, 1 Corinthians 15:26, Revelation 21:4). It marks a narrower question as contested: whether Adam was mortal by nature and kept alive by the tree of life (Genesis 3:22), or immortal until the fall. The body cannot settle it.
+- The body texts in Scripture are about the church. In them the head is Christ and the placer is God. A CEO is neither, so a business use of these texts is an analogy.
 
 ## Related skills
 

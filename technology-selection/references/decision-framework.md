@@ -156,8 +156,8 @@ feedback arrives late, and the team commits the cost of the whole before any par
 | Smallest version  | What is the least that works?            | A scope with a finish line              |
 
 Text states (Proverbs 24:4): "And by knowledge shall the chambers be filled with all precious and
-pleasant riches." The filling follows the building and the establishing. Inference: the smallest
-version is the first chamber.
+pleasant riches." Inference: the filling follows the building and the establishing, if the
+lines are read as a sequence (see the skill file). The smallest version is the first chamber.
 
 ---
 
@@ -335,10 +335,11 @@ Text (Ecclesiastes 10:10, KJV):
 
 > If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct.
 
-Text states: the verse attaches the return to "wisdom" and to direction, not to the edge.
+Text states: the verse attaches the return to "wisdom", not to the edge.
 
-Inference: the boring option is a choice of direction, and the direction matters more than the
-sharpness. A sharp novel tool in the wrong direction wastes the sharpness.
+Inference: "direct" here means to make the work go right (H3787 _kasher_, see the skill file). It
+does not mean to steer. The boring option can be the wise choice, and wisdom matters more than
+sharpness. A sharp novel tool used without wisdom wastes the sharpness.
 
 ### The cost of boring, stated honestly
 

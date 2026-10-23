@@ -39,9 +39,9 @@ The procedure has seven steps. Each step names a question, the evidence it needs
 6. Name the distribution. Give a sales channel, its cost per customer, and the growth model (mustard, which is visible and central, or leaven, which is hidden and spread out).
 7. State the test. Give a threshold, a date, and a stopping rule.
 
-The skill also applies a demand test from Genesis 3:6. The test asks how the offer answers appetite, beauty, and status. The skill treats this test as a description and a caution, not a command.
+The skill also applies a demand test from Genesis 3:6 as an ethics check, not a sales lever. Genesis 2:9 shows that appetite and beauty are goods that God made. The third channel, status, is the serpent's promise "ye shall be as gods" (3:5), and 1 John 2:16 says "the pride of life, is not of the Father". So the check asks whether the offer serves a real need, whether its beauty is true to the use, and whether the pitch sells standing.
 
-When you ask for ideas or for a verdict on an idea, the answer comes in a fixed order. It covers the change, the group, the formless part, the ground, the distribution, the demand check, the position in the cycle, the test, the smallest first step that you can reverse, and a confidence label on each claim.
+When you ask for ideas or for a verdict on an idea, the answer comes in a fixed order. It covers the change, the group, the formless part, the ground, the distribution, the ethics check, the position in the cycle, the test, the smallest first step that you can reverse, and a confidence label on each claim.
 
 ## What is in this folder
 

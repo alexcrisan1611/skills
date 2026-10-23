@@ -19,8 +19,11 @@ Three rules govern the work:
 1. Judgment comes after diagnosis, never before it. The business axioms state this as A26
    (Diagnose before you judge). Judgment that comes before the diagnosis gives the wrong
    verdict. It also teaches people to hide.
-2. Blame is not a finding. A name is not a cause. "The operator was careless" explains nothing
-   until you describe the system that permitted the carelessness.
+2. Blame is not the first finding. A name alone is not a cause. Record both the personal act
+   and the system that permitted it. In Genesis 3, God holds each person to account for that
+   person's own act (3:14, 3:17). Adam is the one who points to the system: "The woman whom
+   thou gavest to be with me" (3:12). Do not let the act hide the system, or the system hide
+   the act.
 3. The diagnosis must end in a test. A cause that nobody can falsify is a story. The storm test
    and the fire test in this skill name the test in advance.
 
@@ -73,6 +76,23 @@ question that gets no answer is also a result.
 - Lexical: "beguiled" in 3:13 is one of the renderings of H5377 _nasha_, "to lead astray,
   i.e. (mentally) to delude, or (morally) to seduce".
 
+### The verdict: account and mercy
+
+Text states: the verdict in 3:14-19 holds each one to account for that one's own act. "Because
+thou hast done this" (3:14). "Because thou hast hearkened unto the voice of thy wife, and hast
+eaten of the tree" (3:17).
+
+Text states: the verdict also carries mercy. God says of the seed of the woman, "it shall bruise
+thy head" (3:15). Then "did the LORD God make coats of skins, and clothed them" (3:21).
+
+Inference: a finding that names a person's act is not the end of the work. Galatians 6:1 gives
+the aim: "restore such an one in the spirit of meekness; considering thyself, lest thou also be
+tempted." The aim of the finding is repair and restoration, not exposure.
+
+Inference: not every failure is someone's sin. The disciples asked, "who did sin, this man, or
+his parents", and Jesus answered, "Neither hath this man sinned, nor his parents" (John 9:2-3).
+Record a cause in the system as a cause in the system.
+
 ### The two supporting proverbs
 
 Text states: Proverbs 18:13 states the cost of skipping the first question: "He that answereth
@@ -95,7 +115,9 @@ request for a summary does not get it.
 
 ## Cycle or event: Genesis 41
 
-Pharaoh sees two dreams. Joseph reads them as one fourteen-year cycle.
+Pharaoh sees two dreams. God disclosed the cycle to Pharaoh (Genesis 41:25). Joseph interpreted
+by God (41:16): "It is not in me: God shall give Pharaoh an answer of peace." The two dreams show
+one fourteen-year cycle.
 
 Text states: Genesis 41:1-7 records the two dreams. In each dream, seven good things come
 first, and seven bad things come after them and eat them up.
@@ -129,8 +151,10 @@ Four features of that passage matter for diagnosis:
 | Removal           | Does the incident stop when one actor or one tool changes?   | Treat it as an event                 |
 | Prediction        | Does the cycle predict the next occurrence?                  | Use the prediction, and set a review |
 
-Inference: the diagnosis is right when it predicts. The second half of the cycle tested the
-reading of Joseph, and the text records the test (41:54).
+Inference: the diagnosis is right when it predicts. God disclosed the cycle to Pharaoh (Genesis
+41:25). Joseph interpreted by God (41:16). The dearth came "according as Joseph had said"
+(41:54). The cycle test above is a human method, and Joseph did not use it. Its use here is an
+analogy.
 
 Not every symptom is part of a cycle. A firm that explains every bad quarter as a cycle never
 diagnoses anything. Run the test. When the answer is "event", record that result.
@@ -139,14 +163,17 @@ diagnoses anything. Run the test. When the answer is "event", record that result
 
 ## Structural friction and fixable friction
 
-Text states: Genesis 3:17-19 shows that some resistance is permanent. "cursed is the ground for
-thy sake; in sorrow shalt thou eat of it all the days of thy life; Thorns also and thistles
-shall it bring forth to thee; and thou shalt eat the herb of the field; In the sweat of thy face
-shalt thou eat bread, till thou return unto the ground"
+Text states: Genesis 3:17-19 shows that some resistance lasts for a lifetime. "cursed is the
+ground for thy sake; in sorrow shalt thou eat of it all the days of thy life; Thorns also and
+thistles shall it bring forth to thee; and thou shalt eat the herb of the field; In the sweat of
+thy face shalt thou eat bread, till thou return unto the ground"
 
 Text states: the phrase "all the days of thy life" sets the duration. Inference: thorns are a
 cost of operation. They are not a problem that you solve once. The business axiom is A27
 (Friction is structural).
+
+Text states: the curse is not the last word. Revelation 22:3 says, "And there shall be no more
+curse". Inference: the friction is structural in this life, not forever.
 
 Some friction is not structural. Some of it is a defect, and it stops when someone fixes it.
 Organizations lose years when they treat a fixable defect as permanent.
@@ -186,6 +213,10 @@ Text states: the diagnosis names weight and duration, not attitude. The remedy h
    thee, but every small matter they shall judge".
 4. Text states: the leader keeps a defined post. In Exodus 18:19-20, Moses stands for the
    people before God, brings the causes to God, and teaches the ordinances and laws.
+
+Text states: Jethro puts his counsel under God. Exodus 18:19 reads, "I will give thee counsel,
+and God shall be with thee". Exodus 18:23 reads, "If thou shalt do this thing, and God command
+thee so, then thou shalt be able to endure".
 
 Text states: Exodus 18:26 records the result in operation: "And they judged the people at all
 seasons: the hard causes they brought unto Moses, but every small matter they judged
@@ -293,6 +324,10 @@ want as an armed man."
 Inference: the scene contains a diagnosis, and the diagnosis is the phrase "Yet a little
 sleep". The failure has no single decision in it. It has a rate.
 
+Text states: the text also names the owner: "the slothful" and "the man void of understanding"
+(24:30). Inference: the rate is the habit of a person. The diagnosis names the habit and the
+missing maintenance function together.
+
 - Lexical: "grown over" is one of the renderings of H5927 _alah_, defined as "to ascend". Its
   list of renderings includes "grow (over) increase". The word is the ordinary verb for going
   up.
@@ -332,6 +367,9 @@ house; and it fell: and great was the fall of it."
   word.
 - Text states: the difference is in the foundation. Inference: the difference shows only under
   load.
+- Text states: Jesus names what the foundation is. The wise man "heareth these sayings of mine,
+  and doeth them" (7:24). The foolish man "heareth these sayings of mine, and doeth them not"
+  (7:26).
 - Lexical: "beat upon" in 7:25 is G4363 _prospipto_, "to fall towards, i.e. (gently)
   prostrate oneself... or (violently) to rush upon (in storm)".
 - Lexical: "beat upon" in 7:27 is G4350 _proskopto_, "to strike at, i.e. surge against (as
@@ -349,6 +387,12 @@ burned, he shall suffer loss: but he himself shall be saved; yet so as by fire."
   burns the work.
 - Text states: verse 3:12 names the materials: "gold, silver, precious stones, wood, hay,
   stubble". The test sorts them.
+- Text states: the foundation is Christ. Verse 3:11 reads, "For other foundation can no man lay
+  than that is laid, which is Jesus Christ." Inference: "the day" in 3:13 is the day of
+  judgment.
+
+Inference: the original audience is the hearers of Jesus and the builders of the church at
+Corinth. A business use of these texts is an analogy.
 
 Inference: the diagnostic question is not whether a fix worked yesterday. Ask which event will
 test it, and what evidence of survival looks like. A fix that never carried a load is a plan.
@@ -421,9 +465,12 @@ anyone the right to put trials on other people. Text states: Matthew 18:6 warns 
 person who causes the fall of a believer: "But whoso shall offend one of these little ones
 which believe in me, it were better for him that a millstone were hanged about his neck, and
 that he were drowned in the depth of the sea." Inference: the verse speaks of "these little
-ones which believe in me", not of employees. Applied to a workplace, a manager who makes
-hardship on purpose to build character leaves the teaching on trials. He joins the person whom
-Matthew 18:6 warns.
+ones which believe in me", not of employees. For the workplace, the texts that speak to masters
+are closer. Ephesians 6:9 reads, "And, ye masters, do the same things unto them, forbearing
+threatening: knowing that your Master also is in heaven". Colossians 4:1 reads, "Masters, give
+unto your servants that which is just and equal; knowing that ye also have a Master in heaven."
+Inference: a manager who makes hardship on purpose to build character leaves the teaching on
+trials, and he breaks the charge to masters.
 
 ---
 
@@ -452,8 +499,10 @@ evidence.
 - Text states: Paul names the rejected warning in the middle of the storm. Verse 27:21 reads,
   "Sirs, ye should have hearkened unto me, and not have loosed from Crete, and to have gained
   this harm and loss."
-- Text states: the word in the crisis. Verses 27:22-26 record the message: no loss of life, a
-  shipwreck ahead, and a reason for confidence from outside the situation.
+- Text states: the word in the crisis is a disclosure from God, not a forecast. Verses 27:22-26
+  record the message: no loss of life and a shipwreck ahead. They also record its source:
+  "there stood by me this night the angel of God, whose I am, and whom I serve" (27:23). Paul's
+  ground is faith: "I believe God, that it shall be even as it was told me" (27:25).
 - Text states: the escape attempt and the correction. Verses 27:30-32 record that the sailors
   tried to leave the ship in the boat. They also record the instruction of Paul to the
   centurion: "Except these abide in the ship, ye cannot be saved."
@@ -472,7 +521,12 @@ evidence.
   cast off (anchor); figuratively, to expiate".
 
 Inference: a warning can be correct, and people can still reject it when it comes before the
-evidence is complete. Four practices follow:
+evidence is complete. Paul's warning was right about "the lading and ship" (27:10). It also
+foresaw loss "of our lives", and that loss did not happen. The text credits the change to God:
+"God hath given thee all them that sail with thee" (27:24).
+
+Inference: Acts 27 is a narrative, and the promise in it was given to Paul. A business use of
+this text is an analogy. Four practices follow:
 
 1. Record the warning at the time, with a date and a name. The text records the decision of
    the centurion, and it also records the warning of Paul.
@@ -525,8 +579,9 @@ Use this shape for a diagnosis:
 8. Confidence: what the evidence supports, and what rests on judgment.
 
 Deliver the diagnosis before the judgment. State the facts in the order that you found them.
-Keep the blame out of the finding. Blame inside a finding teaches the next person to hide the
-next failure.
+Name the act and the system, and do not let a verdict on character replace either one. A finding
+that starts with blame teaches the next person to hide the next failure. Aim the finding at
+repair and restoration (Galatians 6:1).
 
 ---
 

@@ -65,7 +65,7 @@ bun run scripts/lexicon.ts english "farthing"         -> G787, G2835
 - KJV glosses: choose, create (creator), cut down, dispatch, do, make (fat).
 - Verified: Genesis 1:1 "In the beginning God created the heaven and the earth.", Genesis 1:27 "So God created man in his own image".
 
-Inference (not lexical data): Look at the width of the gloss list. The KJV uses H1254 for "cut down" and "dispatch" as well as "create". The core sense of the verb is formative activity, not bare fiat (a command alone). Do not build an argument on "create means ex nihilo" (out of nothing). That idea is not in this dictionary entry, and Genesis 1:1 does not state it. It is a later theological inference.
+Inference (not lexical data): Look at the width of the entry. The KJV uses H1254 for "cut down" and "dispatch" as well as "create". That width describes other uses of the word. It does not decide the sense in Genesis 1:1, because a gloss list is not a definition (see rule 1 at the end of this file). The idea of creation out of nothing (ex nihilo) is not in this dictionary entry, and the verb alone does not prove it. So do not build the doctrine on _bara_ alone. Text states: the doctrine rests on the canon. The material comes from God's creating act (Genesis 1:1), and Genesis 1 shows him making by his word: "And God said, Let there be light: and there was light" (1:3). Hebrews 11:3 and John 1:3 teach that all things were made by his word: "the worlds were framed by the word of God, so that things which are seen were not made of things which do appear", and "without him was not any thing made that was made".
 
 ### H6213 · עָשָׂה · _asah_: made
 
@@ -227,7 +227,7 @@ Inference (not lexical data): "Replenish" is a mild false friend. Modern English
 - KJV glosses: beautiful, best, better, bountiful, cheerful, at ease, [idiom] fair (word), (be in) favour, fine, glad, good (deed, -lier, -liest, -ly, -ness, -s), graciously, joyful, kindly, kindness, liketh (best), loving, merry, [idiom] most, pleasant, [phrase] pleaseth, pleasure, precious, prosperity, ready, sweet, wealth, welfare, (be) well(-favoured).
 - Verified: Genesis 1:4 "And God saw the light, that it was good", Genesis 1:31 "behold, it was very good."
 
-Inference (not lexical data): This entry is the reason that "good" in Genesis 1 is not a narrow moral verdict. The gloss list of the dictionary includes "beautiful", "prosperity", "wealth", "welfare", "at ease", and "fine". The word covers what is sound, fitting, and productive, across a wide range. A business that treats "good" as only ethical compliance takes half of the word. A business that treats it as only financial return takes the other half.
+Inference (not lexical data): The definition says "good... in the widest sense", and the gloss list includes "beautiful", "prosperity", "wealth", "welfare", "at ease", and "fine". That is the range of the word across the Old Testament. One occurrence does not carry the whole range, and a gloss list is not a definition (see rule 1 at the end of this file). In Genesis 1 the context fixes the sense. It is God's verdict that what he made is sound and fit for its purpose. Do not read "wealth" or "prosperity" into that verdict. The range does warn against a reading of "good" in Genesis 1 as rule-keeping alone.
 
 ### H5315 · נֶפֶשׁ · _nephesh_: living soul
 
@@ -238,7 +238,7 @@ Inference (not lexical data): This entry is the reason that "good" in Genesis 1 
 no Strong's entry glossed "living soul". The KJV phrase translates a Hebrew
 phrase. It is not a dictionary headword.
 
-Inference (not lexical data): The primary sense in the dictionary is "a breathing creature". The word is used of animals in Genesis 1:20-24 as well as of humans. The KJV gloss list includes "soul", "body", "breath", "creature", "person", "appetite", "desire", and "lust". Some readings, under Greek influence, treat "soul" as an immaterial substance that can be separated from the body. Those readings import a distinction that this entry does not contain.
+Inference (not lexical data): The primary sense in the dictionary is "a breathing creature". The word is used of animals in Genesis 1:20-24 as well as of humans. The KJV gloss list includes "soul", "body", "breath", "creature", "person", "appetite", "desire", and "lust". This entry does not by itself teach that the soul can exist apart from the body. Contested: whether the person continues apart from the body between death and the resurrection. Many readers hold that the soul continues and is with the Lord. They cite "fear not them which kill the body, but are not able to kill the soul" (Matthew 10:28), "absent from the body, and to be present with the Lord" (2 Corinthians 5:8), and "the souls of them that were slain" (Revelation 6:9). Other readers hold that the whole person sleeps until the resurrection. They point to this wide sense of `nephesh` and to "them also which sleep in Jesus will God bring with him" (1 Thessalonians 4:14). The entry alone does not settle the question.
 
 ---
 
@@ -362,7 +362,7 @@ Verified text for the chapter's key verses:
 - KJV glosses: crafty, prudent, subtil.
 - Verified: Genesis 3:1 "Now the serpent was more subtil than any beast of the field".
 
-Inference (not lexical data): The gloss list contains both "crafty" and "prudent". The same word can be read either way, and the dictionary marks its usual sense as bad. "Subtil" in 1611 English meant what "subtle" means today. In this case the KJV word is not the problem. The Hebrew word is ambivalent.
+Inference (not lexical data): The gloss list contains both "crafty" and "prudent", so the word has a good use elsewhere. But the dictionary marks its usual sense as bad, and in Genesis 3:1 the deception that follows decides the sense. Do not build on the favorable gloss here. In this verse the KJV "subtil" means crafty, the same sense as "his subtilty" in 2 Corinthians 11:3.
 
 ### H5175 · נָחָשׁ · _nachash_: serpent
 
@@ -390,7 +390,7 @@ Inference (not lexical data): The dictionary splits the sense cleanly: mental de
 - KJV glosses: sorrow, toil.
 - Verified: Genesis 3:16 "I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children", Genesis 3:17 "in sorrow shalt thou eat of it all the days of thy life".
 
-Inference (not lexical data): The first word in the dictionary is "worrisomeness", and the range is "labor or pain". The KJV gloss list itself gives "toil" beside "sorrow". So the curse on work in 3:17 uses the same word as the pain of childbirth. The word is as much about grinding effort as about grief.
+Inference (not lexical data): The first word in the dictionary is "worrisomeness", and the range is "labor or pain". The KJV gloss list itself gives "toil" beside "sorrow". So the toil of 3:17, under the curse on the ground ("cursed is the ground for thy sake"), uses the same word as the pain of childbirth. The ground is cursed, not the work. The word is as much about grinding effort as about grief.
 
 ### H6975 · קוֹץ · _qots_: thorns
 
@@ -490,7 +490,7 @@ Inference (not lexical data): In Genesis 3:6 this verb stands behind "to be desi
 - KJV glosses: consider, expert, instruct, prosper, (deal) prudent(-ly), (give) skill(-ful), have good success, teach, (have, make to) understand(-ing), wisdom, (be, behave self, consider, make) wise(-ly), guide wittingly.
 - Verified: Genesis 3:6 "a tree to be desired to make one wise".
 
-Inference (not lexical data): The gloss list pairs "wisdom" with "prosper", "have good success", "skill", and "expert". This is practical skill, not abstract philosophy. Genesis 3 is a story about the gain of that kind of competence on the wrong terms. The link to business reasoning is direct and needs no invention: the temptation is competence, and the dictionary says so.
+Inference (not lexical data): The gloss list pairs "wisdom" with "prosper", "have good success", "skill", and "expert". The range of the word covers practical skill as well as understanding. The dictionary does not describe the temptation. The text does: the serpent promises "ye shall be as gods, knowing good and evil" (3:5). Inference: the desire "to make one wise" is one strand of that offer. It is wisdom taken on the serpent's terms, against the word of God. An application to the pursuit of competence in business is an inference, and you must label it.
 
 ---
 
@@ -561,7 +561,7 @@ Inference (not lexical data): `agapē` is the standard Greek noun for love. In 1
 - KJV glosses: assurance, belief, believe, faith, fidelity
 - Verified: Hebrews 11:1 "Now faith is the substance of things hoped for", Ephesians 2:8 "For by grace are ye saved through faith".
 
-Inference (not lexical data): The root is `peitho`, "to persuade". The primary sense in the dictionary is "persuasion, i.e. credence", and the gloss list includes "fidelity": faithfulness, not only belief. The entry also includes "constancy in such profession". So "faith" in this vocabulary is not "belief without evidence". The entry describes persuasion and reliability. An argument that treats faith as the opposite of evidence argues against a definition that this dictionary does not give.
+Inference (not lexical data): The root is `peitho`, "to persuade". The primary sense in the dictionary is "persuasion, i.e. credence", and the gloss list includes "fidelity": faithfulness, not only belief. The entry also includes "constancy in such profession". So "faith" in this vocabulary is not "belief without evidence". The entry describes persuasion and reliability, and it names the chief object of faith: "especially reliance upon Christ for salvation". An argument that treats faith as the opposite of evidence argues against a definition that this dictionary does not give.
 
 ### G1680 · elpís · ἐλπίς: hope
 
@@ -682,7 +682,7 @@ Inference (not lexical data): `phren` is the mind, so the compound means literal
 - KJV glosses: acceptable, benefit, favour, gift, grace(- ious), joy, liberality, pleasure, thank(-s, -worthy)
 - Verified: Ephesians 2:8 "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God". The reverse map shows G5485 is one of the entries the KJV renders "grace".
 
-Inference (not lexical data): The gloss list is unusually wide: "favour", "gift", "liberality", "thank(-s)", "joy". The definition includes "gratitude", so grace goes both ways in this word. In business terms, it is closer to an unearned grant that creates obligation and gratitude than to a transaction. The word does not appear in the dictionary as a commercial term. Any application to pricing or credit is analogy, and you must label it as analogy.
+Inference (not lexical data): The gloss list is unusually wide: "favour", "gift", "liberality", "thank(-s)", "joy". The definition includes "gratitude", and the KJV renders some uses "thank(-s)". Those are separate uses of the word. They do not make the grace of God a two-way exchange. Text states: "And if by grace, then is it no more of works: otherwise grace is no more grace" (Romans 11:6), and "to him that worketh is the reward not reckoned of grace, but of debt" (Romans 4:4). Inference: grace calls for gratitude and a changed life, but it does not create a debt. Analogy: in business terms, grace is closer to an unearned gift than to a transaction. The word does not appear in the dictionary as a commercial term. Any application to pricing or credit is analogy, and you must label it as analogy.
 
 ### G4678 · sophía · σοφία: wisdom
 
