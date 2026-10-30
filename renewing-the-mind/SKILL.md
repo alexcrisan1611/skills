@@ -180,4 +180,4 @@ It does not correct a lament. Grief and godly sorrow spoken to God are not patte
 
 - `scripture-foundations` has the text and the rules to read it. The KJV is 1611 English. Make sure of every word before you lean on it.
 - `business-first-principles` has the axioms for business decisions.
-- `body-first-principles` treats the body as a working system, filtered through Scripture.
+- The body layer of `business-first-principles` (`../business-first-principles/references/body.md`) treats the body as a working system, filtered through Scripture.

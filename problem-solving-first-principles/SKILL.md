@@ -191,7 +191,7 @@ section that matches the step you are on:
 - `business-first-principles` holds the axioms. The most relevant are A26 (Diagnose before you
   judge), A27 (Friction is structural), A17 (Building and keeping are equal partners), and A25
   (Undisclosed failure produces hiding and blame).
-- `body-first-principles` supplies B9 (Pain is a signal, and the signal must be preserved), B10
+- The body layer of `business-first-principles` (`../business-first-principles/references/body.md`) supplies B9 (Pain is a signal, and the signal must be preserved), B10
   (Acute inflammation heals. Chronic inflammation destroys.), and B23 (Small failures kill the
   whole). B9 covers pain as a signal, B10 covers urgency with a time limit, and B23 covers small
   failures that kill the whole.

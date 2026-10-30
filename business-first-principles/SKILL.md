@@ -395,6 +395,14 @@ If the user asks a factual or tactical question, do not force this structure. Th
 
 ---
 
+## Body layer
+
+The body layer uses the healthy human body as a second layer of evidence for questions about structure, feedback, flow, growth, maintenance, waste, rest, limits, and resilience in a firm or a system. Scripture governs it. Its principles are B1 to B24, and M1 to M8 name the places where the body misleads. It was the `body-first-principles` skill.
+
+Read `references/body.md` when the user asks how an organization is like a body, or when a decision turns on one of those functions and an axiom above needs working detail. It holds the three rules, B1 to B24, M1 to M8, its own procedure, and its output format. Its reference files are in `references/body/`. Do not read it for a personal health question. The layer is not medical guidance.
+
+---
+
 ## References
 
 - `references/axioms.md`: the full derivation, verse by verse, for every axiom above. It also gives the verses that extend each axiom through the rest of Scripture.
@@ -403,3 +411,7 @@ If the user asks a factual or tactical question, do not force this structure. Th
 - `references/org-and-labor.md`: the triage of Exodus 18, the org design of Acts 6, the build-and-defend of Nehemiah, succession from David to Solomon, paying the ox, and counsel.
 - `references/ethics.md`: the Micah 6:8 test (justice, mercy, humility), just weights and honest measures, the golden rule in commerce, and how to make an ethics call under pressure.
 - `references/trends-and-timing.md`: Issachar, reading the times, the cycle of Joseph, sowing and reaping, and action under uncertainty.
+- `references/body.md`: the body layer, B1 to B24 and M1 to M8, with its procedure and output format.
+- `references/body/body-systems.md`: the body systems, from the whole body to the cell, with the facts behind each B principle and the limits of each analogy.
+- `references/body/body-scripture-map.md`: the table of body facts mapped to the Scripture that governs each function.
+- `references/body/where-the-body-misleads.md`: the eight conflicts M1 to M8, expanded, with the reasoning and the counter-texts.

@@ -1,5 +1,7 @@
 # Body First Principles
 
+This was the `body-first-principles` skill. It is now the body layer of `business-first-principles`. The agent reads `references/body.md` of that skill when the layer applies.
+
 This skill uses the healthy human body, from the whole organism down to the cell, as a second layer of evidence for business and organizational questions, with Scripture as the final authority.
 
 ## What it does
@@ -56,10 +58,10 @@ The answer has seven parts: the function, the body fact, the governing Scripture
 
 ## What is in this folder
 
-- `SKILL.md`: The skill itself. It holds the three rules, the principles B1 to B24, the conflicts M1 to M8, the procedure, and the output format.
-- `references/body-systems.md`: The body facts behind each principle, the limit of each analogy, and a closing section on why a firm is not an organism. Each claim carries a label: Body fact, Text states, Lexical, Inference, Contested, or Speculation.
-- `references/body-scripture-map.md`: A table that maps each body fact to the Scripture that governs it, with longer notes on the rows that carry the most weight.
-- `references/where-the-body-misleads.md`: The eight conflicts M1 to M8 in full. Each one gives the instinct, its effect on a firm, the Scripture that overrides it, the counter-practice, and the case where the instinct is most likely to win.
+- `../body.md`: The body layer itself. It holds the three rules, the principles B1 to B24, the conflicts M1 to M8, the procedure, and the output format.
+- `body-systems.md`: The body facts behind each principle, the limit of each analogy, and a closing section on why a firm is not an organism. Each claim carries a label: Body fact, Text states, Lexical, Inference, Contested, or Speculation.
+- `body-scripture-map.md`: A table that maps each body fact to the Scripture that governs it, with longer notes on the rows that carry the most weight.
+- `where-the-body-misleads.md`: The eight conflicts M1 to M8 in full. Each one gives the instinct, its effect on a firm, the Scripture that overrides it, the counter-practice, and the case where the instinct is most likely to win.
 
 The reference files take all Scripture quotes from the KJV search tool in the `scripture-foundations` skill (`scripts/scripture.ts`), not from memory.
 

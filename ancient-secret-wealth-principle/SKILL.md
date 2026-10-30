@@ -144,8 +144,8 @@ sells is true and worth the price.
 
 Text states: God put the man in the garden "to dress it and to keep it" (Genesis 2:15). Work
 came before the fall. The axioms in `business-first-principles` make the same point in "A16.
-Work precedes the fall" and "A17. Building and keeping are equal partners". The skill
-`body-first-principles` makes it in B4, "Honor must flow to the unpresentable parts".
+Work precedes the fall" and "A17. Building and keeping are equal partners". The body layer of
+`business-first-principles` (`../business-first-principles/references/body.md`) makes it in B4, "Honor must flow to the unpresentable parts".
 
 Text states: Scripture commends work done by hand. "work with your own hands, as we commanded
 you" (1 Thessalonians 4:11). "let him labour, working with his hands the thing which is good,

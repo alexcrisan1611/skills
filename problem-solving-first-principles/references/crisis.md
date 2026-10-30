@@ -278,7 +278,7 @@ Inference: three rules follow for a crisis log.
 
 ## The stopping rule
 
-Inference: an emergency needs an end date. The body axiom B10 in `body-first-principles` states
+Inference: an emergency needs an end date. The body axiom B10 in `../business-first-principles/references/body.md` states
 the shape. Acute inflammation heals, and chronic inflammation destroys the tissue that it came to
 protect. Set the date when the emergency posture ends and the normal posture starts again.
 

@@ -78,7 +78,7 @@ The skill quotes the King James Version (KJV). The verses and word definitions c
 
 - `first-principles-reasoning`: Decides what to do after this skill finds the cause.
 - `business-first-principles`: Holds the business axioms. The skill uses A17, A25, A26, and A27.
-- `body-first-principles`: Supplies B9, B10, and B23 on pain as a signal, time limits on urgency, and small failures.
+- `business-first-principles`, body layer (`../business-first-principles/references/body.md`): Supplies B9, B10, and B23 on pain as a signal, time limits on urgency, and small failures.
 - `scripture-foundations`: Holds the KJV text, the lexicon tools, and the rules for reading them.
 
 ## Limits

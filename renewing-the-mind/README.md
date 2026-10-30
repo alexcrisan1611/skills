@@ -100,4 +100,4 @@ The reference files also state that the Bible does not mention schools, social m
 
 - `scripture-foundations`: The KJV text and the rules to read it.
 - `business-first-principles`: The axioms for business decisions.
-- `body-first-principles`: The body as a working system, filtered through Scripture.
+- `business-first-principles`, body layer (`../business-first-principles/references/body.md`): The body as a working system, filtered through Scripture.

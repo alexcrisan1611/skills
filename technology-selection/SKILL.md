@@ -221,5 +221,6 @@ section that matches the decision:
   and A32.
 - `business-idea-generation` finds the opportunity. This skill decides what to build or buy for
   it.
-- `body-first-principles` covers maintenance, waste, and flow at the level of systems. It extends
+- The body layer of `business-first-principles` (`../business-first-principles/references/body.md`)
+  covers maintenance, waste, and flow at the level of systems. It extends
   the keep material in `references/total-cost.md`.

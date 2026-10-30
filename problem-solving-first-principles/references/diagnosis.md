@@ -53,7 +53,7 @@ its stated capacity. This stays in place until the team reviews the current comm
 
 Why the order matters: Inference: During active harm, people protect themselves when they give
 their account. The evidence also disappears fast. The related axiom is B10 in
-`body-first-principles`, "Acute inflammation heals. Chronic inflammation destroys." Its
+`../business-first-principles/references/body.md`, "Acute inflammation heals. Chronic inflammation destroys." Its
 principle is that urgency must be time boxed. A crisis that never ends becomes the normal
 operating condition.
 

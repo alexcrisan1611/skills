@@ -1,8 +1,8 @@
 # Where the Body Misleads
 
-Reference file for the `body-first-principles` skill.
+Reference file for the body layer (`references/body.md`) of the `business-first-principles` skill.
 
-This file expands the eight conflicts in section VI of the skill file. Each one has the
+This file expands the eight conflicts in section VI of `references/body.md`. Each one has the
 same shape.
 
 1. The body's instinct, stated as a body fact.
@@ -418,7 +418,7 @@ Three consequences follow for the use of this skill.
 3. The body's instincts still carry information. The instinct is not noise. It is a true
    report of a state, and it becomes an error when it is treated as a rule. (Inference)
 
-The rule from the skill file settles the procedure. Explicit commands of Scripture govern.
+The rule from `references/body.md` settles the procedure. Explicit commands of Scripture govern.
 Direct descriptions of God's character and action govern. Inferences from the body inform
 and illustrate. When the body suggests one thing and Scripture says another, follow
 Scripture and name the conflict. (Inference)

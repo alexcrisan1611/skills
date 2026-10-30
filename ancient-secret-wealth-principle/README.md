@@ -67,7 +67,7 @@ The skill depends on sibling skills in this repository:
 
 - `../scripture-foundations/`: The rule for labels ("Rule one") and the script that looks up KJV verses, for example `python ../scripture-foundations/scripts/scripture.py lookup "Proverbs 14:23"`.
 - `../business-first-principles/`: Axioms A16 and A17 on the worth of work.
-- `../body-first-principles/`: Principle B4, "Honor must flow to the unpresentable parts".
+- `../business-first-principles/references/body.md`: The body layer, principle B4, "Honor must flow to the unpresentable parts".
 
 ## Example prompts
 

@@ -44,13 +44,15 @@ The answer follows a fixed structure: the decision, the substrate, the governing
 
 ## What is in this folder
 
-- `SKILL.md`: The 34 axioms, the 10-step procedure, the short form, the anti-patterns table, and the output format.
+- `SKILL.md`: The 34 axioms, the 10-step procedure, the short form, the anti-patterns table, the output format, and a pointer to the body layer.
 - `references/axioms.md`: The full derivation, verse by verse, for each axiom, with an appendix that logs the verification of each claim.
 - `references/canon-survey.md`: A wider pass over Scripture on purpose, integrity, wisdom, leadership, execution, money, resilience, and communication. Read it as analogy. Where it conflicts with the axioms, the axioms win.
 - `references/capital-and-stewardship.md`: Money, debt, and reserves. It covers the talents and the minas, counting the cost, the seven-year cycle of Joseph, the jubilee, and stewardship.
 - `references/org-and-labor.md`: Structure, delegation, hiring, pay, and succession. It covers Exodus 18, Acts 6, Nehemiah, David and Solomon, Bezaleel, and counsel.
 - `references/ethics.md`: The Micah 6:8 test, the commerce rules of Leviticus 19, honest measures, the golden rule, and a method to make an ethics call under pressure.
 - `references/trends-and-timing.md`: Reading the times (Issachar), cycles, reconnaissance, testing a forecast, and action under uncertainty.
+- `references/body.md`: The body layer, which was the `body-first-principles` skill. It uses the healthy human body as a second layer of evidence, with Scripture as the final authority. It holds the principles B1 to B24, the conflicts M1 to M8, a six-step procedure, and an output format.
+- `references/body/`: The reference files of the body layer: `body-systems.md`, `body-scripture-map.md`, and `where-the-body-misleads.md`. Its `README.md` describes the layer for people.
 
 The reference files label their claims as "Text states," "Lexical" (about the Hebrew or Greek word, checked against Strong's), "Inference," or "Speculation." They use "Contested" where faithful readers differ, for example on the roles of man and woman, on Genesis 3:16, and on the Sabbath. `canon-survey.md` is a lighter survey. It reads every entry as analogy and labels the main inferences.
 

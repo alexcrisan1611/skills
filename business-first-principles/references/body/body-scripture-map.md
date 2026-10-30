@@ -1,6 +1,6 @@
 # Body Scripture Map
 
-Reference file for the `body-first-principles` skill.
+Reference file for the body layer (`references/body.md`) of the `business-first-principles` skill.
 
 This file maps the body facts of B1 to B24 to the Scripture that governs each function. The
 table is the map. The prose sections that follow expand the rows that carry the most
@@ -367,5 +367,5 @@ know that it is one.
 Second, an argument from the body still leaves the body under Scripture. The body supplies
 the structure in these four passages because the text chose to use it. The body does not
 supply the goal, the standard, or the judge. Those come from the same text, and the
-`references/where-the-body-misleads.md` file lists the eight places where the body's own
+`references/body/where-the-body-misleads.md` file lists the eight places where the body's own
 instinct runs against them. (Inference)

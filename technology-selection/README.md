@@ -53,7 +53,7 @@ The skill depends on sibling skills in this repository:
 - `../scripture-foundations/`: The KJV text, the Strong's lexicon, and the reading rules.
 - `../business-first-principles/`: The axioms that the skill uses (A2, A5, A13, A14, A17, A27, A30, and A32).
 - `../business-idea-generation/`: Finds the opportunity. This skill decides what to build or buy for it.
-- `../body-first-principles/`: Covers maintenance, waste, and flow at the level of systems.
+- `../business-first-principles/references/body.md`: The body layer. Covers maintenance, waste, and flow at the level of systems.
 
 ## Example prompts
 

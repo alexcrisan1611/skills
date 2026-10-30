@@ -1,6 +1,6 @@
 # Body Systems
 
-Reference file for the `body-first-principles` skill.
+Reference file for the body layer (`references/body.md`) of the `business-first-principles` skill.
 
 This file holds the body facts behind B1 to B24, from the whole organism down to the cell.
 It gives the fact, the analogy it supports, and the limit of that analogy.
@@ -8,7 +8,7 @@ It gives the fact, the analogy it supports, and the limit of that analogy.
 Three rules govern the file.
 
 1. The body is evidence, not authority. Scripture governs. The file
-   `references/where-the-body-misleads.md` holds the eight places where the body's instinct
+   `references/body/where-the-body-misleads.md` holds the eight places where the body's instinct
    runs against the text.
 2. This file reasons about organizations by analogy. It is not medical guidance. A reader
    with a health question must speak to a qualified physician.
@@ -615,7 +615,7 @@ states) "And God shall wipe away all tears from their eyes; and there shall be n
 death, neither sorrow, nor crying, neither shall there be any more pain: for the former
 things are passed away." (Revelation 21:4) (Text states) Contested: whether Adam was mortal
 by nature and kept alive by the tree of life (Genesis 3:22), or immortal until the fall.
-The file `references/where-the-body-misleads.md` names this dispute.
+The file `references/body/where-the-body-misleads.md` names this dispute.
 
 A firm is finite. Plan for succession, sale, or closure, and do it while the firm is
 strong. A founder who cannot imagine the end will be surprised by it. (Inference)
@@ -747,7 +747,7 @@ This is the largest break of the six. A body is not a moral agent. It has no con
 no standing, and no accountability. A firm is made of persons who are moral agents, and
 the firm is answerable for what it does. (Inference) A body's appetites carry no
 authority, and neither does a firm's. The section that follows the instincts is covered in
-`references/where-the-body-misleads.md`.
+`references/body/where-the-body-misleads.md`.
 
 ---
 
@@ -785,6 +785,6 @@ applications of that rule follow.
 3. A cell that the body discards has no claim. A person who leaves a firm, or whom a firm
    releases, keeps every claim that Scripture gives a person.
 
-The order of authority in the skill file settles the question. Explicit commands of
+The order of authority in `references/body.md` settles the question. Explicit commands of
 Scripture govern. Direct descriptions of God's character and action govern. Inferences
 from the body inform and illustrate. They never override the first two. (Inference)

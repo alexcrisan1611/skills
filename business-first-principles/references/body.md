@@ -1,9 +1,7 @@
----
-name: body-first-principles
-description: A sub-layer of first principles drawn from the healthy human body, from the whole organism down to the cell, filtered through Scripture. Use this whenever a business, technical, or organizational question involves structure, systems, feedback, flow, growth, maintenance, waste, rest, limits, or resilience. Also use it when the user asks how an organization is like a body or a living system. Reach for it even when the user does not mention the body at all. Examples are a question about why something keeps breaking, why growth stalled, why a team is exhausted, or what a healthy system looks like. Scripture governs this skill. Where the body and the Bible disagree, the Bible wins and the skill says so.
----
-
 # Body First Principles
+
+Reference file for the body layer of the `business-first-principles` skill. It was the
+`body-first-principles` skill. The B and M numbers are unchanged.
 
 ## What this layer is for
 
@@ -289,7 +287,7 @@ Text states: death entered by sin, "by one man sin entered into the world, and d
 (1 Corinthians 15:26). Death will end, "there shall be no more death" (Revelation 21:4).
 Contested: whether Adam was mortal by nature and kept alive by the tree of life (Genesis 3:22),
 or immortal until the fall. The body cannot settle the question. The reference file
-`references/where-the-body-misleads.md` names this dispute.
+`references/body/where-the-body-misleads.md` names this dispute.
 The business consequence: a firm is finite. Plan for succession, sale, or closure, and do it
 while the firm is strong. A founder who cannot imagine the end will be surprised by it.
 Scripture: Psalm 90:12, "So teach us to number our days". Genesis 3:19 states the return to
@@ -433,17 +431,17 @@ When you answer a question from this layer, use this shape:
 
 ## References
 
-- `references/body-systems.md`: the systems, from the whole body to the cell, with the facts
+- `references/body/body-systems.md`: the systems, from the whole body to the cell, with the facts
   behind each principle and the limits of each analogy.
-- `references/body-scripture-map.md`: the full table of body facts mapped to Scripture, with
+- `references/body/body-scripture-map.md`: the full table of body facts mapped to Scripture, with
   the passages that govern each function.
-- `references/where-the-body-misleads.md`: the eight conflicts above, expanded, with the
+- `references/body/where-the-body-misleads.md`: the eight conflicts above, expanded, with the
   reasoning and the counter-texts.
 
 ## How this layer connects
 
-- `business-first-principles` holds the axioms derived from Genesis 1-3. This layer sits under
-  it and supplies working detail.
+- `SKILL.md` of `business-first-principles` holds the axioms derived from Genesis 1-3. This
+  layer is part of that skill and supplies working detail for the axioms.
 - `scripture-foundations` holds the text and the rules for reading it. Check every word there
   before you lean on it. The KJV is 1611 English.
 - `renewing-the-mind` handles false patterns of thought. These include the false patterns that a

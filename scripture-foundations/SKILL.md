@@ -16,7 +16,6 @@ Most reasoning fails at the foundation, not at the conclusion. This skill gives 
 The other skills in the family build on this layer:
 
 - `first-principles-reasoning`
-- `body-first-principles`
 - `business-first-principles`
 - `business-idea-generation`
 - `problem-solving-first-principles`
