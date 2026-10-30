@@ -1,6 +1,6 @@
 ---
 name: problem-solving-first-principles
-description: Diagnose a failure before anyone assigns blame. Use this skill when the user asks for a root cause analysis, brings a recurring problem, asks why something keeps breaking, wants a post-mortem or a retrospective on a failure, faces a crisis that needs triage, or needs to debug a process, an organization, or a system that fails the same way twice. The core of the method is the interrogation in Genesis 3. It asks where, then what source, then what act, and only then judges. Use this skill when the same outage, complaint, or missed date returns, when a team applied a fix and the problem came back, when a slow decline has no single event to investigate, or when someone dismissed a warning and the crisis arrived anyway. It covers triage, the difference between structural and fixable friction, the storm test, and the honest limit of diagnosis.
+description: "Root-cause diagnosis of recurring organizational or process failures (post-mortems, retros, crisis triage) using the Genesis 3 where/source/act method. Not for debugging code; use mattpocock-skills:diagnosing-bugs."
 ---
 
 # Problem Solving First Principles

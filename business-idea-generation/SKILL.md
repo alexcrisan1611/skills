@@ -1,6 +1,6 @@
 ---
 name: business-idea-generation
-description: Find and test business opportunities. Use this skill when the user asks for business ideas, wants to find a gap or a niche, asks whether an idea is any good, wants help to read a trend, enters a market, positions something new, or works out what to build next. The skill separates reading the times from knowing what to do. It treats the harvest as present, not pending. It gives a repeatable procedure that runs from the change to the test. It rests on Scripture and on the axioms of business-first-principles, and it labels every business application as an inference.
+description: "Find and test business opportunities with a 7-step change-to-test procedure grounded in business-first-principles. Use when the user asks for business ideas, a niche or gap, or whether an idea is any good."
 ---
 
 # Business Idea Generation

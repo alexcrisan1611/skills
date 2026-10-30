@@ -1,6 +1,6 @@
 ---
 name: business-first-principles
-description: The axioms of business, derived from Genesis 1-3 and the foundation chapters of the Bible, plus the procedure to apply them. This is the flagship skill for any business decision that must be reasoned from the ground up, not copied from convention. It covers strategy, capital and cash reserves, org design, hiring, pricing, growth, maintenance, risk, ethics, and succession. Use it when the user asks what to build or how to structure a company. Also use it when the user asks whether a plan is sound, how to allocate money or time, why a business is failing, or what the right thing to do is. Use it even when the user never mentions Scripture but makes a foundational business choice. Use it especially when "best practice" or "everyone does it this way" is the stated reason for something.
+description: "Biblical axioms (Genesis 1-3, A1-A34) for foundational business decisions: strategy, capital, org design, hiring, pricing, succession. Use when the user wants a business choice reasoned from Scripture or first principles, not convention."
 ---
 
 # Business First Principles

@@ -1,6 +1,6 @@
 ---
 name: renewing-the-mind
-description: Find malformed and inaccurate patterns of thought, take them apart, and replace them with patterns built on biblical first principles. Use this whenever the user asks why they keep believing something, or asks whether a belief came from school or media and not from evidence. Also use it when the user wants to unlearn a habit of mind, feels anxious or envious or stuck in comparison, is deconstructing a worldview, or asks how to think and not what to think. Reach for it even when the user does not mention thinking errors at all. The user can describe a pattern they cannot break, a reaction they cannot justify, or an assumption they inherited. Also use it to audit a claim, a slogan, or a piece of advice for the thinking error underneath it.
+description: "Take apart a belief or habit of thought, test it against Scripture (true, wise, loving), and replace it. Use when the user asks to examine or unlearn a belief, slogan, or inherited assumption. Not medical or mental-health advice."
 ---
 
 # Renewing the Mind

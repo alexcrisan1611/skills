@@ -1,6 +1,6 @@
 ---
 name: technology-selection
-description: Choosing technology and deciding what to do with it. Use this when the user asks whether to adopt a specific tool, whether to build their own system, whether to migrate, or whether to rewrite. It covers the choice of stack, internal tools, platforms, frameworks, migrations, and automation, and the buy, build, borrow, or wait decision. It works from the specification and not from the tool. It prices the whole cost, including the cost to keep the system. It gates the decisions that nobody can reverse, and it asks for the smallest version that works. It rests on Scripture and on the axioms of business-first-principles, and it labels each application as an inference.
+description: "Buy/build/borrow/wait decisions for platforms, internal tools, migrations and rewrites, priced on total cost and reversibility. Not for routine library picks or Solar Enterprise stack choices (use solar-enterprise-stack)."
 ---
 
 # Technology Selection

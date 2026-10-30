@@ -1,6 +1,6 @@
 ---
 name: scripture-foundations
-description: The Scripture layer for first-principles work. It gives a local, searchable KJV, the foundation chapters of the Bible, and a method to derive principles from the text. Use this whenever a task touches Genesis 1-3, "first principles," foundations, cornerstones, the mind or thoughts of God, or any explicitly biblical reasoning. Use it whenever you must quote, verify, or search the KJV. Use it whenever business, technical, design, or life decisions must rest on a scriptural foundation. Reach for it even when the user only says "first principles" or "Genesis" and does not state the connection, and whenever the exact wording of a verse matters. Load it before you quote Scripture from memory. Recall is not reliable enough for exact wording.
+description: "Look up, search and verify KJV text with bundled scripts, and derive principles from it. Use before quoting any verse, or when the user asks for explicitly biblical reasoning. Not for the bare phrase 'first principles'."
 ---
 
 # Scripture Foundations

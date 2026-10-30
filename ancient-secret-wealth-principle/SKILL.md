@@ -1,6 +1,6 @@
 ---
 name: ancient-secret-wealth-principle
-description: Diagnose where an entrepreneur, creator, or professional sits on Myron Golden's Four Levels of Value (Implementation, Unification, Communication, Imagination). Then move their offer and activities toward work with more reach. Use when the user shares a business dilemma, an offer structure, a pricing or career bottleneck, or feels stuck trading time for money. Also use it when the user resists selling, or wants to map an offer to buyer psychology (past voids, present virtues, future visions).
+description: "Diagnose an offer or career on Myron Golden's Four Levels of Value and move it toward more reach. Use when the user names the Four Levels, is stuck trading time for money, or resists selling."
 ---
 
 # Ancient Secret Wealth Principle (Four Levels of Value)

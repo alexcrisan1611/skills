@@ -1,6 +1,6 @@
 ---
 name: self-grill
-description: Autonomously interrogate a plan, architecture, or request by traversing its decision tree, answering each question with the optimal recommendation, and outputting a complete Decision Ledger with all considered options for user review or override. Use when the user asks to self-grill, auto-grill, resolve ambiguities autonomously, or stress-test a plan without round-trip questioning.
+description: "Autonomously interrogate a plan, architecture, or request by walking its decision tree, answering each question with the best recommendation, and output a Decision Ledger for review. Use when the user asks to self-grill, auto-grill, or stress-test a plan without round-trip questions."
 ---
 
 # Self-Grill

@@ -1,6 +1,6 @@
 ---
 name: first-principles-reasoning
-description: Reason from the ground up, and find the assumption under a belief before it does damage. Use this whenever the user asks to reason from first principles, to strip a question back to what is given, to test whether a claim is true rather than repeated, to challenge received wisdom or best practice, to work out what something is for, or to ask what has to be true for a position to hold. Use it when an argument rests on authority, fashion, or analogy, when everyone agrees too quickly, when people follow a rule for no stated reason, and whenever a question begins with why. It also names the limit of the method, so that the reader can see what the method cannot answer from inside the system. It also tells you when the work is not worth the cost.
+description: "Derive an answer from what is given, not from convention: find and test the load-bearing assumption. Use when the user asks for first principles, challenges a best practice, or faces a hard-to-reverse decision where the known answer failed."
 ---
 
 # First Principles Reasoning
