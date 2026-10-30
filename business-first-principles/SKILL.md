@@ -25,6 +25,8 @@ In each axiom below, "Inference:" marks the business consequence. The label is t
 
 The axioms follow the groups of Genesis 1-3: the source, the method, the rhythm, the fracture. Each entry gives the axiom, its ground in the text, and the consequence that it forces.
 
+Citation rule: the heading `#### N.` below is cited as `AN` in every skill in this repository. For example, `#### 26. Diagnose before you judge` is A26.
+
 ### I. The source and the substrate (Genesis 1:1-2)
 
 #### 1. All value is derived

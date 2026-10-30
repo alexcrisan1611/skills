@@ -44,7 +44,7 @@ The answer follows a fixed structure: the decision, the substrate, the governing
 
 ## What is in this folder
 
-- `SKILL.md`: The 34 axioms, the 10-step procedure, the short form, the anti-patterns table, the output format, and a pointer to the body layer.
+- `SKILL.md`: The 34 axioms (heading `#### N.` is cited as `AN`), the 10-step procedure, the short form, the anti-patterns table, the output format, and a pointer to the body layer.
 - `references/axioms.md`: The full derivation, verse by verse, for each axiom, with an appendix that logs the verification of each claim.
 - `references/canon-survey.md`: A wider pass over Scripture on purpose, integrity, wisdom, leadership, execution, money, resilience, and communication. Read it as analogy. Where it conflicts with the axioms, the axioms win.
 - `references/capital-and-stewardship.md`: Money, debt, and reserves. It covers the talents and the minas, counting the cost, the seven-year cycle of Joseph, the jubilee, and stewardship.
