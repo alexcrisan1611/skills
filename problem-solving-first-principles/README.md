@@ -60,7 +60,8 @@ The output is a diagnosis in eight parts: symptom, location, source and act, cla
 
 ## What is in this folder
 
-- `SKILL.md`: The full method, the Bible passages, the tests, the eight-step procedure, and the output format.
+- `SKILL.md`: When to use the skill, the eight-step procedure, the output format, the interrogation of Genesis 3, and a pointer to each case and test.
+- `references/cases-and-tests.md`: The Bible passages and the tests behind the procedure: cycle or event, structural or fixable friction, triage, decay, the storm and fire tests, the honest limit, and Acts 27.
 - `references/diagnosis.md`: The eight steps worked through one constructed case, a software firm that misses delivery dates every quarter. It includes a list of traps, the signs that the diagnosis is wrong, and a bank of 17 questions.
 - `references/crisis.md`: Crisis response from Acts 27 and Nehemiah 4. It separates the decisions for the first hour from the decisions that wait. It also covers the crisis log, the rule for ending an emergency, common failure modes, and the order of work after the crisis.
 

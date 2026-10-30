@@ -129,7 +129,7 @@ called Night."
 
 Inference: The order in Genesis 1 is divide, then name, then fill. The earth starts without
 form. God divides (1:4), then names (1:5), and on later days fills what he formed. The
-business-idea-generation skill file states the same order.
+business-idea-generation skill states the same order in `references/scripture-cases.md`, "The opportunity is formlessness".
 
 The evidence standard: A part with no boundary and no name. Look for these signs:
 

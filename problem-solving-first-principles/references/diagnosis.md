@@ -199,7 +199,7 @@ The question: What kind of failure is this?
 
 Three tests sort the finding into the five classes in the table below. Each class has a different remedy.
 
-Cycle or event: Run the test from the skill file.
+Cycle or event: Run the test from `references/cases-and-tests.md`.
 
 | Test              | Result in this case                               | Read                    |
 | ----------------- | ------------------------------------------------- | ----------------------- |
@@ -212,7 +212,7 @@ Cycle or event: Run the test from the skill file.
 Verdict: cycle. Illustration. (AE means account executive.)
 
 Structural friction or fixable friction: Run the test. Each row answers the question for that
-test in the skill file.
+test in `references/cases-and-tests.md`.
 
 | Test     | Question                                                      | Result in this case                                                                                                                                  | Read                                            |
 | -------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
@@ -240,7 +240,7 @@ The classification sets the fix:
 | Fixable friction    | Remove the cause, and test the removal                                |
 | Decay               | Install a maintenance function with a name, a calendar, and a measure |
 
-Label: Illustration, with the friction tests from the skill file.
+Label: Illustration, with the friction tests from `references/cases-and-tests.md`.
 
 ---
 

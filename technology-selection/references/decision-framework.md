@@ -157,7 +157,7 @@ feedback arrives late, and the team commits the cost of the whole before any par
 
 Text states (Proverbs 24:4): "And by knowledge shall the chambers be filled with all precious and
 pleasant riches." Inference: the filling follows the building and the establishing, if the
-lines are read as a sequence (see the skill file). The smallest version is the first chamber.
+lines are read as a sequence (see `references/scripture-readings.md`, "Shaping before filling"). The smallest version is the first chamber.
 
 ---
 
@@ -337,7 +337,7 @@ Text (Ecclesiastes 10:10, KJV):
 
 Text states: the verse attaches the return to "wisdom", not to the edge.
 
-Inference: "direct" here means to make the work go right (H3787 _kasher_, see the skill file). It
+Inference: "direct" here means to make the work go right (H3787 _kasher_, see `references/scripture-readings.md`, "Sharpen the tool"). It
 does not mean to steer. The boring option can be the wise choice, and wisdom matters more than
 sharpness. A sharp novel tool used without wisdom wastes the sharpness.
 

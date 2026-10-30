@@ -42,7 +42,8 @@ The full cost list has seven lines: license or build, integration, training, mig
 
 ## What is in this folder
 
-- `SKILL.md`: The skill itself. It holds the Scripture readings, the cost list, the reversibility test, the compatibility questions, the six decision criteria, the 14 questions, the output format, and the anti-patterns.
+- `SKILL.md`: The skill itself. It holds when to use the skill, the six decision criteria, the 14 questions, the cost list, the reversibility test, the compatibility questions, the output format, the anti-patterns, and a pointer to each Scripture reading.
+- `references/scripture-readings.md`: The Scripture readings behind the framework, from Proverbs 24:3-4 to 2 Samuel 24:24.
 - `references/decision-framework.md`: The full buy, build, borrow, or wait framework. It has the evidence that each option needs, a worked build decision (a dispatch system for 40 field technicians), a worked database migration, guidance on when to choose the boring option, and a template for a decision record.
 - `references/total-cost.md`: The cost of keeping a system. It lists 12 categories of maintenance work, a five-part keep budget, a checklist of 20 costs that teams often omit, the symptoms of keep failure, the lines of an exit cost, and 10 working rules.
 - `README.md`: This file.

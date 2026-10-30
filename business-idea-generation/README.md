@@ -45,7 +45,8 @@ When you ask for ideas or for a verdict on an idea, the answer comes in a fixed 
 
 ## What is in this folder
 
-- `SKILL.md`: The main skill file. It holds the Scripture cases, the conversion test, the seven-step procedure, the output format, and a table of common failure modes.
+- `SKILL.md`: The main skill file. It holds when to use the skill, the seven-step procedure, the output format, a table of common failure modes, and a pointer to each Scripture case.
+- `references/scripture-cases.md`: The Scripture cases behind the procedure, with the conversion test, the steps to locate a market cycle position, the failure case of Numbers 13, and the demand test.
 - `references/opportunity-method.md`: The full procedure. It holds the evidence standards for each step, the conversion and demand tests, the bet portfolio, market sizing, falsification, and the smallest reversible first step. It also has two worked examples with invented figures: a software product for small accounting firms and a mobile e-bike service.
 - `references/reading-the-times.md`: The trend material. It covers what a trend is, seven tests to separate durable change from fashion, what to watch in the field, how long a market position lasts, and how to test a claim about the future. It ends with 25 working rules.
 
