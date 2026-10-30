@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-labelledby="title">
+  <title id="title">Skills: a wall built on the chief cornerstone</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22304f"/>
+      <stop offset="1" stop-color="#141c30"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6d27a"/>
+      <stop offset="1" stop-color="#d49a2a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#f6d27a" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#f6d27a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <circle cx="133" cy="382" r="120" fill="url(#glow)"/>
+
+  <g fill="#e9e3d4">
+    <!-- row 5 (top) -->
+    <rect x="96" y="116" width="74" height="52" rx="7"/>
+    <rect x="178" y="116" width="74" height="52" rx="7"/>
+    <!-- row 4 -->
+    <rect x="96" y="176" width="33" height="52" rx="7"/>
+    <rect x="137" y="176" width="74" height="52" rx="7"/>
+    <rect x="219" y="176" width="74" height="52" rx="7"/>
+    <!-- row 3 -->
+    <rect x="96" y="236" width="74" height="52" rx="7"/>
+    <rect x="178" y="236" width="74" height="52" rx="7"/>
+    <rect x="260" y="236" width="74" height="52" rx="7"/>
+    <!-- row 2 -->
+    <rect x="96" y="296" width="33" height="52" rx="7"/>
+    <rect x="137" y="296" width="74" height="52" rx="7"/>
+    <rect x="219" y="296" width="74" height="52" rx="7"/>
+    <rect x="301" y="296" width="74" height="52" rx="7"/>
+    <!-- row 1 (foundation) -->
+    <rect x="178" y="356" width="74" height="52" rx="7"/>
+    <rect x="260" y="356" width="74" height="52" rx="7"/>
+    <rect x="342" y="356" width="74" height="52" rx="7"/>
+  </g>
+
+  <!-- the chief cornerstone (Ephesians 2:20) -->
+  <rect x="96" y="356" width="74" height="52" rx="7" fill="url(#gold)"/>
+</svg>

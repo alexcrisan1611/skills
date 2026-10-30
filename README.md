@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/icon.svg" alt="A stone wall built on a gold cornerstone" width="128"></p>
+
 # Skills
 
 This repository contains ten agent skills for business, reasoning, architecture, and Scripture-based work. A skill is a folder of instructions that an AI agent, such as Claude Code, loads when a task matches it.
