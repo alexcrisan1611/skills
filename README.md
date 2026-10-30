@@ -2,7 +2,7 @@
 
 # Skills
 
-This repository contains ten agent skills for business, reasoning, architecture, and Scripture-based work. A skill is a folder of instructions that an AI agent, such as Claude Code, loads when a task matches it.
+This repository contains nine agent skills for business, reasoning, architecture, and Scripture-based work. A skill is a folder of instructions that an AI agent, such as Claude Code, loads when a task matches it.
 
 Most of the biblical reasoning skills reason from Scripture. The `scripture-foundations` skill supplies the King James Version (KJV) text and the method that those skills use.
 
@@ -10,16 +10,15 @@ Most of the biblical reasoning skills reason from Scripture. The `scripture-foun
 
 | Skill | What it does |
 |---|---|
-| [ancient-secret-wealth-principle](ancient-secret-wealth-principle/) | Finds where your work sits on the Four Levels of Value of Myron Golden and moves your offer toward work with more reach. |
-| [body-first-principles](body-first-principles/) | Uses the healthy human body as a model for questions about organizations and systems, with Scripture as the final authority. |
-| [business-first-principles](business-first-principles/) | Reasons about business decisions from 34 axioms that come from Genesis 1-3. Other skills depend on it. |
-| [business-idea-generation](business-idea-generation/) | Finds business opportunities, tests them, and turns them into a decision. |
-| [first-principles-reasoning](first-principles-reasoning/) | Reasons from the ground up and finds the hidden assumption under a belief. |
-| [problem-solving-first-principles](problem-solving-first-principles/) | Diagnoses a failure, a recurring problem, or a crisis before anyone assigns blame. |
-| [renewing-the-mind](renewing-the-mind/) | Finds a false pattern of thought, tests it, and replaces it with a pattern built on biblical first principles. |
-| [scripture-foundations](scripture-foundations/) | Gives the agent a local, searchable KJV, a map of the foundation chapters, and a method to derive principles from the text. |
+| [ancient-secret-wealth-principle](ancient-secret-wealth-principle/) | Finds where an offer or a career sits on the Four Levels of Value of Myron Golden and moves it toward work with more reach. Use it when you name the Four Levels, trade time for money, or resist selling. |
+| [business-first-principles](business-first-principles/) | Reasons about foundational business decisions from 34 axioms that come from Genesis 1-3 (cited as A1 to A34). It includes the body layer (B1 to B24), which was the `body-first-principles` skill. Other skills depend on it. |
+| [business-idea-generation](business-idea-generation/) | Finds business opportunities and tests them with a seven-step procedure, from the change to the test. |
+| [first-principles-reasoning](first-principles-reasoning/) | Derives an answer from what is given, not from convention, and tests the assumption that carries the load. Use it for a hard-to-reverse decision or a best practice that failed. |
+| [problem-solving-first-principles](problem-solving-first-principles/) | Finds the root cause of a recurring failure in an organization or a process before anyone assigns blame. It is not for debugging code. |
+| [renewing-the-mind](renewing-the-mind/) | Takes apart a belief or a habit of thought, tests it against Scripture, and replaces it. It is not medical or mental-health advice. |
+| [scripture-foundations](scripture-foundations/) | Gives the agent a local, searchable KJV and scripts to look up and verify verses, and a method to derive principles from the text. |
 | [self-grill](self-grill/) | Autonomously interrogates a plan, architecture, or request by traversing its decision tree, answering each question, and presenting a Decision Ledger. |
-| [technology-selection](technology-selection/) | Helps you decide whether to buy, build, borrow, or wait on a technology, and prices the full cost first. |
+| [technology-selection](technology-selection/) | Helps you decide whether to buy, build, borrow, or wait on a platform, an internal tool, a migration, or a rewrite, and prices the full cost first. It is not for routine library picks. |
 
 Each folder has a `SKILL.md` file for the agent and a `README.md` file for people. Read the `README.md` of a skill for its triggers, steps, example prompts, and limits.
 

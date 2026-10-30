@@ -22,13 +22,13 @@ The skill also lists eight places, M1 to M8, where the logic of the body runs ag
 
 ## When to use it
 
-Use this skill when a business, technical, or organizational question is about one of these topics:
+The agent reads this layer from `business-first-principles` when a business or organizational question is about one of these topics:
 
 - Structure, systems, feedback, or flow.
 - Growth, maintenance, waste, rest, limits, or resilience.
 - How an organization is like a body or a living system.
 
-You do not have to mention the body. These questions also fit:
+These questions also fit, when they are about a firm or a team and not about code:
 
 - Why does something keep breaking?
 - Why did growth stall?

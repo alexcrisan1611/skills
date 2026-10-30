@@ -29,7 +29,7 @@ The skill also gives an income band for each level. These bands are rough illust
 
 Use the skill when you:
 
-- Share a business dilemma or an offer structure.
+- Name the Four Levels of Value, or share an offer structure.
 - Have a pricing problem or a career bottleneck.
 - Feel stuck trading time for money.
 - Do not like to sell.

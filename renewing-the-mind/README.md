@@ -21,12 +21,12 @@ Use the skill in these cases:
 - You ask why you keep believing something.
 - You ask whether a belief came from school or media and not from evidence.
 - You want to unlearn a habit of mind.
-- You feel anxious, envious, or stuck in comparison.
+- You are stuck in envy or comparison and want to examine the belief under it.
 - You are deconstructing a worldview, or you want to learn how to think and not what to think.
 - You cannot break a pattern, or you cannot justify a reaction.
 - You want to audit a claim, a slogan, or a piece of advice for the thinking error under it.
 
-You do not have to name a thinking error. A description of the pattern is enough.
+You do not have to name a thinking error. A description of the pattern is enough. The skill is not medical or mental-health advice.
 
 ## How it works
 
