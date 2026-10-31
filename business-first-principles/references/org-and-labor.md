@@ -6,12 +6,10 @@ This file covers structure, delegation, hiring, pay, and succession. For each to
 
 Each claim carries one of these labels:
 
-- Text states: the verse says it.
-- Lexical: the claim comes from a Strong's definition.
-- Inference: the claim follows from the text but the text does not say it. Every business application is an inference.
-- Speculation: the claim goes beyond what the text supports.
-
-The verses come from the scripture script (`../scripture-foundations/scripts/scripture.ts`). The Strong's definitions are verbatim from the lexicon script (`../scripture-foundations/scripts/lexicon.ts`).
+- Scripture says: the verse says it.
+- Word meaning: the claim comes from a Strong's definition.
+- Reading: the claim follows from the text but the text does not say it. Every business application is an inference.
+- Guess: the claim goes beyond what the text supports.
 
 The governing axioms for this file are:
 
@@ -80,7 +78,6 @@ The governing axioms for this file are:
   - [Two are better than one (Ecclesiastes 4:9–12)](#two-are-better-than-one-ecclesiastes-4912)
   - [Counsel (Proverbs 15:22, 20:18)](#counsel-proverbs-1522-2018)
 - [Part 11. Working rules](#part-11-working-rules)
-- [Appendix: verification log](#appendix-verification-log)
 
 ---
 
@@ -108,95 +105,95 @@ Text (Exodus 18:13–27, KJV):
 
 Observations:
 
-1. Text states: The problem is one of duration and volume. Verse 13 says "from the morning unto the evening." Jethro's question repeats the phrase: "from morning unto even" (v. 14).
-2. Text states: Jethro's first question is diagnostic, not advisory: "What is this thing that thou doest to the people?" (v. 14). He asks what is happening before he says what to do.
-3. Text states: The second question names the structural defect: "why sittest thou thyself alone, and all the people stand by thee" (v. 14). Inference: the word "alone" is the diagnosis. Genesis 2:18 uses the same English word: "It is not good that the man should be alone". Jethro's verdict echoes it: "The thing that thou doest is not good" (v. 17).
-4. Text states: The cost falls in two directions: "Thou wilt surely wear away, both thou, and this people that is with thee" (v. 18). The overload damages the judge and the people who wait for judgment.
-5. Text states: The cause is given: "for this thing is too heavy for thee; thou art not able to perform it thyself alone" (v. 18). Inference: this is not a claim that Moses is incompetent. It is a claim that the work exceeds the capacity of one person. It is a fact about the work, not about the worker.
-6. Text states: Moses describes what he does in verses 15–16. The account contains three functions. He inquires of God for the people (v. 15). He judges "between one and another" (v. 16). He makes them "know the statutes of God, and his laws" (v. 16). Inference: he describes three jobs as one.
-7. Text states: Jethro makes his advice conditional on the approval of God: "If thou shalt do this thing, and God command thee so" (v. 23). Inference: Jethro offers the advice as counsel, not as command, and he submits it to a higher check. This is the "multitude of counsellors" of A18 in practice. The counsel is heard and tested.
-8. Text states: Moses "hearkened" (v. 24). The text records no objection from God. Inference: the counsel was adopted with no recorded objection.
+1. Scripture says: The problem is one of duration and volume. Verse 13 says "from the morning unto the evening." Jethro's question repeats the phrase: "from morning unto even" (v. 14).
+2. Scripture says: Jethro's first question is diagnostic, not advisory: "What is this thing that thou doest to the people?" (v. 14). He asks what is happening before he says what to do.
+3. Scripture says: The second question names the structural defect: "why sittest thou thyself alone, and all the people stand by thee" (v. 14). Reading: the word "alone" is the diagnosis. Genesis 2:18 uses the same English word: "It is not good that the man should be alone". Jethro's verdict echoes it: "The thing that thou doest is not good" (v. 17).
+4. Scripture says: The cost falls in two directions: "Thou wilt surely wear away, both thou, and this people that is with thee" (v. 18). The overload damages the judge and the people who wait for judgment.
+5. Scripture says: The cause is given: "for this thing is too heavy for thee; thou art not able to perform it thyself alone" (v. 18). Reading: this is not a claim that Moses is incompetent. It is a claim that the work exceeds the capacity of one person. It is a fact about the work, not about the worker.
+6. Scripture says: Moses describes what he does in verses 15–16. The account contains three functions. He inquires of God for the people (v. 15). He judges "between one and another" (v. 16). He makes them "know the statutes of God, and his laws" (v. 16). Reading: he describes three jobs as one.
+7. Scripture says: Jethro makes his advice conditional on the approval of God: "If thou shalt do this thing, and God command thee so" (v. 23). Reading: Jethro offers the advice as counsel, not as command, and he submits it to a higher check. This is the "multitude of counsellors" of A18 in practice. The counsel is heard and tested.
+8. Scripture says: Moses "hearkened" (v. 24). The text records no objection from God. Reading: the counsel was adopted with no recorded objection.
 
 ### The four criteria for the delegated tier
 
-Text states: "Moreover thou shalt provide out of all the people able men, such as fear God, men of truth, hating covetousness" (v. 21).
+Scripture says: "Moreover thou shalt provide out of all the people able men, such as fear God, men of truth, hating covetousness" (v. 21).
 
 The verse gives four criteria, in this order:
 
-| #   | KJV                 | Lexical | What it selects for |
+| #   | KJV                 | Word meaning | What it selects for |
 | --- | ------------------- | ------- | ------------------- |
-| 1   | able men            | H2428 חַיִל (_chayil_): "probably a force, whether of men, means or other resources; an army, wealth, virtue, valor, strength." KJV: "able, activity, ([phrase]) army, band of men (soldiers), company, (great) forces, goods, host, might, power, riches, strength, strong, substance, train, ([phrase]) valiant(-ly), valour, virtuous(-ly), war, worthy(-ily)." Caveat: the definition is verified. The link between the "able men" of this verse and H2428 is not verified. See the verification log. | Capacity. The word is about force and substance, not cleverness. |
+| 1   | able men            | H2428 חַיִל (_chayil_): "probably a force, whether of men, means or other resources; an army, wealth, virtue, valor, strength." KJV: "able, activity, ([phrase]) army, band of men (soldiers), company, (great) forces, goods, host, might, power, riches, strength, strong, substance, train, ([phrase]) valiant(-ly), valour, virtuous(-ly), war, worthy(-ily)." Caveat: the definition is verified. The link between the "able men" of this verse and H2428 is not verified. | Capacity. The word is about force and substance, not cleverness. |
 | 2   | such as fear God    | (Hebrew _yare elohim_, not verified at word level) | Orientation. Whose judgment do they answer to? |
 | 3   | men of truth        | (Hebrew _anshe emeth_, not verified at word level) | Reliability. Do they report accurately? |
 | 4   | hating covetousness | (Hebrew _sone basha_, not verified at word level) | Incorruptibility. Can someone buy them? |
 
 Observations on the list:
 
-1. Inference: The criteria in this verse concern character more than technique. The verse names no legal expertise, no eloquence, and no seniority. The four criteria are capacity, orientation, honesty, and incorruptibility. Text states (Deuteronomy 1:13): Moses' own account adds wisdom and understanding: "Take you wise men, and understanding, and known among your tribes, and I will make them rulers over you." So the whole record asks for judgment as well as character.
-2. Text states: Criterion 4 is hatred, not avoidance: "hating covetousness." Inference: the standard is an active stance against the specific temptation of the role. It is more than a neutral absence of vice. The role is judging disputes, and bribes arrive at exactly that point.
-3. Text states: The pool is "out of all the people" (v. 21). Text states (Deuteronomy 1:14–15): The people agreed, "The thing which thou hast spoken is good for us to do", and Moses says whom he chose: "So I took the chief of your tribes, wise men, and known, and made them heads over you". Inference: The pool was the whole people, and the appointees included existing tribal leaders. The text does not limit the choice to the family of Moses. Deuteronomy 1:13 also gives the people a part in the choice ("Take you wise men"), as in Acts 6.
-4. Lexical: The word for the appointees is H8269 שַׂר (_sar_): "a head person (of any rank or class)." KJV: "captain (that had rule), chief (captain), general, governor, keeper, lord,(-task-)master, prince(-ipal), ruler, steward." Inference: the term is generic. It means a head person, and the verse applies it at four different scales.
-5. Inference: The criteria can be checked. Fear of God, truth-telling, and hatred of gain show in the prior conduct of a person. The list names no test of performance in a meeting. The text does not forbid such a test, but it does not ask for one either.
+1. Reading: The criteria in this verse concern character more than technique. The verse names no legal expertise, no eloquence, and no seniority. The four criteria are capacity, orientation, honesty, and incorruptibility. Scripture says (Deuteronomy 1:13): Moses' own account adds wisdom and understanding: "Take you wise men, and understanding, and known among your tribes, and I will make them rulers over you." So the whole record asks for judgment as well as character.
+2. Scripture says: Criterion 4 is hatred, not avoidance: "hating covetousness." Reading: the standard is an active stance against the specific temptation of the role. It is more than a neutral absence of vice. The role is judging disputes, and bribes arrive at exactly that point.
+3. Scripture says: The pool is "out of all the people" (v. 21). Scripture says (Deuteronomy 1:14–15): The people agreed, "The thing which thou hast spoken is good for us to do", and Moses says whom he chose: "So I took the chief of your tribes, wise men, and known, and made them heads over you". Reading: The pool was the whole people, and the appointees included existing tribal leaders. The text does not limit the choice to the family of Moses. Deuteronomy 1:13 also gives the people a part in the choice ("Take you wise men"), as in Acts 6.
+4. Word meaning: The word for the appointees is H8269 שַׂר (_sar_): "a head person (of any rank or class)." KJV: "captain (that had rule), chief (captain), general, governor, keeper, lord,(-task-)master, prince(-ipal), ruler, steward." Reading: the term is generic. It means a head person, and the verse applies it at four different scales.
+5. Reading: The criteria can be checked. Fear of God, truth-telling, and hatred of gain show in the prior conduct of a person. The list names no test of performance in a meeting. The text does not forbid such a test, but it does not ask for one either.
 
 ### The exception rule
 
-Text states: "and it shall be, that every great matter they shall bring unto thee, but every small matter they shall judge" (v. 22). The execution follows: "the hard causes they brought unto Moses, but every small matter they judged themselves" (v. 26).
+Scripture says: "and it shall be, that every great matter they shall bring unto thee, but every small matter they shall judge" (v. 22). The execution follows: "the hard causes they brought unto Moses, but every small matter they judged themselves" (v. 26).
 
 Observations:
 
-1. Text states: The rule has exactly two categories: great and small. It has no third category and no matrix.
-2. Text states: The escalation goes up and is specific. Great matters go to Moses. Everything else stays with the tier.
-3. Text states: The default is delegation: "every small matter they shall judge." Escalation is the exception. Inference: the burden of proof lies on the person who escalates.
-4. Text states: The purpose is given: "so shall it be easier for thyself, and they shall bear the burden with thee" (v. 22). The verse names two effects. The load on the principal decreases, and others share the load. Inference: the text treats the shared burden as an outcome in itself. It is not only a means to relieve the principal.
-5. Text states: The text does not define the threshold. It does not say what makes a matter "great." Inference: the parties define it, so they will negotiate it in practice. The text supplies the structure, not the threshold.
+1. Scripture says: The rule has exactly two categories: great and small. It has no third category and no matrix.
+2. Scripture says: The escalation goes up and is specific. Great matters go to Moses. Everything else stays with the tier.
+3. Scripture says: The default is delegation: "every small matter they shall judge." Escalation is the exception. Reading: the burden of proof lies on the person who escalates.
+4. Scripture says: The purpose is given: "so shall it be easier for thyself, and they shall bear the burden with thee" (v. 22). The verse names two effects. The load on the principal decreases, and others share the load. Reading: the text treats the shared burden as an outcome in itself. It is not only a means to relieve the principal.
+5. Scripture says: The text does not define the threshold. It does not say what makes a matter "great." Reading: the parties define it, so they will negotiate it in practice. The text supplies the structure, not the threshold.
 
 Business consequences:
 
-- Inference: Copy the two-category escalation rule. The text has one threshold, and one threshold is easy to apply.
-- The default must be "judge it yourself" (observation 3). Inference: a rule with escalation as the default produces a queue.
+- Reading: Copy the two-category escalation rule. The text has one threshold, and one threshold is easy to apply.
+- The default must be "judge it yourself" (observation 3). Reading: a rule with escalation as the default produces a queue.
 - Name the threshold, because people will contest it. The text leaves "great" undefined. A business cannot leave it undefined. Name the categories in advance (A20). Examples are monetary size, irreversibility, impact across teams, and external commitment.
-- Make escalation cheap and free of penalty. Inference: if people read escalation as weakness, they will not use the tiers. The principal will then be overloaded again.
+- Make escalation cheap and free of penalty. Reading: if people read escalation as weakness, they will not use the tiers. The principal will then be overloaded again.
 
 ### What Moses keeps
 
-Text states: "Be thou for the people to God-ward, that thou mayest bring the causes unto God: And thou shalt teach them ordinances and laws, and shalt shew them the way wherein they must walk, and the work that they must do" (vv. 19–20).
+Scripture says: "Be thou for the people to God-ward, that thou mayest bring the causes unto God: And thou shalt teach them ordinances and laws, and shalt shew them the way wherein they must walk, and the work that they must do" (vv. 19–20).
 
 Observations:
 
-1. Text states: Moses keeps three functions:
+1. Scripture says: Moses keeps three functions:
    - (a) He represents the people to God: "for the people to God-ward".
    - (b) He teaches: "thou shalt teach them ordinances and laws".
    - (c) He shows the way and the work: "the way wherein they must walk, and the work that they must do."
-2. Text states: Moses hands off the small matters of judging "between one and another" (v. 16), that is, the routine resolution of disputes. He keeps the hard cases: "the hard causes they brought unto Moses" (v. 26). He also keeps the teaching and the direction.
-3. Inference: The functions that Moses keeps all come before the functions that he delegates. Teaching the statutes makes judging possible. Showing the way makes the work possible.
-4. Text states: Nothing in the passage says that the kept functions are more important. Inference: they are the ones that cannot be distributed.
+2. Scripture says: Moses hands off the small matters of judging "between one and another" (v. 16), that is, the routine resolution of disputes. He keeps the hard cases: "the hard causes they brought unto Moses" (v. 26). He also keeps the teaching and the direction.
+3. Reading: The functions that Moses keeps all come before the functions that he delegates. Teaching the statutes makes judging possible. Showing the way makes the work possible.
+4. Scripture says: Nothing in the passage says that the kept functions are more important. Reading: they are the ones that cannot be distributed.
 
-Inference: this is the sharpest claim of the passage about organization. After delegation, the job of the founder is teaching, direction, and the hard cases, not the routine caseload. Moses hands off the small matters. He keeps the standard, the teaching of the standard, and the cases that the tiers cannot decide.
+Reading: this is the sharpest claim of the passage about organization. After delegation, the job of the founder is teaching, direction, and the hard cases, not the routine caseload. Moses hands off the small matters. He keeps the standard, the teaching of the standard, and the cases that the tiers cannot decide.
 
 Business consequences:
 
-- Delegate the routine caseload and keep the standard. Inference: a founder who delegates the standard and keeps the routine caseload has it backwards.
+- Delegate the routine caseload and keep the standard. Reading: a founder who delegates the standard and keeps the routine caseload has it backwards.
 - Teaching is a function that the founder keeps, not a delegation (observation 3). The teaching is what makes the tiers able to judge.
 - "The work that they must do" is a management output (observation 1c). Part of the kept job is to tell people what the work is, not only what the goal is.
 - Note what Moses does not keep: the authority to decide the small matters (observation 2). That authority really transfers. He keeps only the hard causes (v. 26). This is A12 (Dominion is delegated and bounded): actual authority, with actual limits.
 
 ### The tier structure
 
-Text states: The verse names four tiers: "rulers of thousands, and rulers of hundreds, rulers of fifties, and rulers of tens" (v. 21).
+Scripture says: The verse names four tiers: "rulers of thousands, and rulers of hundreds, rulers of fifties, and rulers of tens" (v. 21).
 
 Observations:
 
-1. Inference: The tiers are not in one fixed ratio. A ruler of thousands covers ten groups of a hundred. A ruler of hundreds covers two groups of fifty. A ruler of fifties covers five groups of ten. The absolute sizes are 1,000 : 100 : 50 : 10.
-2. Text states: The text names the tiers by span, not by function. It has no "chief judge" and no "senior judge." It has a ruler of tens and a ruler of thousands.
-3. Text states: The text names the four levels twice, in the same words (vv. 21 and 25). Inference: the repetition shows that Moses implemented the structure as designed.
-4. Inference: Escalation runs from the tens up to the thousands and then to Moses. The text says only "every great matter they shall bring unto thee" (v. 22). That is four tiers of judgment plus the top. Inference: the design is shallow for the size of the population. Numbers 1:46 gives the count of men of fighting age as 603,550. If the tiers covered that count, they imply about 60,000 rulers of tens. This is an estimate. The text gives no count of rulers, and Numbers 1 is a census from a later date.
+1. Reading: The tiers are not in one fixed ratio. A ruler of thousands covers ten groups of a hundred. A ruler of hundreds covers two groups of fifty. A ruler of fifties covers five groups of ten. The absolute sizes are 1,000 : 100 : 50 : 10.
+2. Scripture says: The text names the tiers by span, not by function. It has no "chief judge" and no "senior judge." It has a ruler of tens and a ruler of thousands.
+3. Scripture says: The text names the four levels twice, in the same words (vv. 21 and 25). Reading: the repetition shows that Moses implemented the structure as designed.
+4. Reading: Escalation runs from the tens up to the thousands and then to Moses. The text says only "every great matter they shall bring unto thee" (v. 22). That is four tiers of judgment plus the top. Reading: the design is shallow for the size of the population. Numbers 1:46 gives the count of men of fighting age as 603,550. If the tiers covered that count, they imply about 60,000 rulers of tens. This is an estimate. The text gives no count of rulers, and Numbers 1 is a census from a later date.
 
 Business consequences:
 
-- Make span the unit of structure, not title (observation 2). Inference: tiers named by span make the structure easy to read and prevent title inflation.
-- A shallow hierarchy needs a defined escalation rule (observation 4). Inference: with four tiers, people resolve most matters two or three levels down.
-- The structure scales by multiplication, not by new layers (observation 1). Inference: to double the population, double the number of rulers of tens. Do not add a tier.
-- Note the scale of the delegation. Inference: the estimate gives tens of thousands of appointees, selected on four criteria of character, in one administrative act. The text presents this as normal management, not as a response to a crisis.
+- Make span the unit of structure, not title (observation 2). Reading: tiers named by span make the structure easy to read and prevent title inflation.
+- A shallow hierarchy needs a defined escalation rule (observation 4). Reading: with four tiers, people resolve most matters two or three levels down.
+- The structure scales by multiplication, not by new layers (observation 1). Reading: to double the population, double the number of rulers of tens. Do not add a tier.
+- Note the scale of the delegation. Reading: the estimate gives tens of thousands of appointees, selected on four criteria of character, in one administrative act. The text presents this as normal management, not as a response to a crisis.
 
 ---
 
@@ -218,39 +215,39 @@ The original audience is the church in Jerusalem, and the role serves the widows
 
 Observations:
 
-1. Text states: The problem is exact: "their widows were neglected in the daily ministration" (v. 1). It is a failure of distribution, and it affects a specific group.
-2. Text states: The text names the affected group by ethnic and language difference: "Grecians against the Hebrews." Inference: the failure fell along an existing fault line. That is why it produced a complaint and not a quiet fix.
-3. Text states: The growth came before the failure: "when the number of the disciples was multiplied" (v. 1). Inference: the failure was a failure of scale. A process that worked at one size did not work at another.
-4. Text states: The response is organizational. They create a role and fill it. Inference: The text records no sermon on the duty of care.
-5. Text states: The twelve decide in public: "Then the twelve called the multitude of the disciples unto them" (v. 2). They convene the whole body and state their reasons aloud.
+1. Scripture says: The problem is exact: "their widows were neglected in the daily ministration" (v. 1). It is a failure of distribution, and it affects a specific group.
+2. Scripture says: The text names the affected group by ethnic and language difference: "Grecians against the Hebrews." Reading: the failure fell along an existing fault line. That is why it produced a complaint and not a quiet fix.
+3. Scripture says: The growth came before the failure: "when the number of the disciples was multiplied" (v. 1). Reading: the failure was a failure of scale. A process that worked at one size did not work at another.
+4. Scripture says: The response is organizational. They create a role and fill it. Reading: The text records no sermon on the duty of care.
+5. Scripture says: The twelve decide in public: "Then the twelve called the multitude of the disciples unto them" (v. 2). They convene the whole body and state their reasons aloud.
 
 ### The explicit focus trade
 
-Text states: "It is not reason that we should leave the word of God, and serve tables... But we will give ourselves continually to prayer, and to the ministry of the word" (vv. 2, 4).
+Scripture says: "It is not reason that we should leave the word of God, and serve tables... But we will give ourselves continually to prayer, and to the ministry of the word" (vv. 2, 4).
 
 Observations:
 
-1. Text states: The apostles state the trade as a judgment: "It is not reason." They do not say "it is beneath us" or "we are too important." Inference: the claim is that the trade is not fitting. It concerns the right allocation of a scarce resource, not status.
-2. Text states: The verb is "leave": "we should leave the word of God, and serve tables." Inference: the apostles describe a substitution, not an addition. Serving tables takes the place of something else.
-3. Text states: The text states the alternative positively: "we will give ourselves continually to prayer, and to the ministry of the word" (v. 4). It names two activities.
-4. Text states: The text uses the word "continually." Inference: the commitment is to persistence in the chosen activity. This implies that the pull toward the other activity does not stop.
-5. Text states: The apostles do not say that the table service is unimportant. Inference: they say that they are not the ones to do it. The trade concerns who does the work, not what work is done.
+1. Scripture says: The apostles state the trade as a judgment: "It is not reason." They do not say "it is beneath us" or "we are too important." Reading: the claim is that the trade is not fitting. It concerns the right allocation of a scarce resource, not status.
+2. Scripture says: The verb is "leave": "we should leave the word of God, and serve tables." Reading: the apostles describe a substitution, not an addition. Serving tables takes the place of something else.
+3. Scripture says: The text states the alternative positively: "we will give ourselves continually to prayer, and to the ministry of the word" (v. 4). It names two activities.
+4. Scripture says: The text uses the word "continually." Reading: the commitment is to persistence in the chosen activity. This implies that the pull toward the other activity does not stop.
+5. Scripture says: The apostles do not say that the table service is unimportant. Reading: they say that they are not the ones to do it. The trade concerns who does the work, not what work is done.
 
-Inference: the axiom from this passage is that a leadership role has a defined scope. Defending that scope against legitimate competing demands is part of the role. The competing demand here was legitimate, because widows really were neglected. The apostles still declined it. The cost of accepting it was higher than the cost of the neglect, so they fixed the neglect another way.
+Reading: the axiom from this passage is that a leadership role has a defined scope. Defending that scope against legitimate competing demands is part of the role. The competing demand here was legitimate, because widows really were neglected. The apostles still declined it. The cost of accepting it was higher than the cost of the neglect, so they fixed the neglect another way.
 
 Business consequences:
 
-- The strongest argument for focus is a real competing need (observation 5). Inference: if the declined task is trivial, there is no trade-off and no discipline. The discipline matters exactly when the competing demand is important.
-- State the trade in plain words and in public. Verse 2 is spoken to the whole multitude. Inference: people will reopen a focus decision that nobody stated.
-- Name what you will do instead. Verse 4 names two activities. Inference: a refusal with no stated alternative is a dodge.
-- "It is not reason" is the right tone. It is a claim of fitness, not of superiority. Inference: a founder who justifies focus by rank and not by allocation invites resentment.
-- The failure was a failure of scale (observation 3). Inference: this is A5 (Formation precedes filling). The container, a process that worked at one size, did not fit the contents.
+- The strongest argument for focus is a real competing need (observation 5). Reading: if the declined task is trivial, there is no trade-off and no discipline. The discipline matters exactly when the competing demand is important.
+- State the trade in plain words and in public. Verse 2 is spoken to the whole multitude. Reading: people will reopen a focus decision that nobody stated.
+- Name what you will do instead. Verse 4 names two activities. Reading: a refusal with no stated alternative is a dodge.
+- "It is not reason" is the right tone. It is a claim of fitness, not of superiority. Reading: a founder who justifies focus by rank and not by allocation invites resentment.
+- The failure was a failure of scale (observation 3). Reading: this is A5 (Formation precedes filling). The container, a process that worked at one size, did not fit the contents.
 
 ### The selection criteria
 
-Text states: "seven men of honest report, full of the Holy Ghost and wisdom" (v. 3).
+Scripture says: "seven men of honest report, full of the Holy Ghost and wisdom" (v. 3).
 
-| #   | KJV                    | Lexical | What it selects for |
+| #   | KJV                    | Word meaning | What it selects for |
 | --- | ---------------------- | ------- | ------------------- |
 | 1   | of honest report       | G3140 μαρτυρέω (_martyreo_): "to be a witness, i.e. testify (literally or figuratively)." KJV: "charge, give (evidence), bear record, have (obtain, of) good (honest) report, be well reported of, testify, give (have) testimony, (be, bear, give, obtain) witness." | Reputation: a track record that others attest |
 | 2   | full of the Holy Ghost | (G4151 πνεῦμα, _pneuma_) | The filling of the Spirit. A business cannot test or require this, so the analogy is weakest here |
@@ -258,48 +255,48 @@ Text states: "seven men of honest report, full of the Holy Ghost and wisdom" (v.
 
 Observations:
 
-1. Text states: The first criterion is reputation as others report it: "of honest report." Lexical: the word belongs to the witness and testimony family. Other people testify about the candidate. Inference: the criterion is external, not self-assessed. It is a reference check.
-2. Text states: The criteria concern reputation, the Spirit, and wisdom, not technique. The text asks for no administrative experience and no skill with accounts. Yet the role is administrative and financial at its core.
-3. Lexical: The word "wisdom" carries no qualifier: "higher or lower, worldly or spiritual." Inference: practical judgment is in view, not only religious insight.
-4. Text states: The number is seven, a specific number. Inference: the number is large enough to share the work and small enough to stay accountable.
-5. Text states: All seven names are Greek. The text calls only one of them "a proselyte of Antioch" (v. 5). A proselyte is a Gentile convert to Judaism. That is a different thing from a Grecian, a Greek-speaking Jew. Inference: the Greek names suggest that the seven came partly or wholly from the Grecian side of the complaint. The text does not say so. If the inference holds, the selection crossed the fault line that caused the complaint.
+1. Scripture says: The first criterion is reputation as others report it: "of honest report." Word meaning: the word belongs to the witness and testimony family. Other people testify about the candidate. Reading: the criterion is external, not self-assessed. It is a reference check.
+2. Scripture says: The criteria concern reputation, the Spirit, and wisdom, not technique. The text asks for no administrative experience and no skill with accounts. Yet the role is administrative and financial at its core.
+3. Word meaning: The word "wisdom" carries no qualifier: "higher or lower, worldly or spiritual." Reading: practical judgment is in view, not only religious insight.
+4. Scripture says: The number is seven, a specific number. Reading: the number is large enough to share the work and small enough to stay accountable.
+5. Scripture says: All seven names are Greek. The text calls only one of them "a proselyte of Antioch" (v. 5). A proselyte is a Gentile convert to Judaism. That is a different thing from a Grecian, a Greek-speaking Jew. Reading: the Greek names suggest that the seven came partly or wholly from the Grecian side of the complaint. The text does not say so. If the inference holds, the selection crossed the fault line that caused the complaint.
 
 Business consequences:
 
-- Use attested reputation as the primary evidence for a hire (observation 1). The Greek word is testimonial. Inference: an interview does not replace attested reputation. The text does not forbid interviews.
-- The criteria transfer across types of role (observation 2). The apostles used criteria of character for a role in finance and logistics. Inference: the technical requirements were not absent. They were assumed, and character was the factor that separated candidates.
-- Address the fault line in the composition (observation 5). Inference: if the failure fell along a group boundary, the remedy must be visible in the group that fixes it.
+- Use attested reputation as the primary evidence for a hire (observation 1). The Greek word is testimonial. Reading: an interview does not replace attested reputation. The text does not forbid interviews.
+- The criteria transfer across types of role (observation 2). The apostles used criteria of character for a role in finance and logistics. Reading: the technical requirements were not absent. They were assumed, and character was the factor that separated candidates.
+- Address the fault line in the composition (observation 5). Reading: if the failure fell along a group boundary, the remedy must be visible in the group that fixes it.
 
 ### Who chooses, and who appoints
 
 Observations:
 
-1. Text states: The multitude selects: "look ye out among you seven men" (v. 3), and "they chose" (v. 5).
-2. Text states: The apostles appoint: "whom we may appoint over this business" (v. 3), and "Whom they set before the apostles: and when they had prayed, they laid their hands on them" (v. 6).
-3. Text states: There are two separate acts. The community selects. The leaders appoint, with prayer and the laying on of hands.
-4. Text states: The appointment is public and ceremonial. It is not a private decision sent out by memo.
-5. Text states: "And the saying pleased the whole multitude" (v. 5). The multitude approved the proposal before anyone was chosen. Inference: the proposal gave the multitude a real part in the choice, and this probably helped it win approval. The text records no further complaint, but it does not say that the complaint ended.
+1. Scripture says: The multitude selects: "look ye out among you seven men" (v. 3), and "they chose" (v. 5).
+2. Scripture says: The apostles appoint: "whom we may appoint over this business" (v. 3), and "Whom they set before the apostles: and when they had prayed, they laid their hands on them" (v. 6).
+3. Scripture says: There are two separate acts. The community selects. The leaders appoint, with prayer and the laying on of hands.
+4. Scripture says: The appointment is public and ceremonial. It is not a private decision sent out by memo.
+5. Scripture says: "And the saying pleased the whole multitude" (v. 5). The multitude approved the proposal before anyone was chosen. Reading: the proposal gave the multitude a real part in the choice, and this probably helped it win approval. The text records no further complaint, but it does not say that the complaint ended.
 
 Business consequences:
 
-- Separate selection from appointment (observation 3). Inference: in a hiring process where the team selects and the leader appoints, the leader has a real veto and the team has real ownership. If the leader does both, the result is compliance. If the team does both, nobody is accountable.
-- Make the appointment public (observation 4). Inference: the ceremony confers the authority in front of witnesses. This is A12 (Dominion is delegated and bounded) in practice.
-- The two-stage proposal won approval at the start (observation 5). Inference: a process that gives the group a real part can win consent before the choice is made.
+- Separate selection from appointment (observation 3). Reading: in a hiring process where the team selects and the leader appoints, the leader has a real veto and the team has real ownership. If the leader does both, the result is compliance. If the team does both, nobody is accountable.
+- Make the appointment public (observation 4). Reading: the ceremony confers the authority in front of witnesses. This is A12 (Dominion is delegated and bounded) in practice.
+- The two-stage proposal won approval at the start (observation 5). Reading: a process that gives the group a real part can win consent before the choice is made.
 
 ### The outcome
 
-Text states: "And the word of God increased; and the number of the disciples multiplied in Jerusalem greatly; and a great company of the priests were obedient to the faith" (v. 7).
+Scripture says: "And the word of God increased; and the number of the disciples multiplied in Jerusalem greatly; and a great company of the priests were obedient to the faith" (v. 7).
 
 Observations:
 
-1. Text states: The text gives three outcomes, in this order. The word increased. The disciples multiplied greatly. A new group, the priests, came to the faith.
-2. Text states: The outcomes are outcomes of growth. Inference: the fix to the organization came before the growth, and the text presents them in sequence.
-3. Text states: Nothing in the passage records that the apostles did more work. Inference: the growth followed a reduction in the workload of the leaders, not an increase.
+1. Scripture says: The text gives three outcomes, in this order. The word increased. The disciples multiplied greatly. A new group, the priests, came to the faith.
+2. Scripture says: The outcomes are outcomes of growth. Reading: the fix to the organization came before the growth, and the text presents them in sequence.
+3. Scripture says: Nothing in the passage records that the apostles did more work. Reading: the growth followed a reduction in the workload of the leaders, not an increase.
 
 Business consequences:
 
 - A fix to the organization can come before the growth (observation 2). The sequence in the text is problem, structural fix, growth.
-- Inference: reducing the load on the leader is a growth intervention (observation 3). This reverses the common assumption that growth requires the founder to do more.
+- Reading: reducing the load on the leader is a growth intervention (observation 3). This reverses the common assumption that growth requires the founder to do more.
 
 ---
 
@@ -322,66 +319,66 @@ Text (Nehemiah 2:11–20, KJV):
 
 Observations:
 
-1. Text states: Nehemiah waits three days before he acts: "I came to Jerusalem, and was there three days" (v. 11). Inference: the wait is deliberate, and it comes before the reconnaissance.
-2. Text states: He inspects at night, with a few men: "I arose in the night, I and some few men with me" (v. 12).
-3. Text states: He does not announce the purpose: "neither told I any man what my God had put in my heart to do at Jerusalem" (v. 12). Verse 16 says it again: "the rulers knew not whither I went, or what I did."
-4. Text states: The inspection is physical and specific. He goes place by place: the gate of the valley, the dragon well, the dung port, the gate of the fountain, the king's pool, and the brook (vv. 13–15). He views "the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire."
-5. Text states: He meets a constraint: "there was no place for the beast that was under me to pass" (v. 14). Inference: the reconnaissance produced an operational finding, a blocked route. This is A19 (Doing the work reveals the need).
-6. Text states: He goes up by the brook, views the wall, turns back, and returns by the gate of the valley: "Then went I up in the night by the brook, and viewed the wall, and turned back, and entered by the gate of the valley, and so returned" (v. 15). Inference: he turns back the way he came. He does not complete a circuit, perhaps because of the blocked route in verse 14. The inspection is specific, but the text does not say that it covers the whole wall.
-7. Text states: Only a few men are with him, and he keeps the purpose secret until he has seen the situation himself.
+1. Scripture says: Nehemiah waits three days before he acts: "I came to Jerusalem, and was there three days" (v. 11). Reading: the wait is deliberate, and it comes before the reconnaissance.
+2. Scripture says: He inspects at night, with a few men: "I arose in the night, I and some few men with me" (v. 12).
+3. Scripture says: He does not announce the purpose: "neither told I any man what my God had put in my heart to do at Jerusalem" (v. 12). Verse 16 says it again: "the rulers knew not whither I went, or what I did."
+4. Scripture says: The inspection is physical and specific. He goes place by place: the gate of the valley, the dragon well, the dung port, the gate of the fountain, the king's pool, and the brook (vv. 13–15). He views "the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire."
+5. Scripture says: He meets a constraint: "there was no place for the beast that was under me to pass" (v. 14). Reading: the reconnaissance produced an operational finding, a blocked route. This is A19 (Doing the work reveals the need).
+6. Scripture says: He goes up by the brook, views the wall, turns back, and returns by the gate of the valley: "Then went I up in the night by the brook, and viewed the wall, and turned back, and entered by the gate of the valley, and so returned" (v. 15). Reading: he turns back the way he came. He does not complete a circuit, perhaps because of the blocked route in verse 14. The inspection is specific, but the text does not say that it covers the whole wall.
+7. Scripture says: Only a few men are with him, and he keeps the purpose secret until he has seen the situation himself.
 
-Inference: the sequence is to see the condition yourself, in private, before you announce anything. The founder looks at the actual condition before the vision and before the plan.
+Reading: the sequence is to see the condition yourself, in private, before you announce anything. The founder looks at the actual condition before the vision and before the plan.
 
 Business consequences:
 
-- Do the reconnaissance yourself, before the announcement (observation 3). Inference: a vision that a leader casts before seeing the situation will not survive contact with it.
-- Go at night, or at least quietly (observation 2). Inference: a public reconnaissance is a performance, and it produces different information.
+- Do the reconnaissance yourself, before the announcement (observation 3). Reading: a vision that a leader casts before seeing the situation will not survive contact with it.
+- Go at night, or at least quietly (observation 2). Reading: a public reconnaissance is a performance, and it produces different information.
 - Inspect the specific assets, not the general condition (observation 4). Go gate by gate. Do not stop at "the walls are broken."
-- Expect the reconnaissance to find an operational constraint (observation 5). Inference: a blocked route is the kind of finding that only appears on site.
+- Expect the reconnaissance to find an operational constraint (observation 5). Reading: a blocked route is the kind of finding that only appears on site.
 
 ### Vision casting (2:17–18)
 
 Observations:
 
-1. Text states: The appeal opens with the shared problem: "Ye see the distress that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire" (v. 17). "Ye see" appeals to what the people can already observe.
-2. Text states: The call is an invitation: "come, and let us build up the wall of Jerusalem" (v. 17). It is in the first person plural: "let us".
-3. Text states: The motive is given: "that we be no more a reproach." Inference: the appeal includes a motive of reputation, not only a practical one.
-4. Text states: The basis comes second: "Then I told them of the hand of my God which was good upon me; as also the king's words that he had spoken unto me" (v. 18). There are two grounds: the favor of God and the authorization of the king.
-5. Text states: The response is immediate: "Let us rise up and build" (v. 18). Then they act: "So they strengthened their hands for this good work."
-6. Text states: The order of the appeal is:
+1. Scripture says: The appeal opens with the shared problem: "Ye see the distress that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire" (v. 17). "Ye see" appeals to what the people can already observe.
+2. Scripture says: The call is an invitation: "come, and let us build up the wall of Jerusalem" (v. 17). It is in the first person plural: "let us".
+3. Scripture says: The motive is given: "that we be no more a reproach." Reading: the appeal includes a motive of reputation, not only a practical one.
+4. Scripture says: The basis comes second: "Then I told them of the hand of my God which was good upon me; as also the king's words that he had spoken unto me" (v. 18). There are two grounds: the favor of God and the authorization of the king.
+5. Scripture says: The response is immediate: "Let us rise up and build" (v. 18). Then they act: "So they strengthened their hands for this good work."
+6. Scripture says: The order of the appeal is:
    - problem (v. 17a)
    - call (v. 17b)
    - motive (v. 17c)
    - basis (v. 18a)
    - response (v. 18b)
 
-Inference: Nehemiah casts the vision in five moves. The authorization comes last, after he names the problem and issues the call. The audience sees the problem before it hears why the work is possible.
+Reading: Nehemiah casts the vision in five moves. The authorization comes last, after he names the problem and issues the call. The audience sees the problem before it hears why the work is possible.
 
 Business consequences:
 
 - Lead with the problem that people can observe (observation 1). "Ye see": the appeal starts from what all can see.
 - Use "let us," not "you will" (observation 2).
-- State the basis last (observation 6). Inference: authorization and the favor of God are the reasons the work can be done. They only matter after people accept the problem.
+- State the basis last (observation 6). Reading: authorization and the favor of God are the reasons the work can be done. They only matter after people accept the problem.
 - A motive of reputation is legitimate (observation 3). "That we be no more a reproach" is a stated reason for the work.
 
 ### Opposition, stated and answered (2:19–20)
 
 Observations:
 
-1. Text states: The opposition arrives right after the announcement: "when Sanballat... heard it, they laughed us to scorn, and despised us" (v. 19).
-2. Text states: The text names three opponents, with their affiliations: Sanballat the Horonite, Tobiah the servant, the Ammonite, and Geshem the Arabian. Inference: the opposition is identified, not vague.
-3. Text states: The attack has two parts. One is mockery: "laughed us to scorn, and despised us". The other is a legal threat: "will ye rebel against the king?"
-4. Text states: The answer is brief and has three parts (v. 20):
+1. Scripture says: The opposition arrives right after the announcement: "when Sanballat... heard it, they laughed us to scorn, and despised us" (v. 19).
+2. Scripture says: The text names three opponents, with their affiliations: Sanballat the Horonite, Tobiah the servant, the Ammonite, and Geshem the Arabian. Reading: the opposition is identified, not vague.
+3. Scripture says: The attack has two parts. One is mockery: "laughed us to scorn, and despised us". The other is a legal threat: "will ye rebel against the king?"
+4. Scripture says: The answer is brief and has three parts (v. 20):
    - Confidence: "The God of heaven, he will prosper us".
    - Intent: "therefore we his servants will arise and build".
    - Exclusion: "but ye have no portion, nor right, nor memorial, in Jerusalem".
-5. Text states: Nehemiah does not argue about the charge of rebellion. He answers it by stating his standing. Inference: he answers the charge with who he is, not with what the charge is.
+5. Scripture says: Nehemiah does not argue about the charge of rebellion. He answers it by stating his standing. Reading: he answers the charge with who he is, not with what the charge is.
 
 Business consequences:
 
-- Name the opponents (observation 2). Inference: nobody can track an unnamed opposition.
+- Name the opponents (observation 2). Reading: nobody can track an unnamed opposition.
 - Answer briefly and once (observation 4). The answer is three short clauses.
-- Answer the question of standing, not the accusation (observation 5). Inference: the charge of rebellion was a question of standing in disguise, and Nehemiah answered it as one.
+- Answer the question of standing, not the accusation (observation 5). Reading: the charge of rebellion was a question of standing in disguise, and Nehemiah answered it as one.
 - State the exclusion where it applies. "Ye have no portion, nor right, nor memorial" applies two axioms in one sentence: A6 (Distinction precedes order) and A33 (Access is guarded, and the guard is a feature).
 
 ### Work assigned by family and group (chapter 3)
@@ -400,23 +397,23 @@ Text (Nehemiah 3, selected verses, KJV):
 
 Observations:
 
-1. Text states (structure): The chapter is a list of segments. The formula is "next unto him" or "after him", which gives a continuous chain. Inference: the wall is divided into named pieces, each with an owner, and the list runs around the wall.
-2. Text states (assignment by family): Families and households receive assignments: "the sons of Hassenaah" (v. 3), "he and his daughters" (v. 12).
-3. Text states (assignment by trade): Groups of one trade receive assignments: "the goldsmiths" (vv. 8, 32, and "the goldsmith's son" in v. 31), "the apothecaries" (v. 8), "the merchants" (vv. 31–32).
-4. Text states (assignment by locality): "the men of Jericho" (v. 2), "the ruler of the half part of Jerusalem" (vv. 9, 12), "the ruler of part of Mizpah" (v. 15).
-5. Text states (assignment by proximity): Several entries are "over against his house" or "over against their house" (vv. 10, 23, 28, 29), "by his house" (v. 23), or "over against his chamber" (v. 30). Inference: people repaired the section nearest their own property. The design aligns the incentive. The wall that they built is the wall that protects their house.
-6. Text states: The work includes the gates and their fittings: "the doors thereof, the locks thereof, and the bars thereof" (vv. 3, 6, 13, 14, 15). Inference: the definition of done includes the security hardware, not only the masonry.
-7. Text states: Some did more than one section: "the Tekoites repaired another piece" (v. 27), and Baruch "earnestly repaired the other piece" (v. 20). Inference: the record names effort beyond the assignment.
-8. Text states (the failure): "And next unto them the Tekoites repaired; but their nobles put not their necks to the work of their LORD" (v. 5). The record keeps the refusal of a specific group permanently.
+1. Scripture says (structure): The chapter is a list of segments. The formula is "next unto him" or "after him", which gives a continuous chain. Reading: the wall is divided into named pieces, each with an owner, and the list runs around the wall.
+2. Scripture says (assignment by family): Families and households receive assignments: "the sons of Hassenaah" (v. 3), "he and his daughters" (v. 12).
+3. Scripture says (assignment by trade): Groups of one trade receive assignments: "the goldsmiths" (vv. 8, 32, and "the goldsmith's son" in v. 31), "the apothecaries" (v. 8), "the merchants" (vv. 31–32).
+4. Scripture says (assignment by locality): "the men of Jericho" (v. 2), "the ruler of the half part of Jerusalem" (vv. 9, 12), "the ruler of part of Mizpah" (v. 15).
+5. Scripture says (assignment by proximity): Several entries are "over against his house" or "over against their house" (vv. 10, 23, 28, 29), "by his house" (v. 23), or "over against his chamber" (v. 30). Reading: people repaired the section nearest their own property. The design aligns the incentive. The wall that they built is the wall that protects their house.
+6. Scripture says: The work includes the gates and their fittings: "the doors thereof, the locks thereof, and the bars thereof" (vv. 3, 6, 13, 14, 15). Reading: the definition of done includes the security hardware, not only the masonry.
+7. Scripture says: Some did more than one section: "the Tekoites repaired another piece" (v. 27), and Baruch "earnestly repaired the other piece" (v. 20). Reading: the record names effort beyond the assignment.
+8. Scripture says (the failure): "And next unto them the Tekoites repaired; but their nobles put not their necks to the work of their LORD" (v. 5). The record keeps the refusal of a specific group permanently.
 
 Business consequences:
 
-- Divide the work into named segments with a single owner each (observation 1). Inference: the list is the plan.
-- Assign by existing structure: family, trade, and locality (observations 2–4). Inference: the organization uses the groups that already exist and does not create new ones.
-- Align the incentive with proximity where possible (observation 5). Inference: this is the sharpest management idea in the chapter. Let people build the part that protects their own house.
-- Define done to include the fittings (observation 6). Inference: a gate without locks and bars is not a gate.
+- Divide the work into named segments with a single owner each (observation 1). Reading: the list is the plan.
+- Assign by existing structure: family, trade, and locality (observations 2–4). Reading: the organization uses the groups that already exist and does not create new ones.
+- Align the incentive with proximity where possible (observation 5). Reading: this is the sharpest management idea in the chapter. Let people build the part that protects their own house.
+- Define done to include the fittings (observation 6). Reading: a gate without locks and bars is not a gate.
 - Record over-delivery and non-delivery by name (observations 7 and 8). The chapter is a public record, and it names both.
-- Note that the text frames the refusal of the nobles as a refusal toward God, not toward Nehemiah: "the work of their LORD." Inference: the accountability is vertical, and that makes it permanent.
+- Note that the text frames the refusal of the nobles as a refusal toward God, not toward Nehemiah: "the work of their LORD." Reading: the accountability is vertical, and that makes it permanent.
 
 ### They prayed AND set a watch (4:9)
 
@@ -426,18 +423,18 @@ Text (Nehemiah 4:9, KJV):
 
 Observations:
 
-1. Text states: The verse joins two acts with "and": prayer and a watch. It is not one or the other.
-2. Text states: The watch runs on a schedule: "day and night." Inference: it is a standing arrangement, not a reaction.
-3. Text states: The reason is given: "because of them." The threat is specific and identified.
-4. Text states (context): Verse 8 states the threat: "And conspired all of them together to come and to fight against Jerusalem, and to hinder it." Inference: the watch responds to intelligence, not to general anxiety.
+1. Scripture says: The verse joins two acts with "and": prayer and a watch. It is not one or the other.
+2. Scripture says: The watch runs on a schedule: "day and night." Reading: it is a standing arrangement, not a reaction.
+3. Scripture says: The reason is given: "because of them." The threat is specific and identified.
+4. Scripture says (context): Verse 8 states the threat: "And conspired all of them together to come and to fight against Jerusalem, and to hinder it." Reading: the watch responds to intelligence, not to general anxiety.
 
-Inference: this is the axiom. Prayer and preparation are not alternatives, and the text gives them in a single clause. An organization that prays and does not prepare does not follow the pattern. An organization that prepares and does not pray does not follow it either.
+Reading: this is the axiom. Prayer and preparation are not alternatives, and the text gives them in a single clause. An organization that prays and does not prepare does not follow the pattern. An organization that prepares and does not pray does not follow it either.
 
 Business consequences:
 
 - Put security on a schedule, not on reaction (observation 2). "Day and night" is a duty schedule.
 - Assess the threat before you set the control (observation 4). The watch follows the intelligence.
-- Inference: the two-act structure is the model for risk management (observation 1). The spiritual and the operational responses are both required. Neither replaces the other.
+- Reading: the two-act structure is the model for risk management (observation 1). The spiritual and the operational responses are both required. Neither replaces the other.
 
 ### One hand on the work, one on the weapon (4:17–18)
 
@@ -452,24 +449,24 @@ Text (Nehemiah 4:16–18, 21–23, KJV):
 
 Observations:
 
-1. Text states (two models, both used): The text uses two models:
+1. Scripture says (two models, both used): The text uses two models:
    - (a) Split the force: "the half of my servants wrought in the work, and the other half of them held both the spears" (v. 16).
    - (b) Every person does both: "every one with one of his hands wrought in the work, and with the other hand held a weapon" (v. 17).
-2. Text states: The two models exist side by side in the same passage. Verse 16 divides the labor. Verse 17 gives each person two tasks at once.
-3. Text states: The double task applies to the whole chain: "They which builded on the wall, and they that bare burdens, with those that laded" (v. 17). It applies to everyone, not only to the front line.
-4. Text states: The builders carry the weapon on the body: "every one had his sword girded by his side, and so builded" (v. 18). Inference: the defense is not stored somewhere else. It is ready at once.
-5. Text states (the coordination mechanism): "And he that sounded the trumpet was by me" (v. 18). The instruction follows: "In what place therefore ye hear the sound of the trumpet, resort ye thither unto us" (v. 20). Text states: The workers are spread out: "we are separated upon the wall, one far from another" (v. 19). Inference: the trumpet is the signal to gather.
-6. Text states: The hours are long: "from the rising of the morning till the stars appeared" (v. 21).
-7. Text states (double duty): "Let every one with his servant lodge within Jerusalem, that in the night they may be a guard to us, and labour on the day" (v. 22). The same people guard by night and labor by day. Inference: this is not a rotation between two groups. It is double duty, made possible because everyone lodges inside the city.
-8. Text states (the leader is inside the arrangement): "neither I, nor my brethren, nor my servants, nor the men of the guard which followed me, none of us put off our clothes, saving that every one put them off for washing" (v. 23). Inference: the people stayed ready for action day and night, and the leader carried the same burden.
+2. Scripture says: The two models exist side by side in the same passage. Verse 16 divides the labor. Verse 17 gives each person two tasks at once.
+3. Scripture says: The double task applies to the whole chain: "They which builded on the wall, and they that bare burdens, with those that laded" (v. 17). It applies to everyone, not only to the front line.
+4. Scripture says: The builders carry the weapon on the body: "every one had his sword girded by his side, and so builded" (v. 18). Reading: the defense is not stored somewhere else. It is ready at once.
+5. Scripture says (the coordination mechanism): "And he that sounded the trumpet was by me" (v. 18). The instruction follows: "In what place therefore ye hear the sound of the trumpet, resort ye thither unto us" (v. 20). Scripture says: The workers are spread out: "we are separated upon the wall, one far from another" (v. 19). Reading: the trumpet is the signal to gather.
+6. Scripture says: The hours are long: "from the rising of the morning till the stars appeared" (v. 21).
+7. Scripture says (double duty): "Let every one with his servant lodge within Jerusalem, that in the night they may be a guard to us, and labour on the day" (v. 22). The same people guard by night and labor by day. Reading: this is not a rotation between two groups. It is double duty, made possible because everyone lodges inside the city.
+8. Scripture says (the leader is inside the arrangement): "neither I, nor my brethren, nor my servants, nor the men of the guard which followed me, none of us put off our clothes, saving that every one put them off for washing" (v. 23). Reading: the people stayed ready for action day and night, and the leader carried the same burden.
 
 Business consequences:
 
 - Build and defend at once. This is A17 (Building and keeping are equal partners) stated as an operational plan.
-- Two staffing models are available: split the force, or give everyone both tasks (observation 1). Inference: the choice depends on whether the work can pause. If it cannot pause, give everyone both tasks. If it can pause, split the force.
-- Carry the defense. Do not store it (observation 4). Inference: security that people must fetch arrives late.
-- A dispersed team needs a signal to gather (observation 5). Inference: a distributed team needs one agreed signal that means "come here now."
-- Inference: double duty is an emergency measure, and it has a cost (observations 6–8). The text records it for the fifty-two days of the build. The text does not present it as a permanent schedule. Lodging the team close to the work is what made it possible.
+- Two staffing models are available: split the force, or give everyone both tasks (observation 1). Reading: the choice depends on whether the work can pause. If it cannot pause, give everyone both tasks. If it can pause, split the force.
+- Carry the defense. Do not store it (observation 4). Reading: security that people must fetch arrives late.
+- A dispersed team needs a signal to gather (observation 5). Reading: a distributed team needs one agreed signal that means "come here now."
+- Reading: double duty is an emergency measure, and it has a cost (observations 6–8). The text records it for the fifty-two days of the build. The text does not present it as a permanent schedule. Lodging the team close to the work is what made it possible.
 - Put the leader inside the arrangement (observation 8). Nehemiah and his household live under the same conditions as everyone else.
 
 ### The usury crisis and the restitution demanded (5:1–13)
@@ -492,37 +489,37 @@ Text (Nehemiah 5:1–13, KJV):
 
 Observations:
 
-1. Text states: The crisis has three causes, stated by three groups:
+1. Scripture says: The crisis has three causes, stated by three groups:
    - (a) Large families need food (v. 2).
    - (b) People mortgaged property to buy corn during a dearth (v. 3).
    - (c) People borrowed money to pay the tribute of the king (v. 4).
 
-   Inference: the causes mix household size, food prices, and taxation. The crisis is systemic. Improvidence did not cause it.
-2. Text states: The consequence is the enslavement of children: "we bring into bondage our sons and our daughters to be servants, and some of our daughters are brought unto bondage already" (v. 5).
-3. Text states: The sufferers state the moral argument: "our flesh is as the flesh of our brethren, our children as their children" (v. 5). Inference: the appeal is to shared identity.
-4. Text states: Nehemiah responds with anger: "And I was very angry when I heard their cry" (v. 6). The text records the anger without apology.
-5. Text states: He thinks before he acts: "Then I consulted with myself" (v. 7). Then he rebukes, and then he convenes: "And I set a great assembly against them." The sequence is deliberation, then private rebuke, then public assembly.
-6. Text states: The charge is plain: "Ye exact usury, every one of his brother" (v. 7). Lexical: the "usury" of Nehemiah 5 is generally identified with H4855 מַשָּׁא (_mashsha_): "a loan; by implication, interest on adebt", with the verb H5378 נָשָׁא (_nasha_): "to lend on interest; by implication, to dun fordebt". Exodus 22:25 and Leviticus 25:36–37 use a different word, H5392 נֶשֶׁךְ (_neshek_): "interest on a debt". The supplied lexicon has no verse tagging, so this identification comes from a standard concordance and is not verified here. Inference: the words differ, but both concern lending at interest to a brother. See `capital-and-stewardship.md`, Part 4.
-7. Text states: The argument is consistency: "We after our ability have redeemed our brethren the Jews, which were sold unto the heathen; and will ye even sell your brethren?" (v. 8). The accused have no answer: "Then held they their peace, and found nothing to answer."
-8. Text states: Nehemiah includes himself in the rebuke: "I likewise, and my brethren, and my servants, might exact of them money and corn: I pray you, let us leave off this usury" (v. 10). Inference: he names his own standing to do the same thing, and he declines it.
-9. Text states (the restitution is specific): "Restore, I pray you, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth part of the money, and of the corn, the wine, and the oil, that ye exact of them" (v. 11). The demand covers four categories of property, plus the interest ("the hundredth part"), plus the produce. Inference: "the hundredth part" reads as one percent.
-10. Text states: The timing is immediate: "even this day."
-11. Text states: The agreement is sworn: "Then I called the priests, and took an oath of them, that they should do according to this promise" (v. 12).
-12. Text states: The enforcement is public and symbolic. Nehemiah shakes his lap and pronounces the matching judgment. The congregation says "Amen" (v. 13).
-13. Text states: The text records the compliance: "And the people did according to this promise."
+   Reading: the causes mix household size, food prices, and taxation. The crisis is systemic. Improvidence did not cause it.
+2. Scripture says: The consequence is the enslavement of children: "we bring into bondage our sons and our daughters to be servants, and some of our daughters are brought unto bondage already" (v. 5).
+3. Scripture says: The sufferers state the moral argument: "our flesh is as the flesh of our brethren, our children as their children" (v. 5). Reading: the appeal is to shared identity.
+4. Scripture says: Nehemiah responds with anger: "And I was very angry when I heard their cry" (v. 6). The text records the anger without apology.
+5. Scripture says: He thinks before he acts: "Then I consulted with myself" (v. 7). Then he rebukes, and then he convenes: "And I set a great assembly against them." The sequence is deliberation, then private rebuke, then public assembly.
+6. Scripture says: The charge is plain: "Ye exact usury, every one of his brother" (v. 7). Word meaning: the "usury" of Nehemiah 5 is generally identified with H4855 מַשָּׁא (_mashsha_): "a loan; by implication, interest on adebt", with the verb H5378 נָשָׁא (_nasha_): "to lend on interest; by implication, to dun fordebt". Exodus 22:25 and Leviticus 25:36–37 use a different word, H5392 נֶשֶׁךְ (_neshek_): "interest on a debt". The supplied lexicon has no verse tagging, so this identification comes from a standard concordance and is not verified here. Reading: the words differ, but both concern lending at interest to a brother. See `capital-and-stewardship.md`, Part 4.
+7. Scripture says: The argument is consistency: "We after our ability have redeemed our brethren the Jews, which were sold unto the heathen; and will ye even sell your brethren?" (v. 8). The accused have no answer: "Then held they their peace, and found nothing to answer."
+8. Scripture says: Nehemiah includes himself in the rebuke: "I likewise, and my brethren, and my servants, might exact of them money and corn: I pray you, let us leave off this usury" (v. 10). Reading: he names his own standing to do the same thing, and he declines it.
+9. Scripture says (the restitution is specific): "Restore, I pray you, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth part of the money, and of the corn, the wine, and the oil, that ye exact of them" (v. 11). The demand covers four categories of property, plus the interest ("the hundredth part"), plus the produce. Reading: "the hundredth part" reads as one percent.
+10. Scripture says: The timing is immediate: "even this day."
+11. Scripture says: The agreement is sworn: "Then I called the priests, and took an oath of them, that they should do according to this promise" (v. 12).
+12. Scripture says: The enforcement is public and symbolic. Nehemiah shakes his lap and pronounces the matching judgment. The congregation says "Amen" (v. 13).
+13. Scripture says: The text records the compliance: "And the people did according to this promise."
 
-Inference: the axiom from this passage is that restitution is specific, immediate, and includes the interest, not only the principal. The restitution is not "do better." It is "give it back, and give back the gain, today."
+Reading: the axiom from this passage is that restitution is specific, immediate, and includes the interest, not only the principal. The restitution is not "do better." It is "give it back, and give back the gain, today."
 
 Business consequences:
 
-- Restitution must restore the gain, not only the principal (observation 9). The demand includes the hundredth part, the interest. Inference: a remedy that returns the principal and keeps the profit does not restore.
+- Restitution must restore the gain, not only the principal (observation 9). The demand includes the hundredth part, the interest. Reading: a remedy that returns the principal and keeps the profit does not restore.
 - Restitution must be immediate (observation 10). "Even this day."
-- Name the categories (observation 9): lands, vineyards, oliveyards, houses, money, corn, wine, and oil. Inference: the specific list is what makes the demand enforceable.
+- Name the categories (observation 9): lands, vineyards, oliveyards, houses, money, corn, wine, and oil. Reading: the specific list is what makes the demand enforceable.
 - The leader must be inside the rebuke (observation 8). Nehemiah names his own standing to exploit the same position.
 - The commitment must be sworn and public (observations 11–12). There is an oath before witnesses and a public sign.
-- Inference: anger can be a legitimate response to exploitation (observation 4). The narrative records Nehemiah's anger without comment. A record is not by itself approval, because the same narrator records without comment that he "smote certain of them, and plucked off their hair" (13:25). The ground for righteous anger is elsewhere: "Be ye angry, and sin not" (Ephesians 4:26). Inference: the failure is not anger. The failure is anger that does not go on to deliberation (observation 5) and then to remedy.
-- The victims did not cause the crisis by improvidence (observation 1). The causes were household size, food prices, and tax. Inference: a remedy based on the fault of the victims misses the cause.
-- Note how the parts of the chapter connect. Text states: The same chapter that demands restitution also records that Nehemiah refused the bread of the governor (5:14–18): "I and my brethren have not eaten the bread of the governor... because the bondage was heavy upon this people" (5:14, 18). Inference: the leader reduces his own claim while he demands that others release theirs.
+- Reading: anger can be a legitimate response to exploitation (observation 4). The narrative records Nehemiah's anger without comment. A record is not by itself approval, because the same narrator records without comment that he "smote certain of them, and plucked off their hair" (13:25). The ground for righteous anger is elsewhere: "Be ye angry, and sin not" (Ephesians 4:26). Reading: the failure is not anger. The failure is anger that does not go on to deliberation (observation 5) and then to remedy.
+- The victims did not cause the crisis by improvidence (observation 1). The causes were household size, food prices, and tax. Reading: a remedy based on the fault of the victims misses the cause.
+- Note how the parts of the chapter connect. Scripture says: The same chapter that demands restitution also records that Nehemiah refused the bread of the governor (5:14–18): "I and my brethren have not eaten the bread of the governor... because the bondage was heavy upon this people" (5:14, 18). Reading: the leader reduces his own claim while he demands that others release theirs.
 
 ### "I cannot come down" (6:1–4)
 
@@ -535,22 +532,22 @@ Text (Nehemiah 6:1–4, KJV):
 
 Observations:
 
-1. Text states: The invitation looks reasonable: "Come, let us meet together in some one of the villages in the plain of Ono" (v. 2). It is a request for a meeting, not a threat.
-2. Text states: The text tells the reader the motive, but nobody tells Nehemiah: "But they thought to do me mischief" (v. 2).
-3. Text states: The refusal states the cost of attending: "why should the work cease, whilst I leave it, and come down to you?" (v. 3). Inference: Nehemiah does not object to the purpose of the meeting. He objects to its price. The work stops while he attends.
-4. Text states: The refusal states the value of the work: "I am doing a great work." Inference: the refusal rests on a positive claim about the work, not only on a negative claim about the people who ask.
-5. Text states: They repeat the request four times, and the answer is the same each time: "and I answered them after the same manner" (v. 4). Inference: the discipline is in the repetition. A refusal given once is an opening bid. A refusal given four times in the same words is a boundary.
-6. Text states (the escalation that follows): The fifth approach is an open letter with a slander (vv. 5–7). Then a hired prophet urges him to hide in the temple (vv. 10–13). Inference: the requests escalate after the refusals.
-7. Text states (the second refusal): "And I said, Should such a man as I flee? and who is there, that, being as I am, would go into the temple to save his life? I will not go in" (v. 11). He also sees through the manipulation: "And, lo, I perceived that God had not sent him" (v. 12).
+1. Scripture says: The invitation looks reasonable: "Come, let us meet together in some one of the villages in the plain of Ono" (v. 2). It is a request for a meeting, not a threat.
+2. Scripture says: The text tells the reader the motive, but nobody tells Nehemiah: "But they thought to do me mischief" (v. 2).
+3. Scripture says: The refusal states the cost of attending: "why should the work cease, whilst I leave it, and come down to you?" (v. 3). Reading: Nehemiah does not object to the purpose of the meeting. He objects to its price. The work stops while he attends.
+4. Scripture says: The refusal states the value of the work: "I am doing a great work." Reading: the refusal rests on a positive claim about the work, not only on a negative claim about the people who ask.
+5. Scripture says: They repeat the request four times, and the answer is the same each time: "and I answered them after the same manner" (v. 4). Reading: the discipline is in the repetition. A refusal given once is an opening bid. A refusal given four times in the same words is a boundary.
+6. Scripture says (the escalation that follows): The fifth approach is an open letter with a slander (vv. 5–7). Then a hired prophet urges him to hide in the temple (vv. 10–13). Reading: the requests escalate after the refusals.
+7. Scripture says (the second refusal): "And I said, Should such a man as I flee? and who is there, that, being as I am, would go into the temple to save his life? I will not go in" (v. 11). He also sees through the manipulation: "And, lo, I perceived that God had not sent him" (v. 12).
 
-Inference: the axiom from this passage is that the availability of a leader is finite. The cost of attending is the work that stops. The refusal is legitimate, and the leader must repeat it in the same words.
+Reading: the axiom from this passage is that the availability of a leader is finite. The cost of attending is the work that stops. The refusal is legitimate, and the leader must repeat it in the same words.
 
 Business consequences:
 
-- Price the meeting (observation 3). Inference: the question is not "is this a bad meeting?" The question is "what stops while I am in it?"
+- Price the meeting (observation 3). Reading: the question is not "is this a bad meeting?" The question is "what stops while I am in it?"
 - Refuse with a positive claim (observation 4). "I am doing a great work" is a statement about the work, not an accusation against the person who asks.
-- Repeat the refusal in the same words (observation 5). Four times, same answer. Inference: a change of wording invites another attempt.
-- Expect escalation (observation 6). Slander and a false counselor follow the refusals. Inference: people will test a boundary that holds at a higher level.
+- Repeat the refusal in the same words (observation 5). Four times, same answer. Reading: a change of wording invites another attempt.
+- Expect escalation (observation 6). Slander and a false counselor follow the refusals. Reading: people will test a boundary that holds at a higher level.
 - Watch for counsel that serves the counselor (observation 7). Shemaiah was hired to give his advice. Nehemiah tests the counsel against his own standing and role: "Should such a man as I flee?"
 
 ### Fifty-two days (6:15)
@@ -562,25 +559,25 @@ Text (Nehemiah 6:15–16, KJV):
 
 Observations:
 
-1. Text states: The text records the duration exactly. It gives a specific date and a specific count: "in fifty and two days."
-2. Text states: Third parties confirm the completion. The enemies heard and saw, and "they were much cast down in their own eyes."
-3. Text states: The text attributes the result to God: "for they perceived that this work was wrought of our God."
-4. Text states: The wall was complete before the doors were set up in the gates (6:1, "though at that time I had not set up the doors upon the gates"). Inference: the fifty-two days refers to the wall, and the fittings were a later phase. The claim of completion has a defined scope.
-5. Text states (the friction inside the fifty-two days): During that period the text records these events:
+1. Scripture says: The text records the duration exactly. It gives a specific date and a specific count: "in fifty and two days."
+2. Scripture says: Third parties confirm the completion. The enemies heard and saw, and "they were much cast down in their own eyes."
+3. Scripture says: The text attributes the result to God: "for they perceived that this work was wrought of our God."
+4. Scripture says: The wall was complete before the doors were set up in the gates (6:1, "though at that time I had not set up the doors upon the gates"). Reading: the fifty-two days refers to the wall, and the fittings were a later phase. The claim of completion has a defined scope.
+5. Scripture says (the friction inside the fifty-two days): During that period the text records these events:
    - An external conspiracy (4:7–8).
    - A collapse of morale inside the group (4:10, "The strength of the bearers of burdens is decayed, and there is much rubbish").
    - Threats from many directions (4:12).
    - An economic crisis that needed a major intervention (chapter 5).
    - Repeated attempts at distraction (6:1–14).
 
-   Inference: the fifty-two days included all of it.
+   Reading: the fifty-two days included all of it.
 
 Business consequences:
 
-- Record the duration exactly (observation 1). Inference: a stated elapsed time is a claim that others can check, and it becomes a benchmark.
+- Record the duration exactly (observation 1). Reading: a stated elapsed time is a claim that others can check, and it becomes a benchmark.
 - Give the claim of completion a scope (observation 4). "The wall is finished" did not mean that the doors were in place, and the text says so.
 - Third-party confirmation is the strongest form (observation 2). The reaction of the enemies is the proof.
-- The elapsed time includes the crises (observation 5). Inference: a schedule that assumes no crises is not a schedule. This one absorbed an economic emergency and a collapse of morale.
+- The elapsed time includes the crises (observation 5). Reading: a schedule that assumes no crises is not a schedule. This one absorbed an economic emergency and a collapse of morale.
 
 ---
 
@@ -610,27 +607,27 @@ Text (1 Chronicles 28:1–3, 9–12, 19–21, KJV, selected verses):
 
 Observations:
 
-1. Text states: David wanted to build, and God refused him: "As for me, I had in mine heart to build an house of rest for the ark of the covenant of the LORD... But God said unto me, Thou shalt not build an house for my name, because thou hast been a man of war, and hast shed blood" (28:2–3).
-2. Text states: The reason is personal to David, and the text gives it twice. 1 Chronicles 28:3 says "because thou hast been a man of war, and hast shed blood". 1 Chronicles 22:8 says "Thou hast shed blood abundantly, and hast made great wars: thou shalt not build an house unto my name, because thou hast shed much blood upon the earth in my sight." Contested: Readers differ on why the blood disqualified him. One view reads a moral judgment. It notes the words "in my sight" (22:8) and the death of Uriah: "thou hast killed Uriah the Hittite with the sword" (2 Samuel 12:9). Another view reads a matter of fitness, not guilt. David fought some wars at God's command: "Go up: for I will doubtless deliver the Philistines into thine hand" (2 Samuel 5:19). Solomon gives the wars as the reason: "David my father could not build an house unto the name of the LORD his God for the wars which were about him on every side" (1 Kings 5:3). Text states: The text does not fault his competence or his devotion.
-3. Text states: David does not abandon the project. He changes his role in it: "I will therefore now make preparation for it. So David prepared abundantly before his death" (22:5).
-4. Text states: The preparation is large, and the text gives the numbers: "an hundred thousand talents of gold, and a thousand thousand talents of silver" (22:14).
-5. Text states: David names and designates the successor: "And of all my sons, (for the LORD hath given me many sons,) he hath chosen Solomon my son to sit upon the throne" (28:5).
-6. Text states: David hands over a pattern, not only a mandate: "Then David gave to Solomon his son the pattern" (28:11). The pattern is detailed. It covers the porch, the houses, the treasuries, the chambers, the parlors, the place of the mercy seat, the courts, and the vessels by weight.
-7. Text states: The source of the pattern is given: "All this, said David, the LORD made me understand in writing by his hand upon me, even all the works of this pattern" (28:19). Inference: the specification is not the invention of David. He received it and passed it on.
+1. Scripture says: David wanted to build, and God refused him: "As for me, I had in mine heart to build an house of rest for the ark of the covenant of the LORD... But God said unto me, Thou shalt not build an house for my name, because thou hast been a man of war, and hast shed blood" (28:2–3).
+2. Scripture says: The reason is personal to David, and the text gives it twice. 1 Chronicles 28:3 says "because thou hast been a man of war, and hast shed blood". 1 Chronicles 22:8 says "Thou hast shed blood abundantly, and hast made great wars: thou shalt not build an house unto my name, because thou hast shed much blood upon the earth in my sight." Disputed: Readers differ on why the blood disqualified him. One view reads a moral judgment. It notes the words "in my sight" (22:8) and the death of Uriah: "thou hast killed Uriah the Hittite with the sword" (2 Samuel 12:9). Another view reads a matter of fitness, not guilt. David fought some wars at God's command: "Go up: for I will doubtless deliver the Philistines into thine hand" (2 Samuel 5:19). Solomon gives the wars as the reason: "David my father could not build an house unto the name of the LORD his God for the wars which were about him on every side" (1 Kings 5:3). Scripture says: The text does not fault his competence or his devotion.
+3. Scripture says: David does not abandon the project. He changes his role in it: "I will therefore now make preparation for it. So David prepared abundantly before his death" (22:5).
+4. Scripture says: The preparation is large, and the text gives the numbers: "an hundred thousand talents of gold, and a thousand thousand talents of silver" (22:14).
+5. Scripture says: David names and designates the successor: "And of all my sons, (for the LORD hath given me many sons,) he hath chosen Solomon my son to sit upon the throne" (28:5).
+6. Scripture says: David hands over a pattern, not only a mandate: "Then David gave to Solomon his son the pattern" (28:11). The pattern is detailed. It covers the porch, the houses, the treasuries, the chambers, the parlors, the place of the mercy seat, the courts, and the vessels by weight.
+7. Scripture says: The source of the pattern is given: "All this, said David, the LORD made me understand in writing by his hand upon me, even all the works of this pattern" (28:19). Reading: the specification is not the invention of David. He received it and passed it on.
 
-Inference: the axiom from this passage is that the founder does not always finish. At the end, the job of the founder is to pass on what he received in a form that another person can carry out. The pattern in 28:11–19 is the mechanism. Text states: David received the pattern from God: "the pattern of all that he had by the spirit" (28:12), and "the LORD made me understand in writing by his hand upon me" (28:19). Inference, by analogy: a business founder has no such revelation. What transfers is the duty to hand over a clear specification.
+Reading: the axiom from this passage is that the founder does not always finish. At the end, the job of the founder is to pass on what he received in a form that another person can carry out. The pattern in 28:11–19 is the mechanism. Scripture says: David received the pattern from God: "the pattern of all that he had by the spirit" (28:12), and "the LORD made me understand in writing by his hand upon me" (28:19). Reading, by analogy: a business founder has no such revelation. What transfers is the duty to hand over a clear specification.
 
 Business consequences:
 
-- The final deliverable of the founder is a specification, not a result (observation 6). Inference: the pattern is what transfers.
-- Preparation is a legitimate role with a name (observation 3). David "prepared abundantly before his death." Inference: a founder who cannot build the thing can fund it, specify it, and staff it.
-- A past record can disqualify a founder from the next phase (observation 2). Contested: whether David's case involved guilt (see observation 2). Inference: hold this carefully. A founder can be the wrong person for the next phase, and the reason may lie in the record of the last one.
-- The successor must have a name (observation 5). Inference: "the best person will emerge" is not a succession plan.
-- Write the specification down (observation 7). In the text, the writing came "by his hand upon me", the hand of the LORD (28:19). Inference, by analogy: a founder's own specification must be written, and it must also be tested, because it is not revealed.
+- The final deliverable of the founder is a specification, not a result (observation 6). Reading: the pattern is what transfers.
+- Preparation is a legitimate role with a name (observation 3). David "prepared abundantly before his death." Reading: a founder who cannot build the thing can fund it, specify it, and staff it.
+- A past record can disqualify a founder from the next phase (observation 2). Disputed: whether David's case involved guilt (see observation 2). Reading: hold this carefully. A founder can be the wrong person for the next phase, and the reason may lie in the record of the last one.
+- The successor must have a name (observation 5). Reading: "the best person will emerge" is not a succession plan.
+- Write the specification down (observation 7). In the text, the writing came "by his hand upon me", the hand of the LORD (28:19). Reading, by analogy: a founder's own specification must be written, and it must also be tested, because it is not revealed.
 
 ### What David prepares
 
-Text states (the inventory): 1 Chronicles 22 and 28–29 list what David prepares. The categories are:
+Scripture says (the inventory): 1 Chronicles 22 and 28–29 list what David prepares. The categories are:
 
 | Category          | Text | Note |
 | ----------------- | ---- | ---- |
@@ -645,12 +642,12 @@ Text states (the inventory): 1 Chronicles 22 and 28–29 list what David prepare
 
 Observations:
 
-1. Text states: The specification gives quantities by weight for each item: "the weight for the candlesticks of gold, and for their lamps of gold, by weight for every candlestick" (28:15), and "by weight he gave gold for the tables of shewbread, for every table" (28:16). Inference: this is a bill of materials with quantities for each unit. The specification has enough detail for someone to execute it.
-2. Text states: The organization is part of the specification, next to the materials: the courses of the priests and Levites (28:13, 21). Inference: who operates the building is part of the specification, not an afterthought.
-3. Text states: The text specifies the personnel by capability: "every willing skilful man, for any manner of service" (28:21). It gives two criteria: willing and skilful.
-4. Text states: David gives his own contribution, personally and voluntarily, beyond the provision of the state: "Moreover, because I have set my affection to the house of my God, I have of mine own proper good, of gold and silver, which I have given to the house of my God, over and above all that I have prepared for the holy house" (29:3). Inference: the text separates the own contribution of the founder from the corporate resource.
-5. Text states: The freewill offerings are voluntary, and the text says so three times: "offered willingly" (29:6), "with perfect heart they offered willingly" (29:9), and "thy people, which are present here, to offer willingly unto thee" (29:17).
-6. Text states: The public transfer includes the whole leadership structure: "David assembled all the princes of Israel, the princes of the tribes, and the captains of the companies... and the stewards over all the substance and possession of the king, and of his sons, with the officers, and with the mighty men, and with all the valiant men, unto Jerusalem" (28:1).
+1. Scripture says: The specification gives quantities by weight for each item: "the weight for the candlesticks of gold, and for their lamps of gold, by weight for every candlestick" (28:15), and "by weight he gave gold for the tables of shewbread, for every table" (28:16). Reading: this is a bill of materials with quantities for each unit. The specification has enough detail for someone to execute it.
+2. Scripture says: The organization is part of the specification, next to the materials: the courses of the priests and Levites (28:13, 21). Reading: who operates the building is part of the specification, not an afterthought.
+3. Scripture says: The text specifies the personnel by capability: "every willing skilful man, for any manner of service" (28:21). It gives two criteria: willing and skilful.
+4. Scripture says: David gives his own contribution, personally and voluntarily, beyond the provision of the state: "Moreover, because I have set my affection to the house of my God, I have of mine own proper good, of gold and silver, which I have given to the house of my God, over and above all that I have prepared for the holy house" (29:3). Reading: the text separates the own contribution of the founder from the corporate resource.
+5. Scripture says: The freewill offerings are voluntary, and the text says so three times: "offered willingly" (29:6), "with perfect heart they offered willingly" (29:9), and "thy people, which are present here, to offer willingly unto thee" (29:17).
+6. Scripture says: The public transfer includes the whole leadership structure: "David assembled all the princes of Israel, the princes of the tribes, and the captains of the companies... and the stewards over all the substance and possession of the king, and of his sons, with the officers, and with the mighty men, and with all the valiant men, unto Jerusalem" (28:1).
 
 ### The charge (28:9) and the doxology (29:14)
 
@@ -660,10 +657,10 @@ Text (1 Chronicles 28:9, KJV):
 
 Observations:
 
-1. Text states: David addresses the charge to the person, not the role: "thou, Solomon my son."
-2. Text states: The charge has two verbs: know and serve. It has two qualifications: "with a perfect heart and with a willing mind."
-3. Text states: The ground is given: "for the LORD searcheth all hearts, and understandeth all the imaginations of the thoughts." Inference: the standard is inward, and the audit is inward.
-4. Text states: The charge is conditional: "if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever." Inference: the succession is not unconditional, and David says so to the face of his successor.
+1. Scripture says: David addresses the charge to the person, not the role: "thou, Solomon my son."
+2. Scripture says: The charge has two verbs: know and serve. It has two qualifications: "with a perfect heart and with a willing mind."
+3. Scripture says: The ground is given: "for the LORD searcheth all hearts, and understandeth all the imaginations of the thoughts." Reading: the standard is inward, and the audit is inward.
+4. Scripture says: The charge is conditional: "if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever." Reading: the succession is not unconditional, and David says so to the face of his successor.
 
 Text (1 Chronicles 29:14, KJV):
 
@@ -671,35 +668,35 @@ Text (1 Chronicles 29:14, KJV):
 
 Observations:
 
-1. Text states: The question is rhetorical and humble: "who am I, and what is my people."
-2. Inference: The verse matches A1 (All value is derived) closely: "all things come of thee, and of thine own have we given thee."
-3. Text states (the verses around it): "Thine, O LORD, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is thine; thine is the kingdom, O LORD, and thou art exalted as head above all" (29:11). "Both riches and honour come of thee, and thou reignest over all; and in thine hand is power and might; and in thine hand it is to make great, and to give strength unto all" (29:12).
-4. Text states: "O LORD our God, all this store that we have prepared to build thee an house for thine holy name cometh of thine hand, and is all thine own" (29:16).
-5. Text states: David gives the doxology in public, in front of the whole assembly, at the moment of the transfer.
+1. Scripture says: The question is rhetorical and humble: "who am I, and what is my people."
+2. Reading: The verse matches A1 (All value is derived) closely: "all things come of thee, and of thine own have we given thee."
+3. Scripture says (the verses around it): "Thine, O LORD, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is thine; thine is the kingdom, O LORD, and thou art exalted as head above all" (29:11). "Both riches and honour come of thee, and thou reignest over all; and in thine hand is power and might; and in thine hand it is to make great, and to give strength unto all" (29:12).
+4. Scripture says: "O LORD our God, all this store that we have prepared to build thee an house for thine holy name cometh of thine hand, and is all thine own" (29:16).
+5. Scripture says: David gives the doxology in public, in front of the whole assembly, at the moment of the transfer.
 
-Inference: David makes the statement of attribution at the handover, in public, and it covers the capital that transfers. In front of the successor and the whole leadership team, the founder states that the assets were never his.
+Reading: David makes the statement of attribution at the handover, in public, and it covers the capital that transfers. In front of the successor and the whole leadership team, the founder states that the assets were never his.
 
 Business consequences:
 
-- Make the statement of attribution at the handover, in public (observation 5). Inference: this is the moment when a founder most wants to claim credit, and the text puts the disclaimer exactly there.
-- Make the charge to a successor personal and conditional (observations 3–4). Inference: not "here is the job," but "here is what is required of you, and here is what happens if you depart."
-- State that the assets were received (observation 2). Inference: say it in front of the successor, so that the successor inherits a posture and not only a balance sheet.
+- Make the statement of attribution at the handover, in public (observation 5). Reading: this is the moment when a founder most wants to claim credit, and the text puts the disclaimer exactly there.
+- Make the charge to a successor personal and conditional (observations 3–4). Reading: not "here is the job," but "here is what is required of you, and here is what happens if you depart."
+- State that the assets were received (observation 2). Reading: say it in front of the successor, so that the successor inherits a posture and not only a balance sheet.
 
 ### The public transfer
 
 Observations:
 
-1. Text states: The assembly is complete: princes, captains, stewards, officers, mighty men, and valiant men (28:1). Every tier of the organization is present.
-2. Text states: The leaders give first: "Then the chief of the fathers and princes of the tribes of Israel, and the captains of thousands and of hundreds, with the rulers of the king's work, offered willingly" (29:6). Inference: the leadership takes part before the general group.
-3. Text states: The people respond: "Then the people rejoiced, for that they offered willingly" (29:9).
-4. Text states: The prayer of David includes a request for the successor: "And give unto Solomon my son a perfect heart, to keep thy commandments, thy testimonies, and thy statutes, and to do all these things, and to build the palace, for the which I have made provision" (29:19).
-5. Text states: The prayer names the provision: "for the which I have made provision." Inference: the preparation of the founder is the subject of prayer. That presents it as an offering, not as an achievement.
+1. Scripture says: The assembly is complete: princes, captains, stewards, officers, mighty men, and valiant men (28:1). Every tier of the organization is present.
+2. Scripture says: The leaders give first: "Then the chief of the fathers and princes of the tribes of Israel, and the captains of thousands and of hundreds, with the rulers of the king's work, offered willingly" (29:6). Reading: the leadership takes part before the general group.
+3. Scripture says: The people respond: "Then the people rejoiced, for that they offered willingly" (29:9).
+4. Scripture says: The prayer of David includes a request for the successor: "And give unto Solomon my son a perfect heart, to keep thy commandments, thy testimonies, and thy statutes, and to do all these things, and to build the palace, for the which I have made provision" (29:19).
+5. Scripture says: The prayer names the provision: "for the which I have made provision." Reading: the preparation of the founder is the subject of prayer. That presents it as an offering, not as an achievement.
 
 Business consequences:
 
-- Transfer in public and to the whole leadership (observation 1). Inference: a succession done in private leaves ambiguity.
-- Have the leadership commit first (observation 2). Inference: the order of commitment matters.
-- Name the provision in the transfer (observation 5). Inference: when the preparation is stated, nobody can say that the successor inherited nothing.
+- Transfer in public and to the whole leadership (observation 1). Reading: a succession done in private leaves ambiguity.
+- Have the leadership commit first (observation 2). Reading: the order of commitment matters.
+- Name the provision in the transfer (observation 5). Reading: when the preparation is stated, nobody can say that the successor inherited nothing.
 
 ---
 
@@ -732,41 +729,41 @@ Text (Exodus 35:30–35, KJV):
 
 Observations:
 
-1. Text states: God calls Bezaleel by name: "I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah" (31:2). Inference: God designates a specific person for a specific technical role.
-2. Text states: God fills him with the spirit of God, and the filling is for specific capabilities: "in wisdom, and in understanding, and in knowledge, and in all manner of workmanship" (31:3).
-3. Text states: The verse names four capacities, and the last is the practical one: workmanship.
-4. Text states: The text lists the work by material and technique: gold, silver, brass, cutting stones to set them, and carving timber (31:4–5). Inference: the text describes the gift in the terms of the trade.
-5. Text states: The gift reaches beyond Bezaleel: "And I, behold, I have given with him Aholiab... and in the hearts of all that are wise hearted I have put wisdom, that they may make all that I have commanded thee" (31:6). Inference: the gift is spread across a whole workforce. It is not held in one person.
-6. Text states: The purpose of the gift is to make specific objects. The list is concrete: the tabernacle, the ark, the mercy seat, the table, the candlestick, the altars, the laver, the cloths, the garments, the oil, and the incense (31:7–11).
-7. Text states: A specification bounds the whole work: "according to all that I have commanded thee shall they do" (31:11).
+1. Scripture says: God calls Bezaleel by name: "I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah" (31:2). Reading: God designates a specific person for a specific technical role.
+2. Scripture says: God fills him with the spirit of God, and the filling is for specific capabilities: "in wisdom, and in understanding, and in knowledge, and in all manner of workmanship" (31:3).
+3. Scripture says: The verse names four capacities, and the last is the practical one: workmanship.
+4. Scripture says: The text lists the work by material and technique: gold, silver, brass, cutting stones to set them, and carving timber (31:4–5). Reading: the text describes the gift in the terms of the trade.
+5. Scripture says: The gift reaches beyond Bezaleel: "And I, behold, I have given with him Aholiab... and in the hearts of all that are wise hearted I have put wisdom, that they may make all that I have commanded thee" (31:6). Reading: the gift is spread across a whole workforce. It is not held in one person.
+6. Scripture says: The purpose of the gift is to make specific objects. The list is concrete: the tabernacle, the ark, the mercy seat, the table, the candlestick, the altars, the laver, the cloths, the garments, the oil, and the incense (31:7–11).
+7. Scripture says: A specification bounds the whole work: "according to all that I have commanded thee shall they do" (31:11).
 
-Inference: the axiom from this passage is that craftsmanship is a capacity given by the Spirit. It is not a second-class activity beneath "spiritual" work. The text puts "wisdom, and in understanding, and in knowledge, and in all manner of workmanship" in one list, and it credits all of them to the filling.
+Reading: the axiom from this passage is that craftsmanship is a capacity given by the Spirit. It is not a second-class activity beneath "spiritual" work. The text puts "wisdom, and in understanding, and in knowledge, and in all manner of workmanship" in one list, and it credits all of them to the filling.
 
 Business consequences:
 
-- Technical skill is a gift, not only a competence (observation 2). Inference: this affects how an organization treats its craftspeople. They receive a gift that the organization depends on. They are not interchangeable inputs.
+- Technical skill is a gift, not only a competence (observation 2). Reading: this affects how an organization treats its craftspeople. They receive a gift that the organization depends on. They are not interchangeable inputs.
 - The gift is named for one person and spread across the group (observations 1 and 5). One person is called by name, and the whole workforce is filled.
 - The text describes the work in trade terms (observation 4). It does not turn the work into the abstraction "service." It names the materials.
-- The specification still governs (observation 7). The gift works inside a stated brief. Inference: this is A4 (Making is by word) and A12 (Dominion is delegated and bounded) together.
+- The specification still governs (observation 7). The gift works inside a stated brief. Reading: this is A4 (Making is by word) and A12 (Dominion is delegated and bounded) together.
 
 ### The gift includes the ability to teach
 
-Text states: "And he hath put in his heart that he may teach, both he, and Aholiab, the son of Ahisamach, of the tribe of Dan" (35:34).
+Scripture says: "And he hath put in his heart that he may teach, both he, and Aholiab, the son of Ahisamach, of the tribe of Dan" (35:34).
 
 Observations:
 
-1. Text states: God gives the ability to teach in the same way as the workmanship: "he hath put in his heart."
-2. Text states: Both named craftsmen receive it: "both he, and Aholiab."
-3. Text states: The text lists the capacity to teach after the technical capacities (35:31–33) and before the summary of the skill of the workforce (35:35). Inference: teaching is the bridge between the master craftsman and the workforce.
-4. Text states: Verse 35 describes the workforce with a long list of trades: "the engraver, and of the cunning workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, even of them that do any work, and of those that devise cunning work."
+1. Scripture says: God gives the ability to teach in the same way as the workmanship: "he hath put in his heart."
+2. Scripture says: Both named craftsmen receive it: "both he, and Aholiab."
+3. Scripture says: The text lists the capacity to teach after the technical capacities (35:31–33) and before the summary of the skill of the workforce (35:35). Reading: teaching is the bridge between the master craftsman and the workforce.
+4. Scripture says: Verse 35 describes the workforce with a long list of trades: "the engraver, and of the cunning workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, even of them that do any work, and of those that devise cunning work."
 
-Inference: the role of the technical leader includes reproducing the capability in others. The gift is the ability to do the work and also the ability to transfer it.
+Reading: the role of the technical leader includes reproducing the capability in others. The gift is the ability to do the work and also the ability to transfer it.
 
 Business consequences:
 
 - Teaching is part of the craft, not a separate career track (observation 1). The same person receives both.
-- Expect the master craftsman to produce craftspeople (observation 3). Inference: the capacity to teach turns the skill of one person into the skill of a workforce.
-- Inference: without the teaching, the capability exists in one head, and that head is a single point of failure. This is A11 (Multiplication is commanded, and it reproduces after its kind) applied to skill.
+- Expect the master craftsman to produce craftspeople (observation 3). Reading: the capacity to teach turns the skill of one person into the skill of a workforce.
+- Reading: without the teaching, the capability exists in one head, and that head is a single point of failure. This is A11 (Multiplication is commanded, and it reproduces after its kind) applied to skill.
 - Teach a specific, named workforce (observation 4). The list of trades is concrete. The teaching has a defined audience and defined content.
 
 ### Supply exceeding need (36:3–7)
@@ -781,21 +778,21 @@ Text (Exodus 36:3–7, KJV):
 
 Observations:
 
-1. Text states: The offerings continued every day: "they brought yet unto him free offerings every morning" (v. 3).
-2. Text states: The workers report the surplus: "And all the wise men, that wrought all the work of the sanctuary, came every man from his work which they made; And they spake unto Moses" (vv. 4–5). Inference: the people closest to the work are the ones who can see that the supply exceeds the need.
-3. Text states: The report is specific: "The people bring much more than enough for the service of the work" (v. 5).
-4. Text states: The response forbids further giving: "Let neither man nor woman make any more work for the offering of the sanctuary" (v. 6).
-5. Text states: The people comply: "So the people were restrained from bringing" (v. 6).
-6. Text states: The summary uses the words "too much": "For the stuff they had was sufficient for all the work to make it, and too much" (v. 7).
+1. Scripture says: The offerings continued every day: "they brought yet unto him free offerings every morning" (v. 3).
+2. Scripture says: The workers report the surplus: "And all the wise men, that wrought all the work of the sanctuary, came every man from his work which they made; And they spake unto Moses" (vv. 4–5). Reading: the people closest to the work are the ones who can see that the supply exceeds the need.
+3. Scripture says: The report is specific: "The people bring much more than enough for the service of the work" (v. 5).
+4. Scripture says: The response forbids further giving: "Let neither man nor woman make any more work for the offering of the sanctuary" (v. 6).
+5. Scripture says: The people comply: "So the people were restrained from bringing" (v. 6).
+6. Scripture says: The summary uses the words "too much": "For the stuff they had was sufficient for all the work to make it, and too much" (v. 7).
 
-Inference: the axiom from this passage is that an organization must be able to stop taking resources when the work is funded. To keep raising, selling, or accepting after the need is met is the same kind of failure as underfunding, in the opposite direction.
+Reading: the axiom from this passage is that an organization must be able to stop taking resources when the work is funded. To keep raising, selling, or accepting after the need is met is the same kind of failure as underfunding, in the opposite direction.
 
 Business consequences:
 
-- The workers report the surplus, not the fundraisers (observation 2). Inference: this is a real structural point. The people who raise the money have an incentive not to notice that nobody needs it now. The people who do the work can see it.
+- The workers report the surplus, not the fundraisers (observation 2). Reading: this is a real structural point. The people who raise the money have an incentive not to notice that nobody needs it now. The people who do the work can see it.
 - "Too much" is a state that the text names (observation 6). There is a condition beyond "sufficient," and the text states it plainly.
-- Stopping the intake is an act of leadership, and it needs a public proclamation (observation 4). Inference: Moses had to command it and have it proclaimed, which suggests that the default was to keep accepting.
-- The measure is the work, not the appetite (observation 3). The text says "much more than enough for the service of the work". Inference: the text defines the surplus against the specification (A4, A14), not against an abstract sense of abundance.
+- Stopping the intake is an act of leadership, and it needs a public proclamation (observation 4). Reading: Moses had to command it and have it proclaimed, which suggests that the default was to keep accepting.
+- The measure is the work, not the appetite (observation 3). The text says "much more than enough for the service of the work". Reading: the text defines the surplus against the specification (A4, A14), not against an abstract sense of abundance.
 
 ---
 
@@ -818,24 +815,24 @@ Text (1 Timothy 5:18, KJV):
 
 Observations:
 
-1. Text states: The law is in the imperative: "Thou shalt not muzzle the ox."
-2. Text states: The ox treads out the corn, so it works on the food supply. Inference: the ox has access to the product that it produces, while it produces it.
-3. Text states: Paul reads the law as written "altogether for our sakes" (v. 10). He asks a rhetorical question and then answers it: "Doth God take care for oxen? Or saith he it altogether for our sakes? For our sakes, no doubt, this is written."
-4. Text states: Paul applies it to the expectation of the worker: "that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope" (v. 10). The word "hope" appears three times in one sentence. Text states (the context): Paul's own application is to those who preach: "Even so hath the Lord ordained that they which preach the gospel should live of the gospel" (9:14). He also gave up the right for himself: "Nevertheless we have not used this power" (9:12). 1 Timothy 5:17–18 applies the same law to "the elders that rule well". Inference: the plowman of verse 10 is the general case, and the support of ministers is the case that Paul argues.
-5. Text states: 1 Timothy 5:18 pairs the law of the ox with a second saying: "The labourer is worthy of his reward." Inference: the verse treats the two as one principle from two sources.
-6. Text states: The law sits in Deuteronomy among various ordinances (Deuteronomy 25:1–19). It comes between the rules for corporal punishment (25:1–3) and the levirate marriage (25:5–10). Inference: the text states it as a legal obligation, not a suggestion, and places it among enforceable duties.
+1. Scripture says: The law is in the imperative: "Thou shalt not muzzle the ox."
+2. Scripture says: The ox treads out the corn, so it works on the food supply. Reading: the ox has access to the product that it produces, while it produces it.
+3. Scripture says: Paul reads the law as written "altogether for our sakes" (v. 10). He asks a rhetorical question and then answers it: "Doth God take care for oxen? Or saith he it altogether for our sakes? For our sakes, no doubt, this is written."
+4. Scripture says: Paul applies it to the expectation of the worker: "that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope" (v. 10). The word "hope" appears three times in one sentence. Scripture says (the context): Paul's own application is to those who preach: "Even so hath the Lord ordained that they which preach the gospel should live of the gospel" (9:14). He also gave up the right for himself: "Nevertheless we have not used this power" (9:12). 1 Timothy 5:17–18 applies the same law to "the elders that rule well". Reading: the plowman of verse 10 is the general case, and the support of ministers is the case that Paul argues.
+5. Scripture says: 1 Timothy 5:18 pairs the law of the ox with a second saying: "The labourer is worthy of his reward." Reading: the verse treats the two as one principle from two sources.
+6. Scripture says: The law sits in Deuteronomy among various ordinances (Deuteronomy 25:1–19). It comes between the rules for corporal punishment (25:1–3) and the levirate marriage (25:5–10). Reading: the text states it as a legal obligation, not a suggestion, and places it among enforceable duties.
 
-Inference: three things follow.
+Reading: three things follow.
 
-- The worker shares in the product while he works (observation 2). The ox eats while it treads. Inference: the application is not a bonus at the end of the harvest. It is access to the product during the work. For wages, the law sets the timing: "At his day thou shalt give him his hire, neither shall the sun go down upon it" (Deuteronomy 24:15). The householder of Matthew 20 pays "when even was come" (20:8). So the wage itself is due promptly at the end of the work period.
-- The expectation of the worker is part of the design (observation 4). "Plow in hope." Inference: the expectation makes the work possible. A worker with no hope does not plow.
+- The worker shares in the product while he works (observation 2). The ox eats while it treads. Reading: the application is not a bonus at the end of the harvest. It is access to the product during the work. For wages, the law sets the timing: "At his day thou shalt give him his hire, neither shall the sun go down upon it" (Deuteronomy 24:15). The householder of Matthew 20 pays "when even was come" (20:8). So the wage itself is due promptly at the end of the work period.
+- The expectation of the worker is part of the design (observation 4). "Plow in hope." Reading: the expectation makes the work possible. A worker with no hope does not plow.
 - The obligation is legal, not charitable (observation 6). The law is a prohibition.
 
 Business consequences:
 
-- Pay promptly, on the day the wage is due (Deuteronomy 24:15). Inference: deferred compensation that the employer imposes for its own benefit is in tension with the pattern, because the hired servant must not wait past "his day", and the ox does not wait for the harvest. Deferred compensation is lawful in the US, and the employee often chooses it, for example in a 401(k) plan. The tension does not apply when the worker chooses the deferral.
-- The worker must be able to see and reach the product (observation 2). The ox is fed from the corn that it treads. Inference: the link between effort and reward must be visible in the work itself.
-- "In hope" is a design requirement (observation 4). Inference: if a worker cannot form an expectation of return from a compensation plan, the plan will not produce plowing.
+- Pay promptly, on the day the wage is due (Deuteronomy 24:15). Reading: deferred compensation that the employer imposes for its own benefit is in tension with the pattern, because the hired servant must not wait past "his day", and the ox does not wait for the harvest. Deferred compensation is lawful in the US, and the employee often chooses it, for example in a 401(k) plan. The tension does not apply when the worker chooses the deferral.
+- The worker must be able to see and reach the product (observation 2). The ox is fed from the corn that it treads. Reading: the link between effort and reward must be visible in the work itself.
+- "In hope" is a design requirement (observation 4). Reading: if a worker cannot form an expectation of return from a compensation plan, the plan will not produce plowing.
 - The obligation is not optional (observation 6). The text states it as a law, and Paul treats it as an obligation from Scripture.
 
 ### Wages withheld cry out
@@ -859,26 +856,26 @@ Text (Jeremiah 22:13, KJV):
 
 Observations:
 
-1. Text states (the prohibition): Leviticus 19:13 puts withheld wages in the same verse as fraud and robbery: "Thou shalt not defraud thy neighbour, neither rob him: the wages of him that is hired shall not abide with thee all night until the morning." Inference: the verse classes withheld wages with robbery, not as a delay in payment.
-2. Text states (the deadline): The wages of a hired worker must not stay with the employer overnight. The deadline is the same day.
-3. Text states (the mechanism, James): The withheld wage cries out: "the hire of the labourers... which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth" (v. 4). Inference: the text presents the wrong as a voice. The unpaid wage itself is a witness.
-4. Text states: The wage is kept back "by fraud." Inference: the wrong is not a failure to pay. It is a deliberate retention.
-5. Text states (the woe, Jeremiah): "Woe unto him that buildeth his house by unrighteousness, and his chambers by wrong; that useth his neighbour's service without wages, and giveth him not for his work" (22:13). The house is built "by unrighteousness." Inference: the house itself is the product of the withheld wages.
-6. Text states: Jeremiah 22:14 continues. The man says "I will build me a wide house and large chambers," and he ceils it with cedar and paints it with vermilion. Inference: the size of the house measures the withheld wages.
-7. Text states: James addresses "ye rich men" (5:1), and the charge is specific to farm labor: "the labourers who have reaped down your fields."
-8. Text states (the direct wage law, Deuteronomy): The law protects the "hired servant that is poor and needy, whether he be of thy brethren, or of thy strangers" (24:14). The deadline is "At his day" (24:15). The reason is the worker's need and his cry: "for he is poor, and setteth his heart upon it: lest he cry against thee unto the LORD, and it be sin unto thee" (24:15). Inference: the protection covers the foreign worker as well as the native one.
+1. Scripture says (the prohibition): Leviticus 19:13 puts withheld wages in the same verse as fraud and robbery: "Thou shalt not defraud thy neighbour, neither rob him: the wages of him that is hired shall not abide with thee all night until the morning." Reading: the verse classes withheld wages with robbery, not as a delay in payment.
+2. Scripture says (the deadline): The wages of a hired worker must not stay with the employer overnight. The deadline is the same day.
+3. Scripture says (the mechanism, James): The withheld wage cries out: "the hire of the labourers... which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth" (v. 4). Reading: the text presents the wrong as a voice. The unpaid wage itself is a witness.
+4. Scripture says: The wage is kept back "by fraud." Reading: the wrong is not a failure to pay. It is a deliberate retention.
+5. Scripture says (the woe, Jeremiah): "Woe unto him that buildeth his house by unrighteousness, and his chambers by wrong; that useth his neighbour's service without wages, and giveth him not for his work" (22:13). The house is built "by unrighteousness." Reading: the house itself is the product of the withheld wages.
+6. Scripture says: Jeremiah 22:14 continues. The man says "I will build me a wide house and large chambers," and he ceils it with cedar and paints it with vermilion. Reading: the size of the house measures the withheld wages.
+7. Scripture says: James addresses "ye rich men" (5:1), and the charge is specific to farm labor: "the labourers who have reaped down your fields."
+8. Scripture says (the direct wage law, Deuteronomy): The law protects the "hired servant that is poor and needy, whether he be of thy brethren, or of thy strangers" (24:14). The deadline is "At his day" (24:15). The reason is the worker's need and his cry: "for he is poor, and setteth his heart upon it: lest he cry against thee unto the LORD, and it be sin unto thee" (24:15). Reading: the protection covers the foreign worker as well as the native one.
 
-Inference: together, the passages state five things. Withheld wages are robbery (Leviticus). The deadline is the same day (Leviticus and Deuteronomy). The poor worker's cry reaches the LORD, and the delay is sin (Deuteronomy). The withheld wage is a witness that cries out (James). A house built on withheld wages is under a woe (Jeremiah).
+Reading: together, the passages state five things. Withheld wages are robbery (Leviticus). The deadline is the same day (Leviticus and Deuteronomy). The poor worker's cry reaches the LORD, and the delay is sin (Deuteronomy). The withheld wage is a witness that cries out (James). A house built on withheld wages is under a woe (Jeremiah).
 
 Business consequences:
 
 - The timing of payroll is an ethics issue, not a treasury issue (observation 1). Leviticus puts the withheld wage in the same verse as robbery.
-- The stated deadline for wages is the same day (observation 2). Inference: modern payroll runs weekly, biweekly, or monthly. Whether the exact deadline binds a modern firm is a question about the law of the covenant community. The direction of the requirement is clear. If a business can pay wages sooner and chooses not to, it must be able to say why.
-- Inference: the verse is about wages to hired workers. It does not address supplier invoices. Under US GAAP, an unpaid supplier invoice is a trade payable (accounts payable), and unpaid wages are accrued payroll. Some readers extend the principle to small suppliers who depend on prompt payment the way a laborer does. That extension is an inference, not the text.
-- Deliberate retention is fraud (observation 4). Inference: the difference between "we cannot pay" and "we are holding it" is the difference between hardship and the wrong in James 5.
-- The wage is a witness (observation 3). This is a distinct claim. Inference: God does not only record the wrong. The unpaid amount itself cries out.
-- Watch the building (observation 6). Inference: the test in Jeremiah is that the size of the building measures the size of the withholding. If a company expands while its payroll falls behind, expect people to make the comparison.
-- The woe attaches to the house (observation 5). Inference: the consequence is not a fine. The thing built on the wrong is under judgment.
+- The stated deadline for wages is the same day (observation 2). Reading: modern payroll runs weekly, biweekly, or monthly. Whether the exact deadline binds a modern firm is a question about the law of the covenant community. The direction of the requirement is clear. If a business can pay wages sooner and chooses not to, it must be able to say why.
+- Reading: the verse is about wages to hired workers. It does not address supplier invoices. In accounting, an unpaid supplier invoice is a trade payable, and unpaid wages are accrued payroll. Some readers extend the principle to small suppliers who depend on prompt payment the way a laborer does. That extension is an inference, not the text.
+- Deliberate retention is fraud (observation 4). Reading: the difference between "we cannot pay" and "we are holding it" is the difference between hardship and the wrong in James 5.
+- The wage is a witness (observation 3). This is a distinct claim. Reading: God does not only record the wrong. The unpaid amount itself cries out.
+- Watch the building (observation 6). Reading: the test in Jeremiah is that the size of the building measures the size of the withholding. If a company expands while its payroll falls behind, expect people to make the comparison.
+- The woe attaches to the house (observation 5). Reading: the consequence is not a fine. The thing built on the wrong is under judgment.
 
 ### The agreed wage and the eleventh-hour worker
 
@@ -903,33 +900,33 @@ Text (Matthew 20:1–16, KJV):
 
 Observations:
 
-1. Text states (two different pay arrangements): The first group has an agreed rate: "when he had agreed with the labourers for a penny a day" (v. 2). The later groups have an open term: "whatsoever is right I will give you" (v. 4) and "whatsoever is right, that shall ye receive" (v. 7).
-2. Text states: The agreement with the first group is the basis of the defense of the master: "didst not thou agree with me for a penny?" (v. 13). Inference: the agreed rate makes the payment just, whatever others receive.
-3. Text states: The complaint is comparative, not absolute: "thou hast made them equal unto us" (v. 12). The workers do not claim that they got too little. They claim that others got too much compared with them.
-4. Text states: The answer of the master has three parts:
+1. Scripture says (two different pay arrangements): The first group has an agreed rate: "when he had agreed with the labourers for a penny a day" (v. 2). The later groups have an open term: "whatsoever is right I will give you" (v. 4) and "whatsoever is right, that shall ye receive" (v. 7).
+2. Scripture says: The agreement with the first group is the basis of the defense of the master: "didst not thou agree with me for a penny?" (v. 13). Reading: the agreed rate makes the payment just, whatever others receive.
+3. Scripture says: The complaint is comparative, not absolute: "thou hast made them equal unto us" (v. 12). The workers do not claim that they got too little. They claim that others got too much compared with them.
+4. Scripture says: The answer of the master has three parts:
    - (a) He did no wrong. He kept the agreement (v. 13).
    - (b) The payment is theirs to take (v. 14).
    - (c) He has the right to dispose of his own: "Is it not lawful for me to do what I will with mine own?" (v. 15).
-5. Text states: The master names the motive of the complaint: "Is thine eye evil, because I am good?" (v. 15). Inference: he describes the complaint as envy, not as a claim of injustice.
-6. Text states: The order of payment is deliberate: "beginning from the last unto the first" (v. 8). Inference: the master arranged the payment so that the comparison came to the surface.
-7. Text states: The eleventh-hour workers were not idle by choice: "Because no man hath hired us" (v. 7). The master hired them after they answered his question, "Why stand ye here all the day idle?"
-8. Text states: The later groups receive "whatsoever is right." The term is open, and the master then defines it by paying a full day's wage.
-9. Text states (the frame): The parable opens "For the kingdom of heaven is like unto a man that is an householder" (v. 1). It answers Peter's question: "Behold, we have forsaken all, and followed thee; what shall we have therefore?" (19:27). The original audience is the disciples, and the subject is the kingdom of heaven. A business use of this text is an analogy.
+5. Scripture says: The master names the motive of the complaint: "Is thine eye evil, because I am good?" (v. 15). Reading: he describes the complaint as envy, not as a claim of injustice.
+6. Scripture says: The order of payment is deliberate: "beginning from the last unto the first" (v. 8). Reading: the master arranged the payment so that the comparison came to the surface.
+7. Scripture says: The eleventh-hour workers were not idle by choice: "Because no man hath hired us" (v. 7). The master hired them after they answered his question, "Why stand ye here all the day idle?"
+8. Scripture says: The later groups receive "whatsoever is right." The term is open, and the master then defines it by paying a full day's wage.
+9. Scripture says (the frame): The parable opens "For the kingdom of heaven is like unto a man that is an householder" (v. 1). It answers Peter's question: "Behold, we have forsaken all, and followed thee; what shall we have therefore?" (19:27). The original audience is the disciples, and the subject is the kingdom of heaven. A business use of this text is an analogy.
 
-Inference: the axioms from this passage are:
+Reading: the axioms from this passage are:
 
 - An agreed wage that is kept is just, whatever others receive (observation 2). The defense of the master is the agreement, not the market rate.
 - The comparison between workers, not the wage, causes the complaint (observations 3 and 6). That is why pay transparency is a management decision with real consequences.
-- In the parable, the householder has the right to dispose of his own (observation 4c). The householder stands for God in a parable of the kingdom (observation 9). Inference: a human owner holds his goods as a steward. He has real authority over them, but they are received: "all this store... cometh of thine hand, and is all thine own" (1 Chronicles 29:16). This is A1 (All value is derived), and it agrees with Part 4.
+- In the parable, the householder has the right to dispose of his own (observation 4c). The householder stands for God in a parable of the kingdom (observation 9). Reading: a human owner holds his goods as a steward. He has real authority over them, but they are received: "all this store... cometh of thine hand, and is all thine own" (1 Chronicles 29:16). This is A1 (All value is derived), and it agrees with Part 4.
 - Generosity to one party is not injustice to another, if the agreements are kept (observation 4a).
 
 Business consequences:
 
 - Keep the agreement (observation 2). The whole defense rests on it.
-- Decide your transparency policy on purpose (observations 3 and 6). The order of payment made the comparison certain. Inference: if you do not want the comparison, do not design the process to produce it. If you are willing to defend the difference, the agreement is your defense.
-- "Whatsoever is right" is a real contract term (observation 8). Inference: it requires the payer to have a standard for "right" that he can defend. The master had one.
-- Expect the charge of envy, and use it with care (observation 5). Inference: this is a hard saying. The text calls the complaint envy in this specific case, where the master kept the agreements. It is not a general license to dismiss complaints about pay.
-- The eleventh-hour hiring is an act of provision (observation 7). The workers were available all day. Inference: the late hiring gave them a wage that they did not have before. This connects to A13 (Provision precedes assignment) and to the care for the poor in Deuteronomy.
+- Decide your transparency policy on purpose (observations 3 and 6). The order of payment made the comparison certain. Reading: if you do not want the comparison, do not design the process to produce it. If you are willing to defend the difference, the agreement is your defense.
+- "Whatsoever is right" is a real contract term (observation 8). Reading: it requires the payer to have a standard for "right" that he can defend. The master had one.
+- Expect the charge of envy, and use it with care (observation 5). Reading: this is a hard saying. The text calls the complaint envy in this specific case, where the master kept the agreements. It is not a general license to dismiss complaints about pay.
+- The eleventh-hour hiring is an act of provision (observation 7). The workers were available all day. Reading: the late hiring gave them a wage that they did not have before. This connects to A13 (Provision precedes assignment) and to the care for the poor in Deuteronomy.
 
 ### Masters: give that which is just and equal
 
@@ -947,22 +944,22 @@ Text (Colossians 4:1, KJV):
 
 Observations:
 
-1. Text states (the symmetry): Both passages address both parties. Ephesians 6:5–8 addresses servants, and 6:9 addresses masters. Colossians 4:1 addresses masters directly.
-2. Text states: The instruction to masters uses the same imperative mode as the instruction to servants: "do the same things unto them" (Ephesians 6:9).
-3. Text states (the specific prohibition): "forbearing threatening" (Ephesians 6:9). Inference: the named failure of a master is the use of threats. It is the only behavior that the passage specifically forbids.
-4. Text states (the standard): "that which is just and equal" (Colossians 4:1). There are two criteria. Inference: "just" is what is owed, and "equal" is fairness in treatment. See `ethics.md` for the test of Micah 6:8, which has a similar two-part structure.
-5. Text states (the ground): Both passages give the same reason: "knowing that your Master also is in heaven" (Ephesians 6:9), and "knowing that ye also have a Master in heaven" (Colossians 4:1). The master is under a Master.
-6. Text states (impartiality): "neither is there respect of persons with him" (Ephesians 6:9). Inference: the Master in heaven does not favor the earthly master in a dispute.
-7. Text states (the motive of the servant is also redefined): "Not with eyeservice, as menpleasers; but as the servants of Christ" (Ephesians 6:6). Inference: the text points the work to a different audience. That removes the ability of the master to command by approval.
-8. Text states (the audience): The people addressed are slaves and their masters: "whether he be bond or free" (Ephesians 6:8). Colossians 3:22 says the same: "Servants, obey in all things your masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God". Text states: The law itself separates the bondservant from the hired servant: "thou shalt not compel him to serve as a bondservant: But as an hired servant, and as a sojourner, he shall be with thee" (Leviticus 25:39–40). The original audience is slaves and masters. A business use of this text is an analogy. Inference: an employee is closer to the hired servant than to the bondservant, so the duties transfer by analogy and with care.
+1. Scripture says (the symmetry): Both passages address both parties. Ephesians 6:5–8 addresses servants, and 6:9 addresses masters. Colossians 4:1 addresses masters directly.
+2. Scripture says: The instruction to masters uses the same imperative mode as the instruction to servants: "do the same things unto them" (Ephesians 6:9).
+3. Scripture says (the specific prohibition): "forbearing threatening" (Ephesians 6:9). Reading: the named failure of a master is the use of threats. It is the only behavior that the passage specifically forbids.
+4. Scripture says (the standard): "that which is just and equal" (Colossians 4:1). There are two criteria. Reading: "just" is what is owed, and "equal" is fairness in treatment. See `ethics.md` for the test of Micah 6:8, which has a similar two-part structure.
+5. Scripture says (the ground): Both passages give the same reason: "knowing that your Master also is in heaven" (Ephesians 6:9), and "knowing that ye also have a Master in heaven" (Colossians 4:1). The master is under a Master.
+6. Scripture says (impartiality): "neither is there respect of persons with him" (Ephesians 6:9). Reading: the Master in heaven does not favor the earthly master in a dispute.
+7. Scripture says (the motive of the servant is also redefined): "Not with eyeservice, as menpleasers; but as the servants of Christ" (Ephesians 6:6). Reading: the text points the work to a different audience. That removes the ability of the master to command by approval.
+8. Scripture says (the audience): The people addressed are slaves and their masters: "whether he be bond or free" (Ephesians 6:8). Colossians 3:22 says the same: "Servants, obey in all things your masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God". Scripture says: The law itself separates the bondservant from the hired servant: "thou shalt not compel him to serve as a bondservant: But as an hired servant, and as a sojourner, he shall be with thee" (Leviticus 25:39–40). The original audience is slaves and masters. A business use of this text is an analogy. Reading: an employee is closer to the hired servant than to the bondservant, so the duties transfer by analogy and with care.
 
 Business consequences:
 
-- "Just and equal" is a two-part standard (observation 4). Inference: "just" is the contract, and "equal" is the treatment. A company can be just and unequal. It can pay exactly what it agreed and still treat people differently.
-- Threatening is the named failure (observation 3). Inference: this is unusually specific, so take it literally. The management behavior that the text singles out for prohibition is the threat.
-- The accountability is vertical (observation 5). The text names the own Master of the manager. Inference: that is what puts the standard beyond negotiation inside the organization.
+- "Just and equal" is a two-part standard (observation 4). Reading: "just" is the contract, and "equal" is the treatment. A company can be just and unequal. It can pay exactly what it agreed and still treat people differently.
+- Threatening is the named failure (observation 3). Reading: this is unusually specific, so take it literally. The management behavior that the text singles out for prohibition is the threat.
+- The accountability is vertical (observation 5). The text names the own Master of the manager. Reading: that is what puts the standard beyond negotiation inside the organization.
 - The text states impartiality in plain words (observation 6). The Master in heaven does not take the side of the earthly master.
-- Eyeservice is a matter of the heart (observations 7 and 8). The text addresses the servant: "doing the will of God from the heart" (Ephesians 6:6), and "in singleness of heart, fearing God" (Colossians 3:22). Inference: structure can make it worse. If the manager is the only observer, the observation shapes the work. The remedy in the text is a change of audience and of heart, not more supervision.
+- Eyeservice is a matter of the heart (observations 7 and 8). The text addresses the servant: "doing the will of God from the heart" (Ephesians 6:6), and "in singleness of heart, fearing God" (Colossians 3:22). Reading: structure can make it worse. If the manager is the only observer, the observation shapes the work. The remedy in the text is a change of audience and of heart, not more supervision.
 
 ---
 
@@ -978,19 +975,19 @@ Text (Proverbs 6:6–8, KJV):
 
 Observations:
 
-1. Text states: Three levels of supervision are absent: "no guide, overseer, or ruler" (v. 7). Inference: the three terms rise in authority. A guide is a leader, an overseer is a supervisor, and a ruler is an executive.
-2. Text states: The activity of the ant is seasonal: "Provideth her meat in the summer, and gathereth her food in the harvest" (v. 8). Inference: the initiative serves a future need, and it is timed to the window in which the work is possible.
-3. Text states: The instruction is to study the ant: "Go to the ant... consider her ways, and be wise." Inference: the text presents the ant as a model to observe, not only to cite.
-4. Text states: The verse addresses the "sluggard," and the first remedy is to observe the ant. Text states (vv. 9–11): The next verses name the fault as sleep and idleness: "How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?" (v. 9), and "So shall thy poverty come as one that travelleth, and thy want as an armed man" (v. 11). Inference: the failure in view is laziness. The ant shows the opposite: work that goes on with no guide, overseer, or ruler to push it.
+1. Scripture says: Three levels of supervision are absent: "no guide, overseer, or ruler" (v. 7). Reading: the three terms rise in authority. A guide is a leader, an overseer is a supervisor, and a ruler is an executive.
+2. Scripture says: The activity of the ant is seasonal: "Provideth her meat in the summer, and gathereth her food in the harvest" (v. 8). Reading: the initiative serves a future need, and it is timed to the window in which the work is possible.
+3. Scripture says: The instruction is to study the ant: "Go to the ant... consider her ways, and be wise." Reading: the text presents the ant as a model to observe, not only to cite.
+4. Scripture says: The verse addresses the "sluggard," and the first remedy is to observe the ant. Scripture says (vv. 9–11): The next verses name the fault as sleep and idleness: "How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?" (v. 9), and "So shall thy poverty come as one that travelleth, and thy want as an armed man" (v. 11). Reading: the failure in view is laziness. The ant shows the opposite: work that goes on with no guide, overseer, or ruler to push it.
 
-Inference: the axiom from this passage is that the desired state is productive activity that needs no supervision. The text does not call the ant hardworking in the abstract. It describes the ant as unsupervised and effective.
+Reading: the axiom from this passage is that the desired state is productive activity that needs no supervision. The text does not call the ant hardworking in the abstract. It describes the ant as unsupervised and effective.
 
 Business consequences:
 
-- Design for the absence of the guide, the overseer, and the ruler (observation 1). Inference: a role that only works under supervision is not a role. It is an extension of the supervisor.
-- Time the work to the window (observation 2). The activity of the ant is seasonal, and the season is the harvest. Inference: this is A8 (Time is a created instrument) applied to individual initiative.
+- Design for the absence of the guide, the overseer, and the ruler (observation 1). Reading: a role that only works under supervision is not a role. It is an extension of the supervisor.
+- Time the work to the window (observation 2). The activity of the ant is seasonal, and the season is the harvest. Reading: this is A8 (Time is a created instrument) applied to individual initiative.
 - Autonomy and effectiveness go together (observation 4). The ant is the model for both.
-- Inference: the absence of supervision is the test. An organization that measures its people by observed activity will not produce ants.
+- Reading: the absence of supervision is the test. An organization that measures its people by observed activity will not produce ants.
 
 ### Diligence in business (Proverbs 22:29)
 
@@ -1000,17 +997,17 @@ Text (Proverbs 22:29, KJV):
 
 Observations:
 
-1. Text states: The subject is "a man diligent in his business." Inference: the diligence is in his own business, the thing that he is responsible for. It is not diligence in general.
-2. Text states: The reward is access: "he shall stand before kings; he shall not stand before mean men." Inference: the reward for diligence is a change in whom you deal with, not in what you own.
-3. Text states: The contrast is between kings and "mean men," that is, ordinary or obscure people. Inference: the movement is from the general to the specific, from a broad market to a narrower and higher one.
-4. Text states: The form is an observation: "Seest thou a man diligent in his business?" Inference: the proverb presents this as something that people can observe, not as a promise to a specific person.
+1. Scripture says: The subject is "a man diligent in his business." Reading: the diligence is in his own business, the thing that he is responsible for. It is not diligence in general.
+2. Scripture says: The reward is access: "he shall stand before kings; he shall not stand before mean men." Reading: the reward for diligence is a change in whom you deal with, not in what you own.
+3. Scripture says: The contrast is between kings and "mean men," that is, ordinary or obscure people. Reading: the movement is from the general to the specific, from a broad market to a narrower and higher one.
+4. Scripture says: The form is an observation: "Seest thou a man diligent in his business?" Reading: the proverb presents this as something that people can observe, not as a promise to a specific person.
 
 Business consequences:
 
-- Diligence is a route to better counterparties, not only to more output (observation 2). Inference: this changes what diligence is for.
-- "His business" is the object (observation 1). Inference: diligence about the business of other people is busyness.
-- The reward compounds through access (observation 3). Inference: better counterparties bring better opportunities, and these bring better counterparties. This is A11 (Multiplication is commanded, and it reproduces after its kind) in the area of reputation.
-- The proverb describes something observable, so it can serve as a hiring signal (observation 4). Inference: a track record of diligence in a prior responsibility is visible.
+- Diligence is a route to better counterparties, not only to more output (observation 2). Reading: this changes what diligence is for.
+- "His business" is the object (observation 1). Reading: diligence about the business of other people is busyness.
+- The reward compounds through access (observation 3). Reading: better counterparties bring better opportunities, and these bring better counterparties. This is A11 (Multiplication is commanded, and it reproduces after its kind) in the area of reputation.
+- The proverb describes something observable, so it can serve as a hiring signal (observation 4). Reading: a track record of diligence in a prior responsibility is visible.
 
 ### If any would not work, neither should he eat
 
@@ -1022,18 +1019,18 @@ Text (2 Thessalonians 3:10–12, KJV):
 
 Observations:
 
-1. Text states: The condition concerns the will: "if any would not work." It does not say "cannot work." Inference: the rule addresses refusal, not incapacity.
-2. Text states: The named problem is not idleness as such but disorderly behavior: "there are some which walk among you disorderly, working not at all, but are busybodies" (v. 11). Inference: the two clauses connect. Not working frees the person to meddle.
-3. Text states: The remedy is a positive instruction: "that with quietness they work, and eat their own bread" (v. 12). It has three elements: quietness, work, and eating their own bread.
-4. Text states: Paul gives the instruction with authority: "we command and exhort by our Lord Jesus Christ."
-5. Text states (context): Paul cites his own example in 2 Thessalonians 3:8: "Neither did we eat any man's bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you." Inference: the rule rests on the own practice of the teacher.
+1. Scripture says: The condition concerns the will: "if any would not work." It does not say "cannot work." Reading: the rule addresses refusal, not incapacity.
+2. Scripture says: The named problem is not idleness as such but disorderly behavior: "there are some which walk among you disorderly, working not at all, but are busybodies" (v. 11). Reading: the two clauses connect. Not working frees the person to meddle.
+3. Scripture says: The remedy is a positive instruction: "that with quietness they work, and eat their own bread" (v. 12). It has three elements: quietness, work, and eating their own bread.
+4. Scripture says: Paul gives the instruction with authority: "we command and exhort by our Lord Jesus Christ."
+5. Scripture says (context): Paul cites his own example in 2 Thessalonians 3:8: "Neither did we eat any man's bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you." Reading: the rule rests on the own practice of the teacher.
 
 Business consequences:
 
-- The rule is about refusal, not incapacity (observation 1). Inference: a policy that reads it as a statement about disabled people misreads the condition clause.
-- The failure is meddling, not only idleness (observation 2). "Busybodies" is the stated symptom. Inference: it is a real problem in organizations. People with no assigned work create problems elsewhere.
-- The remedy is "their own bread" (observation 3). Inference: the goal is not punishment. The goal is a return to self-sufficiency.
-- The rule rests on the own practice of the leader (observation 5). Inference: Paul had the standing to say it because he did it.
+- The rule is about refusal, not incapacity (observation 1). Reading: a policy that reads it as a statement about disabled people misreads the condition clause.
+- The failure is meddling, not only idleness (observation 2). "Busybodies" is the stated symptom. Reading: it is a real problem in organizations. People with no assigned work create problems elsewhere.
+- The remedy is "their own bread" (observation 3). Reading: the goal is not punishment. The goal is a return to self-sufficiency.
+- The rule rests on the own practice of the leader (observation 5). Reading: Paul had the standing to say it because he did it.
 
 ### Study to be quiet and do your own business
 
@@ -1044,15 +1041,15 @@ Text (1 Thessalonians 4:11–12, KJV):
 
 Observations:
 
-1. Text states: "Study to be quiet." Quietness is the object of study, that is, something to cultivate on purpose. Inference: quietness is a skill, not a temperament.
-2. Text states: "Do your own business." Ownership defines the scope of the work.
-3. Text states: "Work with your own hands." The work is manual and direct.
-4. Text states: The purpose has two parts: "that ye may walk honestly toward them that are without" (external reputation), "and that ye may have lack of nothing" (self-sufficiency).
-5. Text states: The instruction repeats prior teaching: "as we commanded you."
+1. Scripture says: "Study to be quiet." Quietness is the object of study, that is, something to cultivate on purpose. Reading: quietness is a skill, not a temperament.
+2. Scripture says: "Do your own business." Ownership defines the scope of the work.
+3. Scripture says: "Work with your own hands." The work is manual and direct.
+4. Scripture says: The purpose has two parts: "that ye may walk honestly toward them that are without" (external reputation), "and that ye may have lack of nothing" (self-sufficiency).
+5. Scripture says: The instruction repeats prior teaching: "as we commanded you."
 
 Business consequences:
 
-- Quietness is cultivated, not innate (observation 1). Inference: people can learn it, and you can select for it.
+- Quietness is cultivated, not innate (observation 1). Reading: people can learn it, and you can select for it.
 - "Your own business" is an instruction about scope (observation 2). It is the counterpart to the busybody of 2 Thessalonians 3:11.
 - The two purposes are external credibility and internal sufficiency (observation 4). The text names both, and the first is reputation.
 
@@ -1071,19 +1068,19 @@ Text (Mark 10:42–45, KJV):
 
 Observations:
 
-1. Text states: The text describes the pagan model with two verbs: "exercise lordship over them" and "exercise authority upon them" (v. 42). Inference: both verbs describe authority aimed at people, not authority used for them.
-2. Text states: The prohibition is explicit: "But so shall it not be among you" (v. 43). Inference: this is a command, not a suggestion.
-3. Text states: The replacement is a condition of greatness: "whosoever will be great among you, shall be your minister" (v. 43), and "whosoever of you will be the chiefest, shall be servant of all" (v. 44). Inference: the text does not condemn the desire for greatness. It redefines the route to it.
-4. Text states: The terms rise in two steps: "great" goes with "minister," and "chiefest" goes with "servant of all." Inference: the higher the ambition, the lower the service.
-5. Text states: The ground is the own pattern of Christ: "For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many" (v. 45).
-6. Text states: Jesus addresses the twelve after a specific dispute about position (Mark 10:35–41, the request of James and John and the indignation of the ten). Inference: the teaching responds to a real conflict over rank.
+1. Scripture says: The text describes the pagan model with two verbs: "exercise lordship over them" and "exercise authority upon them" (v. 42). Reading: both verbs describe authority aimed at people, not authority used for them.
+2. Scripture says: The prohibition is explicit: "But so shall it not be among you" (v. 43). Reading: this is a command, not a suggestion.
+3. Scripture says: The replacement is a condition of greatness: "whosoever will be great among you, shall be your minister" (v. 43), and "whosoever of you will be the chiefest, shall be servant of all" (v. 44). Reading: the text does not condemn the desire for greatness. It redefines the route to it.
+4. Scripture says: The terms rise in two steps: "great" goes with "minister," and "chiefest" goes with "servant of all." Reading: the higher the ambition, the lower the service.
+5. Scripture says: The ground is the own pattern of Christ: "For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many" (v. 45).
+6. Scripture says: Jesus addresses the twelve after a specific dispute about position (Mark 10:35–41, the request of James and John and the indignation of the ten). Reading: the teaching responds to a real conflict over rank.
 
 Business consequences:
 
-- The prohibition concerns the direction of authority, not its existence (observation 1). Inference: the problem is lordship that dominates people instead of authority used for them. Scripture still places rulers over people: "place such over them" (Exodus 18:21), and "Obey them that have the rule over you" (Hebrews 13:17).
-- Ambition is redirected, not forbidden (observation 3). Inference: the text assumes that people will want to be great, and it specifies the route.
-- The route goes against intuition, and the text states it in degrees (observation 4). Inference: the higher the position, the greater the service. The org chart and the chart of service run in opposite directions.
-- The pattern rests on the own example of the leader (observation 5). Inference: this makes it enforceable, because the standard is not an abstraction.
+- The prohibition concerns the direction of authority, not its existence (observation 1). Reading: the problem is lordship that dominates people instead of authority used for them. Scripture still places rulers over people: "place such over them" (Exodus 18:21), and "Obey them that have the rule over you" (Hebrews 13:17).
+- Ambition is redirected, not forbidden (observation 3). Reading: the text assumes that people will want to be great, and it specifies the route.
+- The route goes against intuition, and the text states it in degrees (observation 4). Reading: the higher the position, the greater the service. The org chart and the chart of service run in opposite directions.
+- The pattern rests on the own example of the leader (observation 5). Reading: this makes it enforceable, because the standard is not an abstraction.
 - Expect the dispute (observation 6). The teaching came out of a status conflict in the leadership team. This is A29 (Authority gets contested).
 
 ### 1 Peter 5:1–4: not for filthy lucre, not as lords
@@ -1097,22 +1094,22 @@ Text (1 Peter 5:1–4, KJV):
 
 Observations:
 
-1. Text states: The text names the primary task first: "Feed the flock of God which is among you" (v. 2). Text states: The same verse adds "taking the oversight thereof." Lexical: "Feed" here is generally identified with G4165 ποιμαίνω (_poimaino_): "to tend as a shepherd of (figuratively, superviser)." KJV: "feed (cattle), rule." The supplied lexicon has no verse tagging, so this identification comes from a standard concordance. Inference: the job of the shepherd is provision and oversight together. Feeding comes first, and the oversight serves it.
-2. Text states: There are three pairs of contrasts. Each pair names a wrong motive and a right one:
+1. Scripture says: The text names the primary task first: "Feed the flock of God which is among you" (v. 2). Scripture says: The same verse adds "taking the oversight thereof." Word meaning: "Feed" here is generally identified with G4165 ποιμαίνω (_poimaino_): "to tend as a shepherd of (figuratively, superviser)." KJV: "feed (cattle), rule." The supplied lexicon has no verse tagging, so this identification comes from a standard concordance. Reading: the job of the shepherd is provision and oversight together. Feeding comes first, and the oversight serves it.
+2. Scripture says: There are three pairs of contrasts. Each pair names a wrong motive and a right one:
    - "not by constraint, but willingly": compulsion against willingness.
-   - "not for filthy lucre, but of a ready mind": greed against eagerness. Lexical: "for filthy lucre" is generally identified with G147 αἰσχροκερδῶς (_aischrokerdos_): "sordidly." KJV: "for filthy lucre's sake."
+   - "not for filthy lucre, but of a ready mind": greed against eagerness. Word meaning: "for filthy lucre" is generally identified with G147 αἰσχροκερδῶς (_aischrokerdos_): "sordidly." KJV: "for filthy lucre's sake."
    - "Neither as being lords over God's heritage, but being ensamples": domination against example.
-3. Text states: The third contrast gives the alternative mechanism: "being ensamples." Inference: the leader influences people by example, not by command.
-4. Text states: The reward comes later: "And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away" (v. 4). Inference: the immediate reward is not the point. The text excludes sordid gain by name. It does not forbid pay: "Let the elders that rule well be counted worthy of double honour, especially they who labour in the word and doctrine" (1 Timothy 5:17), and the next verse says "The labourer is worthy of his reward" (5:18).
-5. Text states: Peter states his standing first: "who am also an elder, and a witness of the sufferings of Christ" (v. 1). Inference: he speaks as a peer and as a witness, not from above.
-6. Text states (the audience): "The elders which are among you I exhort" (v. 1). The flock is "the flock of God" (v. 2). The original audience is the elders of the church. A business use of this text is an analogy.
+3. Scripture says: The third contrast gives the alternative mechanism: "being ensamples." Reading: the leader influences people by example, not by command.
+4. Scripture says: The reward comes later: "And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away" (v. 4). Reading: the immediate reward is not the point. The text excludes sordid gain by name. It does not forbid pay: "Let the elders that rule well be counted worthy of double honour, especially they who labour in the word and doctrine" (1 Timothy 5:17), and the next verse says "The labourer is worthy of his reward" (5:18).
+5. Scripture says: Peter states his standing first: "who am also an elder, and a witness of the sufferings of Christ" (v. 1). Reading: he speaks as a peer and as a witness, not from above.
+6. Scripture says (the audience): "The elders which are among you I exhort" (v. 1). The flock is "the flock of God" (v. 2). The original audience is the elders of the church. A business use of this text is an analogy.
 
 Business consequences:
 
-- "Being ensamples" is the mechanism, and it is specific (observation 3). Inference: an example is something that people can see and copy. So the actual behavior of the leader is the primary instrument of management. It ranks above the policy and the memo.
+- "Being ensamples" is the mechanism, and it is specific (observation 3). Reading: an example is something that people can see and copy. So the actual behavior of the leader is the primary instrument of management. It ranks above the policy and the memo.
 - The text names sordid gain and excludes it for elders (observation 2). It is a prohibition on a specific motive for a specific role, not a prohibition on pay (1 Timothy 5:17–18).
-- Feeding is the first part of the job description (observation 1). Inference: the oversight serves the feeding. The job is not commanding for its own sake. It is feeding, with oversight.
-- The later reward makes the exclusions bearable (observation 4). Inference: a leader who expects an immediate reward for the exclusions will not keep them.
+- Feeding is the first part of the job description (observation 1). Reading: the oversight serves the feeding. The job is not commanding for its own sake. It is feeding, with oversight.
+- The later reward makes the exclusions bearable (observation 4). Reading: a leader who expects an immediate reward for the exclusions will not keep them.
 
 ### John 13:1–17: the footwashing
 
@@ -1133,22 +1130,22 @@ Text (John 13:1, 3–7, 12–17, KJV, selected verses):
 
 Observations:
 
-1. Text states (the sequence in verse 3): A statement of security comes before the act: "Jesus knowing that the Father had given all things into his hands, and that he was come from God, and went to God." Inference: the footwashing follows the knowledge of full authority. Jesus serves from a position of security, not in spite of one.
-2. Text states (the physical detail): Verse 4 has four verbs: "riseth from supper," "laid aside his garments," "took a towel," and "girded himself." Then he pours water and washes (v. 5). Inference: the text describes the act in detail. It is a physical, menial, unhurried act.
-3. Text states: Jesus does not explain the act at the time: "What I do thou knowest not now; but thou shalt know hereafter" (v. 7). Inference: the service comes before the explanation. The explanation is not a condition of the service.
-4. Text states: Jesus keeps his identity claim. He does not drop it: "Ye call me Master and Lord: and ye say well; for so I am" (v. 13). Inference: the footwashing does not abolish the hierarchy. The Lord washes feet and remains the Lord.
-5. Text states: Jesus draws the obligation directly: "If I then, your Lord and Master, have washed your feet; ye also ought to wash one another's feet" (v. 14). "Ought" states an obligation, not an option.
-6. Text states: The example is the mechanism: "For I have given you an example, that ye should do as I have done to you" (v. 15). Lexical: "example" here is generally identified with G5262 ὑπόδειγμα (_hypodeigma_): "an exhibit for imitation or warning (figuratively, specimen, adumbration)". The "ensamples" of 1 Peter 5:3 is generally identified with G5179 τύπος (_typos_), whose definition includes "a model (for imitation) or instance (for warning)". The supplied lexicon has no verse tagging, so these identifications come from a standard concordance. Inference: the two verses express a related idea with two different words.
-7. Text states: The saying about the servant follows: "The servant is not greater than his lord; neither he that is sent greater than he that sent him" (v. 16).
-8. Text states: The conclusion depends on practice: "If ye know these things, happy are ye if ye do them" (v. 17). Inference: knowing is not the point.
+1. Scripture says (the sequence in verse 3): A statement of security comes before the act: "Jesus knowing that the Father had given all things into his hands, and that he was come from God, and went to God." Reading: the footwashing follows the knowledge of full authority. Jesus serves from a position of security, not in spite of one.
+2. Scripture says (the physical detail): Verse 4 has four verbs: "riseth from supper," "laid aside his garments," "took a towel," and "girded himself." Then he pours water and washes (v. 5). Reading: the text describes the act in detail. It is a physical, menial, unhurried act.
+3. Scripture says: Jesus does not explain the act at the time: "What I do thou knowest not now; but thou shalt know hereafter" (v. 7). Reading: the service comes before the explanation. The explanation is not a condition of the service.
+4. Scripture says: Jesus keeps his identity claim. He does not drop it: "Ye call me Master and Lord: and ye say well; for so I am" (v. 13). Reading: the footwashing does not abolish the hierarchy. The Lord washes feet and remains the Lord.
+5. Scripture says: Jesus draws the obligation directly: "If I then, your Lord and Master, have washed your feet; ye also ought to wash one another's feet" (v. 14). "Ought" states an obligation, not an option.
+6. Scripture says: The example is the mechanism: "For I have given you an example, that ye should do as I have done to you" (v. 15). Word meaning: "example" here is generally identified with G5262 ὑπόδειγμα (_hypodeigma_): "an exhibit for imitation or warning (figuratively, specimen, adumbration)". The "ensamples" of 1 Peter 5:3 is generally identified with G5179 τύπος (_typos_), whose definition includes "a model (for imitation) or instance (for warning)". The supplied lexicon has no verse tagging, so these identifications come from a standard concordance. Reading: the two verses express a related idea with two different words.
+7. Scripture says: The saying about the servant follows: "The servant is not greater than his lord; neither he that is sent greater than he that sent him" (v. 16).
+8. Scripture says: The conclusion depends on practice: "If ye know these things, happy are ye if ye do them" (v. 17). Reading: knowing is not the point.
 
 Business consequences:
 
-- Serve from security, not toward it (observation 1). The footwashing came after the knowledge that the Father "had given all things into his hands". Inference: a leader who serves to secure a position does something different from a leader who serves from a secure position.
-- The hierarchy is not abolished (observation 4). Inference: this blocks the misreading in which "servant leadership" means no authority. The text says Master and Lord, and also footwasher.
-- The act comes before the explanation (observation 3). Inference: a leader who explains before serving turns the service into a message.
+- Serve from security, not toward it (observation 1). The footwashing came after the knowledge that the Father "had given all things into his hands". Reading: a leader who serves to secure a position does something different from a leader who serves from a secure position.
+- The hierarchy is not abolished (observation 4). Reading: this blocks the misreading in which "servant leadership" means no authority. The text says Master and Lord, and also footwasher.
+- The act comes before the explanation (observation 3). Reading: a leader who explains before serving turns the service into a message.
 - The text states the obligation as "ought" (observation 5). It is not presented as an option.
-- The example is the mechanism (observations 6 and 7). Inference: 1 Peter 5:3 makes a related point with a different word.
+- The example is the mechanism (observations 6 and 7). Reading: 1 Peter 5:3 makes a related point with a different word.
 - Knowing is not doing (observation 8). The conclusion depends on the doing.
 
 ---
@@ -1176,29 +1173,29 @@ Text (1 Corinthians 12:4–7, 12, 14–15, 17–18, 21–27, KJV, selected verse
 > 26 And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it.
 > 27 Now ye are the body of Christ, and members in particular.
 
-Text states (the audience): "Now ye are the body of Christ, and members in particular" (v. 27). The gifts are gifts of the Spirit: "the manifestation of the Spirit is given to every man to profit withal" (v. 7). Romans 12 has the same frame: "So we, being many, are one body in Christ" (12:5). The original audience is the church. A business use of these texts is an analogy.
+Scripture says (the audience): "Now ye are the body of Christ, and members in particular" (v. 27). The gifts are gifts of the Spirit: "the manifestation of the Spirit is given to every man to profit withal" (v. 7). Romans 12 has the same frame: "So we, being many, are one body in Christ" (12:5). The original audience is the church. A business use of these texts is an analogy.
 
 Observations:
 
-1. Text states (three diversities, three unities): Gifts and Spirit, administrations and Lord, operations and God (vv. 4–6). Inference: the differences are as structured as the unity. The text states both as facts.
-2. Text states: The purpose is given: "the manifestation of the Spirit is given to every man to profit withal" (v. 7). Inference: the gifts are for the benefit of the body, not of the individual.
-3. Text states: The text presents the argument for self-exclusion and rejects it: "If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?" (v. 15). Inference: the judgment of a member about its own belonging does not decide the question.
-4. Text states: The single-member case shows the absurdity: "If the whole body were an eye, where were the hearing?" (v. 17). Inference: a uniform organization cannot perform the functions that it excluded.
-5. Text states: Placement is assigned, not chosen: "But now hath God set the members every one of them in the body, as it hath pleased him" (v. 18). Inference: the structure is designed, not emergent.
-6. Text states: The rule of mutual need runs both ways. The eye cannot dismiss the hand, and the head cannot dismiss the feet (v. 21).
-7. Text states (the rule of honor): "those members of the body, which seem to be more feeble, are necessary" (v. 22), and "those members of the body, which we think to be less honourable, upon these we bestow more abundant honour" (v. 23).
-8. Text states: The purpose of the unequal honor is given: "That there should be no schism in the body; but that the members should have the same care one for another" (v. 25). Inference: the difference in honor compensates, and it exists to prevent division.
-9. Text states: The rule of shared feeling: "whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it" (v. 26).
+1. Scripture says (three diversities, three unities): Gifts and Spirit, administrations and Lord, operations and God (vv. 4–6). Reading: the differences are as structured as the unity. The text states both as facts.
+2. Scripture says: The purpose is given: "the manifestation of the Spirit is given to every man to profit withal" (v. 7). Reading: the gifts are for the benefit of the body, not of the individual.
+3. Scripture says: The text presents the argument for self-exclusion and rejects it: "If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?" (v. 15). Reading: the judgment of a member about its own belonging does not decide the question.
+4. Scripture says: The single-member case shows the absurdity: "If the whole body were an eye, where were the hearing?" (v. 17). Reading: a uniform organization cannot perform the functions that it excluded.
+5. Scripture says: Placement is assigned, not chosen: "But now hath God set the members every one of them in the body, as it hath pleased him" (v. 18). Reading: the structure is designed, not emergent.
+6. Scripture says: The rule of mutual need runs both ways. The eye cannot dismiss the hand, and the head cannot dismiss the feet (v. 21).
+7. Scripture says (the rule of honor): "those members of the body, which seem to be more feeble, are necessary" (v. 22), and "those members of the body, which we think to be less honourable, upon these we bestow more abundant honour" (v. 23).
+8. Scripture says: The purpose of the unequal honor is given: "That there should be no schism in the body; but that the members should have the same care one for another" (v. 25). Reading: the difference in honor compensates, and it exists to prevent division.
+9. Scripture says: The rule of shared feeling: "whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it" (v. 26).
 
-Inference, by analogy: the axiom from this passage is that the weaker and less visible parts of an organization need more deliberate recognition, not less. The purpose of the extra recognition is to keep the organization from splitting.
+Reading, by analogy: the axiom from this passage is that the weaker and less visible parts of an organization need more deliberate recognition, not less. The purpose of the extra recognition is to keep the organization from splitting.
 
 Business consequences:
 
-- The "less honourable" members get more honor by design (observation 7). Inference: this rule of allocation goes against intuition. Weight recognition inversely to visibility.
+- The "less honourable" members get more honor by design (observation 7). Reading: this rule of allocation goes against intuition. Weight recognition inversely to visibility.
 - The purpose is structural cohesion, not kindness (observation 8). The reason for the extra honor is "that there should be no schism".
-- Uniformity is a failure of function, not only of culture (observation 4). Inference: a team of identical people cannot do the things that the absent types do.
+- Uniformity is a failure of function, not only of culture (observation 4). Reading: a team of identical people cannot do the things that the absent types do.
 - Members do not assess their own membership (observation 3). The opinion of the foot about its own membership is wrong, and the text says so.
-- Placement is designed (observation 5). The text credits God with it: "But now hath God set the members every one of them in the body, as it hath pleased him" (v. 18). Inference, by analogy: org design is an act of placement, not a market outcome. A manager who places people does not do what God does in the church, and he can be wrong.
+- Placement is designed (observation 5). The text credits God with it: "But now hath God set the members every one of them in the body, as it hath pleased him" (v. 18). Reading, by analogy: org design is an act of placement, not a market outcome. A manager who places people does not do what God does in the church, and he can be wrong.
 - Shared feeling runs in both directions (observation 9). Members share suffering and honor.
 
 ### Romans 12:3–8: the measure of faith, and the list of functions
@@ -1214,10 +1211,10 @@ Text (Romans 12:3–8, KJV):
 
 Observations:
 
-1. Text states: The verse commands sober self-assessment: "not to think of himself more highly than he ought to think; but to think soberly" (v. 3). Inference: the standard is accuracy. The verse warns against overestimation. The same chapter adds "Mind not high things, but condescend to men of low estate. Be not wise in your own conceits" (12:16), and Philippians 2:3 says "in lowliness of mind let each esteem other better than themselves." So accuracy and humility go together.
-2. Text states: The measure is given: "according as God hath dealt to every man the measure of faith" (v. 3). Inference: the assessment is relative to what was given. This is A1 (All value is derived), and it connects to the unequal allocation in Matthew 25.
-3. Text states: "all members have not the same office" (v. 4). The text states the difference as a fact, not a problem.
-4. Text states: The list of functions (vv. 6–8) pairs each gift with a manner:
+1. Scripture says: The verse commands sober self-assessment: "not to think of himself more highly than he ought to think; but to think soberly" (v. 3). Reading: the standard is accuracy. The verse warns against overestimation. The same chapter adds "Mind not high things, but condescend to men of low estate. Be not wise in your own conceits" (12:16), and Philippians 2:3 says "in lowliness of mind let each esteem other better than themselves." So accuracy and humility go together.
+2. Scripture says: The measure is given: "according as God hath dealt to every man the measure of faith" (v. 3). Reading: the assessment is relative to what was given. This is A1 (All value is derived), and it connects to the unequal allocation in Matthew 25.
+3. Scripture says: "all members have not the same office" (v. 4). The text states the difference as a fact, not a problem.
+4. Scripture says: The list of functions (vv. 6–8) pairs each gift with a manner:
    - prophecy: "according to the proportion of faith"
    - ministry: "let us wait on our ministering"
    - teaching: "on teaching"
@@ -1225,15 +1222,15 @@ Observations:
    - giving: "with simplicity"
    - ruling: "with diligence"
    - mercy: "with cheerfulness"
-5. Text states: The manner for ruling is diligence. Inference: here the failure of the ruler is neglect, not harshness as in Mark 10.
-6. Text states: The manner for giving is simplicity. Inference: giving without complexity, that is, without a hidden agenda.
-7. Text states: The list mixes public functions (prophecy, teaching, exhortation, ruling) with hidden functions (ministry, giving, mercy). It gives them all the same grammatical weight.
+5. Scripture says: The manner for ruling is diligence. Reading: here the failure of the ruler is neglect, not harshness as in Mark 10.
+6. Scripture says: The manner for giving is simplicity. Reading: giving without complexity, that is, without a hidden agenda.
+7. Scripture says: The list mixes public functions (prophecy, teaching, exhortation, ruling) with hidden functions (ministry, giving, mercy). It gives them all the same grammatical weight.
 
 Business consequences:
 
-- Sober self-assessment means accuracy with humility, not a show of humility (observation 1). Inference: false modesty that hides a real gift is also inaccurate. But the warning in the text is against thinking too highly of yourself.
-- The measure is what was given (observation 2). Inference: a manager must assess his own performance against the resources allocated. That is the logic of Matthew 25.
-- Each function has its own failure, and the text names the manner that fits it (observation 4). Inference: this is the most practical point in the passage. It pairs a function with the quality that makes it work.
+- Sober self-assessment means accuracy with humility, not a show of humility (observation 1). Reading: false modesty that hides a real gift is also inaccurate. But the warning in the text is against thinking too highly of yourself.
+- The measure is what was given (observation 2). Reading: a manager must assess his own performance against the resources allocated. That is the logic of Matthew 25.
+- Each function has its own failure, and the text names the manner that fits it (observation 4). Reading: this is the most practical point in the passage. It pairs a function with the quality that makes it work.
 - The named quality of the ruler is diligence (observation 5). It is not vision, and it is not charisma.
 - The list is flat (observation 7). It ranks no function.
 
@@ -1241,21 +1238,21 @@ Business consequences:
 
 This point gets its own section, because it is the sharpest claim of the passage about organization.
 
-Text states: "Nay, much more those members of the body, which seem to be more feeble, are necessary" (1 Corinthians 12:22).
+Scripture says: "Nay, much more those members of the body, which seem to be more feeble, are necessary" (1 Corinthians 12:22).
 
 Observations:
 
-1. Text states: The claim is comparative: "much more... are necessary." Inference: the text does not only include the weaker members. It calls them more necessary.
-2. Text states: The qualifier is "which seem to be more feeble." Inference: the judgment of feebleness belongs to the observer, and the text marks it as appearance.
-3. Text states: The rule of honor that follows compensates: "upon these we bestow more abundant honour" (v. 23).
-4. Text states: The reason is given: "For our comely parts have no need" (v. 24). Inference: the visible parts do not need the extra honor, because they already receive it.
+1. Scripture says: The claim is comparative: "much more... are necessary." Reading: the text does not only include the weaker members. It calls them more necessary.
+2. Scripture says: The qualifier is "which seem to be more feeble." Reading: the judgment of feebleness belongs to the observer, and the text marks it as appearance.
+3. Scripture says: The rule of honor that follows compensates: "upon these we bestow more abundant honour" (v. 23).
+4. Scripture says: The reason is given: "For our comely parts have no need" (v. 24). Reading: the visible parts do not need the extra honor, because they already receive it.
 
 Business consequences:
 
-- The apparent weakness is a judgment, not a fact (observation 2). Inference: the qualifier "seem" matters. The judgment of the observer about which parts are weak is unreliable.
+- The apparent weakness is a judgment, not a fact (observation 2). Reading: the qualifier "seem" matters. The judgment of the observer about which parts are weak is unreliable.
 - In this passage, necessity and visibility are inversely related (observation 1). The parts that look least essential are the most necessary.
-- Make the allocation of honor compensate by design (observation 3). Inference: not equal honor to all, but more honor to the parts that receive less by default.
-- The mechanism is the prevention of schism (verse 25). Inference: the purpose of the compensation is cohesion. So the policy on honor is a management instrument with a measurable objective.
+- Make the allocation of honor compensate by design (observation 3). Reading: not equal honor to all, but more honor to the parts that receive less by default.
+- The mechanism is the prevention of schism (verse 25). Reading: the purpose of the compensation is cohesion. So the policy on honor is a management instrument with a measurable objective.
 
 ---
 
@@ -1270,22 +1267,22 @@ Text (Numbers 11:16–17, KJV):
 
 Observations:
 
-1. Text states: The criterion for selection is prior knowledge: "whom thou knowest to be the elders of the people, and officers over them" (v. 16). Inference: the candidates are already known as leaders. The selection is not a search.
-2. Text states: The number is specific: seventy.
-3. Text states: The mechanism is a transfer of the same spirit: "I will take of the spirit which is upon thee, and will put it upon them" (v. 17). Inference: the capability is distributed, not only the workload. The new leaders receive what the existing leader has.
-4. Text states: The purpose clause uses the language of Exodus 18:18: "that thou bear it not thyself alone." The phrase "thyself alone" appears here and in Exodus 18:18. Genesis 2:18 has the word "alone" without "thyself."
-5. Text states: Moses brings the elders to a specific place: "bring them unto the tabernacle of the congregation, that they may stand there with thee" (v. 16). Inference: the appointment includes public standing with the leader, not only a task.
-6. Text states (the occasion): In Numbers 11:14, Moses states the problem himself: "I am not able to bear all this people alone, because it is too heavy for me." Inference: Moses states the same diagnosis that Jethro gave.
+1. Scripture says: The criterion for selection is prior knowledge: "whom thou knowest to be the elders of the people, and officers over them" (v. 16). Reading: the candidates are already known as leaders. The selection is not a search.
+2. Scripture says: The number is specific: seventy.
+3. Scripture says: The mechanism is a transfer of the same spirit: "I will take of the spirit which is upon thee, and will put it upon them" (v. 17). Reading: the capability is distributed, not only the workload. The new leaders receive what the existing leader has.
+4. Scripture says: The purpose clause uses the language of Exodus 18:18: "that thou bear it not thyself alone." The phrase "thyself alone" appears here and in Exodus 18:18. Genesis 2:18 has the word "alone" without "thyself."
+5. Scripture says: Moses brings the elders to a specific place: "bring them unto the tabernacle of the congregation, that they may stand there with thee" (v. 16). Reading: the appointment includes public standing with the leader, not only a task.
+6. Scripture says (the occasion): In Numbers 11:14, Moses states the problem himself: "I am not able to bear all this people alone, because it is too heavy for me." Reading: Moses states the same diagnosis that Jethro gave.
 
-Inference: the axiom from this passage is that one person must not bear the load alone. The remedy is distributed capacity, not only delegated tasks. The spirit transfers, not only the work.
+Reading: the axiom from this passage is that one person must not bear the load alone. The remedy is distributed capacity, not only delegated tasks. The spirit transfers, not only the work.
 
 Business consequences:
 
-- Distribute the capability, not only the tasks (observation 3). Inference: a leader who delegates work without the capacity to do it creates a bottleneck with extra steps.
-- The purpose clause repeats in three places (observation 4). Genesis 2:18, Exodus 18:18, and Numbers 11:17 all use "alone." Inference: this is a design principle that the text repeats.
+- Distribute the capability, not only the tasks (observation 3). Reading: a leader who delegates work without the capacity to do it creates a bottleneck with extra steps.
+- The purpose clause repeats in three places (observation 4). Genesis 2:18, Exodus 18:18, and Numbers 11:17 all use "alone." Reading: this is a design principle that the text repeats.
 - Select people who are already known as leaders (observation 1). The criterion is prior leadership that others observed.
 - Public standing is part of the appointment (observation 5). The elders stand with Moses.
-- Moses diagnosed it himself (observation 6). Inference: the overloaded leader usually knows.
+- Moses diagnosed it himself (observation 6). Reading: the overloaded leader usually knows.
 
 ### Two are better than one (Ecclesiastes 4:9–12)
 
@@ -1298,22 +1295,22 @@ Text (Ecclesiastes 4:9–12, KJV):
 
 Observations:
 
-1. Text states (four benefits, in order):
+1. Scripture says (four benefits, in order):
    - (a) A better reward for labor (v. 9).
    - (b) Recovery from a fall (v. 10).
    - (c) Warmth (v. 11).
    - (d) Defense against an attacker (v. 12).
-2. Text states: The first benefit is economic: "they have a good reward for their labour." Inference: the text justifies partnership by its returns, not only by support.
-3. Text states: The second benefit is recovery: "if they fall, the one will lift up his fellow" (v. 10). The woe follows: "woe to him that is alone when he falleth."
-4. Text states: The third benefit is survival: warmth (v. 11). Inference: the benefit is basic, not strategic.
-5. Text states: The fourth benefit is defense: "if one prevail against him, two shall withstand him" (v. 12).
-6. Text states (the step up): The passage moves from two to three: "a threefold cord is not quickly broken" (v. 12). Inference: the text does not stop at the pair. The threefold cord is the stronger structure.
+2. Scripture says: The first benefit is economic: "they have a good reward for their labour." Reading: the text justifies partnership by its returns, not only by support.
+3. Scripture says: The second benefit is recovery: "if they fall, the one will lift up his fellow" (v. 10). The woe follows: "woe to him that is alone when he falleth."
+4. Scripture says: The third benefit is survival: warmth (v. 11). Reading: the benefit is basic, not strategic.
+5. Scripture says: The fourth benefit is defense: "if one prevail against him, two shall withstand him" (v. 12).
+6. Scripture says (the step up): The passage moves from two to three: "a threefold cord is not quickly broken" (v. 12). Reading: the text does not stop at the pair. The threefold cord is the stronger structure.
 
 Business consequences:
 
 - Partnership has an economic justification, not only a moral one (observation 2). "A good reward for their labour."
-- The text states the benefit of recovery as a woe when it is absent (observation 3). "Woe to him that is alone when he falleth." Inference: to have nobody to lift you up is a stated condition of grief, not only an inefficiency.
-- The threefold cord is the design target (observation 6). Inference: a third party can break a pair, and three is more resilient. Inference: this supports boards of three over boards of two, and partnerships of three over pairs. The verse is about companions, not boards, so this application is an inference only.
+- The text states the benefit of recovery as a woe when it is absent (observation 3). "Woe to him that is alone when he falleth." Reading: to have nobody to lift you up is a stated condition of grief, not only an inefficiency.
+- The threefold cord is the design target (observation 6). Reading: a third party can break a pair, and three is more resilient. Reading: this supports boards of three over boards of two, and partnerships of three over pairs. The verse is about companions, not boards, so this application is an inference only.
 - The benefits rise in severity (observations 2–5): returns, recovery, survival, and defense. The text presents partnership as covering the full range.
 
 ### Counsel (Proverbs 15:22, 20:18)
@@ -1328,19 +1325,19 @@ Text (Proverbs 20:18, KJV):
 
 Observations:
 
-1. Text states (the contrast in 15:22): "Without counsel purposes are disappointed: but in the multitude of counsellors they are established." The contrast is disappointed against established.
-2. Text states: The text names the quantity: "the multitude of counsellors." Inference: the benefit grows with the number of counselors. One adviser is not the standard.
-3. Text states (20:18): The claim is universal: "Every purpose is established by counsel." It does not say "some purposes."
-4. Text states: The second half is specific: "and with good advice make war." Inference: the proverb applies the general principle to the decision with the highest stakes, going to war. The application to decisions with large consequences is the point.
-5. Text states: The English word "purpose" appears in both verses. Inference: the two proverbs make one claim twice, once with the contrast and once with the extension to war. The Hebrew word behind "purpose" is not verified for either verse.
+1. Scripture says (the contrast in 15:22): "Without counsel purposes are disappointed: but in the multitude of counsellors they are established." The contrast is disappointed against established.
+2. Scripture says: The text names the quantity: "the multitude of counsellors." Reading: the benefit grows with the number of counselors. One adviser is not the standard.
+3. Scripture says (20:18): The claim is universal: "Every purpose is established by counsel." It does not say "some purposes."
+4. Scripture says: The second half is specific: "and with good advice make war." Reading: the proverb applies the general principle to the decision with the highest stakes, going to war. The application to decisions with large consequences is the point.
+5. Scripture says: The English word "purpose" appears in both verses. Reading: the two proverbs make one claim twice, once with the contrast and once with the extension to war. The Hebrew word behind "purpose" is not verified for either verse.
 
 Business consequences:
 
 - The text states the scale of the benefit (observation 2): "the multitude of counsellors," not one counselor.
 - The principle applies most to decisions with the highest stakes (observation 4). The proverb attaches it to war.
-- "Disappointed" is the failure (observation 1). Inference: the purpose does not fail loudly. It is disappointed, which suggests that it quietly falls short.
-- Seek counsel before the decision, not after (observation 4). "With good advice make war." Inference: the advice comes before the engagement.
-- This connects to A18 (Aloneness is not good). Inference: it is the same claim, grounded in the first "not good" in Scripture and supported by the word "multitude" here.
+- "Disappointed" is the failure (observation 1). Reading: the purpose does not fail loudly. It is disappointed, which suggests that it quietly falls short.
+- Seek counsel before the decision, not after (observation 4). "With good advice make war." Reading: the advice comes before the engagement.
+- This connects to A18 (Aloneness is not good). Reading: it is the same claim, grounded in the first "not good" in Scripture and supported by the word "multitude" here.
 
 ---
 
@@ -1427,37 +1424,3 @@ On counsel:
 57. A threefold cord is stronger than a pair (Ecclesiastes 4:12).
 
 ---
-
-## Appendix: verification log
-
-### Verses retrieved with the scripture script
-
-Exodus 18:13–27, Exodus 31:1–11, Exodus 35:30–35, Exodus 36:3–7, Genesis 2:18, Numbers 1:46, Numbers 11:14–17, Leviticus 19:13, Deuteronomy 25:4, Acts 6:1–7, Nehemiah 2:11–20, Nehemiah 3:1–32, Nehemiah 4:7–23, Nehemiah 5:1–19, Nehemiah 6:1–16, 1 Chronicles 22:5, 14–16, 1 Chronicles 28:1–21, 1 Chronicles 29:1–20, 1 Corinthians 9:9–10, 1 Timothy 5:18, James 5:1–4, Jeremiah 22:13–14, Proverbs 6:6–11, Proverbs 22:29, 2 Thessalonians 3:8–12, 1 Thessalonians 4:11–12, Ecclesiastes 4:9–12, Mark 10:35–45, 1 Peter 5:1–4, John 13:1–17, Matthew 20:1–16, Ephesians 6:5–9, Colossians 4:1, 1 Corinthians 12:4–27, Romans 12:3–8, Proverbs 15:22, Proverbs 20:18, Deuteronomy 1:9–18, Deuteronomy 24:14–15, 1 Corinthians 9:11–15, 1 Timothy 5:17, Hebrews 13:17, Colossians 3:22, Leviticus 25:39–43, 1 Chronicles 22:8, 2 Samuel 5:19, 2 Samuel 12:9, 1 Kings 5:3, Matthew 19:27, Nehemiah 13:25, Ephesians 4:26, Romans 12:16, and Philippians 2:3.
-
-### Lexical claims verified with the lexicon script
-
-The definitions of these entries are verified: H2428 _chayil_, H8269 _sar_, H4855 _mashsha_, H5378 _nasha_, H5392 _neshek_, G3140 _martyreo_, G4678 _sophia_, G5262 _hypodeigma_, G5179 _typos_, G4165 _poimaino_, and G147 _aischrokerdos_. G4151 _pneuma_ is cited by number only. The links of G4165 and G147 to 1 Peter 5:2 come from a standard concordance and are not verified here.
-
-### Claims that the supplied tools cannot verify
-
-1. The specific Hebrew phrases in Exodus 18:21. These are "such as fear God" (_yare elohim_), "men of truth" (_anshe emeth_), and "hating covetousness" (_sone basha_). The KJV wording is verified. The Hebrew constructions are not verified here, because the supplied Strong's data is a dictionary without verse-level tagging. The file gives the transliterations as conventional readings, not as looked-up forms.
-
-   On the first criterion: a check with `lexicon.ts english able` did not return H2428. The reverse map lists 146 entries that the KJV renders "able," and H2428 is not among them. What is verified is that the KJV rendering list of H2428 includes "able" ("able, activity, ([phrase]) army, band of men (soldiers), company, (great) forces, goods, host, might, power, riches, strength, strong, substance, train, ([phrase]) valiant(-ly), valour, virtuous(-ly), war, worthy(-ily)"). That is a statement about the entry, not a link to the verse. The link between the "able men" of Exodus 18:21 and H2428 is therefore not verified. Read the file with that gap in view.
-
-2. The numbers in Exodus 18:21 and 25, that is, the four tiers. The KJV wording ("rulers of thousands, and rulers of hundreds, rulers of fifties, and rulers of tens") is verified. The arithmetic is an inference. The tiers step up by five (tens to fifties), by two (fifties to hundreds), and by ten (hundreds to thousands). The estimate of about 60,000 rulers of tens divides the 603,550 men of Numbers 1:46 by ten. Numbers 1 is a census from a later date, so the estimate is approximate.
-
-3. The count of named wall segments in Nehemiah 3. The chapter is verified in full, and the segment formula ("next unto him," "after him") is verified by reading. The segments are not counted, and the file states no number.
-
-4. "The hundredth part" in Nehemiah 5:11 as one percent. The KJV says "the hundredth part." The reading as one percent is an arithmetic inference from the English, not a lexical finding.
-
-5. The Hebrew words for "usury" in Nehemiah 5, Exodus 22:25, and Leviticus 25:36–37. The KJV uses "usury" in all three. A standard concordance gives H4855 and H5378 for Nehemiah 5 and H5392 for Exodus 22:25 and Leviticus 25:36–37. The supplied tools have no verse tagging, so that mapping is not verified here. `lexicon.ts english usury` returns six entries: G5110, H4855, H5378, H5383, H5391, and H5392.
-
-6. The words for "example" in John 13:15 and "ensamples" in 1 Peter 5:3. A standard concordance gives G5262 and G5179. The definitions are verified. The verse mapping is not verified here.
-
-7. "The ox has access to the product that it produces, while it produces it" (Deuteronomy 25:4). The text says "Thou shalt not muzzle the ox when he treadeth out the corn." The inference that the ox eats from the corn that it treads is an inference. The text states the prohibition, not the feeding.
-
-8. The scope of the "fifty-two days." Nehemiah 6:15 states that the wall was finished in fifty-two days. Nehemiah 6:1 states that at that time the doors were not yet set up. The reading that the fifty-two days covers the wall and not the doors is an inference from the two verses side by side.
-
-9. The match between the "guide, overseer, or ruler" of Proverbs 6:7 and three levels of management authority. The KJV wording is verified. The mapping to levels of an organization is an inference.
-
-10. The Hebrew word for "purpose" in Proverbs 15:22 and 20:18. This is not verified. The two verses use the same English word, and that is all that is verified.

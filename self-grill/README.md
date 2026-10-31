@@ -1,51 +1,28 @@
 # Self-Grill
 
-Autonomously interrogate a plan, architecture, or request by traversing its decision tree, answering each question with the optimal recommendation, and outputting a complete Decision Ledger with all considered options for user review or override.
+Finds the costly decisions hidden in a plan, architecture, or request, answers each one with a recommendation, and shows them as a Decision Ledger that you can accept or override.
 
 ## What it does
 
-When tackling an ambiguous plan, complex architecture, or underspecified task, standard workflows either halt repeatedly for user clarification or make hidden assumptions.
+When a plan is ambiguous or underspecified, an agent usually either stops again and again to ask, or makes choices you never see.
 
-The `self-grill` skill autonomously interrogates the plan:
-1. Surfaces all hidden assumptions, forks, and ambiguities.
-2. Organizes them into a causal decision tree.
-3. Decisively chooses the best recommendation for each decision point to unblock subsequent choices.
-4. Outputs a structured, numbered **Decision Ledger** alongside the resulting plan, allowing the user to review, ratify, or selectively override any decision branch (e.g., "Change D2 to Option B").
+The `self-grill` skill does neither:
+1. It finds the hidden decisions in the plan.
+2. It keeps the ones where a wrong choice is costly or hard to undo, at most about 10, ranked by cost. Cheap choices go in a short list of assumed defaults.
+3. It orders the decisions so that each one comes after the decision that made it relevant.
+4. It commits to one option for each decision, with a one-sentence reason.
+5. It shows a numbered **Decision Ledger**, then the **Assumed defaults**, then the resulting **Plan**. You can accept it all or override single items, for example "Change D2 to B" or "Drop AD3".
 
 ## When to use it
 
 Use this skill when:
 - You ask to "self-grill", "auto-grill", or grill yourself on a plan, feature, or architecture.
-- You want a thorough specification or implementation plan without multi-turn Q&A round-trips.
-- You want all hidden trade-offs, options, and decisions exposed clearly up front.
-
-## How it works
-
-1. **Inspect Context First**: Check the workspace, codebase, and existing artifacts to resolve factual questions directly without asking.
-2. **Map Decision Tree**: Identify all ambiguities and organize them in topological dependency order (parents before children).
-3. **Traverse and Self-Resolve**:
-   - Pose a core design question.
-   - List viable, mutually exclusive options with trade-offs.
-   - Select the recommended option with a clear rationale.
-   - Use that choice to unlock downstream child decisions.
-4. **Synthesize Target Plan**: Build an actionable plan based on all selected options.
-5. **Output Decision Ledger**: Present each decision node with its ID (`D1`, `D2`, etc.) and parent relationship.
+- You want a full plan without rounds of questions and answers.
+- You want the hidden trade-offs and decisions shown up front.
 
 ## Output structure
 
-Each decision in the Decision Ledger uses this format:
-
-```markdown
-D1 - [Decision Title] (Parent: Root | D#)
-
-Question: [Precise design question]
-Options:
-- [Option A]: [Description + key trade-off]
-- [Option B]: [Description + key trade-off]
-Selected: [Option X] - [Concise rationale]
-```
-
-Followed by the **Resulting Plan** and an invitation to approve or override specific decision IDs.
+Each ledger entry has a number (`D1`, `D2`), its parent decision, the question, the options with their main trade-off, and the selected option with a reason. The assumed defaults are one line each (`AD1`, `AD2`). The plan comes last, followed by an invitation to approve or override by number.
 
 ## What is in this folder
 

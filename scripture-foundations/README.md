@@ -12,7 +12,7 @@ The skill gives the agent three things:
 
 The skill also has a Strong's lexicon tool. Strong's is a numbered dictionary of the Hebrew and Greek words under the KJV. The agent uses it to check the original word before it draws an inference from an English word.
 
-This skill is the base layer for other skills in this repository: `first-principles-reasoning`, `business-first-principles` (with its body layer), `business-idea-generation`, `problem-solving-first-principles`, `renewing-the-mind`, and `technology-selection`. The skill `ancient-secret-wealth-principle` is separate. It presents an outside model (Myron Golden's Four Levels of Value), and it is not a first-principles skill. It does use Rule one and the KJV script from this layer.
+This skill is the base layer for other skills in this repository: `first-principles-reasoning`, `business-first-principles` (with its body layer), `business-idea-generation`, `problem-solving-first-principles`, and `renewing-the-mind`. The skill `ancient-secret-wealth-principle` is separate. It presents an outside model (Myron Golden's Four Levels of Value), and it is not a first-principles skill. It does use Rule one, the labels, and the KJV script from this layer.
 
 ## When to use it
 
@@ -31,15 +31,15 @@ For routine questions where a known pattern works, the skill tells the agent to 
 1. The agent looks up the verses with `scripts/scripture.ts` and quotes the output.
 2. If a verse does argumentative work, the agent checks the Hebrew or Greek word with `scripts/lexicon.ts`. It also checks if the 1611 sense of the English word differs from the modern sense (for example, "let" meant "to hinder").
 3. The agent applies the method: text, then observation, then axiom, then application. It then names the friction, which is what can make the result wrong.
-4. The agent labels each claim as "Text states:", "Inference:", "Contested:", or "Speculation:". A business principle drawn from Genesis is an inference, not Scripture.
+4. The agent labels each claim as "Scripture says:", "Word meaning:", "Reading:", "Disputed:", or "Guess:". This skill holds the only definition of the five labels, and the other skills point to it. A business principle drawn from Genesis is a reading, not Scripture.
 
 ## What is in this folder
 
-- `SKILL.md`: The instructions that the agent reads. It holds the rules, the method, a worked example, and the starter set of foundation chapters.
-- `references/chapter-map.md`: The full map of foundation chapters, grouped by the question each chapter answers.
+- `SKILL.md`: The instructions that the agent reads. It holds the rules, the five labels, the lookup commands, the method with a worked example, and a list of which reference to read when.
+- `references/chapter-map.md`: The full map of foundation chapters, grouped by the question each chapter answers. It starts with the short starter set in reading order, and holds the Bible's own "foundation" vocabulary.
 - `references/genesis-1-3.md`: A close read of Genesis 1 to 3 in verse groups, with the observations that the other skills use.
 - `references/kjv-1611.md`: KJV words whose meaning changed since 1611, units and measures, and a verification checklist.
-- `references/original-language.md`: A working lexicon of key Hebrew and Greek words, with Strong's definitions and KJV glosses copied from the tool.
+- `references/original-language.md`: A working lexicon of key Hebrew and Greek words, with Strong's definitions and KJV glosses copied from the tool. It also holds the table of words where the KJV rendering understates the original, and the note on "help meet".
 - `scripts/scripture.ts`: Reads and searches the KJV (Bun).
 - `scripts/scripture.py`: The same tool in Python, for machines without Bun.
 - `scripts/lexicon.ts`: Looks up Strong's entries, and maps an English KJV word back to the Hebrew and Greek words (Bun).

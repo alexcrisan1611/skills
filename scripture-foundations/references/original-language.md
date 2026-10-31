@@ -2,17 +2,6 @@
 
 This is a reference file for the `scripture-foundations` skill. It collects the Hebrew and Greek words that matter most for first-principles reasoning. Each word has its Strong's definition and its KJV gloss list.
 
-Each definition and gloss list below is copied verbatim from `lexicon.ts`. Each verse quoted is copied verbatim from `scripture.ts`. Nothing here comes from memory.
-
-Run these commands from the skill folder to reproduce any entry:
-
-```
-bun run scripts/lexicon.ts lookup H1254
-bun run scripts/scripture.ts lookup "Genesis 1:1-5"
-```
-
-If Bun is not installed, use `python scripts/lexicon.py` and `python scripts/scripture.py` with the same arguments.
-
 Data: Strong's Exhaustive Concordance (1890), JSON edition, Open Scriptures, CC-BY-SA. It has 8,674 Hebrew entries and 5,523 Greek entries. KJV text: 66 books, 1,189 chapters, 31,102 verses.
 
 ---
@@ -20,11 +9,12 @@ Data: Strong's Exhaustive Concordance (1890), JSON edition, Open Scriptures, CC-
 ## Table of contents
 
 1. [How to read an entry](#1-how-to-read-an-entry)
-2. [Part 1: Genesis 1](#part-1-genesis-1)
-3. [Part 2: Genesis 2](#part-2-genesis-2)
-4. [Part 3: Genesis 3](#part-3-genesis-3)
-5. [Part 4: The foundation vocabulary in the New Testament](#part-4-the-foundation-vocabulary-in-the-new-testament)
-6. [How to use this without overclaiming](#how-to-use-this-without-overclaiming)
+2. [Where the KJV rendering understates the original](#where-the-kjv-rendering-understates-the-original)
+3. [Part 1: Genesis 1](#part-1-genesis-1)
+4. [Part 2: Genesis 2](#part-2-genesis-2)
+5. [Part 3: Genesis 3](#part-3-genesis-3)
+6. [Part 4: The foundation vocabulary in the New Testament](#part-4-the-foundation-vocabulary-in-the-new-testament)
+7. [How to use this without overclaiming](#how-to-use-this-without-overclaiming)
 
 ---
 
@@ -37,7 +27,7 @@ Each entry has these parts:
 - Derivation: the `derivation` field, verbatim. It often names a root word.
 - KJV glosses: the `kjv_def` field, verbatim. It is the list of English words that the KJV translators used for this word. Long lists are normal. They show how wide the range of a word is.
 - Verified: the verse or verses cited for the term, quoted exactly as the KJV text file returns them.
-- Inference (not lexical data): the reading that this file draws from the entry. It is not part of the dictionary.
+- Reading (not lexical data): the reading that this file draws from the entry. It is not part of the dictionary.
 
 A note on transliteration: the Greek dictionary gives a transliteration (`agápē`). The Hebrew dictionary does not, because its `translit` field is empty. This file supplies the Hebrew transliterations in the usual academic system (`רָדָה` → _radah_), and it applies the system consistently.
 
@@ -56,6 +46,24 @@ bun run scripts/lexicon.ts english "farthing"         -> G787, G2835
 
 ---
 
+## Where the KJV rendering understates the original
+
+Look carefully at these words. The traditional rendering now understates or redirects the original.
+
+| KJV       | Reference        | Underlying word             | What it carries                                                                     |
+| --------- | ---------------- | --------------------------- | ----------------------------------------------------------------------------------- |
+| charity   | 1 Corinthians 13 | G26 ἀγάπη (_agapē_)         | love. In 1 Corinthians 13 the KJV renders this word "charity". Elsewhere it is usually "love" |
+| faith     | Hebrews 11:1     | G4102 πίστις (_pistis_)     | persuasion, conviction, "especially reliance upon Christ for salvation", constancy. Not only bare belief |
+| dominion  | Genesis 1:26, 28 | H7287 רָדָה (_radah_)       | to rule. Strong's gives the root sense "to tread down, i.e. subjugate", but the use decides the meaning. Solomon "had dominion" and "had peace on all sides" (1 Kings 4:24). Leviticus 25:43 must add "with rigour" to make the rule harsh |
+| subdue    | Genesis 1:28     | H3533 כָּבַשׁ (_kabash_)    | "to conquer, subjugate". A strong verb, used of conquest. Its object in 1:28 is the earth ("subdue it") |
+| dress     | Genesis 2:15     | H5647 עָבַד (_abad_)        | to work, to serve, to till. The same verb is used of worship                        |
+| keep      | Genesis 2:15     | H8104 שָׁמַר (_shamar_)     | "to hedge about (as with thorns), i.e. guard". The sense is protective              |
+| beginning | Genesis 1:1      | H7225 רֵאשִׁית (_reshith_)  | "the first, in place, time, order or rank (specifically, a firstfruit)"             |
+| help meet | Genesis 2:18     | H5828 עֵזֶר (_ezer_)        | "aid". The same word is used of God as the help of Israel, so it implies no lower worth. What it implies about roles is contested (see the note below) |
+| talent    | Matthew 25:15    | G5007 τάλαντον (_talanton_) | a weight of money (about 6,000 denarii, about 20 years of wages), not an ability    |
+
+---
+
 ## Part 1: Genesis 1
 
 ### H1254 · בָּרָא · _bara_: created
@@ -65,7 +73,7 @@ bun run scripts/lexicon.ts english "farthing"         -> G787, G2835
 - KJV glosses: choose, create (creator), cut down, dispatch, do, make (fat).
 - Verified: Genesis 1:1 "In the beginning God created the heaven and the earth.", Genesis 1:27 "So God created man in his own image".
 
-Inference (not lexical data): Look at the width of the entry. The KJV uses H1254 for "cut down" and "dispatch" as well as "create". That width describes other uses of the word. It does not decide the sense in Genesis 1:1, because a gloss list is not a definition (see rule 1 at the end of this file). The idea of creation out of nothing (ex nihilo) is not in this dictionary entry, and the verb alone does not prove it. So do not build the doctrine on _bara_ alone. Text states: the doctrine rests on the canon. The material comes from God's creating act (Genesis 1:1), and Genesis 1 shows him making by his word: "And God said, Let there be light: and there was light" (1:3). Hebrews 11:3 and John 1:3 teach that all things were made by his word: "the worlds were framed by the word of God, so that things which are seen were not made of things which do appear", and "without him was not any thing made that was made".
+Reading (not lexical data): Look at the width of the entry. The KJV uses H1254 for "cut down" and "dispatch" as well as "create". That width describes other uses of the word. It does not decide the sense in Genesis 1:1, because a gloss list is not a definition (see rule 1 at the end of this file). The idea of creation out of nothing (ex nihilo) is not in this dictionary entry, and the verb alone does not prove it. So do not build the doctrine on _bara_ alone. Scripture says: the doctrine rests on the canon. The material comes from God's creating act (Genesis 1:1), and Genesis 1 shows him making by his word: "And God said, Let there be light: and there was light" (1:3). Hebrews 11:3 and John 1:3 teach that all things were made by his word: "the worlds were framed by the word of God, so that things which are seen were not made of things which do appear", and "without him was not any thing made that was made".
 
 ### H6213 · עָשָׂה · _asah_: made
 
@@ -74,7 +82,7 @@ Inference (not lexical data): Look at the width of the entry. The KJV uses H1254
 - KJV glosses: accomplish, advance, appoint, apt, be at, become, bear, bestow, bring forth, bruise, be busy, [idiom] certainly, have the charge of, commit, deal (with), deck, [phrase] displease, do, (ready) dress(-ed), (put in) execute(-ion), exercise, fashion, [phrase] feast, (fight-) ing man, [phrase] finish, fit, fly, follow, fulfill, furnish, gather, get, go about, govern, grant, great, [phrase] hinder, hold (a feast), [idiom] indeed, [phrase] be industrious, [phrase] journey, keep, labour, maintain, make, be meet, observe, be occupied, offer, [phrase] officer, pare, bring (come) to pass, perform, pracise, prepare, procure, provide, put, requite, [idiom] sacrifice, serve, set, shew, [idiom] sin, spend, [idiom] surely, take, [idiom] thoroughly, trim, [idiom] very, [phrase] vex, be (warr-) ior, work(-man), yield, use.
 - Verified: Genesis 1:26 "Let us make man in our image", Genesis 1:31 "And God saw every thing that he had made, and, behold, it was very good."
 
-Inference (not lexical data): H6213 is the most general verb of doing in biblical Hebrew. The gloss list runs from "appoint" to "sin". Genesis 1:26 uses "make" (`asah`), and 1:27 uses "created" (`bara`). An argument that needs the two verbs to be sharply opposed goes beyond the lexicon. `asah` is far too broad to carry that weight on its own.
+Reading (not lexical data): H6213 is the most general verb of doing in biblical Hebrew. The gloss list runs from "appoint" to "sin". Genesis 1:26 uses "make" (`asah`), and 1:27 uses "created" (`bara`). An argument that needs the two verbs to be sharply opposed goes beyond the lexicon. `asah` is far too broad to carry that weight on its own.
 
 ### H8414 · תֹּהוּ · _tohu_: without form
 
@@ -84,7 +92,7 @@ Inference (not lexical data): H6213 is the most general verb of doing in biblica
 - Verified: Genesis 1:2 "And the earth was without form, and void", and the reverse map
 `english "without form"` returns H8414 and nothing else.
 
-Inference (not lexical data): The main image in the gloss list is _desert_, _waste_, _wilderness_. It is an unproductive place, not only an unshaped one. This matters if you reason about what a "starting condition" looks like. The biblical picture is waste ground, not blank paper.
+Reading (not lexical data): The main image in the gloss list is _desert_, _waste_, _wilderness_. It is an unproductive place, not only an unshaped one. This matters if you reason about what a "starting condition" looks like. The biblical picture is waste ground, not blank paper.
 
 ### H922 · בֹּהוּ · _bohu_: void
 
@@ -93,7 +101,7 @@ Inference (not lexical data): The main image in the gloss list is _desert_, _was
 - KJV glosses: emptiness, void.
 - Verified: Genesis 1:2 "And the earth was without form, and void".
 
-Inference (not lexical data): It is a rare word. The KJV phrase "without form, and void" translates `tohu wa-bohu`. It occurs in exactly 2 verses (`search "without form, and void"`): Genesis 1:2 and Jeremiah 4:23. Jeremiah 4:23 pictures the same waste and empty state. Treat `tohu wa-bohu` as a fixed phrase that means "waste and empty". Do not split it into two technical terms and build on each one separately.
+Reading (not lexical data): It is a rare word. The KJV phrase "without form, and void" translates `tohu wa-bohu`. It occurs in exactly 2 verses (`search "without form, and void"`): Genesis 1:2 and Jeremiah 4:23. Jeremiah 4:23 pictures the same waste and empty state. Treat `tohu wa-bohu` as a fixed phrase that means "waste and empty". Do not split it into two technical terms and build on each one separately.
 
 ### H2822 · חֹשֶׁךְ · _choshek_: darkness
 
@@ -102,7 +110,7 @@ Inference (not lexical data): It is a rare word. The KJV phrase "without form, a
 - KJV glosses: dark(-ness), night, obscurity.
 - Verified: Genesis 1:2 "and darkness was upon the face of the deep", Genesis 1:4 "and God divided the light from the darkness."
 
-Inference (not lexical data): The gloss list carries heavy figurative senses (misery, death, ignorance, wickedness). But Genesis 1:2-5 uses the word for physical night, and God names it "Night" in 1:5. The text does not force the figurative sense into Genesis 1. A reader who brings it in makes a choice.
+Reading (not lexical data): The gloss list carries heavy figurative senses (misery, death, ignorance, wickedness). But Genesis 1:2-5 uses the word for physical night, and God names it "Night" in 1:5. The text does not force the figurative sense into Genesis 1. A reader who brings it in makes a choice.
 
 ### H8415 · תְּהוֹם · _tehom_: deep
 
@@ -111,7 +119,7 @@ Inference (not lexical data): The gloss list carries heavy figurative senses (mi
 - KJV glosses: deep (place), depth.
 - Verified: Genesis 1:2 "and darkness was upon the face of the deep".
 
-Inference (not lexical data): "the subterranean watersupply" is the phrasing of the dictionary itself. It reflects the cosmology of the ancient Near East: a body of water under the land as well as around it. The word means a mass of water, not a metaphysical abyss.
+Reading (not lexical data): "the subterranean watersupply" is the phrasing of the dictionary itself. It reflects the cosmology of the ancient Near East: a body of water under the land as well as around it. The word means a mass of water, not a metaphysical abyss.
 
 ### H7363 · רָחַף · _rachaph_: moved (brooded)
 
@@ -120,7 +128,7 @@ Inference (not lexical data): "the subterranean watersupply" is the phrasing of 
 - KJV glosses: flutter, move, shake.
 - Verified: Genesis 1:2 "And the Spirit of God moved upon the face of the waters."
 
-Inference (not lexical data): The KJV says "moved". The primary sense in the dictionary is "to brood", and the glosses are "flutter, move, shake". "Brooded" is a defensible rendering, but it is a rendering. The dictionary gives you the range. If you choose one end of the range, you interpret.
+Reading (not lexical data): The KJV says "moved". The primary sense in the dictionary is "to brood", and the glosses are "flutter, move, shake". "Brooded" is a defensible rendering, but it is a rendering. The dictionary gives you the range. If you choose one end of the range, you interpret.
 
 ### H216 · אוֹר · _or_: light
 
@@ -136,7 +144,7 @@ Inference (not lexical data): The KJV says "moved". The primary sense in the dic
 - KJV glosses: (make, put) difference, divide (asunder), (make) separate (self, -ation), sever (out), [idiom] utterly.
 - Verified: Genesis 1:4 "and God divided the light from the darkness."
 
-Inference (not lexical data): The gloss list includes "distinguish", "make difference", and "select". So `badal` is not only about cutting apart. It is also about marking a distinction. If you reason about separation as an act that organizes, the word carries both senses.
+Reading (not lexical data): The gloss list includes "distinguish", "make difference", and "select". So `badal` is not only about cutting apart. It is also about marking a distinction. If you reason about separation as an act that organizes, the word carries both senses.
 
 ### H7549 · רָקִיעַ · _raqia_: firmament
 
@@ -147,7 +155,7 @@ Inference (not lexical data): The gloss list includes "distinguish", "make diffe
 `english "firmament"` returns H7549 alone. The KJV uses "firmament" for this word
 and no other.
 
-Inference (not lexical data): The first sense in the dictionary is "an expanse". The root H7554 means to beat out or spread (as metal). "Firmament" is an English word from Latin. It later came to imply solidity. The Hebrew sense is spread-out space. An argument that relies on the English word "firmament" as a hard dome relies on the translation, not on the Hebrew.
+Reading (not lexical data): The first sense in the dictionary is "an expanse". The root H7554 means to beat out or spread (as metal). "Firmament" is an English word from Latin. It later came to imply solidity. The Hebrew sense is spread-out space. An argument that relies on the English word "firmament" as a hard dome relies on the translation, not on the Hebrew.
 
 ### H3117 · יוֹם · _yom_: day
 
@@ -156,7 +164,7 @@ Inference (not lexical data): The first sense in the dictionary is "an expanse".
 - KJV glosses: age, [phrase] always, [phrase] chronicals, continually(-ance), daily, ((birth-), each, to) day, (now a, two) days (agone), [phrase] elder, [idiom] end, [phrase] evening, [phrase] (for) ever(-lasting, -more), [idiom] full, life, as (so) long as (... live), (even) now, [phrase] old, [phrase] outlived, [phrase] perpetually, presently, [phrase] remaineth, [idiom] required, season, [idiom] since, space, then, (process of) time, [phrase] as at other times, [phrase] in trouble, weather, (as) when, (a, the, within a) while (that), [idiom] whole ([phrase] age), (full) year(-ly), [phrase] younger.
 - Verified: Genesis 1:5 "And the evening and the morning were the first day."
 
-Inference (not lexical data): The dictionary lists both a literal sense ("sunrise to sunset... sunset to the next") and a figurative sense ("a space of time defined by an associated term"). The KJV gloss list includes "age", "season", "process of time", and "year". So the Hebrew word does not settle the question of the creation days. A claim that the lexicon settles it for either side overclaims. A claim that the lexicon rules out a long period also overclaims. The lexicon establishes the range.
+Reading (not lexical data): The dictionary lists both a literal sense ("sunrise to sunset... sunset to the next") and a figurative sense ("a space of time defined by an associated term"). The KJV gloss list includes "age", "season", "process of time", and "year". So the Hebrew word does not settle the question of the creation days. A claim that the lexicon settles it for either side overclaims. A claim that the lexicon rules out a long period also overclaims. The lexicon establishes the range.
 
 ### H6754 · צֶלֶם · _tselem_: image
 
@@ -165,7 +173,7 @@ Inference (not lexical data): The dictionary lists both a literal sense ("sunris
 - KJV glosses: image, vain shew.
 - Verified: Genesis 1:26 "Let us make man in our image, after our likeness", Genesis 1:27 "in the image of God created he him".
 
-Inference (not lexical data): This entry does real work. The word for the relation of humanity to God is from the same word family as the word for idols, which are physical representatives. Whatever "image" means here, the dictionary puts "representative figure" at the center and "phantom/illusion" at the edge, not the reverse.
+Reading (not lexical data): This entry does real work. The word for the relation of humanity to God is from the same word family as the word for idols, which are physical representatives. Whatever "image" means here, the dictionary puts "representative figure" at the center and "phantom/illusion" at the edge, not the reverse.
 
 ### H1823 · דְּמוּת · _demuth_: likeness
 
@@ -174,7 +182,7 @@ Inference (not lexical data): This entry does real work. The word for the relati
 - KJV glosses: fashion, like (-ness, as), manner, similitude.
 - Verified: Genesis 1:26 "after our likeness".
 
-Inference (not lexical data): `tselem` and `demuth` are near-synonyms in one clause. Some readers treat them as two distinct faculties (for example, "image" = reason and "likeness" = morality). That is a move of preaching, not of the lexicon.
+Reading (not lexical data): `tselem` and `demuth` are near-synonyms in one clause. Some readers treat them as two distinct faculties (for example, "image" = reason and "likeness" = morality). That is a move of preaching, not of the lexicon.
 
 ### H7287 · רָדָה · _radah_: dominion
 
@@ -183,7 +191,7 @@ Inference (not lexical data): `tselem` and `demuth` are near-synonyms in one cla
 - KJV glosses: (come to, make to) have dominion, prevail against, reign, (bear, make to) rule,(-r, over), take.
 - Verified: Genesis 1:26 "and let them have dominion over the fish of the sea", Genesis 1:28 "and have dominion over the fish of the sea, and over the fowl of the air".
 
-Inference (not lexical data): This word is the most contested in the chapter, and readers soften it most often. The primary sense in the dictionary is "to tread down, i.e. subjugate", and the glosses include "prevail against". A reading of `radah` as gentle tending is not what this entry says. But the entry also does not say that the word means "exploit". "Reign" and "rule" are also glosses, and the object in Genesis 1 is the animal creation and the earth, not other people. Both the "domination" camp and the "stewardship" camp often overstate what the lexicon gives them.
+Reading (not lexical data): This word is the most contested in the chapter, and readers soften it most often. The primary sense in the dictionary is "to tread down, i.e. subjugate", and the glosses include "prevail against". A reading of `radah` as gentle tending is not what this entry says. But the entry also does not say that the word means "exploit". "Reign" and "rule" are also glosses, and the object in Genesis 1 is the animal creation and the earth, not other people. Both the "domination" camp and the "stewardship" camp often overstate what the lexicon gives them.
 
 ### H3533 · כָּבַשׁ · _kabash_: subdue
 
@@ -192,7 +200,7 @@ Inference (not lexical data): This word is the most contested in the chapter, an
 - KJV glosses: bring into bondage, force, keep under, subdue, bring into subjection.
 - Verified: Genesis 1:28 "and subdue it: and have dominion over the fish of the sea". The reverse map confirms H3533 is one of the words the KJV renders "subdue".
 
-Inference (not lexical data): `kabash` is a stronger verb than `radah`, and its gloss list is blunt: "bring into bondage, force, keep under". It is used elsewhere of military conquest. Suppose that you build a business argument that the creation mandate is exploitative by nature. This entry is the strongest evidence available, and it still does not get you there. A command to subdue a thing does not specify the disposition of the one who subdues. That step is inference.
+Reading (not lexical data): `kabash` is a stronger verb than `radah`, and its gloss list is blunt: "bring into bondage, force, keep under". It is used elsewhere of military conquest. Suppose that you build a business argument that the creation mandate is exploitative by nature. This entry is the strongest evidence available, and it still does not get you there. A command to subdue a thing does not specify the disposition of the one who subdues. That step is inference.
 
 ### H6509 · פָּרָה · _parah_: fruitful
 
@@ -208,7 +216,7 @@ Inference (not lexical data): `kabash` is a stronger verb than `radah`, and its 
 - KJV glosses: (bring in) abundance ([idiom] -antly), [phrase] archer (by mistake for H7232 (רָבַב)), be in authority, bring up, [idiom] continue, enlarge, excel, exceeding(-ly), be full of, (be, make) great(-er, -ly, [idiom] -ness), grow up, heap, increase, be long, (be, give, have, make, use) many (a time), (any, be, give, give the, have) more (in number), (ask, be, be so, gather, over, take, yield) much (greater, more), (make to) multiply, nourish, plenty(-eous), [idiom] process (of time), sore, store, thoroughly, very.
 - Verified: Genesis 1:28 "Be fruitful, and multiply, and replenish the earth".
 
-Inference (not lexical data): Look at "be in authority" in the gloss list. Growth and authority are not opposed in the range of this word. Look also at the caveat in the dictionary itself: one gloss is "by mistake for H7232". The renderings of the KJV here are not a clean semantic map of the Hebrew.
+Reading (not lexical data): Look at "be in authority" in the gloss list. Growth and authority are not opposed in the range of this word. Look also at the caveat in the dictionary itself: one gloss is "by mistake for H7232". The renderings of the KJV here are not a clean semantic map of the Hebrew.
 
 ### H4390 · מָלֵא · _male_: replenish / fill
 
@@ -218,7 +226,7 @@ Inference (not lexical data): Look at "be in authority" in the gloss list. Growt
 - Verified: Genesis 1:28 "and replenish the earth", and the reverse map
 `english "replenish"` returns H4390 alone.
 
-Inference (not lexical data): "Replenish" is a mild false friend. Modern English reads it as "fill _again_", which implies an earlier emptying. The Hebrew is plain "fill". The KJV uses the English word "fill" in the same creation account, at Genesis 1:22 ("fill the waters in the seas"). The KJV word "replenish" at 1:28 is not evidence of a world before Adam.
+Reading (not lexical data): "Replenish" is a mild false friend. Modern English reads it as "fill _again_", which implies an earlier emptying. The Hebrew is plain "fill". The KJV uses the English word "fill" in the same creation account, at Genesis 1:22 ("fill the waters in the seas"). The KJV word "replenish" at 1:28 is not evidence of a world before Adam.
 
 ### H2896 · טוֹב · _tov_: good
 
@@ -227,7 +235,7 @@ Inference (not lexical data): "Replenish" is a mild false friend. Modern English
 - KJV glosses: beautiful, best, better, bountiful, cheerful, at ease, [idiom] fair (word), (be in) favour, fine, glad, good (deed, -lier, -liest, -ly, -ness, -s), graciously, joyful, kindly, kindness, liketh (best), loving, merry, [idiom] most, pleasant, [phrase] pleaseth, pleasure, precious, prosperity, ready, sweet, wealth, welfare, (be) well(-favoured).
 - Verified: Genesis 1:4 "And God saw the light, that it was good", Genesis 1:31 "behold, it was very good."
 
-Inference (not lexical data): The definition says "good... in the widest sense", and the gloss list includes "beautiful", "prosperity", "wealth", "welfare", "at ease", and "fine". That is the range of the word across the Old Testament. One occurrence does not carry the whole range, and a gloss list is not a definition (see rule 1 at the end of this file). In Genesis 1 the context fixes the sense. It is God's verdict that what he made is sound and fit for its purpose. Do not read "wealth" or "prosperity" into that verdict. The range does warn against a reading of "good" in Genesis 1 as rule-keeping alone.
+Reading (not lexical data): The definition says "good... in the widest sense", and the gloss list includes "beautiful", "prosperity", "wealth", "welfare", "at ease", and "fine". That is the range of the word across the Old Testament. One occurrence does not carry the whole range, and a gloss list is not a definition (see rule 1 at the end of this file). In Genesis 1 the context fixes the sense. It is God's verdict that what he made is sound and fit for its purpose. Do not read "wealth" or "prosperity" into that verdict. The range does warn against a reading of "good" in Genesis 1 as rule-keeping alone.
 
 ### H5315 · נֶפֶשׁ · _nephesh_: living soul
 
@@ -238,7 +246,7 @@ Inference (not lexical data): The definition says "good... in the widest sense",
 no Strong's entry glossed "living soul". The KJV phrase translates a Hebrew
 phrase. It is not a dictionary headword.
 
-Inference (not lexical data): The primary sense in the dictionary is "a breathing creature". The word is used of animals in Genesis 1:20-24 as well as of humans. The KJV gloss list includes "soul", "body", "breath", "creature", "person", "appetite", "desire", and "lust". This entry does not by itself teach that the soul can exist apart from the body. Contested: whether the person continues apart from the body between death and the resurrection. Many readers hold that the soul continues and is with the Lord. They cite "fear not them which kill the body, but are not able to kill the soul" (Matthew 10:28), "absent from the body, and to be present with the Lord" (2 Corinthians 5:8), and "the souls of them that were slain" (Revelation 6:9). Other readers hold that the whole person sleeps until the resurrection. They point to this wide sense of `nephesh` and to "them also which sleep in Jesus will God bring with him" (1 Thessalonians 4:14). The entry alone does not settle the question.
+Reading (not lexical data): The primary sense in the dictionary is "a breathing creature". The word is used of animals in Genesis 1:20-24 as well as of humans. The KJV gloss list includes "soul", "body", "breath", "creature", "person", "appetite", "desire", and "lust". This entry does not by itself teach that the soul can exist apart from the body. Disputed: whether the person continues apart from the body between death and the resurrection. Many readers hold that the soul continues and is with the Lord. They cite "fear not them which kill the body, but are not able to kill the soul" (Matthew 10:28), "absent from the body, and to be present with the Lord" (2 Corinthians 5:8), and "the souls of them that were slain" (Revelation 6:9). Other readers hold that the whole person sleeps until the resurrection. They point to this wide sense of `nephesh` and to "them also which sleep in Jesus will God bring with him" (1 Thessalonians 4:14). The entry alone does not settle the question.
 
 ---
 
@@ -261,7 +269,7 @@ Verified text for the chapter's key verses:
 - KJV glosses: [idiom] be, keep in bondage, be bondmen, bond-service, compel, do, dress, ear, execute, [phrase] husbandman, keep, labour(-ing man, bring to pass, (cause to, make to) serve(-ing, self), (be, become) servant(-s), do (use) service, till(-er), transgress (from margin), (set a) work, be wrought, worshipper,
 - Verified: Genesis 2:15 "to dress it and to keep it", Genesis 2:5 "and there was not a man to till the ground."
 
-Inference (not lexical data): For business reasoning, this is one of the most useful entries in the lexicon, because the gloss list is unified. The same Hebrew word covers "work", "serve", "till", "labour", "be bondmen", and "worshipper". Work, service, and worship are one verb in this language. That is a lexical fact. What follows from it is inference: a business is a form of service, and it carries a question of worship inside it. But the inference starts from an observation that you can verify, not from a slogan. Look also at the negative end of the list: "causatively enslave", "bring into bondage". The word contains both directions.
+Reading (not lexical data): For business reasoning, this is one of the most useful entries in the lexicon, because the gloss list is unified. The same Hebrew word covers "work", "serve", "till", "labour", "be bondmen", and "worshipper". Work, service, and worship are one verb in this language. That is a lexical fact. What follows from it is inference: a business is a form of service, and it carries a question of worship inside it. But the inference starts from an observation that you can verify, not from a slogan. Look also at the negative end of the list: "causatively enslave", "bring into bondage". The word contains both directions.
 
 ### H8104 · שָׁמַר · _shamar_: keep / guard
 
@@ -270,7 +278,7 @@ Inference (not lexical data): For business reasoning, this is one of the most us
 - KJV glosses: beward, be circumspect, take heed (to self), keep(-er, self), mark, look narrowly, observe, preserve, regard, reserve, save (self), sure, (that lay) wait (for), watch(-man).
 - Verified: Genesis 2:15 "to dress it and to keep it", Genesis 3:24 "to keep the way of the tree of life."
 
-Inference (not lexical data): The image in the dictionary is concrete: "to hedge about (as with thorns)". This is not passive keeping. It is the word of the watchman and the guard, and the KJV gloss list is all attention ("mark", "look narrowly", "take heed", "watch"). Genesis 2:15 assigns both words to one task: `abad` and `shamar`, work and guard. The dictionary supports the pair. A management philosophy built on the pair is yours to argue for.
+Reading (not lexical data): The image in the dictionary is concrete: "to hedge about (as with thorns)". This is not passive keeping. It is the word of the watchman and the guard, and the KJV gloss list is all attention ("mark", "look narrowly", "take heed", "watch"). Genesis 2:15 assigns both words to one task: `abad` and `shamar`, work and guard. The dictionary supports the pair. A management philosophy built on the pair is yours to argue for.
 
 ### H5828 · עֵזֶר · _ezer_: help
 
@@ -279,7 +287,12 @@ Inference (not lexical data): The image in the dictionary is concrete: "to hedge
 - KJV glosses: help.
 - Verified: Genesis 2:18 "I will make him an help meet for him."
 
-Inference (not lexical data): The entry has one word: "aid". The KJV phrase "help meet" is not Hebrew _ezer_ plus a Hebrew word for "meet". "Meet" is a separate English word that means "suitable". Do not build on the English two-word phrase. The KJV also uses the same English word of God: Psalms 121:2 "My help cometh from the LORD, which made heaven and earth." A word that the KJV applies both to a wife and to God is not a statement about rank. The tools here cannot confirm the Hebrew behind a given occurrence. The link of _ezer_ to God is the usual concordance reading.
+Reading (not lexical data): The entry has one word: "aid". The KJV phrase "help meet" is not Hebrew _ezer_ plus a Hebrew word for "meet". "Meet" is a separate English word that means "suitable". Do not build on the English two-word phrase. The KJV also uses the same English word of God: Psalms 121:2 "My help cometh from the LORD, which made heaven and earth." A word that the KJV applies both to a wife and to God is not a statement about rank. The tools here cannot confirm the Hebrew behind a given occurrence. The link of _ezer_ to God is the usual concordance reading.
+
+A note on "help meet". Disputed: what Genesis 2 teaches about the roles of man and woman. Both views agree that the word _ezer_ implies no lower worth, and that the word alone does not settle the question of roles.
+
+- Complementarian readers hold that Genesis 2 sets an order of roles within equal worth, before the fall. Paul argues from creation, not from the curse: "Neither was the man created for the woman; but the woman for the man" (1 Corinthians 11:9), and "For Adam was first formed, then Eve" (1 Timothy 2:13). He grounds headship in Christ: "For the husband is the head of the wife, even as Christ is the head of the church" (Ephesians 5:23). He defines it as self-giving: "Husbands, love your wives, even as Christ also loved the church, and gave himself for it" (Ephesians 5:25). On this view, "he shall rule over thee" (Genesis 3:16) describes how sin bends that order. In the Hebrew, Genesis 4:7 uses the same two words, desire and rule: "And unto thee shall be his desire, and thou shalt rule over him." There the desire is a drive to master. So 3:16 can describe a desire to control, met by harsh rule.
+- Egalitarian readers hold that Genesis 2 sets no order of rule. Both bear the image, and both receive the dominion (Genesis 1:27-28). On this view, "he shall rule over thee" (Genesis 3:16) is the first rule of one over the other, and it comes as a result of the fall, like the thorns. Rule one says that "Genesis 3 describes the curse." They read Ephesians 5 in the light of 5:21, "Submitting yourselves one to another in the fear of God". They read the letters to Corinth and to Timothy as directions for particular churches, and they cite "there is neither male nor female: for ye are all one in Christ Jesus" (Galatians 3:28).
 
 ### H1588 · גַּן · _gan_: garden
 
@@ -288,7 +301,7 @@ Inference (not lexical data): The entry has one word: "aid". The KJV phrase "hel
 - KJV glosses: garden.
 - Verified: Genesis 2:8 "And the LORD God planted a garden eastward in Eden".
 
-Inference (not lexical data): "as fenced" is a note in the dictionary itself. The root H1598 `ganan` is _"to hedge about, i.e. (generally) protect"_, glossed "defend". This is a fact about the root, and etymology is not meaning (see `SKILL.md`). Do not build a doctrine of boundaries on the root alone. The boundary in Genesis 2 comes from the text: the command of 2:16-17, and the guarded keeping (`shamar`) of 2:15. The root agrees with that reading. It does not prove it.
+Reading (not lexical data): "as fenced" is a note in the dictionary itself. The root H1598 `ganan` is _"to hedge about, i.e. (generally) protect"_, glossed "defend". This is a fact about the root, and etymology is not meaning (see `SKILL.md`). Do not build a doctrine of boundaries on the root alone. The boundary in Genesis 2 comes from the text: the command of 2:16-17, and the guarded keeping (`shamar`) of 2:15. The root agrees with that reading. It does not prove it.
 
 ### H3808 · לֹא · _lo_: not
 
@@ -298,7 +311,7 @@ Inference (not lexical data): "as fenced" is a note in the dictionary itself. Th
 - Verified: Genesis 2:18 "It is not good that the man should be alone". The pair
 H2896 + H3808 is an ordinary negation + adjective: literally "not good".
 
-Inference (not lexical data): The pair is the first occurrence of the phrase "not good" in the KJV (`search "not good"` returns Genesis 2:18 first). The condition that it names is a single person with no counterpart. To read that condition as a business condition (a single operator with no counterpart) is an inference. It comes from the plain sense of the text, not from a special meaning of `lo`.
+Reading (not lexical data): The pair is the first occurrence of the phrase "not good" in the KJV (`search "not good"` returns Genesis 2:18 first). The condition that it names is a single person with no counterpart. To read that condition as a business condition (a single operator with no counterpart) is an inference. It comes from the plain sense of the text, not from a special meaning of `lo`.
 
 ### H398 · אָכַל · _akal_: eat
 
@@ -308,7 +321,7 @@ Inference (not lexical data): The pair is the first occurrence of the phrase "no
 - Verified: Genesis 2:16 "Of every tree of the garden thou mayest freely eat". The
 reverse map confirms H398 is one of the words the KJV renders "eat".
 
-Inference (not lexical data): The KJV "freely eat" renders the Hebrew infinitive absolute construction, a standard intensifier: "you may surely eat". "Freely" is an English intensifier. It is not a term that grants unlimited license.
+Reading (not lexical data): The KJV "freely eat" renders the Hebrew infinitive absolute construction, a standard intensifier: "you may surely eat". "Freely" is an English intensifier. It is not a term that grants unlimited license.
 
 ### H1692 · דָּבַק · _davaq_: cleave
 
@@ -317,7 +330,7 @@ Inference (not lexical data): The KJV "freely eat" renders the Hebrew infinitive
 - KJV glosses: abide fast, cleave (fast together), follow close (hard after), be joined (together), keep (fast), overtake, pursue hard, stick, take.
 - Verified: Genesis 2:24 "and shall cleave unto his wife: and they shall be one flesh."
 
-Inference (not lexical data): The gloss list is physical and active: "abide fast", "follow close (hard after)", "pursue hard", "stick". This is adhesion, not sentiment. The dictionary does not support a reading of "cleave" here as mainly a feeling.
+Reading (not lexical data): The gloss list is physical and active: "abide fast", "follow close (hard after)", "pursue hard", "stick". This is adhesion, not sentiment. The dictionary does not support a reading of "cleave" here as mainly a feeling.
 
 ### H1320 · בָּשָׂר · _basar_: flesh
 
@@ -335,7 +348,7 @@ Note on the source text: the definition in the dictionary contains the typograph
 - KJV glosses: a, alike, alone, altogether, and, any(-thing), apiece, a certain, (dai-) ly, each (one), [phrase] eleven, every, few, first, [phrase] highway, a man, once, one, only, other, some, together,
 - Verified: Genesis 2:24 "and they shall be one flesh."
 
-Inference (not lexical data): The first gloss in the dictionary is "properly, united". Know this before you argue that `echad` must mean a strict numerical singularity. This entry says that "united" is the primary sense and that "first" is also in range.
+Reading (not lexical data): The first gloss in the dictionary is "properly, united". Know this before you argue that `echad` must mean a strict numerical singularity. This entry says that "united" is the primary sense and that "first" is also in range.
 
 ---
 
@@ -362,7 +375,7 @@ Verified text for the chapter's key verses:
 - KJV glosses: crafty, prudent, subtil.
 - Verified: Genesis 3:1 "Now the serpent was more subtil than any beast of the field".
 
-Inference (not lexical data): The gloss list contains both "crafty" and "prudent", so the word has a good use elsewhere. But the dictionary marks its usual sense as bad, and in Genesis 3:1 the deception that follows decides the sense. Do not build on the favorable gloss here. In this verse the KJV "subtil" means crafty, the same sense as "his subtilty" in 2 Corinthians 11:3.
+Reading (not lexical data): The gloss list contains both "crafty" and "prudent", so the word has a good use elsewhere. But the dictionary marks its usual sense as bad, and in Genesis 3:1 the deception that follows decides the sense. Do not build on the favorable gloss here. In this verse the KJV "subtil" means crafty, the same sense as "his subtilty" in 2 Corinthians 11:3.
 
 ### H5175 · נָחָשׁ · _nachash_: serpent
 
@@ -371,7 +384,7 @@ Inference (not lexical data): The gloss list contains both "crafty" and "prudent
 - KJV glosses: serpent.
 - Verified: Genesis 3:1 "Now the serpent was more subtil", Genesis 3:13 "The serpent beguiled me".
 
-Inference (not lexical data): The entry says only "a snake (from its hiss)". The dictionary does not identify this creature with any named spiritual being. That identification is a theological step taken from elsewhere in the canon, not from this word.
+Reading (not lexical data): The entry says only "a snake (from its hiss)". The dictionary does not identify this creature with any named spiritual being. That identification is a theological step taken from elsewhere in the canon, not from this word.
 
 ### H5377 · נָשָׁא · _nasha_: beguiled
 
@@ -381,7 +394,7 @@ Inference (not lexical data): The entry says only "a snake (from its hiss)". The
 - Verified: Genesis 3:13 "The serpent beguiled me, and I did eat.", the reverse map
 confirms H5377 is one of the words the KJV renders "beguile".
 
-Inference (not lexical data): The dictionary splits the sense cleanly: mental delusion and moral seduction. So the failure in Genesis 3 is not ignorance, and it is not only weakness. The word covers both a false belief and a desire that pulls. If you reason about how bad decisions happen, this entry describes the mechanism, not only the outcome.
+Reading (not lexical data): The dictionary splits the sense cleanly: mental delusion and moral seduction. So the failure in Genesis 3 is not ignorance, and it is not only weakness. The word covers both a false belief and a desire that pulls. If you reason about how bad decisions happen, this entry describes the mechanism, not only the outcome.
 
 ### H6093 · עִצָּבוֹן · _itsabon_: sorrow
 
@@ -390,7 +403,7 @@ Inference (not lexical data): The dictionary splits the sense cleanly: mental de
 - KJV glosses: sorrow, toil.
 - Verified: Genesis 3:16 "I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children", Genesis 3:17 "in sorrow shalt thou eat of it all the days of thy life".
 
-Inference (not lexical data): The first word in the dictionary is "worrisomeness", and the range is "labor or pain". The KJV gloss list itself gives "toil" beside "sorrow". So the toil of 3:17, under the curse on the ground ("cursed is the ground for thy sake"), uses the same word as the pain of childbirth. The ground is cursed, not the work. The word is as much about grinding effort as about grief.
+Reading (not lexical data): The first word in the dictionary is "worrisomeness", and the range is "labor or pain". The KJV gloss list itself gives "toil" beside "sorrow". So the toil of 3:17, under the curse on the ground ("cursed is the ground for thy sake"), uses the same word as the pain of childbirth. The ground is cursed, not the work. The word is as much about grinding effort as about grief.
 
 ### H6975 · קוֹץ · _qots_: thorns
 
@@ -407,7 +420,7 @@ Inference (not lexical data): The first word in the dictionary is "worrisomeness
 - Verified: Genesis 3:18 "Thorns also and thistles shall it bring forth to thee". The
 reverse map shows H1863 is one of three entries the KJV renders "thistle".
 
-Inference (not lexical data): The two words are near-duplicates. The dictionary defines both as "a thorn". The point of the line is that the ground now obstructs the work. It does not describe two distinct botanical categories.
+Reading (not lexical data): The two words are near-duplicates. The dictionary defines both as "a thorn". The point of the line is that the ground now obstructs the work. It does not describe two distinct botanical categories.
 
 ### H2188 · זֵעָה · _zeah_: sweat
 
@@ -423,7 +436,7 @@ Inference (not lexical data): The two words are near-duplicates. The dictionary 
 - KJV glosses: desire.
 - Verified: Genesis 3:16 "and thy desire shall be to thy husband, and he shall rule over thee."
 
-Inference (not lexical data): The dictionary gives "a longing" and says nothing about direction or control. Readers usually group three KJV verses here, because the same English word "desire" appears in each:
+Reading (not lexical data): The dictionary gives "a longing" and says nothing about direction or control. Readers usually group three KJV verses here, because the same English word "desire" appears in each:
 
 - Genesis 3:16 "and thy desire shall be to thy husband, and he shall rule over thee"
 - Genesis 4:7 "And unto thee shall be his desire, and thou shalt rule over him"
@@ -438,7 +451,7 @@ A much-argued reading of 3:16 is "your desire shall be _to control_ your husband
 - KJV glosses: (have, make to have) dominion, governor, [idiom] indeed, reign, (bear, cause to, have) rule(-ing, -r), have power.
 - Verified: Genesis 3:16 "and he shall rule over thee."
 
-Inference (not lexical data): The entry is two words: "to rule". This is a different verb from `radah` (H7287) and `kabash` (H3533) in Genesis 1. The gloss list runs "dominion, governor, reign, rule, have power", which is a range of government. The word does not decide if 3:16 describes a command, a prediction, or a consequence.
+Reading (not lexical data): The entry is two words: "to rule". This is a different verb from `radah` (H7287) and `kabash` (H3533) in Genesis 1. The gloss list runs "dominion, governor, reign, rule, have power", which is a range of government. The word does not decide if 3:16 describes a command, a prediction, or a consequence.
 
 ### H3801 · כְּתֹנֶת · _kethoneth_: coats
 
@@ -447,7 +460,7 @@ Inference (not lexical data): The entry is two words: "to rule". This is a diffe
 - KJV glosses: coat, garment, robe.
 - Verified: Genesis 3:21 "did the LORD God make coats of skins, and clothed them."
 
-Inference (not lexical data): The dictionary says "a shirt". This is a word for a garment. It is used elsewhere of the tunic of the priest and of the coat of Joseph. An argument built on the material ("skins") needs a theology of sacrifice brought in from other texts. The word itself is about clothing.
+Reading (not lexical data): The dictionary says "a shirt". This is a word for a garment. It is used elsewhere of the tunic of the priest and of the coat of Joseph. An argument built on the material ("skins") needs a theology of sacrifice brought in from other texts. The word itself is about clothing.
 
 ### H3742 · כְּרוּב · _kerub_: cherubims
 
@@ -465,7 +478,7 @@ Note on the source text: the phrase "or imaginary figure" is the wording of the 
 - KJV glosses: flaming, enchantment.
 - Verified: Genesis 3:24 "and a flaming sword which turned every way".
 
-Inference (not lexical data): The KJV gloss list pairs "flaming" with "enchantment". The word also appears in Exodus 7:11 of the magicians. The sense "blaze" and the sense "magic" in the dictionary are separate branches of one root.
+Reading (not lexical data): The KJV gloss list pairs "flaming" with "enchantment". The word also appears in Exodus 7:11 of the magicians. The sense "blaze" and the sense "magic" in the dictionary are separate branches of one root.
 
 ### H3978 · מַאֲכָל · _ma'akhal_: food
 
@@ -481,7 +494,7 @@ Inference (not lexical data): The KJV gloss list pairs "flaming" with "enchantme
 - KJV glosses: beauty, greatly beloved, covet, delectable thing, ([idiom] great) delight, desire, goodly, lust, (be) pleasant (thing), precious (thing).
 - Verified: Genesis 3:6 "a tree to be desired to make one wise". The reverse map confirms that H2530 is among the words that the KJV renders "desire" and "pleasant". In Genesis 3:6 "pleasant to the eyes" is H8378, not H2530 (see below).
 
-Inference (not lexical data): In Genesis 3:6 this verb stands behind "to be desired" ("a tree to be desired to make one wise"). The phrase "pleasant to the eyes" uses a different word, H8378 `ta'avah`, _"a longing; by implication, a delight (subjectively, satisfaction, objectively, a charm)"_. The same verb `chamad` appears in the tenth commandment ("Thou shalt not covet") and in Genesis 2:9 of trees that were good. The dictionary lists "delight in" as the core sense. "Covet" and "lust" are at one end of the range, and "beauty" and "precious" are at the other. The word is not a moral verdict in itself. The object and the disposition make it covetousness. An argument that "desire is evil" must get there from somewhere other than this entry. (The link of each word to its phrase is the usual concordance link. The tools do not tag verses.)
+Reading (not lexical data): In Genesis 3:6 this verb stands behind "to be desired" ("a tree to be desired to make one wise"). The phrase "pleasant to the eyes" uses a different word, H8378 `ta'avah`, _"a longing; by implication, a delight (subjectively, satisfaction, objectively, a charm)"_. The same verb `chamad` appears in the tenth commandment ("Thou shalt not covet") and in Genesis 2:9 of trees that were good. The dictionary lists "delight in" as the core sense. "Covet" and "lust" are at one end of the range, and "beauty" and "precious" are at the other. The word is not a moral verdict in itself. The object and the disposition make it covetousness. An argument that "desire is evil" must get there from somewhere other than this entry. (The link of each word to its phrase is the usual concordance link. The tools do not tag verses.)
 
 ### H7919 · שָׂכַל · _sakal_: make one wise
 
@@ -490,7 +503,7 @@ Inference (not lexical data): In Genesis 3:6 this verb stands behind "to be desi
 - KJV glosses: consider, expert, instruct, prosper, (deal) prudent(-ly), (give) skill(-ful), have good success, teach, (have, make to) understand(-ing), wisdom, (be, behave self, consider, make) wise(-ly), guide wittingly.
 - Verified: Genesis 3:6 "a tree to be desired to make one wise".
 
-Inference (not lexical data): The gloss list pairs "wisdom" with "prosper", "have good success", "skill", and "expert". The range of the word covers practical skill as well as understanding. The dictionary does not describe the temptation. The text does: the serpent promises "ye shall be as gods, knowing good and evil" (3:5). Inference: the desire "to make one wise" is one strand of that offer. It is wisdom taken on the serpent's terms, against the word of God. An application to the pursuit of competence in business is an inference, and you must label it.
+Reading (not lexical data): The gloss list pairs "wisdom" with "prosper", "have good success", "skill", and "expert". The range of the word covers practical skill as well as understanding. The dictionary does not describe the temptation. The text does: the serpent promises "ye shall be as gods, knowing good and evil" (3:5). Reading: the desire "to make one wise" is one strand of that offer. It is wisdom taken on the serpent's terms, against the word of God. An application to the pursuit of competence in business is an inference, and you must label it.
 
 ---
 
@@ -506,7 +519,7 @@ with the accents as printed there.
 - KJV glosses: foundation
 - Verified: 1 Corinthians 3:11 "For other foundation can no man lay than that is laid, which is Jesus Christ.", Luke 6:48 "and laid the foundation on a rock", Luke 6:49 "is like a man that without a foundation built an house upon the earth".
 
-Inference (not lexical data): The definition is the language of construction: "something put down". Luke 6:48-49 shows the vocabulary at work. The same house has two possible foundations, and the difference appears only under load. That is a claim about structure, and it transfers to businesses without stretching the word.
+Reading (not lexical data): The definition is the language of construction: "something put down". Luke 6:48-49 shows the vocabulary at work. The same house has two possible foundations, and the difference appears only under load. That is a claim about structure, and it transfers to businesses without stretching the word.
 
 ### G204 · akrogōniaîos · ἀκρογωνιαῖος: chief corner stone
 
@@ -516,7 +529,7 @@ Inference (not lexical data): The definition is the language of construction: "s
 - Verified: Ephesians 2:20 "Jesus Christ himself being the chief corner stone",
 1 Peter 2:6 "Behold, I lay in Sion a chief corner stone, elect, precious".
 
-Inference (not lexical data): The etymology is exact: "extreme corner". The dictionary says nothing about the structural role of the stone (capstone, keystone, or foundation corner). Arguments about load-bearing versus alignment depend on the architecture, not on this entry.
+Reading (not lexical data): The etymology is exact: "extreme corner". The dictionary says nothing about the structural role of the stone (capstone, keystone, or foundation corner). Arguments about load-bearing versus alignment depend on the architecture, not on this entry.
 
 ### G5287 · hypóstasis · ὑπόστασις: substance
 
@@ -525,7 +538,7 @@ Inference (not lexical data): The etymology is exact: "extreme corner". The dict
 - KJV glosses: confidence, confident, person, substance
 - Verified: Hebrews 11:1 "Now faith is the substance of things hoped for, the evidence of things not seen."
 
-Inference (not lexical data): "A setting under (support)" is literally what the parts of the word mean: `hypo` (under) + `histemi` (stand). The dictionary then splits into "essence" and "assurance". So in Hebrews 11:1 you can read the word either as _that which underlies_ or as _confident expectation_. The dictionary does not choose, and a choice is interpretation. The word is a foundation idea, but it is not the New Testament word for "foundation". That word is G2310 `themélios`.
+Reading (not lexical data): "A setting under (support)" is literally what the parts of the word mean: `hypo` (under) + `histemi` (stand). The dictionary then splits into "essence" and "assurance". So in Hebrews 11:1 you can read the word either as _that which underlies_ or as _confident expectation_. The dictionary does not choose, and a choice is interpretation. The word is a foundation idea, but it is not the New Testament word for "foundation". That word is G2310 `themélios`.
 
 ### G1650 · élenchos · ἔλεγχος: evidence
 
@@ -534,7 +547,7 @@ Inference (not lexical data): "A setting under (support)" is literally what the 
 - KJV glosses: evidence, reproof
 - Verified: Hebrews 11:1 "the evidence of things not seen."
 
-Inference (not lexical data): There are two glosses: "proof" and "conviction". The word covers both the thing that convinces and the state of being convinced. An argument about "evidence" in a business or epistemic (about knowledge) sense must say which of the two it means.
+Reading (not lexical data): There are two glosses: "proof" and "conviction". The word covers both the thing that convinces and the state of being convinced. An argument about "evidence" in a business or epistemic (about knowledge) sense must say which of the two it means.
 
 ### G4747 · stoicheîon · στοιχεῖον: first principles / rudiments
 
@@ -543,7 +556,7 @@ Inference (not lexical data): There are two glosses: "proof" and "conviction". T
 - KJV glosses: element, principle, rudiment
 - Verified: Hebrews 5:12 "ye have need that one teach you again which be the first principles of the oracles of God", Colossians 2:8 "after the rudiments of the world, and not after Christ", Galatians 4:9 "how turn ye again to the weak and beggarly elements".
 
-Inference (not lexical data): This is one of the two Greek words behind the KJV phrase _first principles_. Its definition is "a serial (basal, fundamental, initial) constituent". In Hebrews 5:12 the Greek phrase is _ta stoicheia tēs archēs_. It joins this word with G746 `archḗ`, "beginning" (glossed "principle" among others). In Hebrews 6:1 the word "principles" renders `archḗ` alone. The tools do not tag verses, so this reading of each verse comes from the Greek text. The English phrase "first principles" occurs in exactly 1 verse in the KJV (`search "first principles"`), and it is the verse above. In both Colossians 2:8 and Galatians 4:9 the word is negative: the "rudiments" are the thing to beware of. The dictionary does not license the view that `stoicheion` is good by default. First-principles reasoning is the practice of getting to basal constituents. If a given set of them is sound, that is a separate question.
+Reading (not lexical data): This is one of the two Greek words behind the KJV phrase _first principles_. Its definition is "a serial (basal, fundamental, initial) constituent". In Hebrews 5:12 the Greek phrase is _ta stoicheia tēs archēs_. It joins this word with G746 `archḗ`, "beginning" (glossed "principle" among others). In Hebrews 6:1 the word "principles" renders `archḗ` alone. The tools do not tag verses, so this reading of each verse comes from the Greek text. The English phrase "first principles" occurs in exactly 1 verse in the KJV (`search "first principles"`), and it is the verse above. In both Colossians 2:8 and Galatians 4:9 the word is negative: the "rudiments" are the thing to beware of. The dictionary does not license the view that `stoicheion` is good by default. First-principles reasoning is the practice of getting to basal constituents. If a given set of them is sound, that is a separate question.
 
 ### G26 · agápē · ἀγάπη: charity / love
 
@@ -552,7 +565,7 @@ Inference (not lexical data): This is one of the two Greek words behind the KJV 
 - KJV glosses: (feast of) charity(-ably), dear, love
 - Verified: 1 Corinthians 13:4 "Charity suffereth long, and is kind; charity envieth not", 1 Corinthians 13:13 "And now abideth faith, hope, charity, these three; but the greatest of these is charity.", and the reverse map shows that G26 is the only entry that the KJV renders "charity". The word "charity" occurs in 24 verses of the KJV.
 
-Inference (not lexical data): `agapē` is the standard Greek noun for love. In 1 Corinthians 13 the KJV renders it "charity", and elsewhere it usually renders it "love". The sense "alms" also existed in English before 1611, but this chapter does not use it. See section 4 of `kjv-1611.md`: the modern sense of "charity" reverses the argument. In 1 Corinthians 13:3 "and have not charity... it profiteth me nothing", the modern reader hears "if I do not donate to the poor". That reading gets the sentence backwards. The verse says that a donation without love profits nothing.
+Reading (not lexical data): `agapē` is the standard Greek noun for love. In 1 Corinthians 13 the KJV renders it "charity", and elsewhere it usually renders it "love". The sense "alms" also existed in English before 1611, but this chapter does not use it. See section 4 of `kjv-1611.md`: the modern sense of "charity" reverses the argument. In 1 Corinthians 13:3 "and have not charity... it profiteth me nothing", the modern reader hears "if I do not donate to the poor". That reading gets the sentence backwards. The verse says that a donation without love profits nothing.
 
 ### G4102 · pístis · πίστις: faith
 
@@ -561,7 +574,7 @@ Inference (not lexical data): `agapē` is the standard Greek noun for love. In 1
 - KJV glosses: assurance, belief, believe, faith, fidelity
 - Verified: Hebrews 11:1 "Now faith is the substance of things hoped for", Ephesians 2:8 "For by grace are ye saved through faith".
 
-Inference (not lexical data): The root is `peitho`, "to persuade". The primary sense in the dictionary is "persuasion, i.e. credence", and the gloss list includes "fidelity": faithfulness, not only belief. The entry also includes "constancy in such profession". So "faith" in this vocabulary is not "belief without evidence". The entry describes persuasion and reliability, and it names the chief object of faith: "especially reliance upon Christ for salvation". An argument that treats faith as the opposite of evidence argues against a definition that this dictionary does not give.
+Reading (not lexical data): The root is `peitho`, "to persuade". The primary sense in the dictionary is "persuasion, i.e. credence", and the gloss list includes "fidelity": faithfulness, not only belief. The entry also includes "constancy in such profession". So "faith" in this vocabulary is not "belief without evidence". The entry describes persuasion and reliability, and it names the chief object of faith: "especially reliance upon Christ for salvation". An argument that treats faith as the opposite of evidence argues against a definition that this dictionary does not give.
 
 ### G1680 · elpís · ἐλπίς: hope
 
@@ -570,7 +583,7 @@ Inference (not lexical data): The root is `peitho`, "to persuade". The primary s
 - KJV glosses: faith, hope
 - Verified: Hebrews 6:19 "Which hope we have as an anchor of the soul, both sure and stedfast".
 
-Inference (not lexical data): The entry says "expectation... or confidence", and the KJV gloss list includes "faith". So the KJV does not keep `pistis` and `elpis` strictly apart either. Hebrews 6:19 grounds the word in something already secured. For that reason it can be called an anchor and not a wish.
+Reading (not lexical data): The entry says "expectation... or confidence", and the KJV gloss list includes "faith". So the KJV does not keep `pistis` and `elpis` strictly apart either. Hebrews 6:19 grounds the word in something already secured. For that reason it can be called an anchor and not a wish.
 
 ### G3670 · homologéō · ὁμολογέω: confess
 
@@ -579,7 +592,7 @@ Inference (not lexical data): The entry says "expectation... or confidence", and
 - KJV glosses: con- (pro-)fess, confession is made, give thanks, promise
 - Verified: Romans 10:9 "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved."
 
-Inference (not lexical data): The etymology is "same word": `homou` + `logos`. The range in the dictionary runs "assent", "covenant", "acknowledge", "promise", "give thanks". This is not private opinion. It is saying the same thing, out loud, as a binding acknowledgment. That is a specific kind of speech act, and it is different from only holding a view.
+Reading (not lexical data): The etymology is "same word": `homou` + `logos`. The range in the dictionary runs "assent", "covenant", "acknowledge", "promise", "give thanks". This is not private opinion. It is saying the same thing, out loud, as a binding acknowledgment. That is a specific kind of speech act, and it is different from only holding a view.
 
 ### G3623 · oikonómos · οἰκονόμος: steward
 
@@ -588,7 +601,7 @@ Inference (not lexical data): The etymology is "same word": `homou` + `logos`. T
 - KJV glosses: chamberlain, governor, steward
 - Verified: Luke 12:42 "Who then is that faithful and wise steward, whom his lord shall make ruler over his household", 1 Corinthians 4:1–2 "as of the ministers of Christ, and stewards of the mysteries of God. Moreover it is required in stewards, that a man be found faithful."
 
-Inference (not lexical data): The terms of the dictionary are precise: "employee", "manager", "fiscal agent (treasurer)". The steward is not the owner. 1 Corinthians 4:2 states the requirement in one clause, "found faithful". The dictionary defines the job (distribute the resources of the household) apart from the requirement (faithfulness). If you reason about what a manager owes, this entry specifies the role, and the text gives the standard of judgment.
+Reading (not lexical data): The terms of the dictionary are precise: "employee", "manager", "fiscal agent (treasurer)". The steward is not the owner. 1 Corinthians 4:2 states the requirement in one clause, "found faithful". The dictionary defines the job (distribute the resources of the household) apart from the requirement (faithfulness). If you reason about what a manager owes, this entry specifies the role, and the text gives the standard of judgment.
 
 ### G5007 · tálanton · τάλαντον: talent
 
@@ -597,7 +610,7 @@ Inference (not lexical data): The terms of the dictionary are precise: "employee
 - KJV glosses: talent
 - Verified: Matthew 25:15 "And unto one he gave five talents, to another two, and to another one", Matthew 18:24 "one was brought unto him, which owed him ten thousand talents.", 1 Kings 10:14 "Now the weight of gold that came to Solomon in one year was six hundred threescore and six talents of gold,", Exodus 38:24 "was twenty and nine talents, and seven hundred and thirty shekels,".
 
-Inference (not lexical data): This is the clearest example in the lexicon of a word whose modern meaning came _from_ a parable. The parable did not preserve it. The dictionary says: a balance, a weight, "a coin or rather sum of money". It says nothing about innate ability. See section 4 of `kjv-1611.md` for the full reversal and section 3 for the unit conversions.
+Reading (not lexical data): This is the clearest example in the lexicon of a word whose modern meaning came _from_ a parable. The parable did not preserve it. The dictionary says: a balance, a weight, "a coin or rather sum of money". It says nothing about innate ability. See section 4 of `kjv-1611.md` for the full reversal and section 3 for the unit conversions.
 
 ### G888 · achreîos · ἀχρεῖος: unprofitable
 
@@ -606,7 +619,7 @@ Inference (not lexical data): This is the clearest example in the lexicon of a w
 - KJV glosses: unprofitable
 - Verified: Luke 17:10 "say, We are unprofitable servants: we have done that which was our duty to do.", Matthew 25:30 "And cast ye the unprofitable servant into outer darkness".
 
-Inference (not lexical data): The dictionary gives "useless, i.e. (euphemistically) unmeritorious". Luke 17:10 puts the word in the mouth of servants who did exactly what they were told, and they still call themselves this. That is the opposite of an argument for standing based on merit. The evidence is in the Greek word itself, not in a choice of the translator.
+Reading (not lexical data): The dictionary gives "useless, i.e. (euphemistically) unmeritorious". Luke 17:10 puts the word in the mouth of servants who did exactly what they were told, and they still call themselves this. That is the opposite of an argument for standing based on merit. The evidence is in the Greek word itself, not in a choice of the translator.
 
 ### G4103 · pistós · πιστός: faithful
 
@@ -615,7 +628,7 @@ Inference (not lexical data): The dictionary gives "useless, i.e. (euphemistical
 - KJV glosses: believe(-ing, -r), faithful(-ly), sure, true
 - Verified: Luke 12:42 "that faithful and wise steward", 1 Corinthians 4:2 "it is required in stewards, that a man be found faithful", Matthew 25:21 "Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things".
 
-Inference (not lexical data): The dictionary has two sides: "objectively, trustworthy; subjectively, trustful". Reliability and reliance are the same word. Matthew 25:21 ties promotion directly to it ("over a few things" → "over many things"). That tie is in the text, not in the lexicon. But the lexicon tells you that the quality under test is trustworthiness, not results.
+Reading (not lexical data): The dictionary has two sides: "objectively, trustworthy; subjectively, trustful". Reliability and reliance are the same word. Matthew 25:21 ties promotion directly to it ("over a few things" → "over many things"). That tie is in the text, not in the lexicon. But the lexicon tells you that the quality under test is trustworthiness, not results.
 
 ### G1411 · dýnamis · δύναμις: power
 
@@ -624,7 +637,7 @@ Inference (not lexical data): The dictionary has two sides: "objectively, trustw
 - KJV glosses: ability, abundance, meaning, might(-ily, -y, -y deed), (worker of) miracle(-s), power, strength, violence, mighty (wonderful) work
 - Verified: Acts 1:8 "But ye shall receive power, after that the Holy Ghost is come upon you", 1 Corinthians 1:24 "Christ the power of God, and the wisdom of God."
 
-Inference (not lexical data): "Force" is the primary sense. The gloss list includes "ability", "abundance", "strength", and "violence". This is capacity, not permission. The next entry gives the other word. The English word "power" flattens both, and that flattening breaks most arguments that use the word.
+Reading (not lexical data): "Force" is the primary sense. The gloss list includes "ability", "abundance", "strength", and "violence". This is capacity, not permission. The next entry gives the other word. The English word "power" flattens both, and that flattening breaks most arguments that use the word.
 
 ### G1849 · exousía · ἐξουσία: authority
 
@@ -633,7 +646,7 @@ Inference (not lexical data): "Force" is the primary sense. The gloss list inclu
 - KJV glosses: authority, jurisdiction, liberty, power, right, strength
 - Verified: Matthew 28:18 "All power is given unto me in heaven and in earth."
 
-Inference (not lexical data): The definition is clear: "privilege", "competency", "freedom", "mastery", "magistrate", "token of control", "delegated influence". `exousia` is the right or warrant to act. `dunamis` (G1411) is the capacity to act. The dictionary supplies the distinction, and the application is yours. Inference: a warrant that is delegated can also be withdrawn. The definition does not say this. It is a reading of "delegated". Know what the tools can and cannot do here. They cannot tell you which Greek word stands behind a given English "power", so do not assert the tagging. You can say that Matthew 28:18 speaks of power that is _given_: "All power is given unto me in heaven and in earth." A warrant that is granted has the shape of `exousia`, not of `dunamis`.
+Reading (not lexical data): The definition is clear: "privilege", "competency", "freedom", "mastery", "magistrate", "token of control", "delegated influence". `exousia` is the right or warrant to act. `dunamis` (G1411) is the capacity to act. The dictionary supplies the distinction, and the application is yours. Reading: a warrant that is delegated can also be withdrawn. The definition does not say this. It is a reading of "delegated". Know what the tools can and cannot do here. They cannot tell you which Greek word stands behind a given English "power", so do not assert the tagging. You can say that Matthew 28:18 speaks of power that is _given_: "All power is given unto me in heaven and in earth." A warrant that is granted has the shape of `exousia`, not of `dunamis`.
 
 ### G3341 · metánoia · μετάνοια: repentance
 
@@ -642,7 +655,7 @@ Inference (not lexical data): The definition is clear: "privilege", "competency"
 - KJV glosses: repentance
 - Verified: Hebrews 12:17 "he found no place of repentance, though he sought it carefully with tears."
 
-Inference (not lexical data): The definition includes "reformation" and "reversal", beside the feeling of compunction. So the word is not regret. It is a change of course. In a business context, that distinction is the difference between an apology and a corrected process.
+Reading (not lexical data): The definition includes "reformation" and "reversal", beside the feeling of compunction. So the word is not regret. It is a change of course. In a business context, that distinction is the difference between an apology and a corrected process.
 
 ### G5046 · téleios · τέλειος: perfect / complete
 
@@ -651,7 +664,7 @@ Inference (not lexical data): The definition includes "reformation" and "reversa
 - KJV glosses: of full age, man, perfect
 - Verified: Matthew 5:48 "Be ye therefore perfect, even as your Father which is in heaven is perfect.", James 1:4 "But let patience have her perfect work, that ye may be perfect and entire, wanting nothing."
 
-Inference (not lexical data): The first gloss in the dictionary is "complete", and the derivation is `telos`: end, goal. The KJV gloss list includes "of full age", which is the language of maturity. James 1:4 states the sense with three phrases: "perfect and entire, wanting nothing". An argument that reads "perfect" as _flawless_ uses a modern sense. The word is about reaching the intended end.
+Reading (not lexical data): The first gloss in the dictionary is "complete", and the derivation is `telos`: end, goal. The KJV gloss list includes "of full age", which is the language of maturity. James 1:4 states the sense with three phrases: "perfect and entire, wanting nothing". An argument that reads "perfect" as _flawless_ uses a modern sense. The word is about reaching the intended end.
 
 ### G2758 · kenóō · κενόω: emptied
 
@@ -660,7 +673,7 @@ Inference (not lexical data): The first gloss in the dictionary is "complete", a
 - KJV glosses: make (of none effect, of no reputation, void), be in vain
 - Verified: Philippians 2:7 "But made himself of no reputation, and took upon him the form of a servant".
 
-Inference (not lexical data): The KJV at Philippians 2:7 does not use the word "emptied". The gloss list for G2758 contains "make (of none effect, of no reputation, void)". The English phrase "of no reputation" occurs in exactly 1 verse in the KJV (`search "of no reputation"`): Philippians 2:7. So the KJV renders `kenoo` there as "made himself of no reputation". The well-known "kenosis" (self-emptying) reading rests on the Greek word and its normal meaning ("to make empty", "abase", "neutralize"). It does not rest on the English of the KJV. If you cite Philippians 2:7 for a claim about self-emptying, cite the Greek. Also note that the range in the dictionary includes "neutralize" and "falsify" as well as "empty".
+Reading (not lexical data): The KJV at Philippians 2:7 does not use the word "emptied". The gloss list for G2758 contains "make (of none effect, of no reputation, void)". The English phrase "of no reputation" occurs in exactly 1 verse in the KJV (`search "of no reputation"`): Philippians 2:7. So the KJV renders `kenoo` there as "made himself of no reputation". The well-known "kenosis" (self-emptying) reading rests on the Greek word and its normal meaning ("to make empty", "abase", "neutralize"). It does not rest on the English of the KJV. If you cite Philippians 2:7 for a claim about self-emptying, cite the Greek. Also note that the range in the dictionary includes "neutralize" and "falsify" as well as "empty".
 
 A parallel idea, not this word: 2 Corinthians 8:9 "though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich." There, "became poor" is G4433 `ptōcheúō`, _"to be a beggar, i.e. (by implication) to become indigent (figuratively)"_, not `kenoo`.
 
@@ -673,7 +686,7 @@ A parallel idea, not this word: 2 Corinthians 8:9 "though he was rich, yet for y
 
 Note on the source text: the parentheses in the KJV gloss field are unbalanced in the source entry ("loneliness (of mind"). This file copies it verbatim as printed.
 
-Inference (not lexical data): `phren` is the mind, so the compound means literally "low-mindedness". It is a deliberate posture of the mind, not a low estimate of oneself. Look at Colossians 2:18: the same word appears with "voluntary", and the verse treats it as a problem. The word does not validate itself. The dictionary does not tell you when lowliness of mind is a virtue and when it is a pose.
+Reading (not lexical data): `phren` is the mind, so the compound means literally "low-mindedness". It is a deliberate posture of the mind, not a low estimate of oneself. Look at Colossians 2:18: the same word appears with "voluntary", and the verse treats it as a problem. The word does not validate itself. The dictionary does not tell you when lowliness of mind is a virtue and when it is a pose.
 
 ### G5485 · cháris · χάρις: grace
 
@@ -682,7 +695,7 @@ Inference (not lexical data): `phren` is the mind, so the compound means literal
 - KJV glosses: acceptable, benefit, favour, gift, grace(- ious), joy, liberality, pleasure, thank(-s, -worthy)
 - Verified: Ephesians 2:8 "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God". The reverse map shows G5485 is one of the entries the KJV renders "grace".
 
-Inference (not lexical data): The gloss list is unusually wide: "favour", "gift", "liberality", "thank(-s)", "joy". The definition includes "gratitude", and the KJV renders some uses "thank(-s)". Those are separate uses of the word. They do not make the grace of God a two-way exchange. Text states: "And if by grace, then is it no more of works: otherwise grace is no more grace" (Romans 11:6), and "to him that worketh is the reward not reckoned of grace, but of debt" (Romans 4:4). Inference: grace calls for gratitude and a changed life, but it does not create a debt. Analogy: in business terms, grace is closer to an unearned gift than to a transaction. The word does not appear in the dictionary as a commercial term. Any application to pricing or credit is analogy, and you must label it as analogy.
+Reading (not lexical data): The gloss list is unusually wide: "favour", "gift", "liberality", "thank(-s)", "joy". The definition includes "gratitude", and the KJV renders some uses "thank(-s)". Those are separate uses of the word. They do not make the grace of God a two-way exchange. Scripture says: "And if by grace, then is it no more of works: otherwise grace is no more grace" (Romans 11:6), and "to him that worketh is the reward not reckoned of grace, but of debt" (Romans 4:4). Reading: grace calls for gratitude and a changed life, but it does not create a debt. Analogy: in business terms, grace is closer to an unearned gift than to a transaction. The word does not appear in the dictionary as a commercial term. Any application to pricing or credit is analogy, and you must label it as analogy.
 
 ### G4678 · sophía · σοφία: wisdom
 
@@ -691,7 +704,7 @@ Inference (not lexical data): The gloss list is unusually wide: "favour", "gift"
 - KJV glosses: wisdom
 - Verified: 1 Corinthians 1:24 "Christ the power of God, and the wisdom of God."
 
-Inference (not lexical data): The definition deliberately does not grade the word: "higher or lower, worldly or spiritual". The same noun covers both. So `sophia` alone cannot show that a plan is sound. The dictionary does not separate the good kind from the bad kind.
+Reading (not lexical data): The definition deliberately does not grade the word: "higher or lower, worldly or spiritual". The same noun covers both. So `sophia` alone cannot show that a plan is sound. The dictionary does not separate the good kind from the bad kind.
 
 ### G2889 · kósmos · κόσμος: world
 
@@ -700,7 +713,7 @@ Inference (not lexical data): The definition deliberately does not grade the wor
 - KJV glosses: adorning, world
 - Verified: John 3:16 "For God so loved the world", the reverse map confirms G2889 is among the entries the KJV renders "world".
 
-Inference (not lexical data): The primary sense is order: "orderly arrangement, decoration". This word is behind "cosmos" and "cosmetic". When the New Testament says "the world", it can mean the ordered system as easily as the planet or its people. If you treat "the world" as always "humanity" or always "evil society", you make a choice that the dictionary does not make for you.
+Reading (not lexical data): The primary sense is order: "orderly arrangement, decoration". This word is behind "cosmos" and "cosmetic". When the New Testament says "the world", it can mean the ordered system as easily as the planet or its people. If you treat "the world" as always "humanity" or always "evil society", you make a choice that the dictionary does not make for you.
 
 ### G3622 · oikonomía · οἰκονομία: economy / stewardship
 
@@ -709,7 +722,7 @@ Inference (not lexical data): The primary sense is order: "orderly arrangement, 
 - KJV glosses: dispensation, stewardship
 - Verified: Luke 16:2 "give an account of thy stewardship; for thou mayest be no longer steward.", 1 Corinthians 9:17 "a dispensation of the gospel is committed unto me.", Ephesians 1:10 "That in the dispensation of the fulness of times", Colossians 1:25 "according to the dispensation of God which is given to me for you".
 
-Inference (not lexical data): This word is the direct source of the English word _economy_. The definition is about the household: "administration (of a household or estate)". The KJV renders it in 7 verses. It is "stewardship" in 3 verses (Luke 16:2-4) and "dispensation" in 4 verses (1 Corinthians 9:17, Ephesians 1:10, Ephesians 3:2, Colossians 1:25). Neither English word shows the modern sense "economy", so that sense is not obvious from the KJV text. Look at Luke 16:2: the lord audits the steward, and a bad report ends the role. That point is in the text, not in the lexicon.
+Reading (not lexical data): This word is the direct source of the English word _economy_. The definition is about the household: "administration (of a household or estate)". The KJV renders it in 7 verses. It is "stewardship" in 3 verses (Luke 16:2-4) and "dispensation" in 4 verses (1 Corinthians 9:17, Ephesians 1:10, Ephesians 3:2, Colossians 1:25). Neither English word shows the modern sense "economy", so that sense is not obvious from the KJV text. Look at Luke 16:2: the lord audits the steward, and a bad report ends the role. That point is in the text, not in the lexicon.
 
 ---
 
@@ -719,5 +732,5 @@ Inference (not lexical data): This word is the direct source of the English word
 2. One verse does not fix the sense of a word. Words like H6213 (`asah`), H2896 (`tov`), H3117 (`yom`), and G4678 (`sophia`) are extremely wide. If an argument takes a single occurrence as the meaning, it must explain why the other glosses in the list do not apply.
 3. Origin stories are usually wrong. "The word literally means X" is the most abused sentence in biblical reasoning. Etymology (`G5287` from `hypo` + `histemi`) limits the history of a word, not its usage. Read the gloss list before you make a claim from etymology.
 4. These tools do not tag words to verses. The KJV text is plain. `scripture.ts` cannot tell you which Strong's number stands behind a given English word in a given verse. The `english` reverse map gives you the candidate set for a gloss. It does not attest the word in a verse. If a claim needs tagging at the verse level, say so and find a tagged text.
-5. Lexical evidence limits a reading. It does not conclude one. The entries above can rule a reading out. A modern sense of "talent", "replenish", "charity", or "perfect" does not survive the dictionary. They cannot rule a reading in. This file marks every "therefore" as inference. Mark it the same way in whatever you write.
+5. Word meaning evidence limits a reading. It does not conclude one. The entries above can rule a reading out. A modern sense of "talent", "replenish", "charity", or "perfect" does not survive the dictionary. They cannot rule a reading in. This file marks every "therefore" as inference. Mark it the same way in whatever you write.
 6. Keep the two kinds of claim apart in your own notes. Write "H7287 is glossed 'subjugate'" and "therefore X" as two different sentences, under two different headings. If they fuse into one sentence, the inference takes on the authority of the dictionary, and nobody can test the argument.

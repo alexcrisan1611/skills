@@ -14,7 +14,7 @@ A first principle is a claim that nothing more basic can produce. The skill sepa
 
 The skill is not an argument for doubt. It finds the floor, tests it, and then builds on it.
 
-The skill rests on Scripture (KJV). Each claim carries one of four labels: "Text states", "Lexical", "Inference", or "Contested". An application of Scripture is always an inference that a fallible reader drew.
+The skill rests on Scripture (KJV). Each claim carries one of the labels defined in `scripture-foundations`: "Scripture says", "Word meaning", "Reading", "Disputed", or "Guess". An application of Scripture is always a reading that a fallible reader drew. The skill assumes that you are a Christian.
 
 ## When to use it
 
@@ -35,14 +35,14 @@ The skill also tells you when not to use it. Use it when the decision is hard to
 1. Check the six failure modes. These are the inherited assumption, the substituted authority, the worship of an analogy, the false choice between two options, the unstated premise, and haste.
 2. Climb the derivation ladder. It has four rungs: observation, pattern, principle, and axiom (a claim that ends the climb). Each rung rests on the rung below it.
 3. Run the tests. The skill uses six verses as tests, for example Acts 17:11 and Proverbs 18:17. Someone who does not profit from the claim tests it, before the decision.
-4. Name the condition of the thinker. Fear, sleep, debt, loyalty, and pride shape judgment before reasoning starts. Scripture also says that sin darkens the understanding (Ephesians 4:18). Ask God for wisdom (James 1:5).
+4. Name the condition of the thinker. Fear, sleep, debt, loyalty, and pride shape judgment before reasoning starts. Scripture also says that sin darkens the understanding (Ephesians 4:18). The skill invites you to ask God for wisdom (James 1:5).
 5. Name the limit. Some questions have no answer from inside the system. The skill says so and acts on what is known.
 
 The answer follows a nine-part shape:
 
 1. The question, in one sentence.
 2. What is given, with the uncertain items marked.
-3. The condition of the thinker, and a request to God for wisdom.
+3. The condition of the thinker, and an invitation to ask God for wisdom.
 4. The load-bearing claim and its label.
 5. The derivation, one claim per line.
 6. The tests, and who ran them.
@@ -54,7 +54,8 @@ For a small question, the skill keeps the answer short.
 
 ## What is in this folder
 
-- `SKILL.md`: The main instructions. It defines a first principle, the failure modes, the ladder, the tests, the limits, and the output format.
+- `SKILL.md`: The main instructions: when to use the skill, the procedure (failure modes, the four-step climb, the tests, the condition of the thinker, the limit), and the output format.
+- `references/foundations.md`: The Scripture behind the method: where the regress of reasons stops, the orientation of the thinker, the limit of the method, and the verses behind each failure mode, each test, and the condition of the mind.
 - `references/method.md`: Two worked climbs of the ladder. One is a business question ("Do we launch a second product?"). One is a personal question ("Why do I keep agreeing to work I cannot finish?"). Each example shows the skipped-rung version beside the full climb. The numbers in the examples are made up.
 - `references/epistemic-limits.md`: The limits of the method. It covers Job 38 to 41, Isaiah 55:8-9, Romans 11:33-36, 1 Corinthians 13:9-12, Deuteronomy 29:29, and Ecclesiastes. It ends with a procedure for questions that resist an answer.
 

@@ -46,9 +46,9 @@ The skill follows four steps in order:
 
 The output is the reason for the added reach, a breakdown of your current level, the offer parts (void, virtue, vision) with the result of the ethics check, and concrete next steps.
 
-## Scripture and accounting rules
+## Scripture rules
 
-Scripture governs this skill. The Four Levels model informs and illustrates, but it never overrides Scripture. The skill labels each biblical claim as "Text states:", "Inference:", "Contested:", or "Speculation:". A business application is always an inference.
+Scripture governs this skill. The Four Levels model informs and illustrates, but it never overrides Scripture. The skill labels each claim with the five labels of `scripture-foundations`: "Scripture says:", "Word meaning:", "Reading:", "Disputed:", and "Guess:". A business application is always a reading.
 
 The skill opens with what Scripture says about seeking wealth: Proverbs 23:4, 1 Timothy 6:6-10 and 17-19, Proverbs 28:20, Luke 12:15, and Hebrews 13:5. It sets Deuteronomy 8:17-18 ("it is he that giveth thee power to get wealth") beside Golden's definition of wealth.
 
@@ -56,16 +56,17 @@ The skill quotes Proverbs 14:23, Genesis 2:15, 1 Thessalonians 4:11, and Ephesia
 
 The skill warns that the KJV uses "imagination" almost always for the evil of the human heart (Genesis 6:5, 8:21). It names Babel (Genesis 11:4-8) as the warning for Level 4 work and Bezaleel (Exodus 31:3-4) as the positive model.
 
-For accounting, the skill follows US GAAP. Under ASC 720, a business expenses training costs as incurred. Training is not an asset on the balance sheet.
+The skill treats money spent on training as a cost, not a guaranteed asset. It uses no currency or country rules of its own. The income bands are Golden's US figures, shown only as illustrations.
 
 ## What is in this folder
 
-- `SKILL.md`: The skill itself. It holds the model, the four-step protocol, and the rules for tone.
+- `SKILL.md`: The skill itself. It holds the rules from Scripture, the model, the four-step protocol, and the rules for tone and output.
+- `references/scripture-and-the-model.md`: The Bible readings behind each rule: seeking wealth, the definition of wealth, the ethics check, reach and worth, Golden's order of creation, the warning about Level 4, and the conscience.
 - `README.md`: This file.
 
 The skill depends on sibling skills in this repository:
 
-- `../scripture-foundations/`: The rule for labels ("Rule one") and the script that looks up KJV verses, for example `python ../scripture-foundations/scripts/scripture.py lookup "Proverbs 14:23"`.
+- `../scripture-foundations/`: The rule for labels ("Rule one") and the script that looks up KJV verses, for example `bun run <skill-dir>/../scripture-foundations/scripts/scripture.ts lookup "Proverbs 14:23"`.
 - `../business-first-principles/`: Axioms A16 and A17 on the worth of work.
 - `../business-first-principles/references/body.md`: The body layer, principle B4, "Honor must flow to the unpresentable parts".
 

@@ -2,9 +2,8 @@
 
 Reference file for the `business-idea-generation` skill.
 
-These sections hold the Scripture cases behind the seven-step procedure in `SKILL.md`. They
-moved here from `SKILL.md` without change. The labels "Text states", "Lexical", "Inference",
-and "Contested" mean what `SKILL.md` says under "How to read the claims".
+These sections hold the Scripture cases behind the seven-step procedure in `SKILL.md`.
+Labels are the ones defined in `scripture-foundations`: Scripture says, Word meaning, Reading, Disputed, Guess.
 
 ## The two capacities
 
@@ -14,38 +13,38 @@ Text (1 Chronicles 12:32, KJV):
 > what Israel ought to do; the heads of them were two hundred; and all their brethren were at
 > their commandment.
 
-Text states: the verse names two things. The first is "understanding of the times". The second
+Scripture says: the verse names two things. The first is "understanding of the times". The second
 is "to know what Israel ought to do". The word "to" joins the second to the first.
 
-Text states: the object of the understanding is "the times", and the noun is plural.
+Scripture says: the object of the understanding is "the times", and the noun is plural.
 
-Lexical: H6256 _eth_ is the standard word behind "times". The entry reads "time, especially
+Word meaning: H6256 _eth_ is the standard word behind "times". The entry reads "time, especially
 (adverb with preposition) now, when, etc." The gloss list includes "(due) season".
 
-Lexical: H3045 _yada_ stands behind "know" in the concordance. The entry reads "to know
+Word meaning: H3045 _yada_ stands behind "know" in the concordance. The entry reads "to know
 (properly, to ascertain by seeing)". The gloss list includes "be diligent", "consider",
-"discern", and "perceive". See the verification log in `references/reading-the-times.md`.
+"discern", and "perceive".
 
-Text states: the men are an organized body. "the heads of them were two hundred; and all their
+Scripture says: the men are an organized body. "the heads of them were two hundred; and all their
 brethren were at their commandment."
 
 The derivation:
 
-1. Inference: reading and deciding are two separate capacities. The verse names both, because
+1. Reading: reading and deciding are two separate capacities. The verse names both, because
    a person can have one without the other.
-2. Inference: both are necessary, and the reading comes first. The purpose clause puts the
+2. Reading: both are necessary, and the reading comes first. The purpose clause puts the
    reading before the knowing.
-3. Inference: the reading is a gift that people use as an organized function. Two hundred heads
+3. Reading: the reading is a gift that people use as an organized function. Two hundred heads
    do it, and the rest answer to them. Scripture names God as the giver of this kind of
    understanding. Daniel 2:21 says, "he giveth wisdom unto the wise, and knowledge to them that
    know understanding". The gift does not remove the work, and the work does not replace the
    gift.
-4. Inference: the object is the present moment, in the plural. The word is _eth_, the ordinary
+4. Reading: the object is the present moment, in the plural. The word is _eth_, the ordinary
    word for time and occasion. The reading is awareness of the present situation. In context,
    the word of God set that situation. The men came to David at Hebron "to turn the kingdom of
    Saul to him, according to the word of the LORD" (1 Chronicles 12:23).
 
-Inference: the verse shows a failure. The common failure is not a bad reading. It is a good
+Reading: the verse shows a failure. The common failure is not a bad reading. It is a good
 reading that has no decision attached. The verse does not say this. It only separates the two
 functions. But when the two are separate, this failure becomes possible. A person who reads well
 and acts late did only the first half of the job.
@@ -66,37 +65,37 @@ Text (Matthew 16:2-3, KJV):
 >
 > 3 And in the morning, It will be foul weather to day: for the sky is red and lowring. O ye hypocrites, ye can discern the face of the sky; but can ye not discern the signs of the times?
 
-Text states: the forecasts in the passage are correct. Luke 12:54 says "and so it is". Luke
+Scripture says: the forecasts in the passage are correct. Luke 12:54 says "and so it is". Luke
 12:55 says "and it cometh to pass".
 
-Text states: Jesus calls them "hypocrites" (Luke 12:56, Matthew 16:3). In Matthew, the
+Scripture says: Jesus calls them "hypocrites" (Luke 12:56, Matthew 16:3). In Matthew, the
 Pharisees and the Sadducees came "tempting" and asked for "a sign from heaven" (Matthew 16:1).
 
-Inference: the charge is not incompetence. The people use the same skill in one area and do not
+Reading: the charge is not incompetence. The people use the same skill in one area and do not
 use it in another. The word "hypocrites" makes the failure a moral one, not only a gap in
 method.
 
-Text states: the missed object is "this time" in Luke and "the signs of the times" in Matthew.
+Scripture says: the missed object is "this time" in Luke and "the signs of the times" in Matthew.
 
-Lexical: G2540 _kairos_ stands behind "time" in Luke 12:56. The entry reads "an occasion, i.e.
+Word meaning: G2540 _kairos_ stands behind "time" in Luke 12:56. The entry reads "an occasion, i.e.
 set or proper time". The gloss list includes "opportunity" and "(due) season". Thus the failure
 is a missed window, not a late date.
 
-Lexical: G4592 _semeion_ stands behind "signs" in Matthew 16:3. The entry reads "an indication,
+Word meaning: G4592 _semeion_ stands behind "signs" in Matthew 16:3. The entry reads "an indication,
 especially ceremonially or supernaturally". The gloss list includes "token".
 
-Inference: the time that they missed is the time of Christ among them. Luke 19:44 names it
+Reading: the time that they missed is the time of Christ among them. Luke 19:44 names it
 "the time of thy visitation". The original audience is the crowd and the Pharisees who did not
 recognize him. A business use of this text is an analogy.
 
-Inference: most businesses already have the capability to read. The problem is where they
+Reading: most businesses already have the capability to read. The problem is where they
 point it. Sales teams forecast demand correctly, but they do not forecast structural change in
 their own market. The test is a question: where do we already forecast well, and why do we not
 use that method here?
 
 ### The conversion test
 
-Inference: a reading of the times becomes a decision when five questions have answers:
+Reading: a reading of the times becomes a decision when five questions have answers:
 
 1. Who owns the decision? A reading with no owner is a report, and a report does not act.
 2. What is the action, stated as a verb? If you cannot name a verb, no decision exists.
@@ -116,31 +115,31 @@ Text (John 4:35-36, KJV):
 >
 > 36 And he that reapeth receiveth wages, and gathereth fruit unto life eternal: that both he that soweth and he that reapeth may rejoice together.
 
-Text states: the passage quotes the standard schedule. "There are yet four months, and then
+Scripture says: the passage quotes the standard schedule. "There are yet four months, and then
 cometh harvest".
 
-Text states: Jesus answers the schedule with "behold, I say unto you", and the fields are
+Scripture says: Jesus answers the schedule with "behold, I say unto you", and the fields are
 "white already to harvest".
 
-Inference: the present state of the fields counts for more than the schedule. The text does
+Reading: the present state of the fields counts for more than the schedule. The text does
 not say "the schedule is overridden". The reader draws that from the contrast.
 
-Text states: the correction is an act of looking. "Lift up your eyes, and look on the fields".
+Scripture says: the correction is an act of looking. "Lift up your eyes, and look on the fields".
 
-Text states: the timing word is "already".
+Scripture says: the timing word is "already".
 
-Text states: verse 36 names what the harvest gathers. It is "fruit unto life eternal". The
+Scripture says: verse 36 names what the harvest gathers. It is "fruit unto life eternal". The
 harvest in the passage is a harvest of people for eternal life. It is not a market.
 
-Lexical: G2326 _therismos_ stands behind "harvest". The entry reads "reaping, i.e. the crop".
+Word meaning: G2326 _therismos_ stands behind "harvest". The entry reads "reaping, i.e. the crop".
 The word names the crop, not only the season.
 
-Inference: the market use of this passage is an analogy. The passage is about the gospel, and
+Reading: the market use of this passage is an analogy. The passage is about the gospel, and
 the business reading borrows only its shape. By analogy, an opportunity is usually present, not
 pending. The general schedule can be correct while the present moment is different. The remedy
 for a wrong schedule is to look, not to calculate again.
 
-Inference: a plan that waits for the market to arrive loses the time in which the market is
+Reading: a plan that waits for the market to arrive loses the time in which the market is
 already there. If you are early, the cost is money. If you are late at a ripe harvest, the cost
 is the crop.
 
@@ -154,31 +153,31 @@ Text (Acts 17:22-23, 28, KJV, selected):
 >
 > 28 For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.
 
-Text states: the observation comes first. Paul says "as I passed by, and beheld your
+Scripture says: the observation comes first. Paul says "as I passed by, and beheld your
 devotions". He walks through the city and reads its objects.
 
-Text states: he names what he found. The finding is specific: "an altar with this inscription,
+Scripture says: he names what he found. The finding is specific: "an altar with this inscription,
 TO THE UNKNOWN GOD."
 
-Text states: he quotes the Athenians' own sources as evidence. "as certain also of your own
+Scripture says: he quotes the Athenians' own sources as evidence. "as certain also of your own
 poets have said".
 
-Text states: he starts from what the Athenians already hold. "Whom therefore ye ignorantly
-worship, him declare I unto you." Inference: the offer attaches to an existing object of
+Scripture says: he starts from what the Athenians already hold. "Whom therefore ye ignorantly
+worship, him declare I unto you." Reading: the offer attaches to an existing object of
 attention.
 
-Text states: Paul does not leave the Athenians where they are. "his spirit was stirred in him,
+Scripture says: Paul does not leave the Athenians where they are. "his spirit was stirred in him,
 when he saw the city wholly given to idolatry" (17:16). He "preached unto them Jesus, and the
 resurrection" (17:18), and they said, "thou bringest certain strange things to our ears"
 (17:20). He corrects their worship: "we ought not to think that the Godhead is like unto gold,
 or silver, or stone" (17:29). He says that God "now commandeth all men every where to repent"
 (17:30).
 
-Text states: the response is mixed. Some mock, some defer, and some believe (Acts 17:32-34).
+Scripture says: the response is mixed. Some mock, some defer, and some believe (Acts 17:32-34).
 
-Inference: the text does not present the mixed result as a failure.
+Reading: the text does not present the mixed result as a failure.
 
-Inference: the original audience is the Athenians, and the message is the gospel. A business
+Reading: the original audience is the Athenians, and the message is the gospel. A business
 use of this text is an analogy. By analogy, a market entry has this shape:
 
 1. Walk the market and read what it built. Read artifacts, not demographics.
@@ -196,27 +195,27 @@ Text (Genesis 2:19-20, KJV):
 >
 > 20 And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.
 
-Text states: God brings the animals to Adam to see what he will call them. The naming is the
+Scripture says: God brings the animals to Adam to see what he will call them. The naming is the
 task.
 
-Text states: verse 20 gives the result. "but for Adam there was not found an help meet for
+Scripture says: verse 20 gives the result. "but for Adam there was not found an help meet for
 him."
 
-Text states: God names the lack before the work. Verse 18 reads, "And the LORD God said, It is
+Scripture says: God names the lack before the work. Verse 18 reads, "And the LORD God said, It is
 not good that the man should be alone; I will make him an help meet for him."
 
-Text states: verse 20 records the lack at the end of the naming, in the passive: "there was not
+Scripture says: verse 20 records the lack at the end of the naming, in the passive: "there was not
 found an help meet for him." In verses 21-22, God makes the woman and brings her to the man.
 
-Inference: the naming shows Adam the lack that God already named. The text does not say that
+Reading: the naming shows Adam the lack that God already named. The text does not say that
 Adam discovers it, but the order of verses 19-20 suggests it. God names the need, and God meets
 it.
 
-Inference: for the worker, execution is a tool of discovery, not only a tool of delivery. The
+Reading: for the worker, execution is a tool of discovery, not only a tool of delivery. The
 real need often sits next to the stated need, and it appears when the work is in progress. This
 is axiom A19 in `business-first-principles`, Doing the work reveals the need.
 
-Inference: build the adjacent thing and ship it early. Name the price before you do. If the
+Reading: build the adjacent thing and ship it early. Name the price before you do. If the
 first version is public and weak, an early release costs rework, support load, and reputation.
 The text does not promise that early shipping is free.
 
@@ -248,39 +247,39 @@ Text (Genesis 47:15-17, 23-24, KJV, selected):
 >
 > 24 And it shall come to pass in the increase, that ye shall give the fifth part unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones.
 
-Text states: the text names the cycle and its limits in advance. Seven years of plenty come
+Scripture says: the text names the cycle and its limits in advance. Seven years of plenty come
 first, then seven years of famine.
 
-Text states: the plan works against the cycle in both phases. Joseph stores food during the
+Scripture says: the plan works against the cycle in both phases. Joseph stores food during the
 plenty and gives it out during the famine.
 
-Text states: the text describes no gradual change between the phases. Genesis 41:53-54 says
+Scripture says: the text describes no gradual change between the phases. Genesis 41:53-54 says
 that the years of plenteousness "were ended" and that the dearth "began to come".
 
-Text states: in the second half, the store becomes a market. The people pay for bread with
+Scripture says: in the second half, the store becomes a market. The people pay for bread with
 money, then with cattle (47:15-17). Then they give their land and themselves. They say "buy us
 and our land for bread, and we and our land will be servants unto Pharaoh" (47:19). Joseph then
 gives seed for a fifth-part share of the harvest (47:23-24). At the end, the people say "we will
 be Pharaoh's servants" (47:25).
 
-Inference: do not use this sequence as a model opportunity. The people sell themselves into
+Reading: do not use this sequence as a model opportunity. The people sell themselves into
 service because they have no other choice. A business that copies the sequence makes its profit
 from distress. The part of the passage that a business can use is the store built in the good
 years.
 
-Contested: the text reports the famine administration and the response of the people ("Thou
+Disputed: the text reports the famine administration and the response of the people ("Thou
 hast saved our lives", Genesis 47:25). The text states no verdict on the policy. Some readers
 see prudent stewardship. Others see a transfer of property under distress. Do not treat the
 administrative acts of Joseph as a command for a business.
 
-Inference: the passage gives a shape, not a forecasting tool. Joseph did not detect the cycle.
+Reading: the passage gives a shape, not a forecasting tool. Joseph did not detect the cycle.
 God disclosed the cycle to Pharaoh (Genesis 41:25). Joseph interpreted by God (41:16). To use
 the passage as a method that locates a market cycle is a further inference, and the tools cannot
 verify it.
 
 ### Locating a market cycle position
 
-Inference: use these five steps:
+Reading: use these five steps:
 
 1. Name the cycle and its driver. In the text, the drivers are grain and weather. In a market,
    they are credit, capacity, inventory, or adoption.
@@ -291,7 +290,7 @@ Inference: use these five steps:
    axiom A20 in `business-first-principles`.
 5. Name the error case. If the cycle does not turn, what does the policy cost?
 
-Contested: the modern literature on business cycles disagrees about how regular they are, what
+Disputed: the modern literature on business cycles disagrees about how regular they are, what
 drives them, and whether anyone can forecast them. Nothing here settles that dispute.
 
 ## Many bets under uncertainty
@@ -310,12 +309,12 @@ Text (Ecclesiastes 11:1-6, KJV):
 >
 > 6 In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good.
 
-Text states: the number is more than one. "Give a portion to seven, and also to eight".
+Scripture says: the number is more than one. "Give a portion to seven, and also to eight".
 
-Text states: the timing is two sowings. "In the morning sow thy seed, and in the evening
+Scripture says: the timing is two sowings. "In the morning sow thy seed, and in the evening
 withhold not thine hand".
 
-Text states: the phrase "thou knowest not" occurs four times, once in verse 2, twice in verse
+Scripture says: the phrase "thou knowest not" occurs four times, once in verse 2, twice in verse
 5, and once in verse 6:
 
 - "thou knowest not what evil shall be upon the earth" (verse 2)
@@ -323,12 +322,12 @@ Text states: the phrase "thou knowest not" occurs four times, once in verse 2, t
 - "thou knowest not the works of God" (verse 5)
 - "thou knowest not whether shall prosper, either this or that" (verse 6)
 
-Text states: the text names the opposite case. "He that observeth the wind shall not sow".
+Scripture says: the text names the opposite case. "He that observeth the wind shall not sow".
 
-Text states: three outcomes are possible, and one of them is that both bets succeed. "or
+Scripture says: three outcomes are possible, and one of them is that both bets succeed. "or
 whether they both shall be alike good."
 
-Contested: readers differ on what verses 1-2 are about. One view reads them as generosity: give
+Disputed: readers differ on what verses 1-2 are about. One view reads them as generosity: give
 bread and portions to many, because a day of evil may come (compare Proverbs 19:17, "He that
 hath pity upon the poor lendeth unto the LORD", and Luke 6:38, "Give, and it shall be given unto
 you"). Another view reads them as trade: send goods over the water, and spread the risk across
@@ -336,13 +335,13 @@ several ventures (compare Psalm 107:23, "They that go down to the sea in ships, 
 in great waters"). Many readers hold both. Verses 4-6 apply to sowing and work under either
 view. The business reading below follows the second view, and it does not settle the question.
 
-Inference: the remedy for uncertainty is a portfolio structure, not a better forecast. The text
+Reading: the remedy for uncertainty is a portfolio structure, not a better forecast. The text
 grounds the uncertainty in God: "thou knowest not the works of God who maketh all" (verse 5).
 
-Inference: "seven, and also to eight" is a large number and then one more. The idiom reads as
+Reading: "seven, and also to eight" is a large number and then one more. The idiom reads as
 abundance, not as a formula for allocation. Do not take a bet count from the verse.
 
-Inference: parallel bets have a real cost. Money, attention, and the hours of the founder divide
+Reading: parallel bets have a real cost. Money, attention, and the hours of the founder divide
 across the portfolio. The text does not name that cost. Name it yourself.
 
 ## Reconnaissance before announcement
@@ -361,27 +360,27 @@ Text (Nehemiah 2:11-16, KJV):
 >
 > 16 And the rulers knew not whither I went, or what I did; neither had I as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the rest that did the work.
 
-Text states: the inspection comes before the announcement. Nehemiah inspects by night and
+Scripture says: the inspection comes before the announcement. Nehemiah inspects by night and
 tells no one.
 
-Text states: the inspection is physical and specific. He sees broken walls, burned gates, and
+Scripture says: the inspection is physical and specific. He sees broken walls, burned gates, and
 a passage too narrow for the animal under him.
 
-Text states: he keeps the finding to himself. "neither had I as yet told it" (verse 16).
+Scripture says: he keeps the finding to himself. "neither had I as yet told it" (verse 16).
 
-Inference: reconnaissance is private by design. A public announcement makes people take
+Reading: reconnaissance is private by design. A public announcement makes people take
 positions before the facts are in.
 
-Text states: the plan began with God. Nehemiah calls it "what my God had put in my heart to do
+Scripture says: the plan began with God. Nehemiah calls it "what my God had put in my heart to do
 at Jerusalem" (verse 12).
 
-Text states: the announcement that follows gives the finding, "Ye see the distress that we are
+Scripture says: the announcement that follows gives the finding, "Ye see the distress that we are
 in" (2:17), and the call, "let us build up the wall of Jerusalem" (2:17). Then it gives the
 ground: "Then I told them of the hand of my God which was good upon me; as also the king's words
 that he had spoken unto me" (2:18). Against the scorn of the enemies, Nehemiah says, "The God of
 heaven, he will prosper us" (2:20).
 
-Inference: build the report first. The report in the text names the hand of God before the
+Reading: build the report first. The report in the text names the hand of God before the
 words of the king.
 
 ### The failure case
@@ -398,41 +397,41 @@ Text (Numbers 13:27-33, KJV, selected):
 >
 > 33 And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.
 
-Text states: the majority report opens with the truth. The land flows with milk and honey, and
+Scripture says: the majority report opens with the truth. The land flows with milk and honey, and
 the spies carry the fruit in their hands.
 
-Text states: one word turns the report. "Nevertheless" (verse 28).
+Scripture says: one word turns the report. "Nevertheless" (verse 28).
 
-Text states: Caleb does not dispute the facts. He disputes the conclusion.
+Scripture says: Caleb does not dispute the facts. He disputes the conclusion.
 
-Text states: the self-assessment comes at the end. "we were in our own sight as grasshoppers,
+Scripture says: the self-assessment comes at the end. "we were in our own sight as grasshoppers,
 and so we were in their sight."
 
-Text states: the report then becomes "an evil report of the land", which says that it "is a
+Scripture says: the report then becomes "an evil report of the land", which says that it "is a
 land that eateth up the inhabitants thereof" (13:32). That contradicts their first words,
 "surely it floweth with milk and honey" (13:27).
 
-Lexical: H1681 _dibbah_ is the standard word behind "evil report". The entry reads "slander".
+Word meaning: H1681 _dibbah_ is the standard word behind "evil report". The entry reads "slander".
 
-Inference: the failure enters at the interpretation, and then it corrupts the facts. The spies
+Reading: the failure enters at the interpretation, and then it corrupts the facts. The spies
 collected the facts that Moses asked for. Then they read themselves as grasshoppers, and they
 slandered the land.
 
-Text states: the text names the root as unbelief toward God. Joshua and Caleb say, "Only rebel
+Scripture says: the text names the root as unbelief toward God. Joshua and Caleb say, "Only rebel
 not ye against the LORD, neither fear ye the people of the land" (14:9). The LORD says, "how
 long will it be ere they believe me" (14:11). Hebrews 3:19 says, "they could not enter in
 because of unbelief."
 
-Inference: the second clause of verse 33 is a claim about the mind of the enemy. The text
+Reading: the second clause of verse 33 is a claim about the mind of the enemy. The text
 records no contact between the spies and the Canaanites. The claim is a projection.
 
-Text states: the cost is a judgment from God. That generation does not enter the land (Numbers
+Scripture says: the cost is a judgment from God. That generation does not enter the land (Numbers
 14:30). They "bear your iniquities, even forty years" (14:34).
 
-Inference: the original audience is Israel at the edge of the land that God promised. A
+Reading: the original audience is Israel at the edge of the land that God promised. A
 business use of this text is an analogy.
 
-Inference: write the reconnaissance brief as yes-or-no questions. Keep the facts apart from the
+Reading: write the reconnaissance brief as yes-or-no questions. Keep the facts apart from the
 recommendation. Put any self-assessment in a separate section. If a report contains claims that
 the brief did not ask for, stop and read the source again.
 
@@ -462,37 +461,37 @@ Text (Matthew 13:31-33, KJV):
 >
 > 33 Another parable spake he unto them; The kingdom of heaven is like unto leaven, which a woman took, and hid in three measures of meal, till the whole was leavened.
 
-Text states: the seed is the same on all four grounds. The ground is what changes.
+Scripture says: the seed is the same on all four grounds. The ground is what changes.
 
-Text states: the yields in the good ground are different. "some an hundredfold, some sixtyfold,
+Scripture says: the yields in the good ground are different. "some an hundredfold, some sixtyfold,
 some thirtyfold."
 
-Text states: the mustard seed becomes a tree, and the birds come to it. Inference: this growth
+Scripture says: the mustard seed becomes a tree, and the birds come to it. Reading: this growth
 model is visible and central.
 
-Text states: the woman hides the leaven in the meal, and it works until the whole is leavened.
-Inference: this growth model is hidden and spread out.
+Scripture says: the woman hides the leaven in the meal, and it works until the whole is leavened.
+Reading: this growth model is hidden and spread out.
 
-Text states: Jesus explains the sower in the same chapter. The seed is "the word of the
+Scripture says: Jesus explains the sower in the same chapter. The seed is "the word of the
 kingdom", "sown in his heart" (13:19). The thorns are "the care of this world, and the
 deceitfulness of riches" (13:22). The mustard seed and the leaven picture "the kingdom of
 heaven" (13:31, 13:33).
 
-Inference: the original audience is the crowd that hears the word of the kingdom. A business
+Reading: the original audience is the crowd that hears the word of the kingdom. A business
 use of this text is an analogy. In the parable, the sower sows on every ground. He does not
 choose a segment.
 
-Inference: by analogy, in a new venture the choice of segment is the variable with the largest
+Reading: by analogy, in a new venture the choice of segment is the variable with the largest
 effect. The same effort returns nothing or a hundredfold, and the ground decides which.
 
-Inference: fast early growth is not evidence of good ground. The seeds on stony places sprung up
+Reading: fast early growth is not evidence of good ground. The seeds on stony places sprung up
 "forthwith".
 
-Inference: Jesus names the thorns as cares and riches. By analogy, watch for the cares and the
+Reading: Jesus names the thorns as cares and riches. By analogy, watch for the cares and the
 pursuit of riches that choke good work, in the team and in the founder. The image also shows
 competing growth that springs up beside the seed.
 
-Inference: know which growth model you run. A leaven business has no useful dashboard in the
+Reading: know which growth model you run. A leaven business has no useful dashboard in the
 middle of its growth. If a team builds one, it will manage the wrong number.
 
 ## Nothing is entirely new
@@ -503,20 +502,20 @@ Text (Ecclesiastes 1:9-10, KJV):
 >
 > 10 Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us.
 
-Text states: the claim is general. "there is no new thing under the sun."
+Scripture says: the claim is general. "there is no new thing under the sun."
 
-Text states: the text quotes the test question and answers it. "Is there any thing whereof it
+Scripture says: the text quotes the test question and answers it. "Is there any thing whereof it
 may be said, See, this is new? it hath been already of old time".
 
-Inference: the context is the cycle of the created order (the sun, the wind, and the rivers in
+Reading: the context is the cycle of the created order (the sun, the wind, and the rivers in
 verses 5-7). The claim is about novelty as a category. It does not forbid improvement.
 
-Inference: most new ventures combine existing parts in a new way. The work is to find what
+Reading: most new ventures combine existing parts in a new way. The work is to find what
 someone remade.
 
 ### Finding what has been remade
 
-Inference: use these five steps:
+Reading: use these five steps:
 
 1. Name the offer in plain words, without the brand language.
 2. Name the older thing that does the same job.
@@ -536,26 +535,26 @@ Text (Genesis 1:2, 1:4-5, KJV, selected):
 >
 > 5 And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
 
-Text states: the starting condition is "without form, and void".
+Scripture says: the starting condition is "without form, and void".
 
-Text states: the first acts of ordering are division and naming. Verse 4 divides. Verse 5
+Scripture says: the first acts of ordering are division and naming. Verse 4 divides. Verse 5
 names.
 
-Lexical: H8414 _tohu_ is the standard word behind "without form". The entry reads "a desolation
+Word meaning: H8414 _tohu_ is the standard word behind "without form". The entry reads "a desolation
 (of surface), i.e. desert; figuratively, a worthless thing; adverbially, in vain". The gloss
 list includes "confusion", "empty place", "waste", and "wilderness".
 
-Lexical: H922 _bohu_ is the standard word behind "void". The entry reads "a vacuity, i.e.
+Word meaning: H922 _bohu_ is the standard word behind "void". The entry reads "a vacuity, i.e.
 (superficially) an undistinguishable ruin". The gloss list gives "emptiness, void".
 
-Lexical: H914 _badal_ is the standard word behind "divided". The entry reads "to divide (in
+Word meaning: H914 _badal_ is the standard word behind "divided". The entry reads "to divide (in
 variation senses literally or figuratively, separate, distinguish, differ, select, etc.)".
 
-Lexical: H7121 _qara_ is the standard word behind "called". The entry reads "to call out to
+Word meaning: H7121 _qara_ is the standard word behind "called". The entry reads "to call out to
 (i.e. properly, address by name, but used in a wide variety of applications)". The gloss list
 includes "(give) name".
 
-Inference: an opportunity is usually a part of a market that has no form. The method follows
+Reading: an opportunity is usually a part of a market that has no form. The method follows
 the pattern of creation:
 
 1. Find what has no form and is empty. Look for the place with no structure and no contents.
@@ -575,9 +574,9 @@ Text (Proverbs 27:23, KJV):
 
 > Be thou diligent to know the state of thy flocks, and look well to thy herds.
 
-Text states: the command is to know the state of the flocks, and the object is plural.
+Scripture says: the command is to know the state of the flocks, and the object is plural.
 
-Lexical: H3045 _yada_ stands behind "know" in the concordance. The entry reads "to know
+Word meaning: H3045 _yada_ stands behind "know" in the concordance. The entry reads "to know
 (properly, to ascertain by seeing)". The KJV gloss list for the word includes "be diligent" and
 "regard". The verse puts the diligence and the knowing together.
 
@@ -586,15 +585,15 @@ Text (Proverbs 22:29, KJV):
 > Seest thou a man diligent in his business? he shall stand before kings; he shall not stand
 > before mean men.
 
-Text states: other people can see the diligence. The verse opens with "Seest thou".
+Scripture says: other people can see the diligence. The verse opens with "Seest thou".
 
-Text states: the result is placement. The diligent man stands before kings.
+Scripture says: the result is placement. The diligent man stands before kings.
 
-Lexical: H4106 _mahir_ is the standard word behind "diligent" here. The entry reads "quick;
+Word meaning: H4106 _mahir_ is the standard word behind "diligent" here. The entry reads "quick;
 hence, skilful". The KJV gloss list gives "diligent, hasty, ready". The root is H4116, the word
 family for hurry. Do not read speed out of the root. Etymology is not meaning.
 
-Inference: the standard of evidence for an idea is the state of the actual thing, not the
+Reading: the standard of evidence for an idea is the state of the actual thing, not the
 confidence of the founder. Count what you actually have before you put a price on it.
 
 ## Experience as the source
@@ -609,36 +608,36 @@ Text (1 Samuel 17:34-37, KJV, selected):
 >
 > 37 David said moreover, The LORD that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. ...
 
-Text states: David answers the objection with the lion and the bear. He credits the deliverance
+Scripture says: David answers the objection with the lion and the bear. He credits the deliverance
 to God: "The LORD that delivered me" (17:37).
 
-Text states: he names the comparison himself. "this uncircumcised Philistine shall be as one of
+Scripture says: he names the comparison himself. "this uncircumcised Philistine shall be as one of
 them".
 
-Text states: David fought the lion and the bear while he kept sheep. Inference: the prior work
+Scripture says: David fought the lion and the bear while he kept sheep. Reading: the prior work
 was private.
 
-Text states: he tests the equipment of the king and refuses it. 1 Samuel 17:39 says "he
+Scripture says: he tests the equipment of the king and refuses it. 1 Samuel 17:39 says "he
 assayed to go; for he had not proved it", and David says "I cannot go with these; for I have
 not proved them."
 
-Text states: he uses what he proved. 1 Samuel 17:40 says "his sling was in his hand".
+Scripture says: he uses what he proved. 1 Samuel 17:40 says "his sling was in his hand".
 
-Text states: David names the ground of his confidence before the fight. "I come to thee in the
+Scripture says: David names the ground of his confidence before the fight. "I come to thee in the
 name of the LORD of hosts" (17:45), and "the battle is the LORD's" (17:47).
 
-Inference: David does not argue that he did this before. He argues that the LORD delivered him
+Reading: David does not argue that he did this before. He argues that the LORD delivered him
 before. The original audience is Saul and the army of Israel. A business use of this text is an
 analogy. By analogy, a track record is evidence, but it is not the ground of confidence.
 
-Inference: ideas usually come from work that the founder already did. That past work is the
+Reading: ideas usually come from work that the founder already did. That past work is the
 raw material, as the lion and the bear were for David.
 
-Inference: the move from the small work to the large work needs an argument, not an
+Reading: the move from the small work to the large work needs an argument, not an
 assumption. Name why the past work applies here: the same market, the same mechanism, or the
 same capability. If you cannot name it, the claim that the past work transfers has no base.
 
-Inference: the private track record is the evidence, and other people cannot see it. Look for
+Reading: the private track record is the evidence, and other people cannot see it. Look for
 it in the plain history of the founder, not in the pitch.
 
 ## The demand test
@@ -649,25 +648,25 @@ Text (Genesis 3:6, KJV):
 > and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and
 > gave also unto her husband with her; and he did eat.
 
-Text states: the verse names three properties. "good for food", "pleasant to the eyes", and "to
+Scripture says: the verse names three properties. "good for food", "pleasant to the eyes", and "to
 be desired to make one wise".
 
-Text states: the three come in one sequence, and the act follows.
+Scripture says: the three come in one sequence, and the act follows.
 
-Text states: the act breaks the command of God. Genesis 3:11 asks, "Hast thou eaten of the
+Scripture says: the act breaks the command of God. Genesis 3:11 asks, "Hast thou eaten of the
 tree, whereof I commanded thee that thou shouldest not eat?"
 
-Inference: the three properties are appetite, beauty, and status. This is axiom A24 in
+Reading: the three properties are appetite, beauty, and status. This is axiom A24 in
 `business-first-principles`, Desire runs on three channels. In this file, each of the three is
 a desire channel.
 
-Inference: appetite and beauty are goods that God made (Genesis 2:9: "pleasant to the sight,
+Reading: appetite and beauty are goods that God made (Genesis 2:9: "pleasant to the sight,
 and good for food"). The third channel, "to be desired to make one wise", is the serpent's
 promise "ye shall be as gods" (3:5), and 1 John 2:16 says "the pride of life, is not of the
 Father". Use the three as an ethics check, not a sales lever. Serve real need and real beauty,
 do not sell standing, and audit your own decisions for the third channel.
 
-Inference: for the offer, answer three questions:
+Reading: for the offer, answer three questions:
 
 1. Appetite: what real need does this meet, and what does the buyer pay today for the
    workaround?
@@ -676,6 +675,15 @@ Inference: for the offer, answer three questions:
 3. Status: does the pitch sell standing? If it rests on making the buyer feel above others,
    remove that part. Then ask the same question about your own decision to build the offer.
 
-Inference: the verse describes a desire that ran ahead of judgment. It records a fall, and it
+Reading: the verse describes a desire that ran ahead of judgment. It records a fall, and it
 does not command an appeal to any of the three. The ethics of what you sell come from
-`../business-first-principles/references/ethics.md`.
+`../../business-first-principles/references/ethics.md`.
+
+## Planning under the will of God
+
+Reading: every step of the procedure is a plan, and the plan stays under the will of God.
+James 4:13 speaks to people who say, "we will go into such a city, and continue there a year,
+and buy and sell, and get gain". James 4:15 answers, "ye ought to say, If the Lord will, we
+shall live, and do this, or that." Proverbs 16:9 says, "A man's heart deviseth his way: but the
+LORD directeth his steps." The test and the stopping rule do not remove this. They are a way to
+plan while you say "If the Lord will".

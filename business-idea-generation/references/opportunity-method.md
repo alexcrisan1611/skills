@@ -9,9 +9,7 @@ market evidence.
 
 ## Method and labels
 
-The file uses four labels: "Text states:", "Lexical:", "Inference:", and "Contested:". Verses
-come from `../scripture-foundations/scripts/scripture.ts`. Strong's definitions come from
-`../scripture-foundations/scripts/lexicon.ts`. The file copies them verbatim.
+Labels are the ones defined in `scripture-foundations`: Scripture says, Word meaning, Reading, Disputed, Guess.
 
 Governing passages:
 
@@ -31,7 +29,7 @@ Governing passages:
 - Genesis 3:6, the demand test
 
 An ID that starts with "A" refers to an axiom in
-`../business-first-principles/references/axioms.md`. The file uses these axioms most:
+`../../business-first-principles/references/axioms.md`. The file uses these axioms most:
 
 - A5. Formation precedes filling
 - A19. Doing the work reveals the need
@@ -55,7 +53,7 @@ three kinds of desire in A24. A "sales channel" is a route that carries the offe
 - [Part 8. Falsification](#part-8-falsification)
 - [Part 9. The smallest reversible first step](#part-9-the-smallest-reversible-first-step)
 - [Part 10. Filling the output format](#part-10-filling-the-output-format)
-- [Appendix: verification log](#appendix-verification-log)
+- [Limits of this file](#limits-of-this-file)
 
 ---
 
@@ -67,11 +65,11 @@ Each step gives the question, the evidence standard, the failure mode, and the l
 
 The question: What changed in the world?
 
-Text states (John 4:35): "Say not ye, There are yet four months, and then cometh harvest?
+Scripture says (John 4:35): "Say not ye, There are yet four months, and then cometh harvest?
 behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to
 harvest."
 
-Inference: Verse 36 makes the harvest one of souls. The reaper "gathereth fruit unto life
+Reading: Verse 36 makes the harvest one of souls. The reaper "gathereth fruit unto life
 eternal." This file uses the verse for markets only as an analogy.
 
 The evidence standard: A change in a constraint, with a date. The usable categories are cost,
@@ -81,13 +79,13 @@ Taste can reverse, and it leaves no written record.
 The failure mode: You name a mood as a change. "People want authenticity now" is not a change.
 "A rule took effect in March 2026 and requires a digital filing for this group" is a change.
 
-Inference: This step is the reading half of 1 Chronicles 12:32. It is not the decision half.
+Reading: This step is the reading half of 1 Chronicles 12:32. It is not the decision half.
 
 ### Step 2. Name who it affects
 
 The question: Who feels this change first, and who feels it most?
 
-Text states (Acts 17:23): "For as I passed by, and beheld your devotions, I found an altar
+Scripture says (Acts 17:23): "For as I passed by, and beheld your devotions, I found an altar
 with this inscription, TO THE UNKNOWN GOD."
 
 The evidence standard: A named group that you can reach. The group needs a location, a way to
@@ -96,10 +94,10 @@ contact it, and a reason to care this quarter.
 The failure mode: You name "everyone" or "small businesses". A group that large has no shared
 workaround. Your message then has no shared content.
 
-Inference: The observation in Acts is specific. Paul names an altar and an inscription. He
+Reading: The observation in Acts is specific. Paul names an altar and an inscription. He
 does not name a demographic.
 
-Inference: The original audience is the Athenians, and Paul's message is the gospel. He starts
+Reading: The original audience is the Athenians, and Paul's message is the gospel. He starts
 at their altar, but he preaches "Jesus, and the resurrection" (17:18) and calls them to repent
 (17:30). A business use of this text is an analogy.
 
@@ -107,7 +105,7 @@ at their altar, but he preaches "Jesus, and the resurrection" (17:18) and calls 
 
 The question: What do these people do today, and what do they pay for it?
 
-Text states (Genesis 2:20): "And Adam gave names to all cattle, and to the fowl of the
+Scripture says (Genesis 2:20): "And Adam gave names to all cattle, and to the fowl of the
 air, and to every beast of the field; but for Adam there was not found an help meet for him."
 
 The evidence standard: A named practice that already exists. Examples are the spreadsheet,
@@ -116,18 +114,18 @@ the group chat, the hired relative, the paid substitute, and the task that nobod
 The failure mode: You assume that the current method is nothing. If the workaround is
 "nothing", the need is usually weak. Nobody pays for a problem that nobody tries to solve.
 
-Inference: The workaround is the real competitor. A new offer replaces it. The offer must beat
+Reading: The workaround is the real competitor. A new offer replaces it. The offer must beat
 the workaround on cost, time, or standing.
 
 ### Step 4. Name the formless part
 
 The question: Which part of this market has no structure and no contents?
 
-Text states (Genesis 1:2, 1:4-5): "And the earth was without form, and void". Then "God
+Scripture says (Genesis 1:2, 1:4-5): "And the earth was without form, and void". Then "God
 divided the light from the darkness." Then "God called the light Day, and the darkness he
 called Night."
 
-Inference: The order in Genesis 1 is divide, then name, then fill. The earth starts without
+Reading: The order in Genesis 1 is divide, then name, then fill. The earth starts without
 form. God divides (1:4), then names (1:5), and on later days fills what he formed. The
 business-idea-generation skill states the same order in `references/scripture-cases.md`, "The opportunity is formlessness".
 
@@ -140,14 +138,14 @@ The evidence standard: A part with no boundary and no name. Look for these signs
 The failure mode: You fill before you form. This breaks A5 (Formation precedes filling).
 Features arrive before the container exists. The result is clutter that nobody can evaluate.
 
-Inference: The three moves are divide, name, and fill. A6 (Distinction precedes order) covers
+Reading: The three moves are divide, name, and fill. A6 (Distinction precedes order) covers
 the first move. A7 (Naming is an act of authority) covers the second.
 
 ### Step 5. Size the ground
 
 The question: How many people are in the group, and what do they already spend?
 
-Text states (Matthew 13:8): "But other fell into good ground, and brought forth fruit,
+Scripture says (Matthew 13:8): "But other fell into good ground, and brought forth fruit,
 some an hundredfold, some sixtyfold, some thirtyfold."
 
 The evidence standard: A counted number with a stated method, an error range, and a floor
@@ -157,7 +155,7 @@ arithmetic.
 The failure mode: You use a number from a report that gives no method. A top-down percentage
 of a large figure is a guess. It only looks like a measurement.
 
-Inference: Jesus explains the seed as "the word of the kingdom" and the ground as the heart of
+Reading: Jesus explains the seed as "the word of the kingdom" and the ground as the heart of
 the hearer (Matthew 13:19-23). A business use of this text is an analogy. By analogy, the same
 seed returns nothing or a hundredfold, and the ground decides which. Segment size and segment
 fit matter more than the quality of the offer.
@@ -166,11 +164,11 @@ fit matter more than the quality of the offer.
 
 The question: How does the offer reach the group, and what does each new customer cost?
 
-Text states (Matthew 13:31-33): The mustard seed becomes a tree, "so that the birds of the
+Scripture says (Matthew 13:31-33): The mustard seed becomes a tree, "so that the birds of the
 air come and lodge in the branches thereof." The leaven is hidden in meal, "till the whole
 was leavened."
 
-Inference: The parables picture "the kingdom of heaven" (13:31, 13:33). By analogy, they give
+Reading: The parables picture "the kingdom of heaven" (13:31, 13:33). By analogy, they give
 two growth models. The mustard model is visible and central. The leaven model is hidden.
 
 The evidence standard: A named sales channel, a named owner, and a cost per new customer that
@@ -179,14 +177,14 @@ the price can carry. Test the sales channel before you build the product.
 The failure mode: You build the product and leave the sales channel to luck. The best product
 in a sales channel that you cannot reach is an expensive hobby.
 
-Inference: Know which model you run. A mustard business measures the size of the tree. A
+Reading: Know which model you run. A mustard business measures the size of the tree. A
 leaven business has no useful dashboard while the leaven works.
 
 ### Step 7. State the test
 
 The question: What result, at what date, ends the attempt?
 
-Text states (Luke 14:28): "For which of you, intending to build a tower, sitteth not down
+Scripture says (Luke 14:28): "For which of you, intending to build a tower, sitteth not down
 first, and counteth the cost, whether he have sufficient to finish it?"
 
 The evidence standard: A threshold, a date, and a stopping rule. The threshold names a number.
@@ -196,7 +194,7 @@ The failure mode: You set no stopping rule. A decision without a stopping rule i
 to drift. It uses up the years that A30 (Mortality makes time the binding constraint) names as
 the binding constraint.
 
-Inference: Write the test before the build. A test that you write after the build is a
+Reading: Write the test before the build. A test that you write after the build is a
 rationalization.
 
 ---
@@ -209,29 +207,29 @@ Text (Luke 12:54-56, KJV):
 > 55 And when ye see the south wind blow, ye say, There will be heat; and it cometh to pass.
 > 56 Ye hypocrites, ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time?
 
-Text states: Both forecasts come true: "and so it is", and "it cometh to pass."
+Scripture says: Both forecasts come true: "and so it is", and "it cometh to pass."
 
-Text states: The people "can discern the face of the sky and of the earth". They "do not
+Scripture says: The people "can discern the face of the sky and of the earth". They "do not
 discern this time".
 
-Text states: Jesus calls them "Ye hypocrites" (verse 56).
+Scripture says: Jesus calls them "Ye hypocrites" (verse 56).
 
-Inference: The charge is inconsistency, not incapacity. The people have the skill in one area
+Reading: The charge is inconsistency, not incapacity. The people have the skill in one area
 and do not use it in another. The word "hypocrites" makes the failure a moral one.
 
-Inference: The time that they missed is the time of Christ among them (compare Luke 19:44, "the
+Reading: The time that they missed is the time of Christ among them (compare Luke 19:44, "the
 time of thy visitation"). A business use of this text is an analogy.
 
-Lexical: G2540 _kairos_ is the word behind "time" in verse 56. The entry reads "an occasion,
+Word meaning: G2540 _kairos_ is the word behind "time" in verse 56. The entry reads "an occasion,
 i.e. set or proper time". The KJV gloss list includes "opportunity" and "(convenient, due)
 season". The people miss a window, not a date on a schedule.
 
-Lexical: G4592 _semeion_ is the word behind "signs" in Matthew 16:3. The entry reads "an
+Word meaning: G4592 _semeion_ is the word behind "signs" in Matthew 16:3. The entry reads "an
 indication, especially ceremonially or supernaturally". The gloss list includes "token".
 
 ### The test
 
-Inference: A reading becomes a decision when it has answers to five questions.
+Reading: A reading becomes a decision when it has answers to five questions.
 
 | Question               | A decision has                                  | A report has                   |
 | ---------------------- | ----------------------------------------------- | ------------------------------ |
@@ -262,15 +260,15 @@ Text (Genesis 3:6, KJV):
 
 > 6 And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.
 
-Text states: The verse names three properties: "good for food", "pleasant to the eyes", and
+Scripture says: The verse names three properties: "good for food", "pleasant to the eyes", and
 "to be desired to make one wise".
 
-Text states: The three properties appear in one sequence, and the act follows.
+Scripture says: The three properties appear in one sequence, and the act follows.
 
-Inference: The three properties are appetite, beauty, and status. A24 (Desire runs on three
+Reading: The three properties are appetite, beauty, and status. A24 (Desire runs on three
 channels) states that a buyer decides each purchase, hire, and commitment on all three at once.
 
-Inference: Appetite and beauty are goods that God made (Genesis 2:9: "pleasant to the sight,
+Reading: Appetite and beauty are goods that God made (Genesis 2:9: "pleasant to the sight,
 and good for food"). The third channel, "to be desired to make one wise", is the serpent's
 promise "ye shall be as gods" (3:5), and 1 John 2:16 says "the pride of life, is not of the
 Father". Use the three as an ethics check, not a sales lever. Serve real need and real beauty,
@@ -292,7 +290,7 @@ sells standing.
 
 The caution: The verse describes desire ahead of judgment. It records a fall, and it commands
 nothing. The ethics of what you sell come from
-`../business-first-principles/references/ethics.md`.
+`../../business-first-principles/references/ethics.md`.
 
 ---
 
@@ -307,19 +305,19 @@ Text (Ecclesiastes 11:1-6, KJV):
 > 5 As thou knowest not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so thou knowest not the works of God who maketh all.
 > 6 In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good.
 
-Text states: The instruction names more than one portion: "Give a portion to seven, and
+Scripture says: The instruction names more than one portion: "Give a portion to seven, and
 also to eight."
 
-Text states: The instruction names two sowings: "In the morning sow thy seed, and in the
+Scripture says: The instruction names two sowings: "In the morning sow thy seed, and in the
 evening withhold not thine hand."
 
-Text states: The stated reason is ignorance. The phrase "thou knowest not" occurs four times in
+Scripture says: The stated reason is ignorance. The phrase "thou knowest not" occurs four times in
 three verses: once in verse 2, twice in verse 5, and once in verse 6.
 
-Text states: The counter-case is a person who watches conditions and never acts: "He that
+Scripture says: The counter-case is a person who watches conditions and never acts: "He that
 observeth the wind shall not sow."
 
-Text states: The verse names three outcomes, and one is that both bets succeed: "or whether
+Scripture says: The verse names three outcomes, and one is that both bets succeed: "or whether
 they both shall be alike good."
 
 ### The rules, stated as inference
@@ -334,10 +332,10 @@ they both shall be alike good."
 6. Do not turn a number into a formula. "Seven, and also to eight" reads as a large number and
    then more. It is not a rule for allocation, and no verse supplies a bet count.
 
-Contested: The idiom reading in rule 6 is one reading. The tools verify the verse text. They do
+Disputed: The idiom reading in rule 6 is one reading. The tools verify the verse text. They do
 not verify the idiom.
 
-Contested: Readers differ on what verses 1-2 are about. One view reads them as generosity: give
+Disputed: Readers differ on what verses 1-2 are about. One view reads them as generosity: give
 bread and portions to many, because a day of evil may come (compare Proverbs 19:17 and Luke
 6:38). Another view reads them as trade: send goods over the water, and spread the risk across
 several ventures (compare Psalm 107:23, "They that go down to the sea in ships, that do business
@@ -348,10 +346,10 @@ view. The rules above follow the second view, and they do not settle the questio
 
 ## Part 5. Sizing the ground
 
-Text states (Matthew 13:3-8): The same seed yields a hundredfold, sixtyfold, or thirtyfold.
+Scripture says (Matthew 13:3-8): The same seed yields a hundredfold, sixtyfold, or thirtyfold.
 Three of the four grounds yield nothing that the text names.
 
-Inference: Size the ground in three layers. Count each layer with its own method.
+Reading: Size the ground in three layers. Count each layer with its own method.
 
 | Layer               | The question                        | The method                                          | The honest limit                                            |
 | ------------------- | ----------------------------------- | --------------------------------------------------- | ----------------------------------------------------------- |
@@ -363,12 +361,12 @@ The floor case: State the number under pessimistic assumptions and show the arit
 floor case supports the plan, an error in the estimate does not break the plan. If only the
 ceiling case supports the plan, the plan depends on a forecast.
 
-Inference: Use the floor case for the go decision. Use the ceiling case for the capacity plan.
+Reading: Use the floor case for the go decision. Use the ceiling case for the capacity plan.
 
 What not to do: Do not multiply a large population by a small percentage and call the result a
 market. The small percentage is the whole argument, and it carries no evidence.
 
-Contested: Practitioners use different methods to size a market. Top-down and bottom-up methods
+Disputed: Practitioners use different methods to size a market. Top-down and bottom-up methods
 give different numbers. Neither method is reliable for a new category. This part gives a
 discipline to state the estimate. It does not give a method to make the estimate accurate.
 
@@ -567,7 +565,7 @@ allowed to become permanent) to the plan.
 
 ## Part 8. Falsification
 
-Inference: Write the evidence that will disprove the plan before you build. Answer four
+Reading: Write the evidence that will disprove the plan before you build. Answer four
 questions.
 
 1. What evidence shows that the change is not real? Name a source and a number. A change in a
@@ -579,14 +577,14 @@ questions.
 4. What evidence shows that the ground is too small? State the floor case. State the number
    below which the plan fails.
 
-Text states (Proverbs 27:23): "Be thou diligent to know the state of thy flocks, and look
+Scripture says (Proverbs 27:23): "Be thou diligent to know the state of thy flocks, and look
 well to thy herds."
 
-Inference: The verse commands a count of the real state. It does not command optimism.
+Reading: The verse commands a count of the real state. It does not command optimism.
 
-Text states (Numbers 13:28): "Nevertheless the people be strong that dwell in the land".
+Scripture says (Numbers 13:28): "Nevertheless the people be strong that dwell in the land".
 
-Inference: The majority report began with true facts and reached a false conclusion. Then it
+Reading: The majority report began with true facts and reached a false conclusion. Then it
 slandered the land: "an evil report of the land... a land that eateth up the inhabitants
 thereof" (13:32). The text names the root as unbelief (Numbers 14:11, Hebrews 3:19). Keep the
 facts and the conclusion separate in your own report.
@@ -595,7 +593,7 @@ facts and the conclusion separate in your own report.
 
 ## Part 9. The smallest reversible first step
 
-Inference: Every opportunity plan ends with a first step that is small and reversible. The
+Reading: Every opportunity plan ends with a first step that is small and reversible. The
 step has six properties:
 
 1. It tests the riskiest assumption, not the easiest one.
@@ -605,16 +603,16 @@ step has six properties:
 5. It involves a real customer who pays something, even a small amount.
 6. It does not create an obligation that continues after the test.
 
-Text states (Genesis 3:22): "lest he put forth his hand, and take also of the tree of life, and
+Scripture says (Genesis 3:22): "lest he put forth his hand, and take also of the tree of life, and
 eat, and live for ever". God acts to stop a state from becoming permanent. This verse is the
 grounding text of A32 (Some states must not be allowed to become permanent).
 
-Inference: Move fast on reversible decisions. Move slowly on decisions that you cannot undo.
+Reading: Move fast on reversible decisions. Move slowly on decisions that you cannot undo.
 This is the business form of A32.
 
-Text states (Isaiah 28:16): "he that believeth shall not make haste."
+Scripture says (Isaiah 28:16): "he that believeth shall not make haste."
 
-Inference: The verse speaks of faith in a tried foundation stone. It does not speak of business
+Reading: The verse speaks of faith in a tried foundation stone. It does not speak of business
 decisions. This file uses it only as an analogy: a sure foundation removes the need to hurry.
 The verse does not ground A32.
 
@@ -625,7 +623,7 @@ tests the assumption, and all three take time.
 
 ## Part 10. Filling the output format
 
-Inference: The skill file gives an output format. This list gives the content of each line:
+Reading: The skill file gives an output format. This list gives the content of each line:
 
 1. The change: One sentence. The constraint that moved, and the date.
 2. The affected group: Named, reachable, and sized. Include the workaround and its cost.
@@ -645,39 +643,12 @@ labels more than the reader needs your confidence.
 
 ---
 
-## Appendix: verification log
+## Limits of this file
 
-### Verses retrieved with `../scripture-foundations/scripts/scripture.ts`
-
-1 Chronicles 12:32, Luke 12:54-56, Luke 14:28, Matthew 16:2-3, John 4:35-36, Acts 17:22-31,
-Genesis 1:2, Genesis 1:4-5, Genesis 2:19-20, Genesis 3:6, Genesis 3:22, Genesis 41:25-32,
-Genesis 41:29-36, Genesis 41:53-57, Genesis 47:13-26, Ecclesiastes 1:9-10, Ecclesiastes
-11:1-6, Nehemiah 2:11-16, Numbers 13:27-33, Matthew 13:3-9, Matthew 13:31-33, Proverbs 27:23,
-Proverbs 22:29, 1 Samuel 17:34-37, 1 Samuel 17:38-40, Isaiah 28:16.
-
-Added in the doctrinal review, retrieved with `../scripture-foundations/scripts/scripture.py`:
-Genesis 2:9, Genesis 3:5, 1 John 2:16, Luke 19:44, Acts 17:16-20, Matthew 13:19-23, Numbers
-13:32, Numbers 14:11, Hebrews 3:19, Proverbs 19:17, Luke 6:38, Psalm 107:23.
-
-### Lexical claims verified with `../scripture-foundations/scripts/lexicon.ts`
-
-| Number | Transliteration | Definition as returned (verbatim)                                                                                                                                                                                                                   |
-| ------ | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| H6256  | _eth_           | "time, especially (adverb with preposition) now, when, etc."                                                                                                                                                                                        |
-| H3045  | _yada_          | "to know (properly, to ascertain by seeing); used in a great variety of senses, figuratively, literally, euphemistically and inferentially (including observation, care, recognition; and causatively, instruction, designation, punishment, etc.)" |
-| G2540  | _kairos_        | "an occasion, i.e. set or proper time"                                                                                                                                                                                                              |
-| G4592  | _semeion_       | "an indication, especially ceremonially or supernaturally"                                                                                                                                                                                          |
-| G2326  | _therismos_     | "reaping, i.e. the crop"                                                                                                                                                                                                                            |
-| H8414  | _tohu_          | "a desolation (of surface), i.e. desert; figuratively, a worthless thing; adverbially, in vain"                                                                                                                                                     |
-| H922   | _bohu_          | "a vacuity, i.e. (superficially) an undistinguishable ruin"                                                                                                                                                                                         |
-| H914   | _badal_         | "to divide (in variation senses literally or figuratively, separate, distinguish, differ, select, etc.)"                                                                                                                                            |
-| H7121  | _qara_          | "to call out to (i.e. properly, address by name, but used in a wide variety of applications)"                                                                                                                                                       |
-| H4106  | _mahir_         | "quick; hence, skilful"                                                                                                                                                                                                                             |
-
-### Claims I cannot verify with the supplied tools
+These claims cannot be checked with the scripts:
 
 1. All verse to Strong's mappings: The supplied Strong's data has no tags at the verse level.
-   The bundled KJV JSON carries no Strong's numbers. Each mapping above is a standard
+   The bundled KJV JSON carries no Strong's numbers. Each mapping is a standard
    concordance association. The tools verify the definitions. They do not verify the place of
    each word in the verse.
 2. Every market figure in the worked examples: The firm counts, adoption rates, bike counts,
@@ -687,7 +658,7 @@ Genesis 2:9, Genesis 3:5, 1 John 2:16, Luke 19:44, Acts 17:16-20, Matthew 13:19-
    reading as an idiom for abundance is an inference, and the tools do not verify it.
 4. The evaluation of the famine administration of Joseph: The tools verify the text. The text
    states the arrangement and the words of the people in Genesis 47:25. It states no verdict.
-   Readers differ, so this item carries the label "Contested".
+   Readers differ, so this item carries the label "Disputed".
 5. The seven-year cycle as a method to forecast: The text states that God showed the cycle to
    Pharaoh through a dream (Genesis 41:25-32). Joseph did not detect it. The use of the passage
    as a method to detect cycles is a further inference, and it carries that label.

@@ -10,10 +10,10 @@ The skill keeps two capacities apart. The first is reading the times, from 1 Chr
 
 Each claim in the skill carries one of four labels:
 
-- Text states: the KJV verse says it, and the file quotes the verse.
-- Lexical: a Strong's entry says it, copied from the lexicon tool in `scripture-foundations`.
-- Inference: a reader drew it, and the file shows how.
-- Contested: faithful readers or practitioners disagree, and the file gives the range.
+- Scripture says: the KJV verse says it, and the file quotes the verse.
+- Word meaning: a Strong's entry says it, copied from the lexicon tool in `scripture-foundations`.
+- Reading: a reader drew it, and the file shows how.
+- Disputed: faithful readers or practitioners disagree, and the file gives the range.
 
 Every business application is an inference. The skill says "this suggests". It does not say that the Bible commands a business practice.
 
@@ -41,7 +41,7 @@ The procedure has seven steps. Each step names a question, the evidence it needs
 
 The skill also applies a demand test from Genesis 3:6 as an ethics check, not a sales lever. Genesis 2:9 shows that appetite and beauty are goods that God made. The third channel, status, is the serpent's promise "ye shall be as gods" (3:5), and 1 John 2:16 says "the pride of life, is not of the Father". So the check asks whether the offer serves a real need, whether its beauty is true to the use, and whether the pitch sells standing.
 
-When you ask for ideas or for a verdict on an idea, the answer comes in a fixed order. It covers the change, the group, the formless part, the ground, the distribution, the ethics check, the position in the cycle, the test, the smallest first step that you can reverse, and a confidence label on each claim.
+When you ask for ideas or for a verdict on an idea, the answer comes in a fixed order. It covers the change, the group, the part nobody has given a structure or a name yet, the size of the market, the distribution, the ethics check, the position in the cycle, the test, the smallest first step that you can reverse, and a confidence label on each claim.
 
 ## What is in this folder
 
@@ -50,7 +50,7 @@ When you ask for ideas or for a verdict on an idea, the answer comes in a fixed 
 - `references/opportunity-method.md`: The full procedure. It holds the evidence standards for each step, the conversion and demand tests, the bet portfolio, market sizing, falsification, and the smallest reversible first step. It also has two worked examples with invented figures: a software product for small accounting firms and a mobile e-bike service.
 - `references/reading-the-times.md`: The trend material. It covers what a trend is, seven tests to separate durable change from fashion, what to watch in the field, how long a market position lasts, and how to test a claim about the future. It ends with 25 working rules.
 
-Both reference files end with a verification log. The log lists the verses and Strong's entries that the tools checked, and the claims that the tools cannot verify.
+Both reference files end with a list of the claims that the scripts cannot check.
 
 ## Related skills
 
@@ -58,7 +58,6 @@ The skill depends on these skills in the same repository:
 
 - `scripture-foundations` supplies the KJV text and the Strong's lexicon.
 - `business-first-principles` supplies the axioms (A2, A5, A6, A7, A14, A19, A20, A24, A30, A32) and the file `references/trends-and-timing.md`.
-- `technology-selection` takes over after the decision, when the question of tooling starts.
 
 ## Example prompts
 

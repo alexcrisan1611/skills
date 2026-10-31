@@ -28,7 +28,7 @@ Use the skill in these situations:
 
 ## How it works
 
-The skill runs eight steps in order. Steps 1 and 2 come before any interview.
+The skill runs eight steps in order. Steps 1 and 2 come before anyone involved is questioned. The agent asks you, and gives you the questions to put to the others.
 
 1. Stabilize. If harm is active, stop it first.
 2. State the symptom in one sentence, with one measure and one date.
@@ -54,13 +54,14 @@ The skill draws each tool from a Bible passage:
 - James 1, Romans 5, and Hebrews 12 ask what capacity a failure leaves behind.
 - Acts 27 gives the case of a warning that people rejected.
 
-Each claim in the skill carries a label. "Text states" marks what the verse says. "Lexical" marks a Strong's word definition. "Inference" marks a conclusion that the skill draws. The reference files also use "Contested" and "Illustration".
+Each claim in the skill carries one of the labels defined in `scripture-foundations`: "Scripture says", "Word meaning", "Reading", "Disputed" or "Guess". The worked case in `references/diagnosis.md` also uses "Illustration" for made-up case data.
 
 The output is a diagnosis in eight parts: symptom, location, source and act, classification, evidence, fix and its test, what is not known, and confidence. The diagnosis comes before the judgment. It names the act and the system, and it aims at repair and restoration (Galatians 6:1).
 
 ## What is in this folder
 
-- `SKILL.md`: When to use the skill, the eight-step procedure, the output format, the interrogation of Genesis 3, and a pointer to each case and test.
+- `SKILL.md`: When to use the skill, the eight-step procedure, the output format, and a pointer to each case and test.
+- `references/interrogation.md`: The reading of Genesis 3:9-13 behind the order of the questions (where, then source, then act), and the verdict with account and mercy.
 - `references/cases-and-tests.md`: The Bible passages and the tests behind the procedure: cycle or event, structural or fixable friction, triage, decay, the storm and fire tests, the honest limit, and Acts 27.
 - `references/diagnosis.md`: The eight steps worked through one constructed case, a software firm that misses delivery dates every quarter. It includes a list of traps, the signs that the diagnosis is wrong, and a bank of 17 questions.
 - `references/crisis.md`: Crisis response from Acts 27 and Nehemiah 4. It separates the decisions for the first hour from the decisions that wait. It also covers the crisis log, the rule for ending an emergency, common failure modes, and the order of work after the crisis.

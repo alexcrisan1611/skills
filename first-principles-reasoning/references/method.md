@@ -2,10 +2,8 @@
 
 Reference file for the `first-principles-reasoning` skill.
 
-Verses are quoted from the local KJV with `../scripture-foundations/scripts/scripture.ts`. Hebrew
-and Greek definitions are copied from `../scripture-foundations/scripts/lexicon.ts`. The labels
-are "Text states", "Lexical", "Inference", "Contested", and "Illustration". "Illustration" marks
-constructed example data.
+The labels are the ones defined in `scripture-foundations` (Scripture says, Word meaning, Reading,
+Disputed, Guess), plus "Illustration", which marks constructed example data.
 
 The examples below are constructed. They show the shape of the climb. The numbers in them are not
 real observations from any firm or person.
@@ -15,6 +13,7 @@ real observations from any firm or person.
 ## Contents
 
 - [The four rungs](#the-four-rungs)
+  - [A compact example](#a-compact-example)
 - [How to climb](#how-to-climb)
 - [How to spot a skipped rung](#how-to-spot-a-skipped-rung)
 - [When the ladder stops below an axiom](#when-the-ladder-stops-below-an-axiom)
@@ -35,6 +34,29 @@ real observations from any firm or person.
 
 The rungs have an order. A pattern needs observations under it. A principle needs patterns. An
 axiom is the rung that ends the climb.
+
+### A compact example
+
+1. Observation. What happened? Record it with a measure and a date. "Support tickets rose 40
+   percent last quarter." This is the only rung that is not an interpretation.
+2. Pattern. What keeps happening? A pattern needs repetition across time or across cases.
+   "Ticket volume rises whenever a release ships without a help article."
+3. Principle. What rule explains the pattern? A principle covers the observed cases and predicts
+   new ones. "Users contact support when nobody explains a change at the point of use."
+4. Axiom. What does the principle rest on? An axiom is the rung that stops the ladder. Here it is
+   a claim about how people learn and about the duty to specify work clearly. The business axiom
+   for that claim is A4 in `business-first-principles`.
+
+The ladder shows two common errors:
+
+- The skipped rung. A person moves from one incident to an axiom, or from an observation
+  straight to a principle. The conclusion feels strong because the top of the ladder is strong.
+  The middle is missing, so nothing carries the load.
+- The ground floor. A person collects observations and refuses to climb. The work produces a
+  dashboard and not a decision.
+
+Two tests apply at every rung. First, can you state the evidence in one sentence? Second, can
+you name the result that will move you down a rung?
 
 ## How to climb
 
@@ -118,7 +140,7 @@ for six quarters. (Illustration)
 
 ### Rung 3. Principle
 
-Inference: a firm grows in two ways. An existing customer buys more, or the firm finds more
+Reading: a firm grows in two ways. An existing customer buys more, or the firm finds more
 customers. Where acquisition efficiency falls and expansion rises, the constraint sits in the
 offer and the account relationship. It does not sit in the market size.
 
@@ -130,7 +152,7 @@ buyer.
 
 Two axioms govern the decision:
 
-- A5, "Formation precedes filling." Inference from Genesis 1: days 1 to 3 form domains, and days
+- A5, "Formation precedes filling." Reading from Genesis 1: days 1 to 3 form domains, and days
   4 to 6 fill them. The container comes before the contents. A second product is contents. The
   container here is the core workflow and the account relationship.
 - A6, "Distinction precedes order." "And God divided the light from the darkness" (Genesis 1:4).
@@ -164,7 +186,7 @@ The climb shows three separate failures in that sentence:
 
 ### What moves the answer
 
-Inference: if expansion revenue falls and acquisition holds, the principle points the other way.
+Reading: if expansion revenue falls and acquisition holds, the principle points the other way.
 The constraint then sits in the account relationship and not in new demand.
 
 ---
@@ -199,7 +221,7 @@ The scene: a manager with a full portfolio and a calendar that shows 12 weeks. (
 
 ### Rung 3. Principle
 
-Inference: a yes to one thing is a no to something else, and commitments that nobody measures
+Reading: a yes to one thing is a no to something else, and commitments that nobody measures
 become invisible. The week has a fixed capacity. A person who does not keep a capacity number
 will treat that number as unlimited.
 
@@ -211,16 +233,16 @@ those weeks. If misses next quarter fall in light weeks instead, the principle i
 ### Rung 4. Axiom
 
 - A30, "Mortality makes time the binding constraint." "Till thou return unto the ground" (Genesis
-  3:19). Text states the verse. Inference for the application: finite time is the base constraint
+  3:19). Scripture says the verse. Reading for the application: finite time is the base constraint
   under every plan, and opportunity cost is the real cost.
 - A15, "Work is bounded; rest is structural." "And on the seventh day God ended his work"
-  (Genesis 2:2). Inference: God gives the ratio, and nobody earns it.
+  (Genesis 2:2). Reading: God gives the ratio, and nobody earns it.
 - A20, "Abundance precedes restriction; the boundary is few and stated in advance." "Of every
   tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil,
-  thou shalt not eat of it" (Genesis 2:16-17). Inference: a rule that a person invents after the
+  thou shalt not eat of it" (Genesis 2:16-17). Reading: a rule that a person invents after the
   pressure arrives is a negotiation.
 - A18, "Aloneness is not good." Genesis 2:18 says, "And the LORD God said, It is not good that the
-  man should be alone; I will make him an help meet for him." Inference: the three colleagues are
+  man should be alone; I will make him an help meet for him." Reading: the three colleagues are
   not the problem by themselves. The problem is that the group has no shared rule for requests.
 
 ### The practice
@@ -244,14 +266,14 @@ schedule, and a small group of people.
 The climb does not remove the question of character. It puts that question in the condition of
 the thinker, with evidence under it. P4 shows that a refusal costs an awkward conversation, so
 ask whether the fear of others is at work. "The fear of man bringeth a snare: but whoso putteth
-his trust in the LORD shall be safe." (Proverbs 29:25) (Text states) Inference: a yes that is not
+his trust in the LORD shall be safe." (Proverbs 29:25) (Scripture says) Reading: a yes that is not
 kept is also a matter of integrity. "But let your communication be, Yea, yea; Nay, nay: for
-whatsoever is more than these cometh of evil." (Matthew 5:37) (Text states) Inference: the
+whatsoever is more than these cometh of evil." (Matthew 5:37) (Scripture says) Reading: the
 capacity number helps the person keep the yes that they give.
 
 ### What moves the answer
 
-Inference: if the missed commitments trace to one colleague or one recurring meeting, the fix is
+Reading: if the missed commitments trace to one colleague or one recurring meeting, the fix is
 a boundary with that source. A capacity system comes second.
 
 ---

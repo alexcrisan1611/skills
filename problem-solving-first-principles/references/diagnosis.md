@@ -3,11 +3,9 @@
 Reference file for the `problem-solving-first-principles` skill.
 
 This file runs the eight-step procedure on one recurring organizational failure. The case is
-constructed. The verses and definitions come from
-`../scripture-foundations/scripts/scripture.ts` and
-`../scripture-foundations/scripts/lexicon.ts`.
+constructed.
 
-The labels are Text states, Lexical, Inference, Contested, and Illustration. Illustration marks
+The labels are the ones defined in `scripture-foundations`, plus Illustration, which marks
 constructed case data.
 
 ---
@@ -51,9 +49,9 @@ The work: Stop the harm before the interviews. Illustration: In this case, each 
 gets a named owner and a direct conversation. The delivery team stops accepting new work above
 its stated capacity. This stays in place until the team reviews the current commitments again.
 
-Why the order matters: Inference: During active harm, people protect themselves when they give
+Why the order matters: Reading: During active harm, people protect themselves when they give
 their account. The evidence also disappears fast. The related axiom is B10 in
-`../business-first-principles/references/body.md`, "Acute inflammation heals. Chronic inflammation destroys." Its
+`../../business-first-principles/references/body.md`, "Acute inflammation heals. Chronic inflammation destroys." Its
 principle is that urgency must be time boxed. A crisis that never ends becomes the normal
 operating condition.
 
@@ -128,8 +126,8 @@ Label: Illustration.
 The question (Genesis 3:11): "Who told thee that thou wast naked?"
 
 The work: Ask what fed the failure. The source can be a person, a rule, an incentive, a tool, or
-an absence. Text states: In Genesis 3:11, God asks this question first. In the same verse he
-asks about the act: "Hast thou eaten of the tree...?" Inference: The question is about the input
+an absence. Scripture says: In Genesis 3:11, God asks this question first. In the same verse he
+asks about the act: "Hast thou eaten of the tree...?" Reading: The question is about the input
 that produced the state.
 
 What fed stage 4 in this case:
@@ -150,12 +148,12 @@ normal. By itself, it is not a defect. The defect is that no gate stands between
 and the commitment.
 
 The rule for this step: Proverbs 18:17 states, "He that is first in his own cause seemeth just;
-but his neighbour cometh and searcheth him." Text states: the first account seems right until
-the neighbor examines it. Inference: The account executive gives the first account of the deal.
+but his neighbour cometh and searcheth him." Scripture says: the first account seems right until
+the neighbor examines it. Reading: The account executive gives the first account of the deal.
 The delivery lead is the "neighbour" in the verse. The diagnosis needs both accounts. It also
 needs the records, because the records have no interest in the result.
 
-Label: Illustration for the case data. The verse is Text states.
+Label: Illustration for the case data. The verse is Scripture says.
 
 ---
 
@@ -183,10 +181,10 @@ interviews with the two account teams.
 The trap in this step: The team turns the act into a verdict on character. "The sales team is
 dishonest" is not a finding. It is a judgment that comes before the diagnosis is complete.
 Axiom A26 in `business-first-principles`, "Diagnose before you judge", names the correct
-sequence. Text states: In Genesis 3:12-13, Adam and the woman both pass the cause to another.
-Inference: The text shows the alternative for the diagnosis. The diagnosis records the transfer
-of blame, but it does not accept it. Text states: In 3:14-17, God holds each one to account for
-that one's own act, and in 3:21 he clothes them. Inference: Record the personal act and the
+sequence. Scripture says: In Genesis 3:12-13, Adam and the woman both pass the cause to another.
+Reading: The text shows the alternative for the diagnosis. The diagnosis records the transfer
+of blame, but it does not accept it. Scripture says: In 3:14-17, God holds each one to account for
+that one's own act, and in 3:21 he clothes them. Reading: Record the personal act and the
 system together, and aim at restoration (Galatians 6:1).
 
 Label: Illustration.
@@ -260,13 +258,13 @@ The test in this case:
 Why this test: The measure is the failure itself, not a proxy. A proxy such as "handoff meetings
 held" counts activity. The failure count counts the outcome.
 
-The load: Inference: The end of each quarter in the four-quarter test period is the storm that
+The load: Reading: The end of each quarter in the four-quarter test period is the storm that
 the fix must survive. The first load arrives at the end of the next quarter.
 
 Labels: Illustration for the case. The pattern of naming the test in advance is drawn by analogy
 from two texts. Their subjects are obedience to the words of Jesus and the work built on Christ
-(Matthew 7:24, 1 Corinthians 3:11). Text states: In Matthew 7:24-27, both houses meet the same
-rain, floods, and winds. Text states: In 1 Corinthians 3:13, the fire tries the work "of what
+(Matthew 7:24, 1 Corinthians 3:11). Scripture says: In Matthew 7:24-27, both houses meet the same
+rain, floods, and winds. Scripture says: In 1 Corinthians 3:13, the fire tries the work "of what
 sort it is".
 
 ---
@@ -287,12 +285,12 @@ The assignments in this case:
 Illustration: the table above is case data.
 
 The threshold rule comes from Exodus 18:22: "every great matter they shall bring unto thee, but
-every small matter they shall judge". Text states: the great matters go up, and the small
-matters stay with the lower judges. Inference: A stated threshold lets each tier do its work. An
+every small matter they shall judge". Scripture says: the great matters go up, and the small
+matters stay with the lower judges. Reading: A stated threshold lets each tier do its work. An
 implied threshold sends everything upward, and the top becomes exhausted.
 
-The reporting rule comes from Acts 6:3-4. Text states: The seven men received real authority
-"over this business", and the apostles stated what they kept. Inference: In this case the
+The reporting rule comes from Acts 6:3-4. Scripture says: The seven men received real authority
+"over this business", and the apostles stated what they kept. Reading: In this case the
 leadership keeps pricing policy, the exception threshold, and capacity. It gives the date gate
 to the deal desk.
 
@@ -302,7 +300,7 @@ Label: Illustration for the case, with labels on the cited texts.
 
 ## What shows the diagnosis is wrong
 
-Inference: A falsifiable diagnosis names the observations that will end it. This diagnosis has
+Reading: A falsifiable diagnosis names the observations that will end it. This diagnosis has
 four:
 
 1. The gate holds, and the slips continue. Then stage 4 is not the location. The requirements

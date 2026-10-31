@@ -6,9 +6,8 @@ People use a method past its boundary when the method cannot name that boundary,
 look confident. This file sets out what Scripture states about the boundary. It also shows a
 working procedure on the near side of the boundary.
 
-Verses are quoted from the local KJV with `../scripture-foundations/scripts/scripture.ts`.
-Definitions are copied from `../scripture-foundations/scripts/lexicon.ts`. The labels are "Text
-states", "Lexical", "Inference", and "Contested".
+The labels are the ones defined in `scripture-foundations`: Scripture says, Word meaning, Reading,
+Disputed, and Guess.
 
 ---
 
@@ -41,24 +40,24 @@ response.
 The first two are ordinary engineering. The third is the subject of this file. A method that
 treats the third case as the first will spend a career on data that cannot settle the question.
 
-The fourth can sit under any of the other three. Text states: "Having the understanding
+The fourth can sit under any of the other three. Scripture says: "Having the understanding
 darkened, being alienated from the life of God through the ignorance that is in them, because
 of the blindness of their heart:" (Ephesians 4:18). Romans 1:21 says that those who "knew God"
 and "glorified him not as God" became "vain in their imaginations". 1 Corinthians 2:14 says
-that the natural man cannot know the things of the Spirit of God. Inference: no method repairs
+that the natural man cannot know the things of the Spirit of God. Reading: no method repairs
 this. The text names the remedy outside the method: "let him ask of God" (James 1:5).
 
-Inference: to recognize the third case is part of the method and not a failure of it. A surgeon
+Reading: to recognize the third case is part of the method and not a failure of it. A surgeon
 who names the limit of the operation did not fail at surgery.
 
 ---
 
 ## Job 38 to 41: the answer that is not an explanation
 
-The book sets up a question. Text states: Job loses his children, his wealth, and his health. He
+The book sets up a question. Scripture says: Job loses his children, his wealth, and his health. He
 asks why, many times and at length.
 
-The reader learns the reason in chapters 1 and 2. Text states: Job 1:8 reads, "And the LORD said
+The reader learns the reason in chapters 1 and 2. Scripture says: Job 1:8 reads, "And the LORD said
 unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a
 perfect and an upright man, one that feareth God, and escheweth evil?" Job 2:3 repeats the
 assessment and adds, "and still he holdeth fast his integrity, although thou movedst me against
@@ -77,10 +76,10 @@ Then God answers. The answer is a sequence of questions about the created order.
 | Job 38:41 | "who provideth for the raven his food?"                                                    | Provision for creatures            |
 | Job 40:2  | "Shall he that contendeth with the Almighty instruct him?"                                 | Standing to bring the case         |
 
-Inference: the questions are not rhetorical decoration. Each one names a thing that Job did not
+Reading: the questions are not rhetorical decoration. Each one names a thing that Job did not
 do and cannot do.
 
-Text states: Job gives his first response in 40:4-5: "Behold, I am vile; what shall I answer
+Scripture says: Job gives his first response in 40:4-5: "Behold, I am vile; what shall I answer
 thee? I will lay mine hand upon my mouth. Once have I spoken; but I will not answer: yea, twice;
 but I will proceed no further." He gives his second response in 42:3: "Who is he that hideth
 counsel without knowledge? therefore have I uttered that I understood not; things too wonderful
@@ -88,27 +87,27 @@ for me, which I knew not."
 
 Three observations follow:
 
-1. Text states: the book never gives Job a reason for his suffering. The reader has one, and Job
+1. Scripture says: the book never gives Job a reason for his suffering. The reader has one, and Job
    does not.
-2. Text states: in 42:3, Job names his error as speech about what he did not understand. God
+2. Scripture says: in 42:3, Job names his error as speech about what he did not understand. God
    opens with a rebuke: "Who is this that darkeneth counsel by words without knowledge?" (38:2).
    He then reverses the demand that Job made. Job had said, "let me speak, and answer thou me"
    (13:22). God says, "I will demand of thee, and answer thou me" (38:3). Later God asks, "wilt
-   thou condemn me, that thou mayest be righteous?" (40:8). Text states: in 42:7, the LORD tells
+   thou condemn me, that thou mayest be righteous?" (40:8). Scripture says: in 42:7, the LORD tells
    Eliphaz, "ye have not spoken of me the thing that is right, as my servant Job hath."
-   Contested: what 42:7 commends. Some readers take it as Job's honest speech to God across the
+   Disputed: what 42:7 commends. Some readers take it as Job's honest speech to God across the
    book, set against the false account of God that the friends gave. Others take it as Job's
    confession in 42:1-6. On either reading, 38:2 and 40:8 still rebuke Job's words, and the
    book keeps his speeches.
-3. Inference: the sequence settles jurisdiction before it settles content. The question of Job
+3. Reading: the sequence settles jurisdiction before it settles content. The question of Job
    assumes a standing to evaluate the government of the world. The questions of God remove that
    assumption.
 
-Inference: some "why" questions have answers that live outside the system under discussion. For
+Reading: some "why" questions have answers that live outside the system under discussion. For
 those questions, the honest reply is a boundary. A boundary is information. It changes behavior,
 because it stops the spending.
 
-Job 28 gives the same note from the human side. Text states: "Whence then cometh wisdom? and
+Job 28 gives the same note from the human side. Scripture says: "Whence then cometh wisdom? and
 where is the place of understanding? Seeing it is hid from the eyes of all living, and kept close
 from the fowls of the air" (28:20-21). Job 23:8-10 records the search without the finding, and
 then the confidence that survives it: "Behold, I go forward, but he is not there; and backward,
@@ -119,25 +118,25 @@ come forth as gold."
 
 ## Isaiah 55:8-9: the distance claim
 
-Text states: the two verses state a difference between the thoughts of God and ours. "For my
+Scripture says: the two verses state a difference between the thoughts of God and ours. "For my
 thoughts are not your thoughts, neither are your ways my ways, saith the LORD. For as the
 heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than
 your thoughts."
 
 Look at three things in how the passage makes the claim:
 
-1. Text states: the comparison is spatial. The heavens are higher than the earth, and the
-   difference in thought is like that. Inference: the verse does not say that the two are
+1. Scripture says: the comparison is spatial. The heavens are higher than the earth, and the
+   difference in thought is like that. Reading: the verse does not say that the two are
    unrelated. It says that the distance is large and has a direction.
-2. Text states: the limit sits inside an invitation. Verse 55:1 opens, "Ho, every one that
+2. Scripture says: the limit sits inside an invitation. Verse 55:1 opens, "Ho, every one that
    thirsteth, come ye to the waters." Verses 55:6-7 call the wicked to return. Verses 55:10-11
    promise that the word will do what God sends it to do. The limit is in the middle of an
    address that asks for a response. The verse just before it reads, "Let the wicked forsake
    his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will
-   have mercy upon him; and to our God, for he will abundantly pardon." (55:7) Inference: the
+   have mercy upon him; and to our God, for he will abundantly pardon." (55:7) Reading: the
    "For" that opens 55:8 ties the distance to that call. The gap is moral as well as a limit of
    knowledge.
-3. Inference: the limit does not cancel the communication. The same passage that says that the
+3. Reading: the limit does not cancel the communication. The same passage that says that the
    thoughts are not ours says that the word goes out and does its work. The limit is not on
    reception.
 
@@ -149,7 +148,7 @@ the difference in Isaiah 55:8 sits between the text and the model that the reade
 ## Romans 11:33-36: the doxology that ends the argument
 
 Paul spends three chapters on the hardest question in the letter, the standing of Israel. The
-argument does not end with a solution. Text states: it ends with this. "O the depth of the riches
+argument does not end with a solution. Scripture says: it ends with this. "O the depth of the riches
 both of the wisdom and knowledge of God! how unsearchable are his judgments, and his ways past
 finding out! For who hath known the mind of the Lord? or who hath been his counsellor? Or who hath
 first given to him, and it shall be recompensed unto him again? For of him, and through him, and
@@ -158,12 +157,12 @@ to him, are all things: to whom be glory for ever. Amen."
 The three questions have a single answer: nobody. Nobody knew the mind, counseled the Lord, or
 gave first.
 
-Inference: the passage models a change of output at the boundary. When the argument reaches a
+Reading: the passage models a change of output at the boundary. When the argument reaches a
 certain depth, the correct product is not a conclusion. It is an acknowledgment of depth and a
 doxology (a short statement of praise). That is not an escape from reasoning, because the
 argument arrived there by reasoning. It is the reported result.
 
-Inference: the business use of that move is limited, and the limit needs a name. A firm cannot
+Reading: the business use of that move is limited, and the limit needs a name. A firm cannot
 run on doxology. What carries over is narrower. When a question has no available answer, the
 report says so, and the decision goes ahead on the revealed portion.
 
@@ -171,17 +170,17 @@ report says so, and the decision goes ahead on the revealed portion.
 
 ## 1 Corinthians 13:9-12: the partial knower
 
-Text states: "For we know in part, and we prophesy in part. But when that which is perfect is
+Scripture says: "For we know in part, and we prophesy in part. But when that which is perfect is
 come, then that which is in part shall be done away... For now we see through a glass, darkly;
 but then face to face: now I know in part; but then shall I know even as also I am known."
 
-- Lexical: "glass" is G2072 _esoptron_, "a mirror (for looking into)". "Darkly" is G135
+- Word meaning: "glass" is G2072 _esoptron_, "a mirror (for looking into)". "Darkly" is G135
   _ainigma_, "an obscure saying ('enigma'), i.e. (abstractly) obscureness". The image is a
   reflection in a mirror. The dimness is in the seeing and not in the object.
-- Text states: the passage makes three comparisons. A child against a man (13:11), a mirror
+- Scripture says: the passage makes three comparisons. A child against a man (13:11), a mirror
   against a face (13:12), and a part against a whole (13:9-10, 13:12).
-- Text states: the passage states the direction of travel. "that which is in part shall be done
-  away" (13:10), and "then shall I know even as also I am known" (13:12). Inference: the knowing
+- Scripture says: the passage states the direction of travel. "that which is in part shall be done
+  away" (13:10), and "then shall I know even as also I am known" (13:12). Reading: the knowing
   becomes full and face to face. It does not become the knowledge of God, whose ways stay "past
   finding out" (Romans 11:33).
 
@@ -192,7 +191,7 @@ The text permits neither of two errors at this verse:
   knower. Chapter 13 describes love, and the command follows in 14:1: "Follow after charity".
   Verse 13:13 closes with "faith, hope, charity". All three work under partial knowledge.
 
-Inference: the limit sits in the middle of the love chapter, so the limit is practical. Love
+Reading: the limit sits in the middle of the love chapter, so the limit is practical. Love
 works with partial knowledge. A person who waits for complete knowledge before acting will not
 act, and the waiting is itself a decision.
 
@@ -200,26 +199,26 @@ act, and the waiting is itself a decision.
 
 ## Deuteronomy 29:29: the boundary with a purpose clause
 
-Text states: "The secret things belong unto the LORD our God: but those things which are
+Scripture says: "The secret things belong unto the LORD our God: but those things which are
 revealed belong unto us and to our children for ever, that we may do all the words of this law."
 
-- Lexical: "secret" is among the renderings of H5641 _sathar_, "to hide (by covering), literally
+- Word meaning: "secret" is among the renderings of H5641 _sathar_, "to hide (by covering), literally
   or figuratively".
-- Text states: the sentence divides all knowledge into two categories and gives each one an
+- Scripture says: the sentence divides all knowledge into two categories and gives each one an
   owner.
-- Text states: the purpose clause gives the use of the second category. The revealed things
-  belong to us "that we may do all the words of this law". Inference: the grant is the size of
+- Scripture says: the purpose clause gives the use of the second category. The revealed things
+  belong to us "that we may do all the words of this law". Reading: the grant is the size of
   an action.
 
-Inference: the division does not forbid curiosity. It is a division of labor. The question "who
+Reading: the division does not forbid curiosity. It is a division of labor. The question "who
 owns this?" has an answer, and the answer sets what the reader does next. This verse does not
 forbid curiosity about the secret things. It does rule out a business plan built on them.
 
 A practical test follows. First ask whether God has revealed the matter. If he has, it belongs
 to us, and the purpose clause says that it is for doing. If he has not, it belongs to the LORD.
-(Inference) A narrower test helps with business questions. If no available answer would change
+(Reading) A narrower test helps with business questions. If no available answer would change
 any action, record the question and move on. That test sorts questions by use. It does not
-decide what God has revealed. (Inference)
+decide what God has revealed. (Reading)
 
 ---
 
@@ -239,7 +238,7 @@ and reports the results.
 - Ecclesiastes 7:23: "All this have I proved by wisdom: I said, I will be wise; but it was far
   from me."
 
-Text states: the verbs are the verbs of a test. He seeks, searches, gives his heart, and proves.
+Scripture says: the verbs are the verbs of a test. He seeks, searches, gives his heart, and proves.
 
 ### The experiments and the verdicts
 
@@ -253,7 +252,7 @@ Text states: the verbs are the verbs of a test. He seeks, searches, gives his he
 | Wealth and increase                            | 5:10     | "He that loveth silver shall not be satisfied with silver"              |
 | Right work and the envy it draws               | 4:4      | "for this a man is envied of his neighbour. This is also vanity"        |
 
-Text states: the verdicts are mostly negative. Inference: he records them as the results of a
+Scripture says: the verdicts are mostly negative. Reading: he records them as the results of a
 test. He ran the experiment, looked at the output, and wrote down what he found. How much weight
 those results carry is contested, as the note below says.
 
@@ -280,24 +279,24 @@ The book is as careful about its limits as about its findings.
 
 ### What he does with the limits
 
-He does not stop work, and he does not stop testing. He acts under uncertainty. Text states:
+He does not stop work, and he does not stop testing. He acts under uncertainty. Scripture says:
 Ecclesiastes 11:6 reads, "In the morning sow thy seed, and in the evening withhold not thine
 hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall
 be alike good."
 
-Text states: the conclusion states the duty that survives every limit. Ecclesiastes 12:13-14
+Scripture says: the conclusion states the duty that survives every limit. Ecclesiastes 12:13-14
 reads, "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for
 this is the whole duty of man. For God shall bring every work into judgment, with every secret
 thing, whether it be good, or whether it be evil."
 
-Inference: the book teaches a method in four parts:
+Reading: the book teaches a method in four parts:
 
 1. Run the experiment.
 2. Record the negative result.
 3. Name the limit that the experiment cannot cross.
 4. Act inside the limit, because the limit does not suspend the duty.
 
-Contested: readers differ on how much of Ecclesiastes is prescription. One reading takes the
+Disputed: readers differ on how much of Ecclesiastes is prescription. One reading takes the
 vanity verdicts as the settled position of the Preacher. Another reading takes them as the record
 of a search that 12:13 corrects. The difference matters for how a reader applies the book. This
 file treats the experiments as results and 12:13-14 as the conclusion, and it labels that choice

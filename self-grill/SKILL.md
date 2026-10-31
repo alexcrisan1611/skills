@@ -5,48 +5,62 @@ description: "Autonomously interrogate a plan, architecture, or request by walki
 
 # Self-Grill
 
-Autonomously traverse the design decision tree of a plan or request. Formulate every necessary clarifying question, select the optimal recommended answer for each node to unblock dependent branches, and present a structured Decision Ledger at the end so the user can accept or override any choice.
+Find the decisions hidden in a plan, answer each one yourself with your best recommendation,
+and show the result as a Decision Ledger followed by the plan. The user can then accept the
+whole thing or override single decisions by number. Do not stop to ask questions.
 
-## When to Use
+## When to use it
 
-- The user invokes `self-grill`, `auto-grill`, or asks you to grill yourself on a plan, feature, or architecture.
-- The user wants a thorough specification or implementation plan without multi-turn Q&A round-trips.
-- The user asks you to surface all hidden decisions, trade-offs, and options while committing to your own best recommendations up front.
+- The user says `self-grill` or `auto-grill`, or asks you to grill yourself on a plan, a
+  feature, or an architecture.
+- The user wants a full plan without rounds of questions and answers.
+- The user wants every hidden decision and trade-off shown, with your choice for each.
 
 ## Steps
 
-1. **Inspect Context First**: Read the workspace, codebase, or provided artifacts to resolve factual questions directly. Do not formulate questions for facts that exist in the context.
-2. **Map the Decision Tree**: Identify all ambiguities, architectural forks, edge cases, and underspecified requirements. Organize them in topological dependency order (root decisions before child branches).
-3. **Traverse and Self-Resolve**: Process each decision node sequentially:
-   - Formulate a precise **Question** exposing the core design tension.
-   - Enumerate mutually exclusive, concrete **Options** with brief trade-offs.
-   - Commit to the optimal **Recommended Selection** and state a one-sentence **Rationale**.
-   - Use that Recommended Selection as the established premise to unlock and evaluate downstream child decisions.
-4. **Synthesize the Target Plan**: Produce the resulting specification, architecture, or actionable plan built upon all selected recommendations.
-5. **Output the Decision Ledger**: Present every resolved node in a numbered structure so the user can ratify the defaults or override specific branches by number (for example, "Change D2 to Option B").
+1. **Read the context first.** Read the workspace, the code, and anything the user supplied.
+   Answer factual questions from it. Never log a decision for a fact you can look up.
+2. **List the candidate decisions.** Find the open choices: forks in the design, unstated
+   requirements, edge cases.
+3. **Keep only the costly ones.** A decision goes in the ledger only if a wrong choice is
+   costly or hard to undo, and at least two options are viable. Keep at most about 10, ranked
+   by the cost of getting them wrong. Every other choice goes in the Assumed defaults list,
+   one line each.
+4. **Order them by dependency.** A decision that makes another one relevant comes first. The
+   dependent decision names its parent.
+5. **Resolve each decision in order.** State the question, the options with their main
+   trade-off, your choice, and a one-sentence reason. Treat each choice as settled when you
+   resolve the decisions that depend on it.
+6. **Write the output:** the Decision Ledger, then Assumed defaults, then the plan.
 
-## Output Format
+## Output format
 
-Use this exact structure for each node in the Decision Ledger:
+Give the output in this order.
 
-```markdown
-D1 - [Decision Title] (Parent: Root | D#)
+**1. Decision Ledger.** One entry per decision, highest cost first, in this shape:
 
-Question: [Precise design question]
-Options:
-- [Option A]: [Description + key trade-off]
-- [Option B]: [Description + key trade-off]
-Selected: [Option X] - [Concise rationale]
-```
+> **D1 · Decision title** (parent: none, or D#)
+> Question: the design question.
+> Options:
+> - A: what it is, and its main trade-off.
+> - B: what it is, and its main trade-off.
+>
+> Selected: A, because one-sentence reason.
 
-### Resulting Plan
+**2. Assumed defaults.** One line each, numbered `AD1`, `AD2`, and so on: the choice, and a
+few words on why it is the obvious default.
 
-```markdown
-[Concise, concrete synthesis or implementation plan governed by the selected decisions above. End with a one-line prompt inviting the user to approve or override specific decision IDs.]
-```
+**3. Plan.** The specification, architecture, or step-by-step plan that follows from every
+choice above. Keep it concrete and short.
 
-## Gotchas
+End with one line that invites the user to approve, or to override by number, for example
+"Change D2 to B" or "Drop AD3".
 
-- **Do not ask trivia**: Only log genuine design forks where at least two viable options exist. Skip obvious boilerplate choices.
-- **Respect causal dependencies**: Ensure child decisions explicitly reference the parent decision (`Parent: D1`) that made them relevant, so if the user overrides D1, you know which downstream nodes to recompute.
-- **No hedging**: Commit decisively to one recommendation per node so the resulting plan is cohesive and immediately executable.
+## Rules
+
+- **Commit.** Choose one option per decision. No hedging, so the plan holds together and can
+  be carried out at once.
+- **Track parents.** Every dependent decision names its parent, so that if the user overrides
+  D1, you know which decisions to redo. Redo them, and say which ones changed.
+- **No trivia.** If a choice is cheap to change later, it belongs in Assumed defaults, not in
+  the ledger.

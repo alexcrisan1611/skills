@@ -10,7 +10,7 @@ The skill does not claim to renew anyone. In Scripture, God renews the mind: "re
 
 The skill always ends with a replacement. It does not end with a deletion. Matthew 12:43-45 is the reason. A pattern that you remove and do not replace leaves an empty place, and something fills it. In context, the house is clean but has no occupant, and the passage points to Christ (12:28, 12:41). So a true sentence alone is not enough.
 
-Romans 12:1-2 speaks to "brethren, by the mercies of God". For a user who is not a believer, the skill can still test a thought for truth. But it says plainly that the renewal of Romans 12:2 follows the gospel (1 Corinthians 2:14, Ephesians 4:20-24).
+Romans 12:1-2 speaks to "brethren, by the mercies of God". The skill assumes that you are a Christian. The eight steps are your work, done before God, and the agent guides you through them. The agent invites you to pray. It does not pray for you or claim to.
 
 The skill uses a catalog of 43 named thought patterns. It also uses a study of three institutions that the skill infers train most false patterns. The three are the school system, social media, and television with advertising.
 
@@ -36,7 +36,7 @@ The skill follows three rules before it starts:
 2. The beam comes first. You use the skill on yourself before you use it on another person (Matthew 7:1-5).
 3. The goal is renewal, not victory. The skill corrects in meekness (2 Timothy 2:24-26, Galatians 6:1).
 
-It then does eight steps in order:
+It then guides you through eight steps in order:
 
 1. Pray, and write the thought in one sentence. Psalm 139:23-24 is the model: "Search me, O God, and know my heart".
 2. Name the source: home, classroom, feed, screen, peer group, or your own invention.
@@ -53,7 +53,8 @@ The answer comes back in a short, fixed shape: the pattern, the source, the assu
 
 ## What is in this folder
 
-- `SKILL.md`: The instructions for the agent. It contains the rules, who renews, who the skill is for, the eight-step procedure, the three tests, the output format, and the limits.
+- `SKILL.md`: The instructions for the agent. It contains the rules, the eight-step procedure, the three tests, the output format, and the limits.
+- `references/foundations.md`: The Scripture readings behind the rules: removal and replacement, the manner of correction, the mandate, who renews, who the skill is for, and the note on the three sources.
 - `references/thought-patterns.md`: The catalog of 43 patterns in six groups. Each entry gives a description, the lie, the cause, the fruit, the counter-truth, a KJV counter-text, and labels. The file also has the two wisdoms test, ten guards against false detection, and appendices of checked 1611 words and verified passages.
 - `references/institutions.md`: A study of the school system, social media, and television with advertising, one mechanism at a time. Each mechanism has a biblical category, a counter-practice, and a note on what is contested.
 
@@ -68,13 +69,13 @@ The six groups in the catalog are:
 
 ## How claims are labeled
 
-The reference files label each claim so that you can see how strong it is:
+The skill labels each claim with the labels defined in `scripture-foundations`, so that you can see how strong it is:
 
-- Text states: The KJV passage says this in these words.
-- Lexical: A claim about the Hebrew or Greek word, checked against a lexicon.
-- Inference: Reasoning from the text. You can disagree with it.
-- Contested: A reading on which faithful readers differ, or an empirical or historical claim that the tools cannot settle.
-- Speculation: A guess. Hold it loosely.
+- Scripture says: The KJV passage says this in these words.
+- Word meaning: A claim about the Hebrew or Greek word, checked against a lexicon.
+- Reading: Reasoning from the text. You can disagree with it.
+- Disputed: A reading on which faithful readers differ, or an empirical or historical claim that the tools cannot settle.
+- Guess: A guess. Hold it loosely.
 
 The skill holds what the text states as firm. It treats the application of a text to an institution as an inference, and the empirical claims about institutions as testable. It keeps the three apart.
 

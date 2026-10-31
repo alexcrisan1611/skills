@@ -1,7 +1,6 @@
 # Body First Principles
 
-Reference file for the body layer of the `business-first-principles` skill. It was the
-`body-first-principles` skill. The B and M numbers are unchanged.
+Reference file for the body layer of the `business-first-principles` skill.
 
 ## What this layer is for
 
@@ -165,7 +164,7 @@ The principle: urgency must have a time limit.
 The business consequence: a crisis that ends is a cost. A crisis that never ends becomes the
 operating disease. Set an end date on every emergency.
 Scripture: Genesis 3:17-19 puts friction on work for this age, "all the days of thy life"
-(Genesis 3:17). Text states: "there shall be no more curse" (Revelation 22:3). Inference:
+(Genesis 3:17). Scripture says: "there shall be no more curse" (Revelation 22:3). Reading:
 friction that lasts a lifetime calls for a steady practice, not a permanent emergency.
 
 ### B11. The immune system must tell self from non-self.
@@ -210,7 +209,7 @@ The principle: a boundary must let things through in a controlled way.
 The business consequence: hiring, security, and partnership need filters, not walls and not
 open doors. Decide what crosses.
 Scripture: Genesis 2:15, where the word rendered "keep" (H8104 shamar) means to guard or keep.
-Inference: the garden is a guarded space. Genesis 3:24 uses the same verb for the guarded way
+Reading: the garden is a guarded space. Genesis 3:24 uses the same verb for the guarded way
 back.
 
 ### B15. Waste removal is a permanent function.
@@ -281,11 +280,11 @@ The body fact: most human cells stop dividing after about 40 to 60 divisions in 
 ordinary experience, every human body ages and dies. Scripture names exceptions. Enoch "was
 translated that he should not see death" (Hebrews 11:5), and "We shall not all sleep"
 (1 Corinthians 15:51).
-The principle (Inference): a creature is finite and dependent (Genesis 2:7, Psalm 103:14).
-Text states: death entered by sin, "by one man sin entered into the world, and death by sin"
+The principle (Reading): a creature is finite and dependent (Genesis 2:7, Psalm 103:14).
+Scripture says: death entered by sin, "by one man sin entered into the world, and death by sin"
 (Romans 5:12). Death is an enemy, "The last enemy that shall be destroyed is death"
 (1 Corinthians 15:26). Death will end, "there shall be no more death" (Revelation 21:4).
-Contested: whether Adam was mortal by nature and kept alive by the tree of life (Genesis 3:22),
+Disputed: whether Adam was mortal by nature and kept alive by the tree of life (Genesis 3:22),
 or immortal until the fall. The body cannot settle the question. The reference file
 `references/body/where-the-body-misleads.md` names this dispute.
 The business consequence: a firm is finite. Plan for succession, sale, or closure, and do it
@@ -301,7 +300,7 @@ pancreas, so the body does not duplicate everything.
 The principle: protect the irreplaceable.
 The business consequence: single points of failure belong at the top of the risk register. A
 spare is cheaper than the failure.
-Scripture: Ecclesiastes 4:9-12, "Two are better than one", and the threefold cord. Inference:
+Scripture: Ecclesiastes 4:9-12, "Two are better than one", and the threefold cord. Reading:
 the passage is about companions who help each other, so its use for spare capacity is an
 analogy.
 
@@ -368,10 +367,10 @@ The business consequence: demand is not a mandate. What sells is not automatical
 
 ### M5. The instinct to hide weakness.
 
-The body conceals injury. Scripture says the opposite. Text states: Proverbs 28:13, "He that
+The body conceals injury. Scripture says the opposite. Scripture says: Proverbs 28:13, "He that
 covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have
 mercy." Genesis 3:10 shows the pattern and its cost: "I was afraid, because I was naked; and I
-hid myself." Inference: 1 John 1:7 ("if we walk in the light") and James 5:16 ("Confess your
+hid myself." Reading: 1 John 1:7 ("if we walk in the light") and James 5:16 ("Confess your
 faults one to another") speak of fellowship and confession, and they support openness in a
 firm by extension.
 The business consequence: concealment is the default setting, and it is fatal. Build the
@@ -388,7 +387,7 @@ not an obstacle in front of the mechanism.
 ### M7. Short horizons.
 
 Body fact: hunger and thirst return within hours, and people discount future rewards. The body
-also stores fuel as glycogen and fat, and it runs long cycles. Inference: the appetites pull
+also stores fuel as glycogen and fat, and it runs long cycles. Reading: the appetites pull
 toward the near term. Scripture commands generational thinking: Deuteronomy 6:4-9, and Psalm
 78:4-7, "That they might set their hope in God".
 The business consequence: the pull of the appetites is short by nature. Choose long horizons

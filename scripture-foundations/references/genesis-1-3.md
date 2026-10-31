@@ -4,15 +4,12 @@ Exegetical foundation for the `scripture-foundations` skill and for
 `business-first-principles`. This file works through Genesis 1 to 3 in verse groups and draws
 out the observations the rest of the skill family depends on.
 
-Every verse below came from the local KJV through `scripture.ts`. Every Hebrew definition came
-from `lexicon.ts` and is copied verbatim. Reproduction commands sit at the end of the file.
-
 Labels used in this file:
 
-- Text states: the verse itself makes the claim.
-- Lexical: the claim rests on the Hebrew entry.
-- Inference: this document draws the claim from the text. The text does not state it.
-- Contested: faithful readers disagree, or the bundled tools cannot settle the point.
+- Scripture says: the verse itself makes the claim.
+- Word meaning: the claim rests on the Hebrew entry.
+- Reading: this document draws the claim from the text. The text does not state it.
+- Disputed: faithful readers disagree, or the bundled tools cannot settle the point.
 
 One limit applies throughout. The KJV text files are not tagged with Strong's numbers at the
 word level. The tools can verify that a Hebrew entry exists and what it says, and that a verse
@@ -21,7 +18,7 @@ number named. Where a Hebrew word is attached to a verse below, treat the link a
 concordance link and not as a tool result.
 
 Where an observation carries an axiom number, the derivation lives in
-`../business-first-principles/references/axioms.md`. The numbers run A1 to A34.
+`../../business-first-principles/references/axioms.md`. The numbers run A1 to A34.
 
 ---
 
@@ -43,7 +40,6 @@ Where an observation carries an axiom number, the derivation lives in
 14. [Genesis 3:14-19, the consequences](#14-genesis-314-19-the-consequences)
 15. [Genesis 3:20-24, the covering and the guard](#15-genesis-320-24-the-covering-and-the-guard)
 16. [What this text does not say](#16-what-this-text-does-not-say)
-17. [Reproducing the checks](#17-reproducing-the-checks)
 
 ---
 
@@ -68,21 +64,21 @@ chapters came from later sources. Section 16 lists five of them.
 
 ## 2. Genesis 1:1-2, the source and the substrate
 
-Text states:
+Scripture says:
 
 - Genesis 1:1: "In the beginning God created the heaven and the earth."
 - Genesis 1:2: "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters."
 
 The opening clause puts God before the material. The chapter does not explain God. It begins
-with him. Text states: the material comes from God's creating act, "In the beginning God created
+with him. Scripture says: the material comes from God's creating act, "In the beginning God created
 the heaven and the earth" (1:1). Hebrews 11:3 and John 1:3 teach that all things were made by his
 word: "the worlds were framed by the word of God, so that things which are seen were not made of
-things which do appear", and "without him was not any thing made that was made". Inference: A1
+things which do appear", and "without him was not any thing made that was made". Reading: A1
 follows from this: all value is derived.
 
 ### The verb
 
-Lexical: H1254 `bara`, _"(absolutely) to create; (qualified) to cut down (a wood), select,
+Word meaning: H1254 `bara`, _"(absolutely) to create; (qualified) to cut down (a wood), select,
 feed (as formative processes)"_, from a primitive root, glossed "choose, create (creator), cut
 down, dispatch, do, make (fat)".
 
@@ -90,55 +86,55 @@ The common claim is that this verb takes only God as its subject. The bundled to
 verify the claim. The KJV files carry no word-level tagging, so no search here can find the
 subject of a Hebrew verb. Treat the claim as a concordance tradition rather than a tool result.
 
-Inference: the claim matters for one reason. If the verb is reserved for God, then human
+Reading: the claim matters for one reason. If the verb is reserved for God, then human
 making is a different category from divine making. The skill family uses this distinction. It
 does not make human work less real. It makes human work derivative. A4 follows: making is by
 word, and the pattern is God's.
 
 ### The nouns
 
-Lexical: H7225 `reshith`, _"the first, in place, time, order or rank (specifically, a
+Word meaning: H7225 `reshith`, _"the first, in place, time, order or rank (specifically, a
 firstfruit)"_, from the same as H7218, glossed "beginning, chief(-est), first(-fruits, part,
 time), principal thing".
 
-The range of the word covers rank as well as sequence. Inference: in Genesis 1:1 the sense is
+The range of the word covers rank as well as sequence. Reading: in Genesis 1:1 the sense is
 first in time. One occurrence does not carry every sense in the range of a word (see
 `original-language.md`, "How to use this without overclaiming"). Where A1 and A14 use the sense of
 rank, treat it as an inference from the whole account, not from this one word.
 
-Lexical: H8414 `tohu`, _"a desolation (of surface), i.e. desert; figuratively, a worthless
+Word meaning: H8414 `tohu`, _"a desolation (of surface), i.e. desert; figuratively, a worthless
 thing; adverbially, in vain"_, from an unused root meaning to lie waste, glossed "confusion,
 empty place, without form, nothing, (thing of) nought, vain, vanity, waste, wilderness".
 
-Lexical: H922 `bohu`, _"a vacuity, i.e. (superficially) an undistinguishable ruin"_, from an
+Word meaning: H922 `bohu`, _"a vacuity, i.e. (superficially) an undistinguishable ruin"_, from an
 unused root meaning to be empty, glossed "emptiness, void".
 
 The pair describes a state with no order and no content. A2 follows: the default state is
 formless and empty. Order is imposed work.
 
-Lexical: H2822 `choshek`, _"the dark; hence (literally) darkness; figuratively, misery,
+Word meaning: H2822 `choshek`, _"the dark; hence (literally) darkness; figuratively, misery,
 destruction, death, ignorance, sorrow, wickedness"_, from H2821, glossed "dark(-ness), night,
 obscurity".
 
-Lexical: H8415 `tehom`, _"an abyss (as a surging mass of water), especially the deep (the
+Word meaning: H8415 `tehom`, _"an abyss (as a surging mass of water), especially the deep (the
 main sea or the subterranean watersupply)"_, from H1949, glossed "deep (place), depth".
 
-The darkness of verse 2 is not yet moral. The word gains the moral sense elsewhere. Inference:
+The darkness of verse 2 is not yet moral. The word gains the moral sense elsewhere. Reading:
 reading verse 2 as a description of evil reads a later sense into the first occurrence.
 
 ### The brooding
 
-Lexical: H7363 `rachaph`, _"to brood; by implication, to be relaxed"_, from a primitive root,
+Word meaning: H7363 `rachaph`, _"to brood; by implication, to be relaxed"_, from a primitive root,
 glossed "flutter, move, shake".
 
-Text states: the Spirit of God moves on the face of the waters before anything is said.
-Inference: A3 follows: presence precedes production. Attention comes before output.
+Scripture says: the Spirit of God moves on the face of the waters before anything is said.
+Reading: A3 follows: presence precedes production. Attention comes before output.
 
 ### Where the text speaks and where readers divide
 
-Text states: the earth was without form, and void, and darkness was on the face of the deep.
+Scripture says: the earth was without form, and void, and darkness was on the face of the deep.
 
-Contested: readers disagree about whether that state was original or whether it resulted from
+Disputed: readers disagree about whether that state was original or whether it resulted from
 an earlier judgment. The text of Genesis 1:1-2 does not describe an earlier catastrophe, and it
 does not describe a prior populated world. The Hebrew verb behind "was" is H1961 `hayah`,
 _"to exist, i.e. be or become, come to pass (always emphatic, and not a mere copula or
@@ -150,7 +146,7 @@ holds it on other grounds. A reader who rejects it does the same.
 
 ## 3. Genesis 1:3-5, the first act
 
-Text states:
+Scripture says:
 
 - Genesis 1:3: "And God said, Let there be light: and there was light."
 - Genesis 1:4: "And God saw the light, that it was good: and God divided the light from the darkness."
@@ -159,7 +155,7 @@ Text states:
 ### Creation by speech
 
 The chapter repeats one formula. The phrase "and God said" appears in ten verses of Genesis 1:
-verses 3, 6, 9, 11, 14, 20, 24, 26, 28, and 29. Text states:
+verses 3, 6, 9, 11, 14, 20, 24, 26, 28, and 29. Scripture says:
 
 - Genesis 1:6: "And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters."
 - Genesis 1:9: "And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so."
@@ -171,7 +167,7 @@ verses 3, 6, 9, 11, 14, 20, 24, 26, 28, and 29. Text states:
 - Genesis 1:28: "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth."
 - Genesis 1:29: "And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat."
 
-Inference: the repetition is the argument of the chapter. Specification precedes manifestation.
+Reading: the repetition is the argument of the chapter. Specification precedes manifestation.
 What is said first becomes so. A4 follows: the quality of the output is bounded by the clarity
 of the specification.
 
@@ -183,33 +179,33 @@ verb form, so treat the grammar as the standard reading and not as a tool result
 
 ### The noun
 
-Lexical: H216 `or`, _"illumination or (concrete) luminary (in every sense, including
+Word meaning: H216 `or`, _"illumination or (concrete) luminary (in every sense, including
 lightning, happiness, etc.)"_, from H215, glossed "bright, clear, [phrase] day, light (-ning),
 morning, sun".
 
 ### Division
 
-Lexical: H914 `badal`, _"to divide (in variation senses literally or figuratively, separate,
+Word meaning: H914 `badal`, _"to divide (in variation senses literally or figuratively, separate,
 distinguish, differ, select, etc.)"_, from a primitive root, glossed "(make, put) difference,
 divide (asunder), (make) separate (self, -ation), sever (out), [idiom] utterly".
 
-Text states: God divides the light from the darkness before he names either one. Inference: A6
+Scripture says: God divides the light from the darkness before he names either one. Reading: A6
 follows: distinction precedes order. A thing becomes definable when it is separated from what it
 is not.
 
-Inference: division is the first ordering act in the chapter, and it happens on day one. Scope,
+Reading: division is the first ordering act in the chapter, and it happens on day one. Scope,
 segment, and boundary work is therefore not a later refinement. It is the beginning of making.
 
 ### Naming
 
-Text states: God calls the light Day and the darkness Night (verse 5). Later, God brings the
+Scripture says: God calls the light Day and the darkness Night (verse 5). Later, God brings the
 animals to the man to see what he will call them (2:19), and the man names the woman (2:23).
 
-Inference: A7 follows. Naming is an act of authority, not a label. The maker establishes what
+Reading: A7 follows. Naming is an act of authority, not a label. The maker establishes what
 a thing is by naming it. The text delegates animal naming to the man and keeps the naming of
 Day, Night, Heaven, Earth, and Seas with God. Authority to name is real and it is granted.
 
-Contested: whether the man's words in 2:23 are an act of authority over the woman. Readers who
+Disputed: whether the man's words in 2:23 are an act of authority over the woman. Readers who
 see an order of roles in Genesis 2 say yes. They note that "she shall be called Woman" (2:23)
 uses the same verb as "whatsoever Adam called every living creature" (2:19), and that Paul reads
 an order from these chapters (1 Corinthians 11:8-9, 1 Timothy 2:13). Other readers note that
@@ -221,7 +217,7 @@ after the fall: "Adam called his wife’s name Eve" (3:20). See the note on "hel
 
 ## 4. Genesis 1:6-13, forming the domains
 
-Text states:
+Scripture says:
 
 - Genesis 1:6-7: "And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters. And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so."
 - Genesis 1:8: "And God called the firmament Heaven. And the evening and the morning were the second day."
@@ -230,7 +226,7 @@ Text states:
 
 ### The word
 
-Lexical: H7549 `raqia`, _"properly, an expanse, i.e. the firmament or (apparently) visible
+Word meaning: H7549 `raqia`, _"properly, an expanse, i.e. the firmament or (apparently) visible
 arch of the sky"_, from H7554, glossed "firmament" alone.
 
 The English word "firmament" comes from the Latin `firmamentum`, meaning a support. The solidity
@@ -239,7 +235,7 @@ describes an expanse. See `references/kjv-1611.md`.
 
 ### The two passes
 
-Inference: the chapter has a two-pass shape. Days 1 to 3 form domains. Days 4 to 6 fill them.
+Reading: the chapter has a two-pass shape. Days 1 to 3 form domains. Days 4 to 6 fill them.
 The text does not state this structure. It is a reading, and a widely held one. The
 correspondence runs:
 
@@ -249,47 +245,47 @@ correspondence runs:
 | Day 2 (1:6-8)  | Waters divided by the expanse          | Day 5 (1:20-23) | Fish fill the waters, fowl fly above the earth  |
 | Day 3 (1:9-13) | Dry land separated, vegetation brought | Day 6 (1:24-31) | Land animals and man, given the plants for food |
 
-Inference: A5 follows. Structure comes first and contents come second. Filling before forming
+Reading: A5 follows. Structure comes first and contents come second. Filling before forming
 does not produce a full thing. It produces clutter.
 
-Text states: the vegetation carries its own seed, described as "whose seed is in itself"
+Scripture says: the vegetation carries its own seed, described as "whose seed is in itself"
 (Genesis 1:11). The domain is formed with its own means of continuation built in.
 
 ---
 
 ## 5. Genesis 1:14-19, time as an instrument
 
-Text states:
+Scripture says:
 
 - Genesis 1:14: "And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:"
 - Genesis 1:15: "And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so."
 - Genesis 1:16: "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also."
 - Genesis 1:17-18: "And God set them in the firmament of the heaven to give light upon the earth, And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good."
 
-Lexical: H226 `owth`, _"a signal (literally or figuratively), as aflag, beacon, monument,
+Word meaning: H226 `owth`, _"a signal (literally or figuratively), as aflag, beacon, monument,
 omen, prodigy, evidence, etc."_, glossed "mark, miracle, (en-) sign, token".
 
-Lexical: H4150 `moed`, _"properly, an appointment, i.e. a fixed time or season; specifically,
+Word meaning: H4150 `moed`, _"properly, an appointment, i.e. a fixed time or season; specifically,
 a festival; conventionally ayear; by implication, an assembly (as convened for a definite
 purpose); technically the congregation; by extension, the place of meeting; also a signal (as
 appointed beforehand)"_, glossed "appointed (sign, time), (place of, solemn) assembly,
 congregation, (set, solemn) feast, (appointed, due) season, solemn(-ity), synogogue, (set) time
 (appointed)".
 
-Lexical: H3117 `yom`, _"a day (as the warm hours), whether literal (from sunrise to sunset,
+Word meaning: H3117 `yom`, _"a day (as the warm hours), whether literal (from sunrise to sunset,
 or from one sunset to the next), or figurative (a space of time defined by an associated term),
 (often used adverb)"_, with a long gloss list that begins "age, [phrase] always, [phrase]
 chronicals, continually(-ance), daily" and continues through the year forms.
 
-Inference: A8 follows. Time keeping is a created function, and the instruments for it are
+Reading: A8 follows. Time keeping is a created function, and the instruments for it are
 made things with stated purposes. Cadence is a design choice. It is not a natural fact that a
 business inherits.
 
-Inference: the chapter does not use the ordinary names for the sun and the moon. It calls them
+Reading: the chapter does not use the ordinary names for the sun and the moon. It calls them
 the greater light and the lesser light. The narrative reserves the names. A reader can see the
 restraint. The reason for the restraint is not stated in the chapter.
 
-Contested: the length of the days. The text numbers them and uses the phrase "the evening and the morning". It
+Disputed: the length of the days. The text numbers them and uses the phrase "the evening and the morning". It
 does not state a duration in hours, and it does not state that the days are ages. The word `yom`
 carries both a literal and a figurative range. The instruments in verse 14 are for days and
 years, which suggests ordinary time. The chapter does not settle the mechanism. See section 16.
@@ -298,7 +294,7 @@ years, which suggests ordinary time. The chapter does not settle the mechanism. 
 
 ## 6. Genesis 1:20-25, filling the domains
 
-Text states:
+Scripture says:
 
 - Genesis 1:20: "And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven."
 - Genesis 1:21: "And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good."
@@ -306,34 +302,34 @@ Text states:
 - Genesis 1:24: "And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so."
 - Genesis 1:25: "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good."
 
-Lexical: H5315 `nephesh`, _"properly, a breathing creature, i.e. animal of (abstractly)
+Word meaning: H5315 `nephesh`, _"properly, a breathing creature, i.e. animal of (abstractly)
 vitality; used very widely in a literal, accommodated or figurative sense (bodily or mental)"_,
 from H5314, with a long gloss list that includes "creature", "life", "soul", "person", and
 "mind".
 
-Text states: the same word describes the animals here and the man in Genesis 2:7, where "man
+Scripture says: the same word describes the animals here and the man in Genesis 2:7, where "man
 became a living soul." The text gives the animals life and gives the man something more. The
 difference appears in Genesis 1:26-27, which is the image. It does not appear in the word
 `nephesh`.
 
 ### After its kind
 
-Text states: the reproduction principle appears ten times across five verses of Genesis 1
+Scripture says: the reproduction principle appears ten times across five verses of Genesis 1
 (verses 11, 12, 21, 24, and 25). The phrase is "after his kind" or "after their kind".
 
-Inference: A11 follows. Growth is intrinsic to the design, and seeds yield the species that
+Reading: A11 follows. Growth is intrinsic to the design, and seeds yield the species that
 were planted. Culture, standards, and character replicate in hires and subsidiaries with high
 fidelity. A person cannot scale a thing they do not want more of.
 
-Text states: verse 22 blesses the sea creatures and the birds with the words "Be fruitful, and
+Scripture says: verse 22 blesses the sea creatures and the birds with the words "Be fruitful, and
 multiply", the same words that the man receives in verse 28. Verse 28 adds "subdue it" and "have
-dominion". Inference: fruitfulness is a blessing before it is a duty.
+dominion". Reading: fruitfulness is a blessing before it is a duty.
 
 ---
 
 ## 7. Genesis 1:26-28, the image and the mandate
 
-Text states:
+Scripture says:
 
 - Genesis 1:26: "And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth."
 - Genesis 1:27: "So God created man in his own image, in the image of God created he him; male and female created he them."
@@ -341,30 +337,30 @@ Text states:
 
 ### The image
 
-Lexical: H6754 `tselem`, _"a phantom, i.e. (figuratively) illusion, resemblance; hence, a
+Word meaning: H6754 `tselem`, _"a phantom, i.e. (figuratively) illusion, resemblance; hence, a
 representative figure, especially an idol"_, from an unused root meaning to shade, glossed
 "image, vain shew".
 
-Lexical: H1823 `demuth`, _"resemblance; concretely, model, shape; adverbially, like"_, from
+Word meaning: H1823 `demuth`, _"resemblance; concretely, model, shape; adverbially, like"_, from
 H1819, glossed "fashion, like (-ness, as), manner, similitude".
 
-Inference: the two words describe representation. A representative figure stands for the one
+Reading: the two words describe representation. A representative figure stands for the one
 it represents. The word `tselem` also describes an idol, which is a substitute that claims the
 place of the one represented. The man is the first kind of figure and not the second.
 
-Contested: the plural "Let us." Readers divide over whether it addresses the divine council,
+Disputed: the plural "Let us." Readers divide over whether it addresses the divine council,
 the Trinity, or a plural of deliberation. The text does not explain it.
 
-Text states: verse 27 makes the image plural in its bearers. "Male and female created he
+Scripture says: verse 27 makes the image plural in its bearers. "Male and female created he
 them." The image is not carried by one sex alone.
 
 ### The verbs
 
-Lexical: H7287 `radah`, _"to tread down, i.e. subjugate; specifically, to crumble off"_, from
+Word meaning: H7287 `radah`, _"to tread down, i.e. subjugate; specifically, to crumble off"_, from
 a primitive root, glossed "(come to, make to) have dominion, prevail against, reign, (bear,
 make to) rule,(-r, over), take".
 
-Lexical: H3533 `kabash`, _"to tread down; hence, negatively, to disregard; positively, to
+Word meaning: H3533 `kabash`, _"to tread down; hence, negatively, to disregard; positively, to
 conquer, subjugate, violate"_, from a primitive root, glossed "bring into bondage, force, keep
 under, subdue, bring into subjection".
 
@@ -373,26 +369,26 @@ meaning (see `SKILL.md`), so read the use as well. In the standard concordance, 
 behind "dominion" in 1 Kings 4:24, where Solomon "had dominion over all the region" and "had peace
 on all sides round about him". It also stands behind "rule" in Leviticus 25:43, which must add a
 phrase to make the rule harsh: "Thou shalt not rule over him with rigour". `kabash` is the
-stronger verb, and it is used of conquest. Inference: "dominion" and "subdue" are fair renderings.
+stronger verb, and it is used of conquest. Reading: "dominion" and "subdue" are fair renderings.
 The KJV does not soften the Hebrew.
 
-Inference: even a strong verb does not license aggressive extraction. Three facts in the text
+Reading: even a strong verb does not license aggressive extraction. Three facts in the text
 constrain the reading.
 
-1. Inference: the mandate is bounded. Verse 26 names its objects: the fish, the fowl, the
+1. Reading: the mandate is bounded. Verse 26 names its objects: the fish, the fowl, the
    cattle, "all the earth", and the creeping things. The list is wide, because it includes all
    the earth. But it is a domain that another gives, with named contents. It is not a blank check.
-2. Inference: the authority is granted, as to a steward. The text says "let them have dominion".
+2. Reading: the authority is granted, as to a steward. The text says "let them have dominion".
    It does not say that they took it. The verb is given before it is exercised. The word
    "steward" is the term of this skill. Genesis 1 does not use it.
-3. Text states (in Psalms): the owner keeps the title. Psalms 24:1: "The earth is the LORD's,
+3. Scripture says (in Psalms): the owner keeps the title. Psalms 24:1: "The earth is the LORD's,
    and the fulness thereof; the world, and they that dwell therein." Leviticus 25:23 applies the
    same claim to the land of Israel in its law of redemption: "The land shall not be sold for
-   ever: for the land is mine; for ye are strangers and sojourners with me." Inference: the law
+   ever: for the land is mine; for ye are strangers and sojourners with me." Reading: the law
    is for Israel's land, but it rests on the general claim of Psalms 24:1.
 
-Text states: Genesis 2:15 puts the man in the garden "to dress it and to keep it." The same
-account that grants dominion assigns custodial work. Inference: A12 follows. Dominion is
+Scripture says: Genesis 2:15 puts the man in the garden "to dress it and to keep it." The same
+account that grants dominion assigns custodial work. Reading: A12 follows. Dominion is
 delegated and bounded.
 
 The logical shape is a delegated authority under a retained ownership. A tenant with a strong
@@ -401,24 +397,24 @@ against the rest of the account.
 
 ### The blessing
 
-Lexical: H6509 `parah`, _"to bear fruit (literally or figuratively)"_, from a primitive
+Word meaning: H6509 `parah`, _"to bear fruit (literally or figuratively)"_, from a primitive
 root, glossed "bear, bring forth (fruit), (be, cause to be, make) fruitful, grow, increase".
 
-Lexical: H7235 `rabah`, _"to increase (in whatever respect)"_, from a primitive root, with a
+Word meaning: H7235 `rabah`, _"to increase (in whatever respect)"_, from a primitive root, with a
 very long gloss list that includes "multiply", "increase", "abundance", and "exceedingly".
 
-Lexical: the KJV word "replenish" is H4390 `male`, _"to fill or (intransitively) be full of,
+Word meaning: the KJV word "replenish" is H4390 `male`, _"to fill or (intransitively) be full of,
 in a wide application (literally and figuratively)"_, glossed with "replenish" and "fill" in the
 same list. In 1611 "replenish" meant "fill." It does not imply a prior emptying.
 
-Text states: the command is given to both, "male and female," and it is a blessing before it
+Scripture says: the command is given to both, "male and female," and it is a blessing before it
 is an assignment.
 
 ---
 
 ## 8. Genesis 1:29-31, provision and evaluation
 
-Text states:
+Scripture says:
 
 - Genesis 1:29: "And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat."
 - Genesis 1:30: "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so."
@@ -426,37 +422,37 @@ Text states:
 
 ### Provision
 
-Text states: in the speeches, the mandate comes first and the food comes next. Genesis 1:28
+Scripture says: in the speeches, the mandate comes first and the food comes next. Genesis 1:28
 gives the mandate, and Genesis 1:29 gives the food. Genesis 2:15 gives the work, and Genesis 2:16
 gives free access to the trees. But the food exists before the man. The plants appear on day 3
 (1:11-12), and God plants the garden and grows trees "good for food" (2:8-9) before he puts the
 man in it (2:15).
 
-Inference: A13 follows. Provision precedes assignment in the sense that the means exist before
+Reading: A13 follows. Provision precedes assignment in the sense that the means exist before
 the work is given, and God names the provision in the same speech as the mandate. The text does
 not say that the food was given before the work.
 
-Text states: the provision covers the animals as well as the people, but the food differs. The
+Scripture says: the provision covers the animals as well as the people, but the food differs. The
 people receive every herb bearing seed and the fruit of the trees (1:29). The animals receive
 "every green herb" (1:30).
 
-Inference: a model that requires output before inputs is not disciplined. It is starving.
+Reading: a model that requires output before inputs is not disciplined. It is starving.
 
 A note on the 1611 word "meat." In Genesis 1:29 "meat" means food of any kind. It does not mean
 animal flesh. The same verse gives "every herb bearing seed" as meat.
 
 ### Evaluation
 
-Text states: the phrase "God saw" appears seven times in Genesis 1, at verses 4, 10, 12, 18,
+Scripture says: the phrase "God saw" appears seven times in Genesis 1, at verses 4, 10, 12, 18,
 21, 25, and 31. Six of the seven say "it was good". The seventh says "it was very good", and it
 covers "every thing that he had made".
 
-Inference: A9 follows. Judgment is part of production, not a separate phase. The maker
+Reading: A9 follows. Judgment is part of production, not a separate phase. The maker
 assesses the work against an intention, and he does it repeatedly.
 
-Inference: A10 follows, and this is the sharper point. Six verdicts call parts of the work
+Reading: A10 follows, and this is the sharper point. Six verdicts call parts of the work
 "good". Day 2 receives no verdict, and day 3 receives two. Only the whole is called "very good".
-The text shows God reviewing the whole as well as the parts. Inference: review the assembly, not
+The text shows God reviewing the whole as well as the parts. Reading: review the assembly, not
 only the parts. In Genesis 1 the good parts make a very good whole. The risk that good parts can
 make one bad product is a lesson from experience, not a statement of this chapter.
 
@@ -464,29 +460,29 @@ make one bad product is a lesson from experience, not a statement of this chapte
 
 ## 9. Genesis 2:1-3, completion and rest
 
-Text states:
+Scripture says:
 
 - Genesis 2:1: "Thus the heavens and the earth were finished, and all the host of them."
 - Genesis 2:2: "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made."
 - Genesis 2:3: "And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made."
 
-Lexical: H7673 `shabath`, _"to repose, i.e. desist from exertion; used in many implied
+Word meaning: H7673 `shabath`, _"to repose, i.e. desist from exertion; used in many implied
 relations (causative, figurative or specific)"_, from a primitive root, glossed "(cause to, let,
 make to) cease, celebrate, cause (make) to fail, keep (sabbath), suffer to be lacking, leave,
 put away (down), (make to) rest, rid, still, take away".
 
-Text states: the work is finished, and the finished state is declared before the rest. The
+Scripture says: the work is finished, and the finished state is declared before the rest. The
 seventh day is blessed and sanctified. Exodus 20:11 states the same pattern as a reason for the
 command.
 
-Inference: A14 follows. There is a finish line, and it is declared. A thing that is never
+Reading: A14 follows. There is a finish line, and it is declared. A thing that is never
 finished cannot be evaluated, shipped, celebrated, or built upon.
 
-Text states: Genesis 2:1-3 describes the rest of God. It gives no command to the man. Exodus
+Scripture says: Genesis 2:1-3 describes the rest of God. It gives no command to the man. Exodus
 20:11 gives the command to Israel on this ground, and Exodus 31:17 calls the sabbath "a sign
 between me and the children of Israel for ever".
 
-Contested: how the sabbath command applies to Christians. Some readers hold that the pattern of
+Disputed: how the sabbath command applies to Christians. Some readers hold that the pattern of
 creation binds all people, because the command rests on creation: "wherefore the LORD blessed the
 sabbath day, and hallowed it" (Exodus 20:11). Of these, some keep the seventh day, and others
 keep the first day as the Christian sabbath. Other readers hold that the sabbath was a sign for
@@ -495,7 +491,7 @@ Which are a shadow of things to come; but the body is of Christ" (Colossians 2:1
 remaineth therefore a rest to the people of God" (Hebrews 4:9), and "One man esteemeth one day
 above another: another esteemeth every day alike" (Romans 14:5).
 
-Inference: A15 follows as a pattern on either view, not as a command drawn from Genesis 2. Six
+Reading: A15 follows as a pattern on either view, not as a command drawn from Genesis 2. Six
 units of work and one of cessation. The ratio is given, not earned. A plan that only works at
 full throttle forever is not a plan.
 
@@ -503,7 +499,7 @@ full throttle forever is not a plan.
 
 ## 10. Genesis 2:4-17, cultivation and boundary
 
-Text states:
+Scripture says:
 
 - Genesis 2:4-5: "These are the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens, And every plant of the field before it was in the earth, and every herb of the field before it grew: for the LORD God had not caused it to rain upon the earth, and there was not a man to till the ground."
 - Genesis 2:7: "And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul."
@@ -513,53 +509,53 @@ Text states:
 
 ### The garden
 
-Lexical: H1588 `gan`, _"a garden (as fenced)"_, from H1598, glossed "garden" alone.
+Word meaning: H1588 `gan`, _"a garden (as fenced)"_, from H1598, glossed "garden" alone.
 
 The definition says "as fenced", but that is a statement about the root. Etymology is not
 meaning (see `SKILL.md`), so do not build on it alone.
 
-Inference: the boundary in the text is the command of Genesis 2:16-17. One tree is closed. That
+Reading: the boundary in the text is the command of Genesis 2:16-17. One tree is closed. That
 boundary is part of the design of the first dwelling, and God draws it before the fall. Access
 control is not only a response to evil. A33 follows, and Genesis 3:24 shows it with the guard.
 
 ### The two verbs
 
-Lexical: H5647 `abad`, rendered "dress", _"to work (in any sense); by implication, to serve,
+Word meaning: H5647 `abad`, rendered "dress", _"to work (in any sense); by implication, to serve,
 till, (causatively) enslave, etc."_, from a primitive root, with a gloss list that includes
 "dress", "serve", "till", "labour", and "worshipper".
 
-Lexical: H8104 `shamar`, rendered "keep", _"properly, to hedge about (as with thorns), i.e.
+Word meaning: H8104 `shamar`, rendered "keep", _"properly, to hedge about (as with thorns), i.e.
 guard; generally, to protect, attend to, etc."_, from a primitive root, glossed "beward, be
 circumspect, take heed (to self), keep(-er, self), mark, look narrowly, observe, preserve,
 regard, reserve, save (self), sure, (that lay) wait (for), watch(-man)". The dictionary entry
 reads "beward", which is a typo in the source document.
 
-Inference: A16 follows. Work is assigned before the fall, in the garden, as part of the
+Reading: A16 follows. Work is assigned before the fall, in the garden, as part of the
 design. Work is not the punishment and not merely the price of survival.
 
-Inference: A17 follows. Two verbs, two duties, given together as the job. Creation and
+Reading: A17 follows. Two verbs, two duties, given together as the job. Creation and
 maintenance are co-equal. Most organizations die of a keep failure while congratulating
 themselves on a dress success. The word `shamar` is a guarding word, and it carries the sense
 of hedging a thing about.
 
 ### The permission and the prohibition
 
-Text states: the permission is wide and the prohibition is single. The command is given before
-the pressure arrives and before the other party appears in the narrative. Inference: A20
+Scripture says: the permission is wide and the prohibition is single. The command is given before
+the pressure arrives and before the other party appears in the narrative. Reading: A20
 follows: default to generous permission, and keep prohibitions few, explicit, and unambiguous.
 
-Inference: a rule invented after the temptation arrives is not a rule. It is a negotiation.
+Reading: a rule invented after the temptation arrives is not a rule. It is a negotiation.
 The text gives the boundary first.
 
-Text states: Genesis 2:5 links the absence of a man to the absence of cultivation. The
-sentence is a description of the state before the man. It is not a command. Inference: the
+Scripture says: Genesis 2:5 links the absence of a man to the absence of cultivation. The
+sentence is a description of the state before the man. It is not a command. Reading: the
 link suggests that the ground reaches its intended state through work.
 
 ---
 
 ## 11. Genesis 2:18-25, the first "not good"
 
-Text states:
+Scripture says:
 
 - Genesis 2:18: "And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him."
 - Genesis 2:19-20: "And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof. And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him."
@@ -570,9 +566,9 @@ Text states:
 
 ### The word
 
-Lexical: H5828 `ezer`, _"aid"_, from H5826, glossed "help" alone.
+Word meaning: H5828 `ezer`, _"aid"_, from H5826, glossed "help" alone.
 
-Inference: A18 follows. In a chapter that calls everything else good, the first "not good" is
+Reading: A18 follows. In a chapter that calls everything else good, the first "not good" is
 isolation. The correction is not a servant. The word is "aid."
 
 The skill states that the same word describes God as Israel's help. The bundled tools cannot
@@ -587,25 +583,25 @@ not a noun. See `references/kjv-1611.md`.
 
 ### The work that reveals the need
 
-Text states: God brings the animals to the man to see what he will call them. In the naming,
+Scripture says: God brings the animals to the man to see what he will call them. In the naming,
 the man finds no counterpart.
 
-Inference: A19 follows. The gap was not visible from outside the work. It surfaced by doing
+Reading: A19 follows. The gap was not visible from outside the work. It surfaced by doing
 it. Execution is an instrument of discovery, not only of delivery.
 
 ### The union
 
-Text states: the man leaves and cleaves, and the two become one flesh. Verse 24 states the
+Scripture says: the man leaves and cleaves, and the two become one flesh. Verse 24 states the
 pattern as a general rule, and Jesus quotes it in Matthew 19.
 
-Inference: A21 follows. A new union requires a real exit and a binding attachment. A venture
+Reading: A21 follows. A new union requires a real exit and a binding attachment. A venture
 that keeps every prior option open is not a venture yet.
 
 ---
 
 ## 12. Genesis 3:1-7, the fracture
 
-Text states:
+Scripture says:
 
 - Genesis 3:1: "Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?"
 - Genesis 3:2-3: "And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die."
@@ -615,15 +611,15 @@ Text states:
 
 ### The nouns
 
-Lexical: H5175 `nachash`, _"a snake (from its hiss)"_, from H5172, glossed "serpent" alone.
+Word meaning: H5175 `nachash`, _"a snake (from its hiss)"_, from H5172, glossed "serpent" alone.
 
-Lexical: H6175 `arum`, _"cunning (usually in a bad sense)"_, a passive participle of H6191,
+Word meaning: H6175 `arum`, _"cunning (usually in a bad sense)"_, a passive participle of H6191,
 glossed "crafty, prudent, subtil".
 
 The gloss list holds three words. The modern sense of "prudent" sits in the list, and the
 definition puts the word in a bad sense. Do not build on the favorable gloss.
 
-Text states: the chapter calls the figure a snake. It does not call him Satan. Revelation 12:9
+Scripture says: the chapter calls the figure a snake. It does not call him Satan. Revelation 12:9
 makes that identification later: "And the great dragon was cast out, that old serpent, called
 the Devil, and Satan, which deceiveth the whole world". Earlier New Testament texts point the
 same way: "as the serpent beguiled Eve through his subtilty" (2 Corinthians 11:3), "He was a
@@ -633,51 +629,51 @@ identification into Genesis 3 brings it from the rest of the canon.
 
 ### The attack
 
-Text states: the first move attacks the stated word. The question misquotes the command.
+Scripture says: the first move attacks the stated word. The question misquotes the command.
 God gave the man free access to every tree except one. The question asks whether God said
 they shall not eat of every tree.
 
-Text states: the woman's reply adds a prohibition. God said not to eat. She says not to eat
+Scripture says: the woman's reply adds a prohibition. God said not to eat. She says not to eat
 and not to touch. The addition is not in the command as recorded in Genesis 2:17.
 
-Inference: A22 follows. The attack opens on the reliability of what was said. Reputation is
+Reading: A22 follows. The attack opens on the reliability of what was said. Reputation is
 attacked with questions, not with facts.
 
 ### The two levers
 
-Text states: the serpent denies the consequence and promises autonomy. The two lines are "Ye
+Scripture says: the serpent denies the consequence and promises autonomy. The two lines are "Ye
 shall not surely die" and "ye shall be as gods".
 
-Inference: A23 follows. Both levers appear every time. There is no downside, and you will be
+Reading: A23 follows. Both levers appear every time. There is no downside, and you will be
 free. An opportunity presented with no downside is being sold.
 
 ### The three channels
 
-Lexical: H2530 `chamad`, _"to delight in"_, from a primitive root, glossed "beauty, greatly
+Word meaning: H2530 `chamad`, _"to delight in"_, from a primitive root, glossed "beauty, greatly
 beloved, covet, delectable thing, ([idiom] great) delight, desire, goodly, lust, (be) pleasant (thing),
 precious (thing)". In the standard concordance, this is the word behind "to be desired".
 
-Lexical: H8378 `ta'avah`, _"a longing; by implication, a delight (subjectively, satisfaction,
+Word meaning: H8378 `ta'avah`, _"a longing; by implication, a delight (subjectively, satisfaction,
 objectively, a charm)"_. In the standard concordance, this is the word behind "pleasant" in
 "pleasant to the eyes".
 
-Text states: verse 6 names three things. The tree was good for food, pleasant to the eyes, and
+Scripture says: verse 6 names three things. The tree was good for food, pleasant to the eyes, and
 desired to make one wise.
 
-Inference: First John 2:16 names three similar things: "the lust of the flesh, and the lust of
+Reading: First John 2:16 names three similar things: "the lust of the flesh, and the lust of
 the eyes, and the pride of life". Many readers match them to the three in Genesis 3:6. John does
 not cite Genesis, so the match is a reading.
 
-Inference: A24 follows. Appetite, beauty, and status. Every commitment is decided on all three
+Reading: A24 follows. Appetite, beauty, and status. Every commitment is decided on all three
 channels at once.
 
-Text states: the fruit is called "the fruit thereof." The text does not name the species.
+Scripture says: the fruit is called "the fruit thereof." The text does not name the species.
 
 ---
 
 ## 13. Genesis 3:8-13, the interrogation
 
-Text states:
+Scripture says:
 
 - Genesis 3:8: "And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden."
 - Genesis 3:9-11: "And the LORD God called unto Adam, and said unto him, Where art thou? And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself. And he said, Who told thee that thou wast naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?"
@@ -685,7 +681,7 @@ Text states:
 
 ### The sequence of questions
 
-Text states: the questions come in an order, and each one establishes something.
+Scripture says: the questions come in an order, and each one establishes something.
 
 | Question                                                                             | Verse | What it establishes                       |
 | ------------------------------------------------------------------------------------ | ----- | ----------------------------------------- |
@@ -694,31 +690,31 @@ Text states: the questions come in an order, and each one establishes something.
 | "Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?" | 3:11  | The act, against a command already stated |
 | "What is this that thou hast done?"                                                  | 3:13  | The woman's account of her own part       |
 
-Inference: A26 follows. The first response to failure is diagnosis. Location, source, and act
+Reading: A26 follows. The first response to failure is diagnosis. Location, source, and act
 come before any verdict. Judgment that outruns diagnosis produces the wrong verdict and teaches
 people to hide.
 
-Inference: the questions are not requests for information. The text presents God as knowing.
+Reading: the questions are not requests for information. The text presents God as knowing.
 The questions bring the person to speech. That reading is an inference from the narrative
 shape.
 
 ### Hiding and blame
 
-Text states: the man hides, then explains the hiding as fear. He then blames the woman and,
+Scripture says: the man hides, then explains the hiding as fear. He then blames the woman and,
 in the same sentence, God who gave her: "The woman whom thou gavest to be with me". The woman
 blames the serpent.
 
-Inference: A25 follows. Undisclosed failure produces hiding and blame. Shame leads to
+Reading: A25 follows. Undisclosed failure produces hiding and blame. Shame leads to
 concealment, concealment to blame, and blame destroys the ability to learn.
 
-Text states: the man and the woman both admit the act in the same breath. The admission is
+Scripture says: the man and the woman both admit the act in the same breath. The admission is
 present and the responsibility is redistributed.
 
 ---
 
 ## 14. Genesis 3:14-19, the consequences
 
-Text states:
+Scripture says:
 
 - Genesis 3:14: "And the LORD God said unto the serpent, Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life:"
 - Genesis 3:15: "And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel."
@@ -728,35 +724,35 @@ Text states:
 
 ### The serpent
 
-Text states: the serpent is cursed above the cattle and the beasts, moves on its belly, and
+Scripture says: the serpent is cursed above the cattle and the beasts, moves on its belly, and
 eats dust. The text does not say the serpent had legs before this verse. That detail is an
 import.
 
 ### The woman
 
-Lexical: H6093 `itsabon`, rendered "sorrow", _"worrisomeness, i.e. labor or pain"_, from
+Word meaning: H6093 `itsabon`, rendered "sorrow", _"worrisomeness, i.e. labor or pain"_, from
 H6087, glossed "sorrow, toil".
 
-Lexical: H8669 `teshuqah`, rendered "desire", _"a longing"_, from H7783 in the original sense
+Word meaning: H8669 `teshuqah`, rendered "desire", _"a longing"_, from H7783 in the original sense
 of stretching out after, glossed "desire" alone.
 
-Lexical: H4910 `mashal`, rendered "rule", _"to rule"_, from a primitive root, glossed
+Word meaning: H4910 `mashal`, rendered "rule", _"to rule"_, from a primitive root, glossed
 "(have, make to have) dominion, governor, [idiom] indeed, reign, (bear, cause to, have) rule(-ing, -r),
 have power".
 
-Text states: the conception continues and the sorrow multiplies. Fruitfulness is not removed.
+Scripture says: the conception continues and the sorrow multiplies. Fruitfulness is not removed.
 Its delivery cost is increased. A28 follows.
 
-Contested: the sense of `teshuqah` in this verse. The same word appears in Genesis 4:7, where
+Disputed: the sense of `teshuqah` in this verse. The same word appears in Genesis 4:7, where
 it describes sin's posture toward Cain. Some readers hear a strong longing in verse 16, and
 others hear a turning that creates conflict. The tools supply the definition and cannot settle
 the usage.
 
-Inference: A29 follows from `mashal`. After the fall, rule becomes a site of struggle. The
+Reading: A29 follows from `mashal`. After the fall, rule becomes a site of struggle. The
 contest is stated as a consequence, and the rest of Scripture answers it with service rather
 than domination.
 
-Contested: whether the verse distorts an order of roles that existed before the fall, or
+Disputed: whether the verse distorts an order of roles that existed before the fall, or
 introduces the rule of one over the other as a result of the fall. On the first view, the
 parallel in 4:7 ("unto thee shall be his desire, and thou shalt rule over him") shows a desire
 to master met by rule. So 3:16 describes a good order bent by sin, and Ephesians 5:23-25
@@ -766,42 +762,42 @@ meet" in `SKILL.md`.
 
 ### The man and the ground
 
-Lexical: the word behind "sorrow" in verse 17 is the same H6093 `itsabon` that appears in
+Word meaning: the word behind "sorrow" in verse 17 is the same H6093 `itsabon` that appears in
 verse 16. The woman's pain and the man's toil are named with one word.
 
-Lexical: H6975 `qots`, _"a thorn"_, from H6972 in the sense of pricking, glossed "thorn".
+Word meaning: H6975 `qots`, _"a thorn"_, from H6972 in the sense of pricking, glossed "thorn".
 
-Lexical: H1863 `dardar`, _"a thorn"_, of uncertain derivation, glossed "thistle".
+Word meaning: H1863 `dardar`, _"a thorn"_, of uncertain derivation, glossed "thistle".
 
-Lexical: H2188 `zeah`, _"perspiration"_, from H2111, glossed "sweat".
+Word meaning: H2188 `zeah`, _"perspiration"_, from H2111, glossed "sweat".
 
-Text states: the ground is cursed, not the man. "Cursed is the ground for thy sake". The man
+Scripture says: the ground is cursed, not the man. "Cursed is the ground for thy sake". The man
 still eats. The bread still comes. The ground resists and the yield costs more.
 
-Inference: A27 follows. Friction becomes structural. Resistance lasts for this age, "all the
-days of thy life" (Genesis 3:17). It is not the last word. Text states: "there shall be no more
+Reading: A27 follows. Friction becomes structural. Resistance lasts for this age, "all the
+days of thy life" (Genesis 3:17). It is not the last word. Scripture says: "there shall be no more
 curse" (Revelation 22:3), and "the creature itself also shall be delivered from the bondage of
 corruption" (Romans 8:21). Every plan in this age must price the thorns.
 
-Inference: A30 follows from "till thou return unto the ground". Finite time is the base
+Reading: A30 follows from "till thou return unto the ground". Finite time is the base
 constraint under every plan.
 
 ### The first promise
 
-Text states: verse 15 places enmity between the serpent and the woman, and between their
+Scripture says: verse 15 places enmity between the serpent and the woman, and between their
 seeds. It states a bruising on both sides.
 
-Inference: the victory is asymmetric. The promise is a head wound against a heel wound. A34
+Reading: the victory is asymmetric. The promise is a head wound against a heel wound. A34
 follows. The conflict lasts through this age, so the long game is the only game. But the
-conflict ends. Text states: "the God of peace shall bruise Satan under your feet shortly"
+conflict ends. Scripture says: "the God of peace shall bruise Satan under your feet shortly"
 (Romans 16:20), and "the devil that deceived them was cast into the lake of fire and brimstone"
 (Revelation 20:10).
 
-Contested: the traditional reading calls this verse the protoevangelium ("first gospel") and
+Disputed: the traditional reading calls this verse the protoevangelium ("first gospel") and
 takes it as the first promise of recovery in the canon. The verse states enmity and a bruising on
 both sides. It does not use the words of recovery.
 
-Text states: God speaks the verse to the serpent, not to the people.
+Scripture says: God speaks the verse to the serpent, not to the people.
 
 ### The asymmetry, stated plainly
 
@@ -814,7 +810,7 @@ Text states: God speaks the verse to the serpent, not to the people.
 
 ## 15. Genesis 3:20-24, the covering and the guard
 
-Text states:
+Scripture says:
 
 - Genesis 3:20: "And Adam called his wife’s name Eve; because she was the mother of all living."
 - Genesis 3:21: "Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them."
@@ -824,39 +820,39 @@ Text states:
 
 ### The covering
 
-Lexical: H3801 `kethoneth`, rendered "coats", _"a shirt"_, from an unused root meaning to
+Word meaning: H3801 `kethoneth`, rendered "coats", _"a shirt"_, from an unused root meaning to
 cover, glossed "coat, garment, robe".
 
-Text states: God makes the covering and clothes them. The fig leaves of Genesis 3:7 came from
+Scripture says: God makes the covering and clothes them. The fig leaves of Genesis 3:7 came from
 the people. The coats of skins come from God.
 
-Inference: A31 follows. Failure is covered, and the covering required a life. The text does
+Reading: A31 follows. Failure is covered, and the covering required a life. The text does
 not say which animal or how many. It says skins. Recovery is never free, and something other
 than the person pays for it.
 
-Text states: the man names his wife Eve after the sentence is spoken, "because she was the
+Scripture says: the man names his wife Eve after the sentence is spoken, "because she was the
 mother of all living."
 
-Inference: he acts on the promise rather than on the curse.
+Reading: he acts on the promise rather than on the curse.
 
 ### The guard
 
-Text states: God prevents the man from taking of the tree of life and living "for ever"
+Scripture says: God prevents the man from taking of the tree of life and living "for ever"
 (3:22). God sends the man out, and the cherubims guard the way back.
 
-Inference: the state that God prevents is life for ever in the fallen condition.
+Reading: the state that God prevents is life for ever in the fallen condition.
 
-Lexical: H3742 `kerub`, _"a cherub or imaginary figure"_, of uncertain derivation, glossed
+Word meaning: H3742 `kerub`, _"a cherub or imaginary figure"_, of uncertain derivation, glossed
 "cherub, (plural) cherubims".
 
-Inference: A32 follows. Some states must not be allowed to become permanent. Identify the
+Reading: A32 follows. Some states must not be allowed to become permanent. Identify the
 actions that cannot be undone and gate them. Speed is for reversible decisions.
 
-Inference: A33 follows. The guard is a feature. Verse 24 says the sword turns every way "to
+Reading: A33 follows. The guard is a feature. Verse 24 says the sword turns every way "to
 keep the way of the tree of life." The same verb, `shamar`, describes the man's job in Genesis
 2:15 and the cherub's job here. The lost thing is not a place. It is access.
 
-Text states: the man is sent out "to till the ground from whence he was taken." The work
+Scripture says: the man is sent out "to till the ground from whence he was taken." The work
 continues outside the garden, and the text names it in the same sentence as the expulsion.
 
 ---
@@ -868,11 +864,11 @@ does not support them.
 
 ### 1. That "dominion" and "subdue" authorize aggressive extraction
 
-Lexical: the root senses in Strong's are strong. `radah` is "to tread down, i.e. subjugate" and
+Word meaning: the root senses in Strong's are strong. `radah` is "to tread down, i.e. subjugate" and
 `kabash` is "to tread down; hence, negatively, to disregard; positively, to conquer, subjugate,
 violate". In use, `radah` means to rule (see section 7).
 
-Inference: the reading that turns them into a license ignores three things in the same
+Reading: the reading that turns them into a license ignores three things in the same
 account. The mandate names a domain with stated contents. The authority is granted rather than seized. The text says "let
 them have dominion". The owner keeps the title: "The earth is the LORD's, and the fulness thereof"
 (Psalms 24:1). Leviticus 25:23 applies the claim to Israel's land: "for the land is mine".
@@ -881,18 +877,18 @@ also take the ownership seriously.
 
 ### 2. That work began at the fall
 
-Text states: the man is placed in the garden "to dress it and to keep it" in Genesis 2:15.
+Scripture says: the man is placed in the garden "to dress it and to keep it" in Genesis 2:15.
 That verse comes before Genesis 3. The fall changes the conditions of work. It does not
 introduce work. The curse reaches the ground and the yield. It does not create the assignment.
 
 ### 3. That the length of the days is beyond dispute
 
-Text states: the days are numbered, and each closes with "the evening and the morning". Exodus
+Scripture says: the days are numbered, and each closes with "the evening and the morning". Exodus
 20:11 later says, "For in six days the LORD made heaven and earth, the sea, and all that in them
-is, and rested the seventh day". Lexical: the word `yom` carries a literal sense and a figurative
+is, and rested the seventh day". Word meaning: the word `yom` carries a literal sense and a figurative
 sense.
 
-Contested: the length of the days. Some readers hold that they are ordinary days. They point to
+Disputed: the length of the days. Some readers hold that they are ordinary days. They point to
 the numbers, to "the evening and the morning", and to Exodus 20:11 and 31:17, which ground the
 week of Israel in the six days. Other readers hold that the days are long ages, or that the week
 is a literary frame. They point to the range of `yom`, as in "in the day that the LORD God made
@@ -902,7 +898,7 @@ and do not present either view as what the text states.
 
 ### 4. That Genesis 3 names Satan
 
-Text states: the chapter calls the figure a snake. The identification with Satan is explicit in
+Scripture says: the chapter calls the figure a snake. The identification with Satan is explicit in
 Revelation 12:9, "that old serpent, called the Devil, and Satan", and 2 Corinthians 11:3 and
 Romans 16:20 point the same way (see section 12). Reading the identification
 back into Genesis 3 is a reading of the whole canon, and it is a reasonable one. It is not what
@@ -910,7 +906,7 @@ the chapter says.
 
 ### 5. That the forbidden fruit was an apple, and that the tree itself was evil
 
-Text states: verse 6 says "the fruit thereof" and names no species. The apple comes from a
+Scripture says: verse 6 says "the fruit thereof" and names no species. The apple comes from a
 Latin wordplay that does not exist in the Hebrew. The tree is also not called evil. It is called
 "the tree of the knowledge of good and evil," and the prohibition concerns eating from it. The
 text says the tree was good for food. The problem in the narrative is the command and the act,
@@ -919,33 +915,3 @@ not a poison in the fruit.
 A sixth candidate belongs with these, and it is treated in section 2. The text does not say the
 formless and empty state of Genesis 1:2 resulted from an earlier judgment. That reading is
 contested, and the two verses do not settle it.
-
----
-
-## 17. Reproducing the checks
-
-Run these commands from the skill folder:
-
-```
-bun run scripts/scripture.ts lookup "Genesis 1:1-31"
-bun run scripts/scripture.ts lookup "Genesis 2:1-25" "Genesis 3:1-24"
-bun run scripts/scripture.ts search "and God said" --book Genesis
-bun run scripts/scripture.ts search "after (his|their) kind" --regex --book Genesis
-bun run scripts/scripture.ts search "God saw" --book Genesis
-bun run scripts/lexicon.ts lookup H1254 H7225 H8414 H922 H2822 H8415 H7363 H216 H914 H7549
-bun run scripts/lexicon.ts lookup H5315 H6754 H1823 H7287 H3533 H6509 H7235 H1588 H5647 H8104
-bun run scripts/lexicon.ts lookup H5828 H5175 H6175 H2530 H8378 H6093 H6975 H1863 H2188 H8669 H4910 H3801 H3742 H4390
-bun run scripts/lexicon.ts english charity
-```
-
-If Bun is not installed, use `python scripts/scripture.py` and `python scripts/lexicon.py` with the same arguments.
-
-Counts used in this file, and how each was obtained:
-
-| Count                                                     | Source                                                                   |
-| --------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Ten "and God said" statements in Genesis 1                | `search "and God said" --book Genesis`, chapter 1                        |
-| Seven "God saw" statements in Genesis 1                   | `search "God saw" --book Genesis`, chapter 1                             |
-| Six "it was good" and one "very good"                     | `search "it was good"` and `search "very good"`                          |
-| Ten "after his kind" or "after their kind" in five verses | `search "after (his\|their) kind" --regex`, counted in the returned text |
-| One occurrence of "first principles" in the KJV           | `search "first principles"`                                              |

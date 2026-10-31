@@ -5,19 +5,15 @@ conditions, the shelf life of a position, and the tests for a claim about the fu
 
 ## Method and labels
 
-The file uses four labels: Text states, Lexical, Inference, and Contested. "Text states" marks
-what a verse says. "Lexical" marks a Strong's entry. "Inference" marks a conclusion drawn here.
-"Contested" marks a point on which faithful readers disagree. Verses come from
-`../scripture-foundations/scripts/scripture.ts`. Strong's definitions come from
-`../scripture-foundations/scripts/lexicon.ts`, and the file copies them verbatim.
+Labels are the ones defined in `scripture-foundations`: Scripture says, Word meaning, Reading, Disputed, Guess.
 
 Scripture gives no method to detect a trend. It gives cases, warnings, and tests. Everything in
-this file after the quoted text is Lexical or Inference, and the file says which. The one method
+this file after the quoted text is Word meaning or Reading, and the file says which. The one method
 in the file is a synthesis made here. Nobody knows its error rate.
 
 1 Chronicles 12:32 names two capacities: "understanding of the times" and "to know what Israel
 ought to do". Both are necessary. The full derivation is in
-`../business-first-principles/references/trends-and-timing.md`, Part 1. This file treats the
+`../../business-first-principles/references/trends-and-timing.md`, Part 1. This file treats the
 first capacity, the reading. The conversion test turns a reading into a decision. It is in
 `opportunity-method.md`, Part 2.
 
@@ -34,13 +30,13 @@ first capacity, the reading. The conversion test turns a reading into a decision
 - [Part 7. Testing a claim about the future](#part-7-testing-a-claim-about-the-future)
 - [Part 8. The honest limits of forecasting](#part-8-the-honest-limits-of-forecasting)
 - [Part 9. Working rules](#part-9-working-rules)
-- [Appendix: verification log](#appendix-verification-log)
+- [Limits of this file](#limits-of-this-file)
 
 ---
 
 ## Part 1. What a trend is
 
-Inference: For business use, a trend is a change in a constraint. The change lasts long enough
+Reading: For business use, a trend is a change in a constraint. The change lasts long enough
 for people to reorganize their lives around it.
 
 The definition has three parts:
@@ -53,17 +49,17 @@ The definition has three parts:
    expect. The test of a trend is a change in behavior that already happened. Opinion is not the
    test.
 
-Text states (Matthew 16:3): "ye can discern the face of the sky; but can ye not discern the
+Scripture says (Matthew 16:3): "ye can discern the face of the sky; but can ye not discern the
 signs of the times?"
 
-Lexical: G4592 _semeion_ stands behind "signs". The entry reads "an indication, especially
+Word meaning: G4592 _semeion_ stands behind "signs". The entry reads "an indication, especially
 ceremonially or supernaturally". The word names an indication, not a guarantee.
 
-Inference: The passage treats the signs as present and available. The people do not fail for
+Reading: The passage treats the signs as present and available. The people do not fail for
 lack of information. They fail to interpret, or they refuse to. Luke 12:56 asks "how is it that
 ye do not discern this time?"
 
-Inference: Do not ask for a forecast when the change already happened. If behavior moved, ask a
+Reading: Do not ask for a forecast when the change already happened. If behavior moved, ask a
 different question. Ask how far the change went, and what it breaks next. Present evidence can
 answer that question.
 
@@ -71,32 +67,32 @@ answer that question.
 
 ## Part 2. Durable change against fashion
 
-Contested in part: Nobody has a settled method for this. The seven tests below are a synthesis
+Disputed in part: Nobody has a settled method for this. The seven tests below are a synthesis
 and a discipline. In real markets, the tests sometimes disagree with each other at the edges.
 Use them to separate durable changes from fashions.
 
 ### The seven tests
 
 1. Does the change control behavior, or does it only attract attention? A durable change alters
-   a constraint. A fashion alters a preference. Inference.
+   a constraint. A fashion alters a preference. Reading.
 2. Who already paid? A durable change leaves capital behind it. Buildings, supply chains,
-   training, and contracts are expensive to reverse, so people reverse them slowly. Inference.
+   training, and contracts are expensive to reverse, so people reverse them slowly. Reading.
 3. Does the change survive a downturn? Ask what happens in a bad year. A change that disappears
-   in a bad year was a luxury. A change that survives is closer to a constraint. Inference.
+   in a bad year was a luxury. A change that survives is closer to a constraint. Reading.
 4. Does the change show up in more than one kind of source? Counts, prices, wait times, hiring,
    and physical density are independent observations. A change that shows up in only one kind of
-   source is weaker. Usually that one source is the reporting about the change. Inference.
+   source is weaker. Usually that one source is the reporting about the change. Reading.
 5. Does the observation come from the field or from a report? See Part 3. The person who reads
-   the market directly has evidence. The person who reads summaries has a summary. Inference.
+   the market directly has evidence. The person who reads summaries has a summary. Reading.
 6. What reverses the change, and who pays for the reversal? Write down the reversal condition. A
-   change with no named reversal condition is an assumption. Inference.
+   change with no named reversal condition is an assumption. Reading.
 7. Is the change old enough to have a second act? Durable changes cause second order effects.
    Remote work moved the commute hours. Then it moved housing demand, and then commercial
-   property. The opportunity is often in the second order effects. Inference.
+   property. The opportunity is often in the second order effects. Reading.
 
 ### The hard truth about the distinction
 
-Inference: Some durable changes look like fashions at the start, and some fashions look durable.
+Reading: Some durable changes look like fashions at the start, and some fashions look durable.
 Nobody can make the distinction with certainty in real time. Two consequences follow:
 
 1. Make early commitments small. Test the change with a reversible step. This applies A32. Some
@@ -106,7 +102,7 @@ Nobody can make the distinction with certainty in real time. Two consequences fo
    fashion. A person who cannot name the reversal condition stopped observing and started to
    assume.
 
-Text states (Proverbs 27:1): "Boast not thyself of to morrow; for thou knowest not what a day may
+Scripture says (Proverbs 27:1): "Boast not thyself of to morrow; for thou knowest not what a day may
 bring forth." The verse prohibits the boast. It does not prohibit the plan. James 4:15 gives the
 form of the plan: "ye ought to say, If the Lord will, we shall live, and do this, or that."
 
@@ -114,61 +110,61 @@ form of the plan: "ye ought to say, If the Lord will, we shall live, and do this
 
 ## Part 3. Reading how people live now
 
-Inference: This part is fieldwork. Nothing replaces fieldwork, and summaries cannot do its work.
+Reading: This part is fieldwork. Nothing replaces fieldwork, and summaries cannot do its work.
 
-Text states (1 Chronicles 12:32): The men of Issachar "had understanding of the times, to know
+Scripture says (1 Chronicles 12:32): The men of Issachar "had understanding of the times, to know
 what Israel ought to do".
 
-Lexical: H998 _binah_ stands behind "understanding" in the concordance. The entry reads
+Word meaning: H998 _binah_ stands behind "understanding" in the concordance. The entry reads
 "understanding". The KJV glosses include "knowledge", "meaning", and "wisdom". H3045 _yada_
 stands behind "to know" in "to know what Israel ought to do". That phrase is the second
 capacity, the decision. The entry for H3045 reads "to know (properly, to ascertain by seeing)".
 
-Inference: The verse does not say how the men got their understanding. The lexicon entry for
+Reading: The verse does not say how the men got their understanding. The lexicon entry for
 _binah_ does not name observation. The case for fieldwork rests on the passages below, not on the
 words of 1 Chronicles 12:32.
 
-Text states (Acts 17:23): Paul says "as I passed by, and beheld your devotions, I found an altar
+Scripture says (Acts 17:23): Paul says "as I passed by, and beheld your devotions, I found an altar
 with this inscription, TO THE UNKNOWN GOD."
 
-Inference: The reading comes from walking through the market and handling its objects. Paul read
+Reading: The reading comes from walking through the market and handling its objects. Paul read
 an altar and its inscription. He did not read a segment report.
 
 ### What to watch
 
 1. Where the hours go. Ask for a calendar, not a survey. A week of real appointments shows the
-   actual pattern. Inference.
+   actual pattern. Reading.
 2. What people already pay. Include payment in hours and in annoyance. A workaround with a true
-   cost is a market. A workaround with no cost is usually not a problem. Inference.
+   cost is a market. A workaround with no cost is usually not a problem. Reading.
 3. The unofficial workarounds. Look for the spreadsheet that nobody owns. Look for the group chat
    that runs the operation, and the relative who does the administration. A workaround is a
-   specification for the product. Inference.
+   specification for the product. Reading.
 4. The avoided tasks. Watch what people pay to never do again. Avoidance is a strong signal. The
-   person already spends money to keep the task away. Inference.
+   person already spends money to keep the task away. Reading.
 5. The substitutes. Ask what the buyer uses instead, and include "nothing". The substitute sets
-   the maximum price. Inference.
+   the maximum price. Reading.
 6. The words. Write down the vocabulary of the market. Acts 17:28 quotes the poets of the
    audience. Words from your own frame of reference get translated into the frame of the market,
-   or the market ignores them. Inference.
+   or the market ignores them. Reading.
 7. The second order effects. Ask what breaks when the change continues. Every durable change
-   breaks a system that people built for the old condition. Inference.
+   breaks a system that people built for the old condition. Reading.
 8. The unserved edge. Watch the group at the edge of the change, because the edge shows the
    direction. The person who changed early gives information. The person who cannot change at
-   all also gives information. Inference.
+   all also gives information. Reading.
 
 ### What to avoid
 
 - Do not read a market from its own marketing. Press releases, brand pages, and conference talks
-  are how the market presents itself. Inference.
-- Do not count opinions as behavior. A stated intention is not a purchase. Inference.
+  are how the market presents itself. Reading.
+- Do not count opinions as behavior. A stated intention is not a purchase. Reading.
 - Do not sample only the satisfied customers. The dissatisfied customers, the customers who left,
-  and the people who never adopted all have evidence. Inference.
-- Do not treat one conversation as a reading. One conversation is one observation. Inference.
+  and the people who never adopted all have evidence. Reading.
+- Do not treat one conversation as a reading. One conversation is one observation. Reading.
 
-Text states (Numbers 13:17-20): The reconnaissance brief asks two-way questions about the land,
+Scripture says (Numbers 13:17-20): The reconnaissance brief asks two-way questions about the land,
 the people, and the cities. It also asks for physical evidence: "bring of the fruit of the land."
-Inference: The brief works as a survey instrument. The full treatment is in
-`../business-first-principles/references/trends-and-timing.md`, Part 5.
+Reading: The brief works as a survey instrument. The full treatment is in
+`../../business-first-principles/references/trends-and-timing.md`, Part 5.
 
 ---
 
@@ -182,67 +178,67 @@ Daniel 2:20-22 (KJV):
 >
 > 22 He revealeth the deep and secret things: he knoweth what is in the darkness, and the light dwelleth with him.
 
-Text states (Daniel 2:39): "And after thee shall arise another kingdom inferior to thee..."
+Scripture says (Daniel 2:39): "And after thee shall arise another kingdom inferior to thee..."
 
-Text states (Daniel 2:41-43): The fourth kingdom "shall be divided". It is "partly strong, and
+Scripture says (Daniel 2:41-43): The fourth kingdom "shall be divided". It is "partly strong, and
 partly broken", and its parts "shall not cleave one to another, even as iron is not mixed with
 clay."
 
-Text states (Daniel 2:44): "in the days of these kings shall the God of heaven set up a kingdom,
+Scripture says (Daniel 2:44): "in the days of these kings shall the God of heaven set up a kingdom,
 which shall never be destroyed". This kingdom "shall break in pieces and consume all these
 kingdoms, and it shall stand for ever."
 
-Text states (Daniel 7:17): "These great beasts, which are four, are four kings, which shall arise
+Scripture says (Daniel 7:17): "These great beasts, which are four, are four kings, which shall arise
 out of the earth."
 
-Text states (Daniel 7:24): "And the ten horns out of this kingdom are ten kings that shall arise:
+Scripture says (Daniel 7:24): "And the ten horns out of this kingdom are ten kings that shall arise:
 and another shall rise after them..."
 
 ### The observations
 
-1. Text states: Dominance arrives in a sequence. Daniel tells the first king that he is the
+1. Scripture says: Dominance arrives in a sequence. Daniel tells the first king that he is the
    first, and that another kingdom follows.
-2. Text states: The sequence is gold, silver, brass, iron, and then iron mixed with clay
-   (Daniel 2:32-33). Inference: The value of the material falls while the strength rises. Then
+2. Scripture says: The sequence is gold, silver, brass, iron, and then iron mixed with clay
+   (Daniel 2:32-33). Reading: The value of the material falls while the strength rises. Then
    the final stage mixes strength with fragility.
-3. Text states: The parts do not bond. "they shall not cleave one to another".
-4. Text states: The stone breaks all the metals and the clay in one event (Daniel 2:45).
-   Inference: The end is not gradual. Text states: The stone was "cut out without hands"
+3. Scripture says: The parts do not bond. "they shall not cleave one to another".
+4. Scripture says: The stone breaks all the metals and the clay in one event (Daniel 2:45).
+   Reading: The end is not gradual. Scripture says: The stone was "cut out without hands"
    (2:34). Verses 44-45 tie the stone to the kingdom that "the God of heaven" sets up.
-5. Text states: Daniel 2:21 states the cause. "he changeth the times and the seasons: he removeth
+5. Scripture says: Daniel 2:21 states the cause. "he changeth the times and the seasons: he removeth
    kings, and setteth up kings".
 
 ### The business inference
 
-Inference: The original audience is Nebuchadnezzar, and the subject is the succession of
+Reading: The original audience is Nebuchadnezzar, and the subject is the succession of
 kingdoms under God. The stone is the kingdom of God, not a competitor. A business use of this
 text is an analogy, and each inference below is an analogy.
 
-Inference: Assume that something will replace the category. The question is when and by what,
+Reading: Assume that something will replace the category. The question is when and by what,
 not whether.
 
-Inference: The incumbent is not at the top of a progression. The metals lose value. A company
+Reading: The incumbent is not at the top of a progression. The metals lose value. A company
 that sees its own position as the leading edge reads the sequence backwards.
 
-Inference: Watch for internal incoherence inside a large competitor. An organization made of
+Reading: Watch for internal incoherence inside a large competitor. An organization made of
 parts that do not bond is at the iron and clay stage. It can look strong while it is fragile.
 
-Inference: By analogy, the disruption often comes from outside the category, as the stone comes
+Reading: By analogy, the disruption often comes from outside the category, as the stone comes
 from outside the image. A threat that competes in the same frame is a normal rival.
 
-Contested: Many readers hold that the four kingdoms lasted for centuries. That reading depends on
+Disputed: Many readers hold that the four kingdoms lasted for centuries. That reading depends on
 the identification of the kingdoms, which is disputed (see "The contested part" below). The text
-quoted here does not give the length of each kingdom. Inference: If that reading is correct, the
+quoted here does not give the length of each kingdom. Reading: If that reading is correct, the
 pattern is a long transition and a short end, because the end comes in one event (Daniel 2:45).
 A plan that assumes a gradual end will be late.
 
-Text states (Isaiah 28:16): "he that believeth shall not make haste." Inference: Preparations
+Scripture says (Isaiah 28:16): "he that believeth shall not make haste." Reading: Preparations
 for a sequence of changes do not need speed. They need correct placement. This application is
 drawn here, and the verse does not speak about markets.
 
 ### The contested part
 
-Contested: Faithful readers disagree about the identification of the four kingdoms. Daniel 2
+Disputed: Faithful readers disagree about the identification of the four kingdoms. Daniel 2
 gives the sequence and the metals. Daniel 7 gives the beasts and the number. The text quoted here
 does not name the kingdoms. Do not build a market forecast on a disputed identification. Five
 claims stay true under every identification:
@@ -273,29 +269,29 @@ Isaiah 45:1-3 (KJV):
 >
 > 3 And I will give thee the treasures of darkness, and hidden riches of secret places, that thou mayest know that I, the LORD, which call thee by thy name, am the God of Israel.
 
-Text states: Isaiah 42:9 first says that "the former things are come to pass". Then it declares
-new things. Inference: The completion of the former declaration is the ground for confidence in
+Scripture says: Isaiah 42:9 first says that "the former things are come to pass". Then it declares
+new things. Reading: The completion of the former declaration is the ground for confidence in
 the new one.
 
-Text states: The announcement comes before the event. "before they spring forth I tell you of
+Scripture says: The announcement comes before the event. "before they spring forth I tell you of
 them", and "now it shall spring forth; shall ye not know it?"
 
-Text states: Isaiah 43:19 asks "shall ye not know it?" Inference: The question expects the
+Scripture says: Isaiah 43:19 asks "shall ye not know it?" Reading: The question expects the
 audience to recognize the event when it arrives.
 
-Text states: Isaiah 45:1-3 names a person, Cyrus, and specific objects: "the gates of brass",
+Scripture says: Isaiah 45:1-3 names a person, Cyrus, and specific objects: "the gates of brass",
 "the bars of iron", and "the treasures of darkness".
 
 ### The business inference
 
-Inference: These verses describe declarations by God. They are not a method for human forecasts,
+Reading: These verses describe declarations by God. They are not a method for human forecasts,
 and this file does not present them as one.
 
-Text states: In Isaiah, the power to declare what is to come marks the true God against the
+Scripture says: In Isaiah, the power to declare what is to come marks the true God against the
 idols: "Shew the things that are to come hereafter, that we may know that ye are gods" (41:23).
 God says that he is "Declaring the end from the beginning" (46:10).
 
-Inference: No human forecaster shares that standing. A business use of these verses is an
+Reading: No human forecaster shares that standing. A business use of these verses is an
 analogy. By analogy, two features transfer as a pattern:
 
 1. The track record is part of the warrant. A prediction is worth what the earlier predictions
@@ -304,11 +300,11 @@ analogy. By analogy, two features transfer as a pattern:
 2. Specificity is the test. The declaration in Isaiah 45:1-3 names a person, gates, bars, and
    treasures. Nobody can show that a forecast is false if it names nothing that can be checked.
 
-Inference: A declaration made in advance also has a purpose. The audience will recognize the
+Reading: A declaration made in advance also has a purpose. The audience will recognize the
 event. A strategy is not a strategy if nobody inside the company can recognize it when it
 happens.
 
-Contested: Readers disagree on the scope of these passages. Some read them as promises about the
+Disputed: Readers disagree on the scope of these passages. Some read them as promises about the
 return from exile, some read them as messianic, and some read them as both. The business
 inference rests on the pattern of declaration, track record, and recognition. It does not rest on
 a particular reading of the fulfillment.
@@ -321,14 +317,14 @@ Amos 3:7 (KJV):
 
 > 7 Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets.
 
-Text states: The Lord GOD does nothing without first revealing "his secret unto his servants the
+Scripture says: The Lord GOD does nothing without first revealing "his secret unto his servants the
 prophets".
 
-Inference: The verse speaks about the source of knowledge of the acts of God. That knowledge
+Reading: The verse speaks about the source of knowledge of the acts of God. That knowledge
 comes by disclosure to the prophets. The verse does not mention models or deduction. The contrast
 between disclosure and deduction is a reading made here.
 
-Inference: The verse does not claim that every forecast is a disclosure. It says that the acts of
+Reading: The verse does not claim that every forecast is a disclosure. It says that the acts of
 God come with a disclosure to his servants. For business use, the distinction is between
 disclosed information and deduced information.
 
@@ -337,17 +333,17 @@ disclosed information and deduced information.
 | Disclosed | Given, and stated as given  | Verified after the event                 |
 | Deduced   | Model, data, and assumption | Carries model error and assumption error |
 
-Inference: A deduced forecast is useful, and you must label it as deduced. A person who presents
+Reading: A deduced forecast is useful, and you must label it as deduced. A person who presents
 a model output as a disclosure makes a category error. The error is expensive, because the
 audience stops checking.
 
-Text states (Numbers 13:17-20): Moses sent the spies to see the land and bring back its fruit.
-Inference: The reconnaissance produced observations, not disclosures. See Part 3.
+Scripture says (Numbers 13:17-20): Moses sent the spies to see the land and bring back its fruit.
+Reading: The reconnaissance produced observations, not disclosures. See Part 3.
 
 Working rule: Label the source of every claim about the future. Write "model output", "reported,
 unverified", or "stated directly".
 
-Contested: Faithful readers differ on whether God still gives prophecy today. One view holds that
+Disputed: Faithful readers differ on whether God still gives prophecy today. One view holds that
 predictive prophecy ended with the apostles and the finished canon. It cites the church "built
 upon the foundation of the apostles and prophets" (Ephesians 2:20), God who "Hath in these last
 days spoken unto us by his Son" (Hebrews 1:2), and "the faith which was once delivered unto the
@@ -376,29 +372,29 @@ Deuteronomy 18:21-22 (KJV):
 
 > 21 Prove all things; hold fast that which is good.
 
-Text states: Deuteronomy 18:21 asks the question, and 18:22 answers it. "How shall we know the
+Scripture says: Deuteronomy 18:21 asks the question, and 18:22 answers it. "How shall we know the
 word which the LORD hath not spoken?" The answer is an outcome test: "if the thing follow not,
 nor come to pass."
 
-Text states: The test in Deuteronomy 18:22 is retrospective. It applies after the event.
+Scripture says: The test in Deuteronomy 18:22 is retrospective. It applies after the event.
 
-Text states: The instruction includes an action after the test. "thou shalt not be afraid of
-him." Inference: The predictor who failed loses authority.
+Scripture says: The instruction includes an action after the test. "thou shalt not be afraid of
+him." Reading: The predictor who failed loses authority.
 
-Text states: 1 John 4:1 commands the test and gives the reason: "many false prophets are gone out
+Scripture says: 1 John 4:1 commands the test and gives the reason: "many false prophets are gone out
 into the world."
 
-Lexical: G1381 _dokimazo_ stands behind "try" in 1 John 4:1 and "Prove" in 1 Thessalonians 5:21.
+Word meaning: G1381 _dokimazo_ stands behind "try" in 1 John 4:1 and "Prove" in 1 Thessalonians 5:21.
 The entry reads "to test (literally or figuratively); by implication, to approve". The KJV glosses
-include "discern", "examine", and "try". Inference: The aim of the test is approval, not doubt.
+include "discern", "examine", and "try". Reading: The aim of the test is approval, not doubt.
 
-Text states (1 Thessalonians 5:21): Two instructions follow each other. "Prove all things" and
+Scripture says (1 Thessalonians 5:21): Two instructions follow each other. "Prove all things" and
 "hold fast that which is good." The verse gives no time for the test. It does not say before or
 after the event.
 
 ### The assembled test
 
-Inference: The passages combine into a procedure with five steps. Steps 1 and 4 apply after the
+Reading: The passages combine into a procedure with five steps. Steps 1 and 4 apply after the
 event. Steps 2, 3, and 5 prepare the claim before the event, so that the test after the event
 can work.
 
@@ -410,21 +406,21 @@ can work.
 | 4    | Deuteronomy 18:22    | If the claim fails, does the predictor keep authority?               |
 | 5    | Amos 3:7             | Is the claim disclosed or deduced?                                   |
 
-Text states (Deuteronomy 13:1-3): A prophet may give "a sign or a wonder", and "the sign or the
+Scripture says (Deuteronomy 13:1-3): A prophet may give "a sign or a wonder", and "the sign or the
 wonder come to pass". If he then says "Let us go after other gods", the instruction is "Thou
 shalt not hearken unto the words of that prophet".
 
-Inference: The outcome test is necessary, and it is not sufficient. A claim that came true still
+Reading: The outcome test is necessary, and it is not sufficient. A claim that came true still
 needs a test of where it leads. By analogy, a forecaster with a good record still needs a check
 on the content and the aim of the claim.
 
-Inference: The procedure has a half that verifies and no half that generates. The passages tell
+Reading: The procedure has a half that verifies and no half that generates. The passages tell
 you how to test a forecast. They do not tell you how to produce a certain one.
 
-Inference: The record of past predictions is the most valuable instrument to evaluate present
+Reading: The record of past predictions is the most valuable instrument to evaluate present
 predictions. A business without a forecast log cannot apply the test.
 
-Inference: The verse says that "many false prophets are gone out into the world". It gives no
+Reading: The verse says that "many false prophets are gone out into the world". It gives no
 rate. This file reads it as a warning that reliable forecasts are uncommon. Plan with the
 expectation that many forecasts will fail.
 
@@ -438,35 +434,35 @@ Ecclesiastes 3:11 (KJV):
 
 > 11 He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.
 
-Text states: "no man can find out the work that God maketh from the beginning to the end."
+Scripture says: "no man can find out the work that God maketh from the beginning to the end."
 
 Ecclesiastes 9:11 (KJV):
 
 > 11 I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all.
 
-Text states: The verse names five qualities that do not guarantee their outcome. The reason it
+Scripture says: The verse names five qualities that do not guarantee their outcome. The reason it
 gives is "time and chance happeneth to them all."
 
 Daniel 2:21 (KJV):
 
 > 21 And he changeth the times and the seasons: he removeth kings, and setteth up kings: he giveth wisdom unto the wise, and knowledge to them that know understanding:
 
-Text states: God changes the times and the seasons. The change is not an act of the market.
+Scripture says: God changes the times and the seasons. The change is not an act of the market.
 
 ### What follows
 
-1. Nobody sees the whole plan. Text states, Ecclesiastes 3:11. Inference: A reading is always
+1. Nobody sees the whole plan. Scripture says, Ecclesiastes 3:11. Reading: A reading is always
    partial. So every decision rests on a partial reading.
-2. Effort and outcome are separate variables. Text states, Ecclesiastes 9:11. Inference:
+2. Effort and outcome are separate variables. Scripture says, Ecclesiastes 9:11. Reading:
    Excellence improves the odds. It does not decide the result.
-3. Nobody controls timing fully. Text states, Daniel 2:21. Inference.
-4. A forecast is a limited instrument. Inference: State the confidence, the assumptions, the
+3. Nobody controls timing fully. Scripture says, Daniel 2:21. Reading.
+4. A forecast is a limited instrument. Reading: State the confidence, the assumptions, the
    error range, and the cost of a reversal. Do not state a date as a fact.
-5. Reversible decisions carry the uncertainty. Inference: When the reading is uncertain, the plan
+5. Reversible decisions carry the uncertainty. Reading: When the reading is uncertain, the plan
    must be reversible. This applies A32. Some states must not be allowed to become permanent.
-6. Reserves cover the encounter. Inference: Ecclesiastes 9:11 says that "time and chance" happen
+6. Reserves cover the encounter. Reading: Ecclesiastes 9:11 says that "time and chance" happen
    to everyone. A reserve is a hedge against that encounter, not against a trend. See
-   `../business-first-principles/references/capital-and-stewardship.md`.
+   `../../business-first-principles/references/capital-and-stewardship.md`.
 
 ### The two honest statements
 
@@ -527,41 +523,21 @@ Rules on the limits:
 
 ---
 
-## Appendix: verification log
+## Limits of this file
 
-### Verses retrieved with `../scripture-foundations/scripts/scripture.ts`
-
-1 Chronicles 12:32, Matthew 16:3, Luke 12:56, Acts 17:23, Acts 17:28, Numbers 13:17-20, Daniel
-2:20-22, Daniel 2:32-33, Daniel 2:39, Daniel 2:41-45, Daniel 7:17, Daniel 7:24, Isaiah 28:16,
-Isaiah 42:9, Isaiah 43:19, Isaiah 45:1-3, Amos 3:7, Deuteronomy 18:21-22, 1 John 4:1,
-1 Thessalonians 5:21, Ecclesiastes 3:11, Ecclesiastes 9:11, and Proverbs 27:1.
-
-Added in the doctrinal review, retrieved with `../scripture-foundations/scripts/scripture.py`:
-James 4:15, Daniel 2:34-35, Isaiah 41:23, Isaiah 46:10, Deuteronomy 13:1-3, Ephesians 2:20,
-Hebrews 1:2, Jude 3, Acts 2:17, 1 Corinthians 14:29, and 1 Thessalonians 5:20.
-
-### Lexical claims verified with `../scripture-foundations/scripts/lexicon.ts`
-
-| Number | Transliteration | Definition as returned (verbatim)                                                                                                                                                                                                                   |
-| ------ | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| H998   | _binah_         | "understanding"                                                                                                                                                                                                                                     |
-| H3045  | _yada_          | "to know (properly, to ascertain by seeing); used in a great variety of senses, figuratively, literally, euphemistically and inferentially (including observation, care, recognition; and causatively, instruction, designation, punishment, etc.)" |
-| G4592  | _semeion_       | "an indication, especially ceremonially or supernaturally"                                                                                                                                                                                          |
-| G1381  | _dokimazo_      | "to test (literally or figuratively); by implication, to approve"                                                                                                                                                                                   |
-
-### Claims I cannot verify with the supplied tools
+These claims cannot be checked with the scripts:
 
 1. All mappings from a verse to a Strong's number. The supplied data has no tags at the level of
-   the verse. The definitions above are verified. The place of each word in its verse is a
+   the verse. The definitions are verified with the lexicon script. The place of each word in its verse is a
    standard concordance association.
 2. The seven durability tests in Part 2. These tests are a synthesis. No tool verifies them, and
    no source behind them gives an error rate. Use them as a checklist, not as a measurement.
-3. The identification of the four kingdoms in Daniel 2 and 7. Contested. The passages quoted here
+3. The identification of the four kingdoms in Daniel 2 and 7. Disputed. The passages quoted here
    give the sequence and the number. They do not name the kingdoms.
-4. The scope of Isaiah 42:9, Isaiah 43:19, and Isaiah 45:1-3. Contested. The business inference
+4. The scope of Isaiah 42:9, Isaiah 43:19, and Isaiah 45:1-3. Disputed. The business inference
    rests on the pattern of declaration and recognition, not on a particular view of the
    fulfillment.
-5. The claim that business cycles can be forecast, or cannot. Contested in the professional
+5. The claim that business cycles can be forecast, or cannot. Disputed in the professional
    literature. The file states the dispute and does not settle it.
 6. Every market example or figure. None is in this file. The worked figures are in
    `opportunity-method.md`, and that file labels them as invented illustrations.

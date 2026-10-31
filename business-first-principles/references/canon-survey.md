@@ -42,12 +42,12 @@ These subjects shape why a person works with integrity. They do not generate bus
 
 ## 1. Foundation and first principles
 
-- Settle the fundamentals, then build on them. Hebrews 5:12 rebukes readers who still need someone to teach them "the first principles of the oracles of God" again. Hebrews 6:1 says: "leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation". The text does not say "master the fundamentals before you scale". It says to stop laying the foundation again and to move on. Inference: get unit economics, product truth, and cash discipline settled once, so that you do not have to lay them again, and then grow.
+- Settle the fundamentals, then build on them. Hebrews 5:12 rebukes readers who still need someone to teach them "the first principles of the oracles of God" again. Hebrews 6:1 says: "leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation". The text does not say "master the fundamentals before you scale". It says to stop laying the foundation again and to move on. Reading: get unit economics, product truth, and cash discipline settled once, so that you do not have to lay them again, and then grow.
 - The foundation decides what survives the storm. Matthew 7:24-27. Stress-test the model. What you build on real value survives downturns. What you build on hype does not.
-- Know the one foundation. The foundation itself is Christ: "other foundation can no man lay than that is laid, which is Jesus Christ" (1 Corinthians 3:11). Ephesians 2:20 names "Jesus Christ himself being the chief corner stone", and 1 Peter 2:6 reads Isaiah 28:16 the same way. These texts are about Christ and his church, not about a business, and a value proposition is not a cornerstone. Inference, on separate grounds: a business still needs a few non-negotiables that it will not trade away, such as honesty, fair pay, and a clear purpose.
-- Your work will be tested. 1 Corinthians 3:13-15: "the day shall declare it", and "If any man's work shall be burned, he shall suffer loss". The original audience is those who build on the foundation of Christ, and the test is God's judgment. A business use of this text is an analogy. Inference: build as if every result will be examined, because it will be.
-- Make the foundation reproducible. 2 Timothy 2:19 says: "the foundation of God standeth sure, having this seal, The Lord knoweth them that are his." The verse grounds the foundation in a seal, not in a written text. 2 Timothy 3:16 is a separate point: Scripture "is profitable for doctrine, for reproof, for correction, for instruction in righteousness". Inference: those four functions describe a good SOP (standard operating procedure) and training manual. If the method lives only in the head of one person, it is not a foundation.
-- Look to the end, and trust God for the way. Hebrews 11:10 speaks of "a city which hath foundations, whose builder and maker is God." Abraham did not have a blueprint: "he went out, not knowing whither he went" (11:8). The builder is God. Inference: have a clear picture of the end state where you can, and act in faith where you cannot.
+- Know the one foundation. The foundation itself is Christ: "other foundation can no man lay than that is laid, which is Jesus Christ" (1 Corinthians 3:11). Ephesians 2:20 names "Jesus Christ himself being the chief corner stone", and 1 Peter 2:6 reads Isaiah 28:16 the same way. These texts are about Christ and his church, not about a business, and a value proposition is not a cornerstone. Reading, on separate grounds: a business still needs a few non-negotiables that it will not trade away, such as honesty, fair pay, and a clear purpose.
+- Your work will be tested. 1 Corinthians 3:13-15: "the day shall declare it", and "If any man's work shall be burned, he shall suffer loss". The original audience is those who build on the foundation of Christ, and the test is God's judgment. A business use of this text is an analogy. Reading: build as if every result will be examined, because it will be.
+- Make the foundation reproducible. 2 Timothy 2:19 says: "the foundation of God standeth sure, having this seal, The Lord knoweth them that are his." The verse grounds the foundation in a seal, not in a written text. 2 Timothy 3:16 is a separate point: Scripture "is profitable for doctrine, for reproof, for correction, for instruction in righteousness". Reading: those four functions describe a good SOP (standard operating procedure) and training manual. If the method lives only in the head of one person, it is not a foundation.
+- Look to the end, and trust God for the way. Hebrews 11:10 speaks of "a city which hath foundations, whose builder and maker is God." Abraham did not have a blueprint: "he went out, not knowing whither he went" (11:8). The builder is God. Reading: have a clear picture of the end state where you can, and act in faith where you cannot.
 
 See also A5 (formation precedes filling) and A14 (completion is a real state).
 
@@ -55,9 +55,9 @@ See also A5 (formation precedes filling) and A14 (completion is a real state).
 
 - Vision comes before building. Genesis 1 is methodical: separate, name, organize, then fill. John 1 says that the Word was first. Get clarity of the idea before execution.
 - Work is a calling, not only profit. Ecclesiastes 12:13, 1 Corinthians 10:31, Colossians 3:23. "whatsoever ye do, do all to the glory of God" (1 Corinthians 10:31), and "do it heartily, as to the Lord, and not unto men" (Colossians 3:23). The motive is the glory of God. Excellence and margin follow from it. They do not replace it.
-- Think in generations, not quarters. Deuteronomy 6:6-7 commands Israel to teach "these words, which I command thee this day" to their children. In Jeremiah 31:33 God himself will "write it in their hearts", and verse 34 adds "they shall teach no more every man his neighbour". The original audience is Israel, and the content is God's word. A business use of these texts is an analogy. Inference: succession and the passing on of culture deserve the same deliberate care. They are not afterthoughts.
+- Think in generations, not quarters. Deuteronomy 6:6-7 commands Israel to teach "these words, which I command thee this day" to their children. In Jeremiah 31:33 God himself will "write it in their hearts", and verse 34 adds "they shall teach no more every man his neighbour". The original audience is Israel, and the content is God's word. A business use of these texts is an analogy. Reading: succession and the passing on of culture deserve the same deliberate care. They are not afterthoughts.
 - Have patience over long horizons. Habakkuk 2:3 ("though it tarry, wait for it"). Galatians 6:9 ("in due season we shall reap, if we faint not").
-- Labor in the Lord is not in vain. 1 Corinthians 15:58: "Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord." The "Therefore" rests on the resurrection (15:54-57). It is a promise about the work of the Lord, not a promise of a financial return. Inference: a believer who works "as to the Lord" (Colossians 3:23) does not need a quick payoff to know that the work is worth doing.
+- Labor in the Lord is not in vain. 1 Corinthians 15:58: "Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord." The "Therefore" rests on the resurrection (15:54-57). It is a promise about the work of the Lord, not a promise of a financial return. Reading: a believer who works "as to the Lord" (Colossians 3:23) does not need a quick payoff to know that the work is worth doing.
 - Do not conform to the defaults of the market. Romans 12:1-2. Choose first-principles thinking over copying the industry. Renew the mind. Do not copy the competition.
 - Hold plans humbly. Isaiah 55:8-9, James 4:13-15 ("If the Lord will"). Your five-year plan is a hypothesis, not a prophecy.
 
@@ -70,7 +70,7 @@ See also A30 (mortality makes time the binding constraint).
 - Pay what you owe, when you owe it. Exodus 20:15, James 5:4. The cries of the workers whose wages were kept back "are entered into the ears of the Lord of sabaoth." Payables, payroll, and contract terms are ethics, not admin.
 - Keep your word, even at a cost. Matthew 5:33-37: "let your communication be, Yea, yea; Nay, nay". Reputation compounds on kept promises.
 - Justice, mercy, humility. Micah 6:8 is a three-part test for any hard decision: "to do justly, and to love mercy, and to walk humbly with thy God". Is it just? Do I love mercy here? Am I walking humbly with my God? The third question puts the decision before God, not only before my own conscience.
-- Live by faith under pressure. Habakkuk 2:4: "the just shall live by his faith." The faith is trust in God, and Galatians 3:11 uses the verse for justification by faith. A business use of this text is an analogy. Inference: a person who trusts God can hold principles that do not change with market conditions.
+- Live by faith under pressure. Habakkuk 2:4: "the just shall live by his faith." The faith is trust in God, and Galatians 3:11 uses the verse for justification by faith. A business use of this text is an analogy. Reading: a person who trusts God can hold principles that do not change with market conditions.
 - Be transparent, and confess early. 1 John 1:5-9: "if we walk in the light". Admit an error early. A corrected mistake is cheaper than a hidden one.
 - Put mercy above ritual. Hosea 6:6, Exodus 34:6-7. Do not sacrifice people to process. Make forgiveness an operating norm, not an exception.
 
@@ -96,15 +96,15 @@ See also A18 (aloneness is not good) and A26 (diagnose before you judge).
 - Lead by serving. Mark 10:43-45, Philippians 2:1-11. Greatness comes through service. Leaders take the low seat and bear the cost.
 - Make love the operating system. 1 Corinthians 13 describes love:
   - It is patient with people.
-  - It "envieth not". Inference: no obsession with competitors.
-  - It "vaunteth not itself". Inference: no founder ego.
-  - It "thinketh no evil" (13:5). Inference: a culture that forgives.
+  - It "envieth not". Reading: no obsession with competitors.
+  - It "vaunteth not itself". Reading: no founder ego.
+  - It "thinketh no evil" (13:5). Reading: a culture that forgives.
   - It endures. Love outlasts every process.
 - Put people over process. Matthew 22:34-40. The second command is "like unto" the first. Treat people as ends, not as resources.
 - Keep unity, with no silos. John 17:21, Ephesians 2:19-22: "fitly framed together". One mission, with aligned teams.
 - Examine yourself before you criticize. Matthew 7:1-5. Remove your own beam first. That is the foundation of a real culture of feedback.
 - Give dignity to every worker. Job 31:13-15. The servant and the master share a Maker. Apply equal standards from top to bottom.
-- Give grace and second chances. Luke 15 shows the joy in heaven "over one sinner that repenteth" (15:7), and 2 Corinthians 5:17 says "if any man be in Christ, he is a new creature". Both texts are about God's work in the sinner. A business use of them is an analogy. Inference: win back the lost customer and the failed employee where integrity allows. Restoration beats permanent exile.
+- Give grace and second chances. Luke 15 shows the joy in heaven "over one sinner that repenteth" (15:7), and 2 Corinthians 5:17 says "if any man be in Christ, he is a new creature". Both texts are about God's work in the sinner. A business use of them is an analogy. Reading: win back the lost customer and the failed employee where integrity allows. Restoration beats permanent exile.
 
 See also A18, A21, and A29. The full treatment is in `org-and-labor.md`.
 
@@ -115,7 +115,7 @@ See also A18, A21, and A29. The full treatment is in `org-and-labor.md`.
 - Do it with your might. Ecclesiastes 9:10. Give full effort to the task at hand.
 - Sowing and reaping is a law. Galatians 6:7-9: "whatsoever a man soweth, that shall he also reap", and "in due season we shall reap, if we faint not." Inputs decide outputs, and the harvest comes later. The passage does not say that you reap more than you sow. The principle applies to capital allocation and to culture.
 - Persist, and keep the golden rule. Matthew 7:7-12. Ask, seek, knock. And treat others as you want others to treat you. That verse is the baseline for customer relationships.
-- Trust God with the harm done to you. Genesis 50:20: "ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive." God is the one who turns the evil to good. Inference: because God rules over it, a leader can answer harm with a post-mortem, not with revenge or blame.
+- Trust God with the harm done to you. Genesis 50:20: "ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive." God is the one who turns the evil to good. Reading: because God rules over it, a leader can answer harm with a post-mortem, not with revenge or blame.
 - Be accountable, and do not shift blame. Genesis 3. The first management failure was passing the buck. Own the miss.
 
 See also A4, A11, and A25.
@@ -124,9 +124,9 @@ See also A4, A11, and A25.
 
 - Money is a tool, not a master. Matthew 6:24: "Ye cannot serve God and mammon." Profit is fuel, not mission.
 - The budget shows what you believe. Matthew 6:19-21: where your treasure is, your heart follows. Follow the money to see the real priorities.
-- Honor the LORD first. Proverbs 3:9: "Honour the LORD with thy substance, and with the firstfruits of all thine increase". The firstfruits go to the LORD, not to the business. Verse 10 ("So shall thy barns be filled with plenty") is a proverb about his blessing, not a guaranteed return. Inference, a separate point: set aside generosity and reinvestment before you spend the rest. Margin and investment are prudence. They are not the firstfruits.
+- Honor the LORD first. Proverbs 3:9: "Honour the LORD with thy substance, and with the firstfruits of all thine increase". The firstfruits go to the LORD, not to the business. Verse 10 ("So shall thy barns be filled with plenty") is a proverb about his blessing, not a guaranteed return. Reading, a separate point: set aside generosity and reinvestment before you spend the rest. Margin and investment are prudence. They are not the firstfruits.
 - Give without PR. Matthew 6:1-4. Resist charity done for show.
-- Keep sowing, and spread the risk. Ecclesiastes 11:1-6. Contested: many readers take 11:1-2 ("Cast thy bread upon the waters", "Give a portion to seven, and also to eight") as a call to generosity, and others as a call to spread risk. Verse 6 is plainer: "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper". Inference: run several small bets inside one committed venture, not one bet with a single point of failure. This does not conflict with A21 in `axioms.md`. A21 is about leaving the old commitment, not about putting every test into one bet.
+- Keep sowing, and spread the risk. Ecclesiastes 11:1-6. Disputed: many readers take 11:1-2 ("Cast thy bread upon the waters", "Give a portion to seven, and also to eight") as a call to generosity, and others as a call to spread risk. Verse 6 is plainer: "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper". Reading: run several small bets inside one committed venture, not one bet with a single point of failure. This does not conflict with A21 in `axioms.md`. A21 is about leaving the old commitment, not about putting every test into one bet.
 - Be careful with guarantees and debt. Proverbs 6:1-5, 11:15, 17:18. The warning about surety: do not underwrite a risk that you cannot carry.
 - Pay fair wages. James 5:4. Withheld pay is not only a labor issue.
 - Contentment is risk management. 1 John 2:15-17. Covetousness drives bad decisions.
@@ -136,16 +136,16 @@ See also A13 and A31. The full treatment is in `capital-and-stewardship.md`.
 ## 8. Resilience, rest, and renewal
 
 - Trials are training. James 1:2-4, Romans 5:3-5. Pressure produces endurance. Do not waste the downturn.
-- Rest is part of the design. Genesis 2:2-3, and Exodus 20:8-11, the fourth commandment given to Israel. Contested: Christians differ on how the Sabbath command applies today (see `axioms.md` A15, observation 6). Isaiah 40:31: "But they that wait upon the LORD shall renew their strength". Renewal comes from waiting on the LORD, not from rest alone. The team that never rests breaks.
-- Hope in God steadies the mind. 1 Peter 1:3 speaks of "a lively hope by the resurrection of Jesus Christ from the dead", and 1:13 says "gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ". The hope is in Christ, not in a plan. Inference: a leader whose hope rests there can face uncertainty soberly.
-- Change comes from the inside. Ezekiel 36:26 is God's promise to "the house of Israel" (36:22): "A new heart also will I give you". God gives the new heart. No leader can. A business use of this text is an analogy. Inference: in an organization, lasting change usually starts with what people believe and value, and then reaches the process.
-- Restoration is possible. 2 Corinthians 5:17: "if any man be in Christ, he is a new creature". That is God's work in Christ. Inference, by analogy: in an organization, past failure need not fix a person's standing for good.
+- Rest is part of the design. Genesis 2:2-3, and Exodus 20:8-11, the fourth commandment given to Israel. Disputed: Christians differ on how the Sabbath command applies today (see `axioms.md` A15, observation 6). Isaiah 40:31: "But they that wait upon the LORD shall renew their strength". Renewal comes from waiting on the LORD, not from rest alone. The team that never rests breaks.
+- Hope in God steadies the mind. 1 Peter 1:3 speaks of "a lively hope by the resurrection of Jesus Christ from the dead", and 1:13 says "gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ". The hope is in Christ, not in a plan. Reading: a leader whose hope rests there can face uncertainty soberly.
+- Change comes from the inside. Ezekiel 36:26 is God's promise to "the house of Israel" (36:22): "A new heart also will I give you". God gives the new heart. No leader can. A business use of this text is an analogy. Reading: in an organization, lasting change usually starts with what people believe and value, and then reaches the process.
+- Restoration is possible. 2 Corinthians 5:17: "if any man be in Christ, he is a new creature". That is God's work in Christ. Reading, by analogy: in an organization, past failure need not fix a person's standing for good.
 
 See also A15 (rest is structural) and A28 (fruitfulness continues at a cost).
 
 ## 9. Communication and reputation
 
-- Salt and light. Matthew 5:16: "that they may see your good works, and glorify your Father which is in heaven." The purpose is the glory of God, not marketing. Matthew 6:1 warns against good works done "to be seen of them". Inference: do good work openly and honestly, and let the credit go where the text sends it.
+- Salt and light. Matthew 5:16: "that they may see your good works, and glorify your Father which is in heaven." The purpose is the glory of God, not marketing. Matthew 6:1 warns against good works done "to be seen of them". Reading: do good work openly and honestly, and let the credit go where the text sends it.
 - Simple honesty. Matthew 5:37: "let your communication be, Yea, yea; Nay, nay". James 5:12: "let your yea be yea; and your nay, nay". No embellishment.
 - Words build or destroy. Proverbs, James 1:19. Be slow to speak, especially as a leader.
 - Repetition is internal communication. Deuteronomy 6:7, 2 Peter 1:12-15. Train, retrain, and remind. Once is not enough.
@@ -172,4 +172,4 @@ The original list was not a business list, so these five chapters were added lat
 3. A verse supports one principle, not every principle that you can attach to it. Do not chain unrelated claims onto the same text.
 4. Where this file and the axioms overlap, the axioms win. They were derived with more care, and they carry the fuller grounding.
 5. Keep the subject of the verse. Where the text says that God acts, do not make the leader the one who acts. Where the text names Christ, do not put a business in his place.
-6. Check the word before you lean on it. The KJV is 1611 English. See `../scripture-foundations/references/kjv-1611.md` and `../scripture-foundations/references/original-language.md`.
+6. Check the word before you lean on it. The KJV is 1611 English. See `../../scripture-foundations/references/kjv-1611.md` and `../../scripture-foundations/references/original-language.md`.

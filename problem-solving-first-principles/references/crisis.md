@@ -6,9 +6,8 @@ A crisis leaves less time for every decision. The method does not change. The or
 because some decisions stop harm and other decisions do not.
 
 This file works from two narratives. Acts 27 is a physical crisis at sea. Nehemiah 4 is a long
-threat against a building project. The verses come from
-`../scripture-foundations/scripts/scripture.ts`. The labels are "Text states:", "Lexical:",
-"Inference:", and "Contested:".
+threat against a building project. The labels are the ones defined in
+`scripture-foundations`.
 
 ---
 
@@ -28,7 +27,7 @@ threat against a building project. The verses come from
 
 ## The shape of a crisis
 
-Inference: a crisis has four properties, and each one changes the work.
+Reading: a crisis has four properties, and each one changes the work.
 
 1. Harm is active. Something is still breaking, so the first move is a stop, not a study.
 2. The evidence does not last. Logs rotate, memories fade, and the people who know leave the
@@ -53,11 +52,11 @@ Inference: a crisis has four properties, and each one changes the work.
   to depart thence also... And when the south wind blew softly, supposing that they had obtained
   their purpose, loosing thence, they sailed close by Crete."
 
-Inference: the text gives four reasons for the decision. The centurion believed the master and
+Reading: the text gives four reasons for the decision. The centurion believed the master and
 the owner more than Paul. The haven was not good for the winter. The majority advised to depart.
 The south wind blew softly.
 
-Inference: the standing of the speakers was one reason among four. The owner of the ship had an
+Reading: the standing of the speakers was one reason among four. The owner of the ship had an
 interest in the voyage, and the centurion gave his account more weight. The gentle south wind
 also seemed to argue against the warning (27:13).
 
@@ -71,14 +70,14 @@ also seemed to argue against the warning (27:13).
 - Acts 27:20: "And when neither sun nor stars in many days appeared, and no small tempest lay
   on us, all hope that we should be saved was then taken away."
 
-Text states: the first moves secure the boat, bind the hull with "helps", and lower the sail.
+Scripture says: the first moves secure the boat, bind the hull with "helps", and lower the sail.
 Only after that does the crew lighten the ship (27:18). On the third day the crew throws out
 the tackling, which is the gear of the ship (27:19).
 
-Inference: the first response protects the structure. The crew removes weight and gear only
+Reading: the first response protects the structure. The crew removes weight and gear only
 when protection is not enough.
 
-- Lexical: "taken away" in 27:20 is G4014 _periaireo_, "to remove all around, i.e. unveil,
+- Word meaning: "taken away" in 27:20 is G4014 _periaireo_, "to remove all around, i.e. unveil,
   cast off (anchor); figuratively, to expiate".
 
 ### The word in the crisis
@@ -90,19 +89,19 @@ when protection is not enough.
   believe God, that it shall be even as it was told me. Howbeit we must be cast upon a certain
   island."
 
-Text states: the message comes from God. It is a disclosure, not a forecast. Paul says, "there
+Scripture says: the message comes from God. It is a disclosure, not a forecast. Paul says, "there
 stood by me this night the angel of God" (27:23), and "I believe God, that it shall be even as
 it was told me" (27:25).
 
-Text states: the message has three features that matter in a crisis.
+Scripture says: the message has three features that matter in a crisis.
 
 1. The message states the loss. It gives up the ship.
 2. The message states the preservation. No life is lost.
 3. The message names a condition: "we must be cast upon a certain island."
 
-Inference: a message that promises no loss at all is not the message in this chapter.
+Reading: a message that promises no loss at all is not the message in this chapter.
 
-Inference: a leader today does not receive this kind of message by a method. By analogy, what
+Reading: a leader today does not receive this kind of message by a method. By analogy, what
 carries over is the honesty of the message. It states the loss and the preservation together.
 
 ### The escape attempt
@@ -112,7 +111,7 @@ carries over is the honesty of the message. It states the loss and the preservat
   foreship, Paul said to the centurion and to the soldiers, Except these abide in the ship, ye
   cannot be saved. Then the soldiers cut off the ropes of the boat, and let her fall off."
 
-Text states: the people with the best knowledge of the vessel try to leave first. They hide the
+Scripture says: the people with the best knowledge of the vessel try to leave first. They hide the
 move as a task. The correction is physical, not a speech. The soldiers cut the ropes.
 
 ### The people get their strength back for the work
@@ -124,13 +123,13 @@ move as a task. The correction is physical, not a speech. The soldiers cut the r
   gave thanks to God in presence of them all: and when he had broken it, he began to eat. Then
   were they all of good cheer, and they also took some meat."
 
-Text states: Paul treats food as a matter of health: "for this is for your health". He grounds
+Scripture says: Paul treats food as a matter of health: "for this is for your health". He grounds
 the confidence in the promise: "there shall not an hair fall from the head of any of you". He
 "gave thanks to God in presence of them all", and then he eats first.
 
-Inference: the meal also restores morale: "Then were they all of good cheer" (27:36).
+Reading: the meal also restores morale: "Then were they all of good cheer" (27:36).
 
-Lexical: "meat" here means food of any kind, in the 1611 sense.
+Word meaning: "meat" here means food of any kind, in the 1611 sense.
 
 ### The decisive people decision
 
@@ -140,7 +139,7 @@ Lexical: "meat" here means food of any kind, in the 1611 sense.
   land: And the rest, some on boards, and some on broken pieces of the ship. And so it came to
   pass, that they escaped all safe to land."
 
-Text states: in the last hour the asset is gone, and the decision is about people. The soldiers
+Scripture says: in the last hour the asset is gone, and the decision is about people. The soldiers
 propose a policy that protects an institution at the cost of the people in it. The centurion
 refuses, and the outcome is the one that God promised through Paul in 27:22-24.
 
@@ -156,7 +155,7 @@ The threat here is long, not sudden. The chapter shows the cost of a long crisis
   and to hinder it. Nevertheless we made our prayer unto our God, and set a watch against them
   day and night, because of them."
 
-Text states: there are two responses together, prayer and a watch. The watch stays day and
+Scripture says: there are two responses together, prayer and a watch. The watch stays day and
 night.
 
 ### The placement and the message
@@ -167,10 +166,10 @@ night.
   of the people, Be not ye afraid of them: remember the LORD, which is great and terrible, and
   fight for your brethren, your sons, and your daughters, your wives, and your houses."
 
-Text states: the defenders go to the low places, which are the weak points. The units are
+Scripture says: the defenders go to the low places, which are the weak points. The units are
 families. The speech names what the people defend, not what they fear.
 
-Inference: Nehemiah uses families because they are the strongest bond that he has.
+Reading: Nehemiah uses families because they are the strongest bond that he has.
 
 ### The split and the rally rule
 
@@ -184,9 +183,9 @@ Inference: Nehemiah uses families because they are the strongest bond that he ha
   In what place therefore ye hear the sound of the trumpet, resort ye thither unto us: our God
   shall fight for us."
 
-Text states: the workers are far apart, so the plan includes a signal and a meeting point.
+Scripture says: the workers are far apart, so the plan includes a signal and a meeting point.
 
-Inference: a team that works in many places during a crisis needs one agreed rally rule.
+Reading: a team that works in many places during a crisis needs one agreed rally rule.
 
 ### The strain, the report, and the warning network
 
@@ -199,13 +198,13 @@ Inference: a team that works in many places during a crisis needs one agreed ral
   servants, nor the men of the guard which followed me, none of us put off our clothes, saving
   that every one put them off for washing."
 
-Text states: the chapter records three internal facts. The workers are exhausted, the warnings
+Scripture says: the chapter records three internal facts. The workers are exhausted, the warnings
 come again and again, and the schedule is long with no relief.
 
-Inference: a crisis plan that assumes full capacity will fail on the exhaustion line before it
+Reading: a crisis plan that assumes full capacity will fail on the exhaustion line before it
 fails on the threat.
 
-- Lexical: "watch" in 4:9 is H4929 _mishmar_, "a guard (the man, the post or the prison); a
+- Word meaning: "watch" in 4:9 is H4929 _mishmar_, "a guard (the man, the post or the prison); a
   deposit (figuratively); also (as observed) a usage (abstractly), or an example (concretely)".
   The word covers the guard post and the duty.
 
@@ -213,7 +212,7 @@ fails on the threat.
 
 ## The decisions that belong in the first hour
 
-Inference: these decisions reduce harm or keep the means of recovery. None of them needs the
+Reading: these decisions reduce harm or keep the means of recovery. None of them needs the
 cause.
 
 | #   | Decision                                             | The text behind it                     | What waiting costs                             |
@@ -228,12 +227,12 @@ cause.
 | 8   | Set one rally rule for people who are far apart      | Nehemiah 4:19-20                       | Separated teams make separate choices          |
 | 9   | Start the record                                     | Acts 27:27-28, 27:37                   | The record is gone within days                 |
 
-Inference: the order matters. Items 1 to 3 come before any communication. A message that
+Reading: the order matters. Items 1 to 3 come before any communication. A message that
 contradicts the visible facts costs credibility, and the response needs that credibility later.
 
 ## The decisions that wait
 
-Inference: these decisions cause no more harm when they wait one day or one week.
+Reading: these decisions cause no more harm when they wait one day or one week.
 
 - The root cause. Find the cause after the situation is stable. The diagnosis procedure in
   `references/diagnosis.md` is for that work.
@@ -243,7 +242,7 @@ Inference: these decisions cause no more harm when they wait one day or one week
   question distracts the room during the response. There is one counter-case in the text. In
   Acts 27:21 Paul raises it in the middle of the storm: "Sirs, ye should have hearkened unto me,
   and not have loosed from Crete". He raises it once, to give weight to his next instruction
-  (27:22-26), and then he moves on. Inference: raise the old warning only when it earns trust for
+  (27:22-26), and then he moves on. Reading: raise the old warning only when it earns trust for
   the next instruction, and do not stay on it.
 - The policy change. A policy that you write in the middle of a crisis records the panic.
 - The permanent fix. It needs the classification step.
@@ -251,7 +250,7 @@ Inference: these decisions cause no more harm when they wait one day or one week
 - The reorganization. A crisis is a bad time to redesign the organization chart. The people who
   know the work are busy with the work.
 
-Inference: use one test for the boundary between the two lists. Does the delay cause more harm?
+Reading: use one test for the boundary between the two lists. Does the delay cause more harm?
 If the answer is no, the decision waits. If the answer is yes, the decision belongs in the first
 hour.
 
@@ -265,10 +264,10 @@ add.
   they sounded again, and found it fifteen fathoms."
 - Verse 27:37: "And we were in all in the ship two hundred threescore and sixteen souls."
 
-Text states: the record has times, soundings, and a headcount. The soundings (27:28) and the
+Scripture says: the record has times, soundings, and a headcount. The soundings (27:28) and the
 headcount (27:37) come during the storm, before the ship breaks up (27:41).
 
-Inference: three rules follow for a crisis log.
+Reading: three rules follow for a crisis log.
 
 1. Write the time and the observation together. A fact without a time is not usable in the
    review.
@@ -278,7 +277,7 @@ Inference: three rules follow for a crisis log.
 
 ## The stopping rule
 
-Inference: an emergency needs an end date. The body axiom B10 in `../business-first-principles/references/body.md` states
+Reading: an emergency needs an end date. The body axiom B10 in `../../business-first-principles/references/body.md` states
 the shape. Acute inflammation heals, and chronic inflammation destroys the tissue that it came to
 protect. Set the date when the emergency posture ends and the normal posture starts again.
 
@@ -302,17 +301,17 @@ Without the third part, the emergency ends by exhaustion, not by decision.
 | Pretending the asset is safe               | A message that contradicts the visible facts               | Acts 27:22 states the loss and the preservation together            |
 | No end date                                | The emergency becomes the normal way of work               | Body axiom B10                                                      |
 
-Text states: each cited verse says what the table quotes. Inference: the link from each verse to
+Scripture says: each cited verse says what the table quotes. Reading: the link from each verse to
 its failure mode.
 
-Inference: look at the sixth row. In Acts the message includes bad news. A crisis message that
+Reading: look at the sixth row. In Acts the message includes bad news. A crisis message that
 reports only good news teaches the audience to discount the next message.
 
 ## After the crisis
 
 The order after the emergency ends is fixed:
 
-1. Close the losses. Account for the people, the money, and the commitments. Text states: Acts
+1. Close the losses. Account for the people, the money, and the commitments. Scripture says: Acts
    27 ends with everyone safe and the ship and cargo lost.
 2. Debrief the warning. Find the warning in the record. Ask how it can arrive earlier, or how
    the team can give it a different weight. In Acts 27 the warning was right about the ship and
@@ -323,10 +322,10 @@ The order after the emergency ends is fixed:
    classification calls for.
 5. Set the next test. Name the event that will show whether the fix holds.
 
-Inference: a crisis that ends without a written change pays its cost and keeps nothing. The
+Reading: a crisis that ends without a written change pays its cost and keeps nothing. The
 people who lived through it carry the lesson, and the lesson leaves when they leave.
 
-Text states: Nehemiah 6:15-16 closes its own crisis with a date and an outcome: "So the wall was
+Scripture says: Nehemiah 6:15-16 closes its own crisis with a date and an outcome: "So the wall was
 finished in the twenty and fifth day of the month Elul, in fifty and two days. And it came to
 pass, that when all our enemies heard thereof... they were much cast down in their own eyes: for
 they perceived that this work was wrought of our God."

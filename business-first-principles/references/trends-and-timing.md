@@ -4,7 +4,7 @@ Reading the times and acting under uncertainty.
 
 ## Method and labels
 
-Each claim carries one label: "Text states:", "Lexical:", "Inference:", "Contested:", or "Speculation:". Verses come from `scripture.ts`. Strong's definitions are quoted verbatim from `lexicon.ts`.
+Each claim carries one label: "Scripture says:", "Word meaning:", "Reading:", "Disputed:", or "Guess:".
 
 Governing axioms:
 
@@ -15,7 +15,7 @@ Governing axioms:
 - A30 (Mortality makes time the binding constraint).
 - A32 (Some states must not be allowed to become permanent).
 
-The core distinction in this file is from 1 Chronicles 12:32. The verse names two things: "understanding of the times" and "to know what Israel ought to do". Inference: these are two capacities, not one, and both are necessary. A failure of the first capacity is a wrong reading of the moment, or no reading at all. A failure of the second capacity is an accurate reading with no matching action. Most failures of timing are failures of the first kind. Most failures of nerve are failures of the second kind. This file treats the two as separate skills with separate failure modes.
+The core distinction in this file is from 1 Chronicles 12:32. The verse names two things: "understanding of the times" and "to know what Israel ought to do". Reading: these are two capacities, not one, and both are necessary. A failure of the first capacity is a wrong reading of the moment, or no reading at all. A failure of the second capacity is an accurate reading with no matching action. Most failures of timing are failures of the first kind. Most failures of nerve are failures of the second kind. This file treats the two as separate skills with separate failure modes.
 
 ---
 
@@ -55,7 +55,6 @@ The core distinction in this file is from 1 Chronicles 12:32. The verse names tw
 - [Part 16. Delayed consequence in a market](#part-16-delayed-consequence-in-a-market)
 - [Part 17. Operating well in a place that is not home](#part-17-operating-well-in-a-place-that-is-not-home)
 - [Part 18. Working rules](#part-18-working-rules)
-- [Appendix: verification log](#appendix-verification-log)
 
 ---
 
@@ -67,38 +66,38 @@ Text (1 Chronicles 12:32, KJV):
 
 ### The two capacities
 
-Text states: The verse names two things:
+Scripture says: The verse names two things:
 
 1. "understanding of the times". This is the reading.
 2. "to know what Israel ought to do". This is the action.
 
-Inference: The word "to" joins the two. In this verse it expresses purpose or result. The reading exists so that the action can be known. But the two are separate capacities. A person can have one without the other.
+Reading: The word "to" joins the two. In this verse it expresses purpose or result. The reading exists so that the action can be known. But the two are separate capacities. A person can have one without the other.
 
 Observations:
 
-1. Text states: The verse describes the men as having "understanding". It does not call them watchful, informed, or prophetic. The word is about comprehension.
-2. Text states: The object of the understanding is "the times", a plural noun. Lexical: The word is H6256 עֵת (_eth_): "time, especially (adverb with preposition) now, when, etc." KJV: "[phrase] after, (al-)ways, [idiom] certain, [phrase] continually, [phrase] evening, long, (due) season, so (long) as, (even-, evening-, noon-) tide, (meal-), what) time, when." Lexical: This is not the same word as _moed_ (H4150, "an appointment, i.e. a fixed time or season"), which Genesis 1:14 uses. _Eth_ is the ordinary word for time or occasion.
-3. Text states: The verse states the second capacity with a "know": "to know what Israel ought to do." Lexical: H3045 יָדַע (_yada_): "to know (properly, to ascertain by seeing); used in a great variety of senses, figuratively, literally, euphemistically and inferentially (including observation, care, recognition; and causatively, instruction, designation, punishment, etc.)." Inference: The definition covers many senses, from "to ascertain by seeing" to knowing "inferentially". The root alone does not tell us how the men of Issachar knew. A root does not control the usage of a word (`scripture-foundations/SKILL.md`, Rule two: "Etymology is not meaning"). The link between this verse and H3045 is also not verified (see the verification log).
-4. Lexical: The action verb is "do", H6213 עָשָׂה (_asah_): "to do or make, in the broadest sense and widest application."
-5. Text states: The subject of the action is the nation: "what Israel ought to do." It is not what one person must do. Inference: The reading of the times serves a collective decision.
-6. Text states: The verse gives an organizational detail: "the heads of them were two hundred; and all their brethren were at their commandment." Inference: The capacity is an institution. Two hundred men have this function, and the rest are under their command. This is not one wise advisor. It is a corps.
-7. Text states (the context): The chapter lists the tribes and their fighting men who came to David at Hebron "to turn the kingdom of Saul to him, according to the word of the LORD" (12:23). The chapter before says the same of the anointing: "according to the word of the LORD by Samuel" (11:3). Inference: The reading of the times served a decision that the word of the LORD had already named. The contribution of Issachar was to know when and how to act on it, and the chapter lists it next to the troop counts.
+1. Scripture says: The verse describes the men as having "understanding". It does not call them watchful, informed, or prophetic. The word is about comprehension.
+2. Scripture says: The object of the understanding is "the times", a plural noun. Word meaning: The word is H6256 עֵת (_eth_): "time, especially (adverb with preposition) now, when, etc." KJV: "[phrase] after, (al-)ways, [idiom] certain, [phrase] continually, [phrase] evening, long, (due) season, so (long) as, (even-, evening-, noon-) tide, (meal-), what) time, when." Word meaning: This is not the same word as _moed_ (H4150, "an appointment, i.e. a fixed time or season"), which Genesis 1:14 uses. _Eth_ is the ordinary word for time or occasion.
+3. Scripture says: The verse states the second capacity with a "know": "to know what Israel ought to do." Word meaning: H3045 יָדַע (_yada_): "to know (properly, to ascertain by seeing); used in a great variety of senses, figuratively, literally, euphemistically and inferentially (including observation, care, recognition; and causatively, instruction, designation, punishment, etc.)." Reading: The definition covers many senses, from "to ascertain by seeing" to knowing "inferentially". The root alone does not tell us how the men of Issachar knew. A root does not control the usage of a word (`scripture-foundations/SKILL.md`, Rule two: "Etymology is not meaning"). The link between this verse and H3045 is also not verified.
+4. Word meaning: The action verb is "do", H6213 עָשָׂה (_asah_): "to do or make, in the broadest sense and widest application."
+5. Scripture says: The subject of the action is the nation: "what Israel ought to do." It is not what one person must do. Reading: The reading of the times serves a collective decision.
+6. Scripture says: The verse gives an organizational detail: "the heads of them were two hundred; and all their brethren were at their commandment." Reading: The capacity is an institution. Two hundred men have this function, and the rest are under their command. This is not one wise advisor. It is a corps.
+7. Scripture says (the context): The chapter lists the tribes and their fighting men who came to David at Hebron "to turn the kingdom of Saul to him, according to the word of the LORD" (12:23). The chapter before says the same of the anointing: "according to the word of the LORD by Samuel" (11:3). Reading: The reading of the times served a decision that the word of the LORD had already named. The contribution of Issachar was to know when and how to act on it, and the chapter lists it next to the troop counts.
 
 ### The derivation
 
-Inference: Four claims follow.
+Reading: Four claims follow.
 
 1. Understanding the times is separate from knowing what to do. The verse names both because they can be separated. A business can have excellent market intelligence and no plan. It can also have decisive action and no reading. The first case is paralysis with information. The second case is speed in the wrong direction.
 
 2. Both are necessary, and they come in sequence. The purpose clause puts the reading before the knowing. The reading is not the goal. It is the input to the decision.
 
-3. Contested: Is the reading a learned capability or a gift? The verse gives two hundred men, organized, under command, and it does not call this a prophetic gift. One view reads it as a practiced skill that men can organize. Another view notes that neither group size nor organization settles the question. Prophecy also came on groups: the seventy elders (Numbers 11:25) and "a company of prophets" (1 Samuel 10:5). Prophecy was also organized and counted. 1 Samuel 19:20 has "the company of the prophets prophesying, and Samuel standing as appointed over them". 1 Chronicles 25:2 has "the sons of Asaph under the hands of Asaph, which prophesied according to the order of the king", and 25:7 gives the number: "two hundred fourscore and eight". On either view, the action that the reading served was "according to the word of the LORD" (12:23). Inference: this file treats the reading as a function that a business can build. That is an analogy, and it does not decide how the men of Issachar knew.
+3. Disputed: Is the reading a learned capability or a gift? The verse gives two hundred men, organized, under command, and it does not call this a prophetic gift. One view reads it as a practiced skill that men can organize. Another view notes that neither group size nor organization settles the question. Prophecy also came on groups: the seventy elders (Numbers 11:25) and "a company of prophets" (1 Samuel 10:5). Prophecy was also organized and counted. 1 Samuel 19:20 has "the company of the prophets prophesying, and Samuel standing as appointed over them". 1 Chronicles 25:2 has "the sons of Asaph under the hands of Asaph, which prophesied according to the order of the king", and 25:7 gives the number: "two hundred fourscore and eight". On either view, the action that the reading served was "according to the word of the LORD" (12:23). Reading: this file treats the reading as a function that a business can build. That is an analogy, and it does not decide how the men of Issachar knew.
 
-4. The reading is about the times, plural (observation 2). It is not "the future" as a single object. The word is _eth_: times, occasions, seasons. Inference: The capability is to read the present moment correctly, and to know what it calls for. This is not forecasting. It is awareness of the situation across the whole environment.
+4. The reading is about the times, plural (observation 2). It is not "the future" as a single object. The word is _eth_: times, occasions, seasons. Reading: The capability is to read the present moment correctly, and to know what it calls for. This is not forecasting. It is awareness of the situation across the whole environment.
 
 ### What the text does not say
 
-Inference: There are three limits. They keep the axiom from being applied too widely.
+Reading: There are three limits. They keep the axiom from being applied too widely.
 
 1. The verse does not say that the reading was correct. It describes the capacity, not the accuracy of a particular forecast.
 2. The verse does not say how the reading was done. It gives no method. The text names the capability and the organizational structure, and it says nothing about the technique.
@@ -131,18 +130,18 @@ Text (Matthew 16:2-3, KJV):
 
 Observations:
 
-1. Text states: The forecasting is accurate: "and so it is" (Luke 12:54) and "and it cometh to pass" (Luke 12:55). The text grants the skill without qualification.
-2. Text states: The forecasts are specific and conditional. A cloud from the west means a shower. A south wind means heat. A red evening sky means fair weather. A red morning sky means foul weather.
-3. Text states: The charge is not that the method is wrong. The charge is that the people apply the method to the wrong object: "ye can discern the face of the sky... but how is it that ye do not discern this time?"
-4. Text states: The words are "this time" (Luke) and "the signs of the times" (Matthew). Lexical: In Matthew the word for "signs" is G4592 σημεῖον (_semeion_): "an indication, especially ceremonially or supernaturally." KJV: "miracle, sign, token, wonder." In Luke the word for "time" is G2540 καιρός (_kairos_): "an occasion, i.e. set or proper time." KJV: "X always, opportunity, (convenient, due) season, (due, short, while) time, a while." Inference: _Kairos_ is the appointed or opportune moment. It is not _chronos_, which is elapsed time. The charge is about a missed window, not about lateness on a schedule.
-5. Text states: The verdict is "ye hypocrites." Inference: The charge is inconsistency. The people have the skill and apply it selectively.
-6. Text states: Both passages grant that the people can read the sky correctly and do act on the reading. The capability is shown and nobody disputes it.
+1. Scripture says: The forecasting is accurate: "and so it is" (Luke 12:54) and "and it cometh to pass" (Luke 12:55). The text grants the skill without qualification.
+2. Scripture says: The forecasts are specific and conditional. A cloud from the west means a shower. A south wind means heat. A red evening sky means fair weather. A red morning sky means foul weather.
+3. Scripture says: The charge is not that the method is wrong. The charge is that the people apply the method to the wrong object: "ye can discern the face of the sky... but how is it that ye do not discern this time?"
+4. Scripture says: The words are "this time" (Luke) and "the signs of the times" (Matthew). Word meaning: In Matthew the word for "signs" is G4592 σημεῖον (_semeion_): "an indication, especially ceremonially or supernaturally." KJV: "miracle, sign, token, wonder." In Luke the word for "time" is G2540 καιρός (_kairos_): "an occasion, i.e. set or proper time." KJV: "X always, opportunity, (convenient, due) season, (due, short, while) time, a while." Reading: _Kairos_ is the appointed or opportune moment. It is not _chronos_, which is elapsed time. The charge is about a missed window, not about lateness on a schedule.
+5. Scripture says: The verdict is "ye hypocrites." Reading: The charge is inconsistency. The people have the skill and apply it selectively.
+6. Scripture says: Both passages grant that the people can read the sky correctly and do act on the reading. The capability is shown and nobody disputes it.
 
-Inference. The axiom this yields: the failure mode is not an inability to read. It is the selective application of a reading skill that already works.
+Reading. The axiom this yields: the failure mode is not an inability to read. It is the selective application of a reading skill that already works.
 
-Inference: The passage does not say that the readers are ignorant. It says that they read one domain well and refuse to apply the same skill to another domain. The text does not state why they refuse. The obvious candidate is that the second domain has implications that they do not want.
+Reading: The passage does not say that the readers are ignorant. It says that they read one domain well and refuse to apply the same skill to another domain. The text does not state why they refuse. The obvious candidate is that the second domain has implications that they do not want.
 
-Text states (the context): In Matthew the hearers are "The Pharisees also with the Sadducees", who "came, and tempting desired him that he would shew them a sign from heaven" (16:1). Jesus answers: "A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonas" (16:4). In Luke he goes on: "Yea, and why even of yourselves judge ye not what is right?" (12:57). Inference: "this time" is the time of Jesus' own ministry, and the failure is a failure to respond to him. The original audience is the crowds and the religious leaders who heard Jesus. A business use of this text is an analogy.
+Scripture says (the context): In Matthew the hearers are "The Pharisees also with the Sadducees", who "came, and tempting desired him that he would shew them a sign from heaven" (16:1). Jesus answers: "A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonas" (16:4). In Luke he goes on: "Yea, and why even of yourselves judge ye not what is right?" (12:57). Reading: "this time" is the time of Jesus' own ministry, and the failure is a failure to respond to him. The original audience is the crowds and the religious leaders who heard Jesus. A business use of this text is an analogy.
 
 Business consequences (all inferences, by analogy):
 
@@ -171,15 +170,15 @@ Text (Ecclesiastes 3:1-8, KJV):
 
 Observations:
 
-1. Text states (the structure): The poem has fourteen pairs, twenty-eight items. Each pair is an antithesis: one thing and its opposite, and both have a time.
-2. Text states: Both opposites have a time. Planting and plucking up both have a time. Building and breaking down both have a time. Inference: The poem does not favor one side of any pair as a matter of timing. It does not say that an act becomes good because its time has come. The same book ends with the moral test: "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil" (12:14). The times are the times that God appoints: "I know that, whatsoever God doeth, it shall be for ever" (3:14).
-3. Text states: The pairs include economic and strategic items: plant and pluck up (v. 2), break down and build up (v. 3), cast away stones and gather stones (v. 5), get and lose (v. 6), keep and cast away (v. 6), war and peace (v. 8).
-4. Text states: The frame is "To every thing there is a season, and a time to every purpose under the heaven" (v. 1). Text states: The claim is universal: "every thing," "every purpose."
-5. Lexical: The Strong's entry for "season" here is probably H2165 זְמָן (_zeman_): "an appointed occasion." KJV: "season, time." The definition is verified. The link between this verse and H2165 is not verified (see the verification log). Lexical: The word for "time" here is probably H6256 עֵת (_eth_), the same word as in 1 Chronicles 12:32. Inference: If so, the two passages use the same term for the same concept.
-6. Text states (the conclusion, v. 11): "He hath made every thing beautiful in his time." The verse does not say "every thing is beautiful." The beauty is "in his time".
-7. Text states (the same verse, v. 11): "also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end." Text states: The verse states the limit in the same breath as the claim about timing. Inference: The poem asserts that times exist and also asserts that the whole plan is not visible. The two claims stand together. They are not in tension.
+1. Scripture says (the structure): The poem has fourteen pairs, twenty-eight items. Each pair is an antithesis: one thing and its opposite, and both have a time.
+2. Scripture says: Both opposites have a time. Planting and plucking up both have a time. Building and breaking down both have a time. Reading: The poem does not favor one side of any pair as a matter of timing. It does not say that an act becomes good because its time has come. The same book ends with the moral test: "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil" (12:14). The times are the times that God appoints: "I know that, whatsoever God doeth, it shall be for ever" (3:14).
+3. Scripture says: The pairs include economic and strategic items: plant and pluck up (v. 2), break down and build up (v. 3), cast away stones and gather stones (v. 5), get and lose (v. 6), keep and cast away (v. 6), war and peace (v. 8).
+4. Scripture says: The frame is "To every thing there is a season, and a time to every purpose under the heaven" (v. 1). Scripture says: The claim is universal: "every thing," "every purpose."
+5. Word meaning: The Strong's entry for "season" here is probably H2165 זְמָן (_zeman_): "an appointed occasion." KJV: "season, time." The definition is verified. The link between this verse and H2165 is not verified. Word meaning: The word for "time" here is probably H6256 עֵת (_eth_), the same word as in 1 Chronicles 12:32. Reading: If so, the two passages use the same term for the same concept.
+6. Scripture says (the conclusion, v. 11): "He hath made every thing beautiful in his time." The verse does not say "every thing is beautiful." The beauty is "in his time".
+7. Scripture says (the same verse, v. 11): "also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end." Scripture says: The verse states the limit in the same breath as the claim about timing. Reading: The poem asserts that times exist and also asserts that the whole plan is not visible. The two claims stand together. They are not in tension.
 
-Inference. The axioms this yields:
+Reading. The axioms this yields:
 
 - Timing is a property of the action, not an accident (observation 1). Every item has a time. Ask "is this good?" first, and "is this its time?" second (observation 2, and Ecclesiastes 12:14).
 - The opposite action also has a time (observation 2). For business, this is the most useful feature of the poem. For every action that you consider, there is a counter-action with its own season. Building up has a time, and breaking down has a time. Keeping has a time, and casting away has a time.
@@ -201,13 +200,13 @@ Text (Genesis 8:22, KJV):
 
 Observations:
 
-1. Text states: The statement is a guarantee with a stated duration: "while the earth remaineth."
-2. Text states: The verse names four pairs: seedtime and harvest, cold and heat, summer and winter, day and night. Inference: All four are cycles, and all four are pairs of opposites that alternate.
-3. Text states: The verb is "shall not cease." Text states: The guarantee is that the cycles continue. It does not say that any particular cycle is favorable.
-4. Text states: The promise follows the flood (Genesis 8:21-22). It is a commitment about the regularity of the created order after a catastrophic interruption.
-5. Text states (the context): Genesis 8:21 states the reason: "for the imagination of man's heart is evil from his youth." Inference: God gives the guarantee of regularity despite human failure, not because of human merit.
+1. Scripture says: The statement is a guarantee with a stated duration: "while the earth remaineth."
+2. Scripture says: The verse names four pairs: seedtime and harvest, cold and heat, summer and winter, day and night. Reading: All four are cycles, and all four are pairs of opposites that alternate.
+3. Scripture says: The verb is "shall not cease." Scripture says: The guarantee is that the cycles continue. It does not say that any particular cycle is favorable.
+4. Scripture says: The promise follows the flood (Genesis 8:21-22). It is a commitment about the regularity of the created order after a catastrophic interruption.
+5. Scripture says (the context): Genesis 8:21 states the reason: "for the imagination of man's heart is evil from his youth." Reading: God gives the guarantee of regularity despite human failure, not because of human merit.
 
-Inference. The axiom: the created cycles are reliable. Genesis 8:22 promises seasons, not market cycles. No text guarantees the length or the timing of a business cycle. Inference, by analogy: a business plan that assumes a permanent summer ignores the pattern that the created order shows. A plan that assumes that winter will come is a plan that you can make.
+Reading. The axiom: the created cycles are reliable. Genesis 8:22 promises seasons, not market cycles. No text guarantees the length or the timing of a business cycle. Reading, by analogy: a business plan that assumes a permanent summer ignores the pattern that the created order shows. A plan that assumes that winter will come is a plan that you can make.
 
 Business consequences (all inferences):
 
@@ -226,13 +225,13 @@ Text (Jeremiah 33:20-21, KJV):
 
 Observations:
 
-1. Text states: The passage calls the created order a covenant: "my covenant of the day, and my covenant of the night."
-2. Text states: The passage states the content of the covenant: "that there should not be day and night in their season." Inference: The covenant is about regularity, the alternation in its season.
-3. Text states: The argument goes from the stronger case to the weaker case. If you cannot break the covenant of day and night, then nobody can break the covenant with David. Text states: The created order is the standard of reliability that measures a promise.
-4. Text states: The word "season" appears again. Inference: The regularity includes timing: day and night in their season, not only day and night at some point.
-5. Text states: The form is conditional, and the condition is impossible: "If ye can break..." The impossibility of the first is the guarantee of the second.
+1. Scripture says: The passage calls the created order a covenant: "my covenant of the day, and my covenant of the night."
+2. Scripture says: The passage states the content of the covenant: "that there should not be day and night in their season." Reading: The covenant is about regularity, the alternation in its season.
+3. Scripture says: The argument goes from the stronger case to the weaker case. If you cannot break the covenant of day and night, then nobody can break the covenant with David. Scripture says: The created order is the standard of reliability that measures a promise.
+4. Scripture says: The word "season" appears again. Reading: The regularity includes timing: day and night in their season, not only day and night at some point.
+5. Scripture says: The form is conditional, and the condition is impossible: "If ye can break..." The impossibility of the first is the guarantee of the second.
 
-Inference: The passage makes the created order the most reliable thing available. It uses that order as the reference point to evaluate a promise. This is one of the strongest statements in Scripture of the reliability of the cycles.
+Reading: The passage makes the created order the most reliable thing available. It uses that order as the reference point to evaluate a promise. This is one of the strongest statements in Scripture of the reliability of the cycles.
 
 Business consequences (all inferences):
 
@@ -249,14 +248,14 @@ Text (Ecclesiastes 9:11, KJV):
 
 Observations:
 
-1. Text states: The verse has five pairs. Each pair names a quality and the outcome that it does not guarantee: swiftness and the race, strength and the battle, wisdom and bread, understanding and riches, skill and "favour".
-2. Text states: The list denies that each quality is sufficient. It does not deny that each quality has value. Inference: The swift do win races. They do not always win.
-3. Text states: The final clause gives the reason: "but time and chance happeneth to them all." Text states: The verse names the two factors together, and they apply to everyone: "to them all."
-4. Lexical: The word for "chance" is H6294 פֶּגַע (_pega_): "impact (casual)." KJV: "chance, occurent." The verb "happeneth" is H7136 קָרָה (_qarah_): "to light upon (chiefly by accident); causatively, to bring about; specifically, to impose timbers (for roof or floor)." KJV: "appoint, lay (make) beams, befall, bring, come (to pass unto), floor, (hap) was, happen (unto), meet, send good speed." Inference: The vocabulary is of encounter and impact, not of randomness in the abstract. Things meet and strike.
-5. Text states: The verse introduces the observation as something seen: "I returned, and saw under the sun." Inference: The text presents this as an observation of how things go, not as a principle.
-6. Text states (the context): Ecclesiastes 9:10 comes just before it: "Whatsoever thy hand findeth to do, do it with thy might." Later in the same book, 11:4 says: "He that observeth the wind shall not sow." Inference: The response of the book to uncertainty is not to stop. The observation and the command to act stand in the same book, and sometimes in the same chapter.
+1. Scripture says: The verse has five pairs. Each pair names a quality and the outcome that it does not guarantee: swiftness and the race, strength and the battle, wisdom and bread, understanding and riches, skill and "favour".
+2. Scripture says: The list denies that each quality is sufficient. It does not deny that each quality has value. Reading: The swift do win races. They do not always win.
+3. Scripture says: The final clause gives the reason: "but time and chance happeneth to them all." Scripture says: The verse names the two factors together, and they apply to everyone: "to them all."
+4. Word meaning: The word for "chance" is H6294 פֶּגַע (_pega_): "impact (casual)." KJV: "chance, occurent." The verb "happeneth" is H7136 קָרָה (_qarah_): "to light upon (chiefly by accident); causatively, to bring about; specifically, to impose timbers (for roof or floor)." KJV: "appoint, lay (make) beams, befall, bring, come (to pass unto), floor, (hap) was, happen (unto), meet, send good speed." Reading: The vocabulary is of encounter and impact, not of randomness in the abstract. Things meet and strike.
+5. Scripture says: The verse introduces the observation as something seen: "I returned, and saw under the sun." Reading: The text presents this as an observation of how things go, not as a principle.
+6. Scripture says (the context): Ecclesiastes 9:10 comes just before it: "Whatsoever thy hand findeth to do, do it with thy might." Later in the same book, 11:4 says: "He that observeth the wind shall not sow." Reading: The response of the book to uncertainty is not to stop. The observation and the command to act stand in the same book, and sometimes in the same chapter.
 
-Inference. The axiom: effort and outcome are not the same variable. Excellence improves the odds. It does not decide the result. This is not a reason to be less excellent, because the book commands the opposite. But it is a reason not to attribute every outcome to the quality of the work.
+Reading. The axiom: effort and outcome are not the same variable. Excellence improves the odds. It does not decide the result. This is not a reason to be less excellent, because the book commands the opposite. But it is a reason not to attribute every outcome to the quality of the work.
 
 Business consequences (all inferences):
 
@@ -285,29 +284,29 @@ Note: `capital-and-stewardship.md`, Part 5, works through the capital mechanics 
 
 ### The observations that matter for timing
 
-1. Text states (the cycle has a name and a limit): Seven years of plenty come, then seven years of famine. Joseph states both periods in advance, and both are finite. Text states (the source): God disclosed the cycle to Pharaoh: "God hath shewed Pharaoh what he is about to do" (41:25). Joseph interpreted by God: "It is not in me: God shall give Pharaoh an answer of peace" (41:16). The cycle was revealed, not read.
-2. Text states (the transition is abrupt): "And the seven years of plenteousness, that was in the land of Egypt, were ended. And the seven years of dearth began to come, according as Joseph had said" (41:53-54). Text states: The text describes no transition period.
-3. Text states (the plenty is forgotten): "all the plenty shall be forgotten in the land of Egypt" (v. 30), and "the plenty shall not be known in the land by reason of that famine following" (v. 31). Text states: The famine is "very grievous", and it erases the memory of the plenty. Inference: This is a statement about perception, not only about supply. In the famine, nobody will remember that there was a plan.
-4. Text states (the doubling as evidence): "And for that the dream was doubled unto Pharaoh twice; it is because the thing is established by God, and God will shortly bring it to pass" (v. 32). Text states: The verse gives the repetition as the evidence of certainty ("established") and of speed ("shortly").
-5. Text states (the plan is countercyclical): Gather during the plenty, and give out during the famine. In both phases, the action is the opposite of the condition around it.
-6. Text states (the plan follows the cycle, not the news): The gathering covers "the seven plenteous years" (v. 34) and "all the food of those good years" (v. 35). Joseph specifies the full plan before the first year of plenty comes. Inference: The gathering starts in the first good year, not after a warning sign.
-7. Text states (the outcome): Egypt had bread when the other lands did not (41:54), and "all countries came into Egypt to Joseph for to buy corn" (41:57).
+1. Scripture says (the cycle has a name and a limit): Seven years of plenty come, then seven years of famine. Joseph states both periods in advance, and both are finite. Scripture says (the source): God disclosed the cycle to Pharaoh: "God hath shewed Pharaoh what he is about to do" (41:25). Joseph interpreted by God: "It is not in me: God shall give Pharaoh an answer of peace" (41:16). The cycle was revealed, not read.
+2. Scripture says (the transition is abrupt): "And the seven years of plenteousness, that was in the land of Egypt, were ended. And the seven years of dearth began to come, according as Joseph had said" (41:53-54). Scripture says: The text describes no transition period.
+3. Scripture says (the plenty is forgotten): "all the plenty shall be forgotten in the land of Egypt" (v. 30), and "the plenty shall not be known in the land by reason of that famine following" (v. 31). Scripture says: The famine is "very grievous", and it erases the memory of the plenty. Reading: This is a statement about perception, not only about supply. In the famine, nobody will remember that there was a plan.
+4. Scripture says (the doubling as evidence): "And for that the dream was doubled unto Pharaoh twice; it is because the thing is established by God, and God will shortly bring it to pass" (v. 32). Scripture says: The verse gives the repetition as the evidence of certainty ("established") and of speed ("shortly").
+5. Scripture says (the plan is countercyclical): Gather during the plenty, and give out during the famine. In both phases, the action is the opposite of the condition around it.
+6. Scripture says (the plan follows the cycle, not the news): The gathering covers "the seven plenteous years" (v. 34) and "all the food of those good years" (v. 35). Joseph specifies the full plan before the first year of plenty comes. Reading: The gathering starts in the first good year, not after a warning sign.
+7. Scripture says (the outcome): Egypt had bread when the other lands did not (41:54), and "all countries came into Egypt to Joseph for to buy corn" (41:57).
 
 ### The derivation
 
-Inference: Five claims.
+Reading: Five claims.
 
 1. This cycle was revealed, not read (observation 1). God disclosed the seven-and-seven structure before it started. No ordinary forecast has that standing: "For he knoweth not that which shall be: for who can tell him when it shall be?" (Ecclesiastes 8:7). What transfers to business is the response to a known kind of risk, not the ability to know its timing.
 
 2. The transition is a cliff, not a slope (observation 2). So the preparation must be complete before the turn.
 
-3. Memory fails across the turn (observation 3). The text says that the famine erases the memory of the plenty. Inference: The same failure of memory works in the other direction during the boom, and this is the observation with the most practical weight. Companies do not fail to prepare in a boom because they lack the information. They fail because the boom justifies itself. The reserve looks like idle capital (compare Matthew 25:27). The plan looks pessimistic. The person who argues for it looks like a person who refuses to take part.
+3. Memory fails across the turn (observation 3). The text says that the famine erases the memory of the plenty. Reading: The same failure of memory works in the other direction during the boom, and this is the observation with the most practical weight. Companies do not fail to prepare in a boom because they lack the information. They fail because the boom justifies itself. The reserve looks like idle capital (compare Matthew 25:27). The plan looks pessimistic. The person who argues for it looks like a person who refuses to take part.
 
-4. The text states the reason for confidence (observation 4). The dream was doubled "because the thing is established by God". The confidence rests on God, not on the quality of a forecast. Inference: An ordinary forecast cannot claim this confidence, so the size of a business plan cannot follow it.
+4. The text states the reason for confidence (observation 4). The dream was doubled "because the thing is established by God". The confidence rests on God, not on the quality of a forecast. Reading: An ordinary forecast cannot claim this confidence, so the size of a business plan cannot follow it.
 
-5. The countercyclical action is uncomfortable in both phases (observation 5). In the boom, storing a fifth means giving up investment when investment looks easiest. In the famine, opening the store means selling while everyone else wants to hold. Text states: Joseph sold the grain in the famine, when it was scarcest (41:56), and the people paid with all their money, then their cattle, then their land (47:14-20). Inference: Joseph sold at the top of the grain market, not at the bottom. Neither phase calls for the consensus action.
+5. The countercyclical action is uncomfortable in both phases (observation 5). In the boom, storing a fifth means giving up investment when investment looks easiest. In the famine, opening the store means selling while everyone else wants to hold. Scripture says: Joseph sold the grain in the famine, when it was scarcest (41:56), and the people paid with all their money, then their cattle, then their land (47:14-20). Reading: Joseph sold at the top of the grain market, not at the bottom. Neither phase calls for the consensus action.
 
-Contested: Readers differ on the terms that Joseph took in the famine (Genesis 47:13-26). One view reads them as wise rule that saved lives. The people say "Thou hast saved our lives" (47:25), and they keep four parts of the increase (47:24). Another view reads them as the start of the bondage in Egypt. The people say "buy us and our land for bread, and we and our land will be servants unto Pharaoh" (47:19). The law later says "The land shall not be sold for ever" (Leviticus 25:23), and Nehemiah condemns a slide from famine debt into bondage among brethren (Nehemiah 5:3-5, see `org-and-labor.md`, Part 3). The text records the policy and does not state a verdict on it.
+Disputed: Readers differ on the terms that Joseph took in the famine (Genesis 47:13-26). One view reads them as wise rule that saved lives. The people say "Thou hast saved our lives" (47:25), and they keep four parts of the increase (47:24). Another view reads them as the start of the bondage in Egypt. The people say "buy us and our land for bread, and we and our land will be servants unto Pharaoh" (47:19). The law later says "The land shall not be sold for ever" (Leviticus 25:23), and Nehemiah condemns a slide from famine debt into bondage among brethren (Nehemiah 5:3-5, see `org-and-labor.md`, Part 3). The text records the policy and does not state a verdict on it.
 
 ### Business consequences
 
@@ -316,7 +315,7 @@ All items are inferences.
 - Prepare during the good phase, or you will not prepare at all (observation 2). There is no window at the turn.
 - The boom justifies itself, so make the case for the reserve on principle (observation 3). A reserve that you defend on its merits in a boom will lose the argument. Make it a policy that you decide in advance (A20, Abundance precedes restriction; the boundary is few and stated in advance).
 - Size reserves to the uncertainty of an ordinary forecast (observation 4, and Ecclesiastes 8:7). Genesis 41:32 ties the doubling to certainty and to speed, and it grounds both in God: "the thing is established by God". A business forecast has no such warrant, so the reserve must also cover the case where the forecast is wrong. The text gives no reason for the size of the fifth.
-- The countercyclical position is a competitive advantage (observation 7). Egypt became the counterparty for the whole region. The terms that Joseph took are a separate question (see the Contested note above). Inference: do not use a crisis to take the land and the freedom of the people who depend on you (compare Nehemiah 5).
+- The countercyclical position is a competitive advantage (observation 7). Egypt became the counterparty for the whole region. The terms that Joseph took are a separate question (see the Disputed note above). Reading: do not use a crisis to take the land and the freedom of the people who depend on you (compare Nehemiah 5).
 - The transition will feel sudden, even though it was disclosed in advance (observation 2). Knowing the cycle does not give a gradual experience of the turn.
 - Note what "shortly" means (observation 4). In the text, the certainty that God gave comes with urgency. Joseph carried out the plan at once.
 
@@ -335,19 +334,19 @@ Text (Numbers 13:17-20, KJV):
 
 Observations:
 
-1. Text states: The brief is specific and structured. It asks these questions:
+1. Scripture says: The brief is specific and structured. It asks these questions:
    - The land: what it is.
    - The people: strong or weak.
    - The people: few or many.
    - The cities: tents or strong holds.
    - The land: good or bad.
    - The land: fat or lean, and wood or not.
-2. Text states: After the first question ("what it is"), every question is binary: strong or weak, few or many, tents or strong holds, good or bad, fat or lean, wood or not. Inference: The brief produces a report that can be compared with other reports, not a narrative. It is a survey instrument.
-3. Text states: The instruction is to observe: "see the land, what it is." It is not "assess the opportunity" or "evaluate the risk." It is: see what it is.
-4. Text states: There is a deliverable: "bring of the fruit of the land." Inference: The reconnaissance includes a physical sample.
-5. Text states: The text notes the timing: "Now the time was the time of the firstripe grapes." Inference: The reconnaissance happens at the moment of the most evidence available, because the first fruits are in.
-6. Text states: The charge includes encouragement: "And be ye of good courage." Inference: The brief expects that the reconnaissance will be frightening.
-7. Text states: The reconnaissance lasts forty days: "And they returned from searching of the land after forty days" (13:25).
+2. Scripture says: After the first question ("what it is"), every question is binary: strong or weak, few or many, tents or strong holds, good or bad, fat or lean, wood or not. Reading: The brief produces a report that can be compared with other reports, not a narrative. It is a survey instrument.
+3. Scripture says: The instruction is to observe: "see the land, what it is." It is not "assess the opportunity" or "evaluate the risk." It is: see what it is.
+4. Scripture says: There is a deliverable: "bring of the fruit of the land." Reading: The reconnaissance includes a physical sample.
+5. Scripture says: The text notes the timing: "Now the time was the time of the firstripe grapes." Reading: The reconnaissance happens at the moment of the most evidence available, because the first fruits are in.
+6. Scripture says: The charge includes encouragement: "And be ye of good courage." Reading: The brief expects that the reconnaissance will be frightening.
+7. Scripture says: The reconnaissance lasts forty days: "And they returned from searching of the land after forty days" (13:25).
 
 ### The two reports
 
@@ -363,13 +362,13 @@ Text (Numbers 13:27-33, KJV):
 
 Observations:
 
-1. Text states: The majority report starts with the truth: "surely it floweth with milk and honey; and this is the fruit of it" (v. 27). The land is as promised.
-2. Text states: The turn is one word: "Nevertheless" (v. 28). Text states: The facts that follow agree with the brief: strong people, walled cities, the children of Anak, and the list of peoples in verse 29. They answer the questions that Moses asked.
-3. Text states: The minority report is a recommendation for action: "Let us go up at once, and possess it; for we are well able to overcome it" (v. 30). Text states: Caleb does not dispute the facts. He disputes the conclusion.
-4. Text states: The conclusion of the majority is: "We be not able to go up against the people; for they are stronger than we" (v. 31). Inference: The claim is about relative strength. That is an assessment, not an observation.
-5. Text states: The majority then goes past the brief: "they brought up an evil report of the land" (v. 32). Text states: They now call the land "a land that eateth up the inhabitants thereof". Inference: This contradicts verse 27, and it is not an answer to any question in the brief.
-6. Text states: The description keeps growing: "all the people that we saw in it are men of a great stature" and "we saw the giants" (vv. 32-33). Inference: The description escalates from strong people (v. 28) to "men of a great stature" to "giants."
-7. Text states (the self-assessment): "and we were in our own sight as grasshoppers, and so we were in their sight" (v. 33). Inference: The second clause is a claim about how the enemy saw them, and the spies had no way to know that.
+1. Scripture says: The majority report starts with the truth: "surely it floweth with milk and honey; and this is the fruit of it" (v. 27). The land is as promised.
+2. Scripture says: The turn is one word: "Nevertheless" (v. 28). Scripture says: The facts that follow agree with the brief: strong people, walled cities, the children of Anak, and the list of peoples in verse 29. They answer the questions that Moses asked.
+3. Scripture says: The minority report is a recommendation for action: "Let us go up at once, and possess it; for we are well able to overcome it" (v. 30). Scripture says: Caleb does not dispute the facts. He disputes the conclusion.
+4. Scripture says: The conclusion of the majority is: "We be not able to go up against the people; for they are stronger than we" (v. 31). Reading: The claim is about relative strength. That is an assessment, not an observation.
+5. Scripture says: The majority then goes past the brief: "they brought up an evil report of the land" (v. 32). Scripture says: They now call the land "a land that eateth up the inhabitants thereof". Reading: This contradicts verse 27, and it is not an answer to any question in the brief.
+6. Scripture says: The description keeps growing: "all the people that we saw in it are men of a great stature" and "we saw the giants" (vv. 32-33). Reading: The description escalates from strong people (v. 28) to "men of a great stature" to "giants."
+7. Scripture says (the self-assessment): "and we were in our own sight as grasshoppers, and so we were in their sight" (v. 33). Reading: The second clause is a claim about how the enemy saw them, and the spies had no way to know that.
 
 ### "We were in our own sight as grasshoppers"
 
@@ -377,14 +376,14 @@ This clause is the diagnostic of the passage. This section examines it alone.
 
 Observations:
 
-1. Text states: The spies state the self-assessment first: "we were in our own sight as grasshoppers."
-2. Text states: Then they project it: "and so we were in their sight." Text states: The spies assert what the Canaanites thought of them.
-3. Text states: The text reports no contact with the Canaanites. The spies spent the forty days searching the land (13:25). Inference: The second clause is not an observation. It is the first clause projected onto the other party.
-4. Text states: The phrase "in our own sight" states where the view comes from. Inference: The distortion starts inside the spies, and then they state it as a fact about the world.
+1. Scripture says: The spies state the self-assessment first: "we were in our own sight as grasshoppers."
+2. Scripture says: Then they project it: "and so we were in their sight." Scripture says: The spies assert what the Canaanites thought of them.
+3. Scripture says: The text reports no contact with the Canaanites. The spies spent the forty days searching the land (13:25). Reading: The second clause is not an observation. It is the first clause projected onto the other party.
+4. Scripture says: The phrase "in our own sight" states where the view comes from. Reading: The distortion starts inside the spies, and then they state it as a fact about the world.
 
-Text states (the verdict of the text): God names the root failure as unbelief: "How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have shewed among them?" (Numbers 14:11). Hebrews gives the same verdict: "So we see that they could not enter in because of unbelief" (Hebrews 3:19). The land was the land "which I give unto the children of Israel" (Numbers 13:2).
+Scripture says (the verdict of the text): God names the root failure as unbelief: "How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have shewed among them?" (Numbers 14:11). Hebrews gives the same verdict: "So we see that they could not enter in because of unbelief" (Hebrews 3:19). The land was the land "which I give unto the children of Israel" (Numbers 13:2).
 
-Inference. A secondary axiom this yields: self-assessment distorts the reading of the environment. The spies did not misreport the facts that they went to gather. They misreported themselves, and then attributed the misreading to the other party. Under the low view of themselves lay unbelief in what God had promised.
+Reading. A secondary axiom this yields: self-assessment distorts the reading of the environment. The spies did not misreport the facts that they went to gather. They misreported themselves, and then attributed the misreading to the other party. Under the low view of themselves lay unbelief in what God had promised.
 
 For a business, this is the idea in the passage that transfers best, by analogy. It is a specific mechanism, not a general warning:
 
@@ -409,14 +408,14 @@ Text (Numbers 14:1-4, 28-30, 33-34, KJV, selected):
 
 Observations:
 
-1. Text states (the response): The people weep, murmur, and propose to reverse course: "Let us make a captain, and let us return into Egypt" (v. 4). Text states: The recommendation is to go back to the condition that God delivered them from.
-2. Text states: The people project the fear onto their families: "that our wives and our children should be a prey" (v. 3). Inference: They use the risk to others as the reason for the retreat.
-3. Text states (the sentence): "as ye have spoken in mine ears, so will I do to you" (v. 28). Text states: The judgment matches the report. The people wished that they had died in this wilderness (v. 2), and their carcases fall in this wilderness (v. 29).
-4. Text states: God names the two who gave the minority report as the exceptions: Caleb and Joshua (v. 30).
-5. Text states (the duration): "After the number of the days in which ye searched the land, even forty days, each day for a year" (v. 34). Text states: The sentence matches the length of the reconnaissance. Forty days of searching become forty years of wandering.
-6. Text states: The ten who brought the evil report died by the plague (14:36-37), and Joshua and Caleb "lived still" (14:38).
-7. Text states: The people did not adopt the minority report at the time. Inference: The outcome proved it right, decades later.
-8. Text states (the ground of the minority report): Joshua and Caleb ground it in God, not in their own strength: "If the LORD delight in us, then he will bring us into this land, and give it us" (14:8), and "Only rebel not ye against the LORD, neither fear ye the people of the land; for they are bread for us: their defence is departed from them, and the LORD is with us: fear them not" (14:9). Inference: The minority was right because God had promised the land. A business minority report has no such promise behind it, so its boldness alone does not make it right.
+1. Scripture says (the response): The people weep, murmur, and propose to reverse course: "Let us make a captain, and let us return into Egypt" (v. 4). Scripture says: The recommendation is to go back to the condition that God delivered them from.
+2. Scripture says: The people project the fear onto their families: "that our wives and our children should be a prey" (v. 3). Reading: They use the risk to others as the reason for the retreat.
+3. Scripture says (the sentence): "as ye have spoken in mine ears, so will I do to you" (v. 28). Scripture says: The judgment matches the report. The people wished that they had died in this wilderness (v. 2), and their carcases fall in this wilderness (v. 29).
+4. Scripture says: God names the two who gave the minority report as the exceptions: Caleb and Joshua (v. 30).
+5. Scripture says (the duration): "After the number of the days in which ye searched the land, even forty days, each day for a year" (v. 34). Scripture says: The sentence matches the length of the reconnaissance. Forty days of searching become forty years of wandering.
+6. Scripture says: The ten who brought the evil report died by the plague (14:36-37), and Joshua and Caleb "lived still" (14:38).
+7. Scripture says: The people did not adopt the minority report at the time. Reading: The outcome proved it right, decades later.
+8. Scripture says (the ground of the minority report): Joshua and Caleb ground it in God, not in their own strength: "If the LORD delight in us, then he will bring us into this land, and give it us" (14:8), and "Only rebel not ye against the LORD, neither fear ye the people of the land; for they are bread for us: their defence is departed from them, and the LORD is with us: fear them not" (14:9). Reading: The minority was right because God had promised the land. A business minority report has no such promise behind it, so its boldness alone does not make it right.
 
 Business consequences (all inferences):
 
@@ -447,22 +446,22 @@ Text (1 Samuel 17:32-40, KJV):
 
 Observations:
 
-1. Text states (the objection): The argument of Saul is about track record: "thou art but a youth, and he a man of war from his youth" (v. 33). Text states: He compares the record of David with the record of Goliath.
-2. Text states (the counter-evidence): David answers with prior experience, the lion and the bear: "Thy servant kept his father's sheep, and there came a lion, and a bear" (v. 34).
-3. Text states: The prior experience is of the same kind: an attack on the flock, a predator, a fight to the death, and a rescue.
-4. Text states: David states the inference: "this uncircumcised Philistine shall be as one of them" (v. 36). Inference: David states the transfer. He does not assume it. He names the analogy.
-5. Text states: Then David gives the ground: "The LORD that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me" (v. 37). Text states: The transfer rests on the same deliverer, not on the same skill.
-6. Text states (the test of the equipment): Saul arms David, and David tests the equipment: "he assayed to go; for he had not proved it" (v. 39). Then he rejects it: "I cannot go with these; for I have not proved them."
-7. Text states: David uses what he has proved: his staff, five stones, and his sling (v. 40). Text states: "his sling was in his hand". Inference: This is the instrument that he trained with.
-8. Text states: David fought the lion and the bear while he kept sheep, not in front of an army (v. 34). Inference: The prior experience was private and nobody saw it. The preparation was invisible.
+1. Scripture says (the objection): The argument of Saul is about track record: "thou art but a youth, and he a man of war from his youth" (v. 33). Scripture says: He compares the record of David with the record of Goliath.
+2. Scripture says (the counter-evidence): David answers with prior experience, the lion and the bear: "Thy servant kept his father's sheep, and there came a lion, and a bear" (v. 34).
+3. Scripture says: The prior experience is of the same kind: an attack on the flock, a predator, a fight to the death, and a rescue.
+4. Scripture says: David states the inference: "this uncircumcised Philistine shall be as one of them" (v. 36). Reading: David states the transfer. He does not assume it. He names the analogy.
+5. Scripture says: Then David gives the ground: "The LORD that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me" (v. 37). Scripture says: The transfer rests on the same deliverer, not on the same skill.
+6. Scripture says (the test of the equipment): Saul arms David, and David tests the equipment: "he assayed to go; for he had not proved it" (v. 39). Then he rejects it: "I cannot go with these; for I have not proved them."
+7. Scripture says: David uses what he has proved: his staff, five stones, and his sling (v. 40). Scripture says: "his sling was in his hand". Reading: This is the instrument that he trained with.
+8. Scripture says: David fought the lion and the bear while he kept sheep, not in front of an army (v. 34). Reading: The prior experience was private and nobody saw it. The preparation was invisible.
 
-Inference. The axioms this yields:
+Reading. The axioms this yields:
 
 - Prior experience is the qualification, and you argue its relevance. You do not assume it (observations 2-4). David named the analogy between the predator and the champion.
 - The preparation happens where nobody sees it (observation 8). The lion and the bear were not public.
 - Test new equipment before the engagement (observation 6). "I have not proved them."
 - Use the instrument that you have proved (observation 7). Do not use the better instrument that you do not know.
-- State the ground of the transfer (observation 5). David's confidence is not in his skill with the sling. It is in the deliverer. Inference: This is what makes the transfer from a small engagement to a large one legitimate, not presumptuous.
+- State the ground of the transfer (observation 5). David's confidence is not in his skill with the sling. It is in the deliverer. Reading: This is what makes the transfer from a small engagement to a large one legitimate, not presumptuous.
 
 Business consequences (all inferences):
 
@@ -482,15 +481,15 @@ Text (Isaiah 28:16, KJV):
 
 Observations:
 
-1. Text states: The subject is a foundation: a stone, tried, precious, a corner stone, sure.
-2. Text states: The description builds in four steps: a stone, a tried stone, a precious corner stone, a sure foundation. Inference: The description is cumulative, and it is about reliability under load. "Tried" means tested.
-3. Text states: The verse states the consequence for the one who believes in the negative: "shall not make haste." Text states: The verb is not "shall be fast" or "shall be slow." It is "shall not make haste", that is, shall not hurry.
-4. Text states: The consequence is attached to believing, that is, to trust in the foundation. Inference: The hurry is the symptom of no trust in the foundation. A person who trusts the thing under his feet does not need to rush.
-5. Text states (the context, vv. 14-15, 17): Verse 15 describes a "covenant with death" and says "we have made lies our refuge". Verse 17 says that "the hail shall sweep away the refuge of lies". Inference: The verse contrasts the hurry with a false security. The alternative to the sure foundation is not slowness. It is a different foundation, and the hurry comes from the weakness of that foundation.
-6. Text states (the context, v. 17): "Judgment also will I lay to the line, and righteousness to the plummet." Text states: The same passage uses measuring instruments, a line and a plummet, for judgment. Inference: The sure foundation and the measuring line belong together.
-7. Text states (the New Testament use): Paul and Peter quote this verse about Christ. "As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed" (Romans 9:33). "Behold, I lay in Sion a chief corner stone, elect, precious: and he that believeth on him shall not be confounded" (1 Peter 2:6). Text states: In the New Testament, the stone is Christ, the believing is faith in him, and the last clause reads "shall not be ashamed" or "shall not be confounded". Inference: The reading about hurry rests on the KJV wording of Isaiah. The original audience is the rulers of Jerusalem (v. 14), and the stone is the one that God lays. A business use of this text is an analogy.
+1. Scripture says: The subject is a foundation: a stone, tried, precious, a corner stone, sure.
+2. Scripture says: The description builds in four steps: a stone, a tried stone, a precious corner stone, a sure foundation. Reading: The description is cumulative, and it is about reliability under load. "Tried" means tested.
+3. Scripture says: The verse states the consequence for the one who believes in the negative: "shall not make haste." Scripture says: The verb is not "shall be fast" or "shall be slow." It is "shall not make haste", that is, shall not hurry.
+4. Scripture says: The consequence is attached to believing, that is, to trust in the foundation. Reading: The hurry is the symptom of no trust in the foundation. A person who trusts the thing under his feet does not need to rush.
+5. Scripture says (the context, vv. 14-15, 17): Verse 15 describes a "covenant with death" and says "we have made lies our refuge". Verse 17 says that "the hail shall sweep away the refuge of lies". Reading: The verse contrasts the hurry with a false security. The alternative to the sure foundation is not slowness. It is a different foundation, and the hurry comes from the weakness of that foundation.
+6. Scripture says (the context, v. 17): "Judgment also will I lay to the line, and righteousness to the plummet." Scripture says: The same passage uses measuring instruments, a line and a plummet, for judgment. Reading: The sure foundation and the measuring line belong together.
+7. Scripture says (the New Testament use): Paul and Peter quote this verse about Christ. "As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed" (Romans 9:33). "Behold, I lay in Sion a chief corner stone, elect, precious: and he that believeth on him shall not be confounded" (1 Peter 2:6). Scripture says: In the New Testament, the stone is Christ, the believing is faith in him, and the last clause reads "shall not be ashamed" or "shall not be confounded". Reading: The reading about hurry rests on the KJV wording of Isaiah. The original audience is the rulers of Jerusalem (v. 14), and the stone is the one that God lays. A business use of this text is an analogy.
 
-Inference, by analogy. The axiom: haste is a symptom of a weak foundation, not a property of the work. A person who has confidence in the ground under his feet does not need to hurry. A person who has no such confidence will hurry, and the hurry will not repair the foundation.
+Reading, by analogy. The axiom: haste is a symptom of a weak foundation, not a property of the work. A person who has confidence in the ground under his feet does not need to hurry. A person who has no such confidence will hurry, and the hurry will not repair the foundation.
 
 Business consequences (all inferences):
 
@@ -508,18 +507,18 @@ Text (Proverbs 21:5, KJV):
 
 Observations:
 
-1. Text states: The two subjects are thoughts: "the thoughts of the diligent" against the thoughts "of every one that is hasty." Text states: The contrast is between two ways of thinking, not between two speeds of work.
-2. Text states: The thoughts of the diligent person "tend only to plenteousness." Text states: The verb gives a direction. It is a tendency, not an arrival.
-3. Text states: The thoughts of the hasty person also tend, "only to want." Inference: The proverb states both as tendencies with certainty ("only"). It states both as the natural result of the thinking, not as a punishment.
-4. Text states: The English word for the hasty person is "hasty." Lexical, stated with care: The KJV renders three Hebrew entries in Strong's as "hasty":
+1. Scripture says: The two subjects are thoughts: "the thoughts of the diligent" against the thoughts "of every one that is hasty." Scripture says: The contrast is between two ways of thinking, not between two speeds of work.
+2. Scripture says: The thoughts of the diligent person "tend only to plenteousness." Scripture says: The verb gives a direction. It is a tendency, not an arrival.
+3. Scripture says: The thoughts of the hasty person also tend, "only to want." Reading: The proverb states both as tendencies with certainty ("only"). It states both as the natural result of the thinking, not as a punishment.
+4. Scripture says: The English word for the hasty person is "hasty." Word meaning, stated with care: The KJV renders three Hebrew entries in Strong's as "hasty":
    - H213 אוּץ (_uts_): "to press; (by implication) to be close, hurry, withdraw". Its KJV renderings include "be narrow".
    - H4116 מָהַר (_mahar_): "properly, to be liquid or flow easily, i.e. (by implication); to hurry (in a good or a bad sense)".
    - H7116 קָצֵר (_qatser_): "short".
 
-   This file cannot verify which of these three stands behind Proverbs 21:5, because the Strong's data supplied has no tags at the level of the verse. Separately, the word behind "make haste" in Isaiah 28:16 is probably H2363 חוּשׁ (_chush_): "to hurry; figuratively, to be eager with excitement or enjoyment". That link is also not verified. The verified point is that the Hebrew vocabulary for hurry is a family of separate words. One of them, H213, carries the sense of pressure: "to press... to be close". Inference: The words are not interchangeable, and this file does not build an argument on the difference.
-5. Text states: The two outcomes are "plenteousness" and "want". Lexical, not verified at the level of the verse: in the supplied lexicon, the only entry whose KJV renderings include "plenteousness" is H4195 מוֹתָר (_mowthar_): "literally gain; figuratively, superiority." KJV: "plenteousness, preeminence, profit." "Want" is probably H4270 מַחְסוֹר (_machsowr_): "deficiency; hence, impoverishment." Its KJV renderings include "poverty". Inference: The pair runs from gain to poverty. It is about the result of a way of thinking, not a promise of riches.
+   This file cannot verify which of these three stands behind Proverbs 21:5, because the Strong's data supplied has no tags at the level of the verse. Separately, the word behind "make haste" in Isaiah 28:16 is probably H2363 חוּשׁ (_chush_): "to hurry; figuratively, to be eager with excitement or enjoyment". That link is also not verified. The verified point is that the Hebrew vocabulary for hurry is a family of separate words. One of them, H213, carries the sense of pressure: "to press... to be close". Reading: The words are not interchangeable, and this file does not build an argument on the difference.
+5. Scripture says: The two outcomes are "plenteousness" and "want". Word meaning, not verified at the level of the verse: in the supplied lexicon, the only entry whose KJV renderings include "plenteousness" is H4195 מוֹתָר (_mowthar_): "literally gain; figuratively, superiority." KJV: "plenteousness, preeminence, profit." "Want" is probably H4270 מַחְסוֹר (_machsowr_): "deficiency; hence, impoverishment." Its KJV renderings include "poverty". Reading: The pair runs from gain to poverty. It is about the result of a way of thinking, not a promise of riches.
 
-Inference: Read with Isaiah 28:16, the proverb gives the mechanism. Haste is a way of thinking that produces insufficiency. Diligence is a way of thinking that produces plenty. The difference is not effort. The diligent and the hasty both work. The difference is whether the thinking is planned or reactive.
+Reading: Read with Isaiah 28:16, the proverb gives the mechanism. Haste is a way of thinking that produces insufficiency. Diligence is a way of thinking that produces plenty. The difference is not effort. The diligent and the hasty both work. The difference is whether the thinking is planned or reactive.
 
 Business consequences (all inferences):
 
@@ -563,17 +562,17 @@ Text (Daniel 7:3-7, 23-24, KJV, selected):
 
 Observations:
 
-1. Text states (the sequence): There are four kingdoms, in order, and each one follows the last. Text states: Daniel states the succession as certain, and he states it to a king who is at that time the first of them.
-2. Text states (the metals): Gold, silver, brass, iron, then iron mixed with clay. Inference: The value of the material goes down through the sequence while the strength goes up, until the final stage, where strength and fragility are mixed.
-3. Text states: Daniel tells Nebuchadnezzar directly: "Thou art this head of gold" (v. 38), and "after thee shall arise another kingdom inferior to thee" (v. 39). Text states: Daniel tells the king, to his face, that his kingdom is the first of a series and that it ends.
-4. Text states: The fourth kingdom is strong and destructive: "shall it break in pieces and bruise" (v. 40). Text states: Then it is divided: "the kingdom shall be divided" (v. 41), "partly strong, and partly broken" (v. 42).
-5. Text states: The text names the internal incoherence: "they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay" (v. 43). Inference: The final stage fails because its parts do not bond.
-6. Text states: The stone is "cut out of the mountain without hands" (v. 45), and it destroys all four at once: "it brake in pieces the iron, the brass, the clay, the silver, and the gold." Inference: The text treats the four as one composite object, and they are destroyed together. Text states: Daniel explains the stone: "in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed" (v. 44). The stone is God's kingdom. It is not one more kingdom in the series.
-7. Text states: Daniel 2:21 gives the mechanism: "And he changeth the times and the seasons: he removeth kings, and setteth up kings." Inference: The succession is not a natural process. God governs it.
-8. Text states (Daniel 7): A second vision gives four beasts instead of metals. Text states: The interpretation is explicit: "These great beasts, which are four, are four kings, which shall arise out of the earth" (7:17). Inference: The second vision gives the same sequence of four.
-9. Text states (the source): Daniel says that no human skill could produce this. "The secret which the king hath demanded cannot the wise men, the astrologers, the magicians, the soothsayers, shew unto the king; But there is a God in heaven that revealeth secrets" (2:27-28). "But as for me, this secret is not revealed to me for any wisdom that I have more than any living" (2:30). Inference: The passage is prophecy that God revealed about the kingdoms of the world and the kingdom of God. It is not a method for forecasting markets.
+1. Scripture says (the sequence): There are four kingdoms, in order, and each one follows the last. Scripture says: Daniel states the succession as certain, and he states it to a king who is at that time the first of them.
+2. Scripture says (the metals): Gold, silver, brass, iron, then iron mixed with clay. Reading: The value of the material goes down through the sequence while the strength goes up, until the final stage, where strength and fragility are mixed.
+3. Scripture says: Daniel tells Nebuchadnezzar directly: "Thou art this head of gold" (v. 38), and "after thee shall arise another kingdom inferior to thee" (v. 39). Scripture says: Daniel tells the king, to his face, that his kingdom is the first of a series and that it ends.
+4. Scripture says: The fourth kingdom is strong and destructive: "shall it break in pieces and bruise" (v. 40). Scripture says: Then it is divided: "the kingdom shall be divided" (v. 41), "partly strong, and partly broken" (v. 42).
+5. Scripture says: The text names the internal incoherence: "they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay" (v. 43). Reading: The final stage fails because its parts do not bond.
+6. Scripture says: The stone is "cut out of the mountain without hands" (v. 45), and it destroys all four at once: "it brake in pieces the iron, the brass, the clay, the silver, and the gold." Reading: The text treats the four as one composite object, and they are destroyed together. Scripture says: Daniel explains the stone: "in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed" (v. 44). The stone is God's kingdom. It is not one more kingdom in the series.
+7. Scripture says: Daniel 2:21 gives the mechanism: "And he changeth the times and the seasons: he removeth kings, and setteth up kings." Reading: The succession is not a natural process. God governs it.
+8. Scripture says (Daniel 7): A second vision gives four beasts instead of metals. Scripture says: The interpretation is explicit: "These great beasts, which are four, are four kings, which shall arise out of the earth" (7:17). Reading: The second vision gives the same sequence of four.
+9. Scripture says (the source): Daniel says that no human skill could produce this. "The secret which the king hath demanded cannot the wise men, the astrologers, the magicians, the soothsayers, shew unto the king; But there is a God in heaven that revealeth secrets" (2:27-28). "But as for me, this secret is not revealed to me for any wisdom that I have more than any living" (2:30). Reading: The passage is prophecy that God revealed about the kingdoms of the world and the kingdom of God. It is not a method for forecasting markets.
 
-Inference. What the passage teaches:
+Reading. What the passage teaches:
 
 - Human dominance is temporary under God (observations 1 and 7). The text gives the sequence as a series, and it tells the first that it is the first. The one exception is the kingdom that God sets up, which "shall never be destroyed" (2:44).
 - The later stages are lower in value, not higher (observation 2). The metals degrade.
@@ -616,16 +615,16 @@ Text (Isaiah 43:19, KJV):
 
 Observations:
 
-1. Text states: The passage names Cyrus: "That saith of Cyrus, He is my shepherd" (44:28), and "I have even called thee by thy name: I have surnamed thee, though thou hast not known me" (45:4). Text states: The naming comes before Cyrus knows of it. Inference: The passage presents the naming as made before Cyrus exists. The text gives no date for the writing and no date for the birth of Cyrus. Contested: Traditional dating puts the naming about 150 years before Cyrus. Many modern scholars date Isaiah 40-55 to the exile, close to the time of Cyrus.
-2. Text states: The passage also declares the specific acts: the gates opened, the crooked places made straight, the gates of brass broken, the bars of iron cut, the treasures given (45:1-3).
-3. Text states (the counter-claim): Isaiah 44:25 sets up the contrast: "That frustrateth the tokens of the liars, and maketh diviners mad; that turneth wise men backward, and maketh their knowledge foolish." Inference: The passage sets the long-horizon declaration against the professional forecasters, and God frustrates their tokens and their knowledge.
-4. Text states (the verification): Isaiah 42:9 says: "Behold, the former things are come to pass, and new things do I declare: before they spring forth I tell you of them." Inference: The ground for confidence in the new declaration is the fulfillment of the former one. The track record is the evidence.
-5. Text states: Isaiah 43:19 says: "now it shall spring forth; shall ye not know it?" Inference: The announcement comes early enough before the event that the audience is expected to recognize the event when it comes.
-6. Text states (the reason given): "For Jacob my servant's sake, and Israel mine elect, I have even called thee by thy name" (45:4). Text states: The reason for the long-horizon act is the benefit of a third party, not the merit of the agent.
+1. Scripture says: The passage names Cyrus: "That saith of Cyrus, He is my shepherd" (44:28), and "I have even called thee by thy name: I have surnamed thee, though thou hast not known me" (45:4). Scripture says: The naming comes before Cyrus knows of it. Reading: The passage presents the naming as made before Cyrus exists. The text gives no date for the writing and no date for the birth of Cyrus. Disputed: Traditional dating puts the naming about 150 years before Cyrus. Many modern scholars date Isaiah 40-55 to the exile, close to the time of Cyrus.
+2. Scripture says: The passage also declares the specific acts: the gates opened, the crooked places made straight, the gates of brass broken, the bars of iron cut, the treasures given (45:1-3).
+3. Scripture says (the counter-claim): Isaiah 44:25 sets up the contrast: "That frustrateth the tokens of the liars, and maketh diviners mad; that turneth wise men backward, and maketh their knowledge foolish." Reading: The passage sets the long-horizon declaration against the professional forecasters, and God frustrates their tokens and their knowledge.
+4. Scripture says (the verification): Isaiah 42:9 says: "Behold, the former things are come to pass, and new things do I declare: before they spring forth I tell you of them." Reading: The ground for confidence in the new declaration is the fulfillment of the former one. The track record is the evidence.
+5. Scripture says: Isaiah 43:19 says: "now it shall spring forth; shall ye not know it?" Reading: The announcement comes early enough before the event that the audience is expected to recognize the event when it comes.
+6. Scripture says (the reason given): "For Jacob my servant's sake, and Israel mine elect, I have even called thee by thy name" (45:4). Scripture says: The reason for the long-horizon act is the benefit of a third party, not the merit of the agent.
 
-Inference: Three claims.
+Reading: Three claims.
 
-- A long horizon is possible for God, and the text presents it as a mark of God alone (observations 1-2). Isaiah makes it the test of a god: "Shew the things that are to come hereafter, that we may know that ye are gods" (41:23), and "I am God, and there is none like me, Declaring the end from the beginning" (46:9-10). To name a specific agent and specific acts in advance is a claim that no ordinary forecaster makes. Contested: How far in advance depends on the dating in observation 1.
+- A long horizon is possible for God, and the text presents it as a mark of God alone (observations 1-2). Isaiah makes it the test of a god: "Shew the things that are to come hereafter, that we may know that ye are gods" (41:23), and "I am God, and there is none like me, Declaring the end from the beginning" (46:9-10). To name a specific agent and specific acts in advance is a claim that no ordinary forecaster makes. Disputed: How far in advance depends on the dating in observation 1.
 - The declared future can be checked against the past (observation 4). The fulfilled former things support the new claim. The ground of both is that God declares them.
 - The purpose is the benefit of someone else (observation 6).
 
@@ -660,18 +659,18 @@ Text (1 Thessalonians 5:21, KJV):
 
 Observations:
 
-1. Text states: The passage asks the question explicitly: "How shall we know the word which the LORD hath not spoken?" (v. 21). Text states: The passage gives the test as the answer to a direct request for one.
-2. Text states (the test): "if the thing follow not, nor come to pass." Text states: The test is the outcome. If the prediction fails, the prediction was not from God.
-3. Text states: The passage states the verdict: "the prophet hath spoken it presumptuously." Text states: Then it gives the instruction: "thou shalt not be afraid of him." Inference: The remedy for a false forecast is to remove its authority, not only to note its failure. The people must drop their fear of the prophet.
-4. Inference: The test looks backward. You can apply it only after the event. The passage gives no way to evaluate a forecast in advance. It gives a way to evaluate the forecaster afterward.
-5. Text states (Amos): "Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets" (3:7). Inference: The claim is that true future events are disclosed, not deduced. This is a claim about the source of the information, not about a method. Text states: The ones who receive the disclosure are "his servants the prophets".
-6. Text states (1 John): "believe not every spirit, but try the spirits" (4:1). Text states: The instruction is to test, and the reason is that false claimants are many. Text states: The next verse gives the test, and it is a confession, not a success rate: "Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God" (4:2).
-7. Text states (1 Thessalonians): "Prove all things; hold fast that which is good" (5:21). Text states: There are two instructions: prove, and hold fast. Inference: The testing is not skepticism for its own sake. The second half requires you to keep what passes.
-8. Text states (Deuteronomy 13): A sign that comes to pass does not prove the prophet: "And the sign or the wonder come to pass, whereof he spake unto thee, saying, Let us go after other gods, which thou hast not known, and let us serve them; Thou shalt not hearken unto the words of that prophet" (13:2-3). Inference: The outcome test can show that a claim is false. It cannot by itself show that a claim is true or from God.
+1. Scripture says: The passage asks the question explicitly: "How shall we know the word which the LORD hath not spoken?" (v. 21). Scripture says: The passage gives the test as the answer to a direct request for one.
+2. Scripture says (the test): "if the thing follow not, nor come to pass." Scripture says: The test is the outcome. If the prediction fails, the prediction was not from God.
+3. Scripture says: The passage states the verdict: "the prophet hath spoken it presumptuously." Scripture says: Then it gives the instruction: "thou shalt not be afraid of him." Reading: The remedy for a false forecast is to remove its authority, not only to note its failure. The people must drop their fear of the prophet.
+4. Reading: The test looks backward. You can apply it only after the event. The passage gives no way to evaluate a forecast in advance. It gives a way to evaluate the forecaster afterward.
+5. Scripture says (Amos): "Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets" (3:7). Reading: The claim is that true future events are disclosed, not deduced. This is a claim about the source of the information, not about a method. Scripture says: The ones who receive the disclosure are "his servants the prophets".
+6. Scripture says (1 John): "believe not every spirit, but try the spirits" (4:1). Scripture says: The instruction is to test, and the reason is that false claimants are many. Scripture says: The next verse gives the test, and it is a confession, not a success rate: "Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God" (4:2).
+7. Scripture says (1 Thessalonians): "Prove all things; hold fast that which is good" (5:21). Scripture says: There are two instructions: prove, and hold fast. Reading: The testing is not skepticism for its own sake. The second half requires you to keep what passes.
+8. Scripture says (Deuteronomy 13): A sign that comes to pass does not prove the prophet: "And the sign or the wonder come to pass, whereof he spake unto thee, saying, Let us go after other gods, which thou hast not known, and let us serve them; Thou shalt not hearken unto the words of that prophet" (13:2-3). Reading: The outcome test can show that a claim is false. It cannot by itself show that a claim is true or from God.
 
 ### The test, assembled
 
-Inference: The table below combines the passages into a procedure to evaluate a forecast. It is a synthesis, and this file labels it as one. The original audience is Israel and the church, testing claims made in the name of the LORD. A business use of these texts is an analogy.
+Reading: The table below combines the passages into a procedure to evaluate a forecast. It is a synthesis, and this file labels it as one. The original audience is Israel and the church, testing claims made in the name of the LORD. A business use of these texts is an analogy.
 
 | Step | Source                       | Question                                                                                   |
 | ---- | ---------------------------- | ------------------------------------------------------------------------------------------ |
@@ -687,8 +686,8 @@ Business consequences (all inferences):
 - Remove the authority of a failed predictor (observation 3). "Thou shalt not be afraid of him." A forecaster who was wrong and keeps the authority will be wrong again with the same audience.
 - Test, and then keep (observation 7). A culture that tests everything and keeps nothing has the same problem as a culture that tests nothing.
 - Treat every business forecast as deduction (observation 5). Amos 3:7 speaks of what God reveals to "his servants the prophets". It does not speak of market forecasts. Label the output of a model as the output of a model.
-- Contested: Christians differ on whether God still gives prophecy today. One view holds that it ended with the apostles. Its readers cite "the foundation of the apostles and prophets" (Ephesians 2:20), "Hath in these last days spoken unto us by his Son" (Hebrews 1:2), and "whether there be prophecies, they shall fail" (1 Corinthians 13:8). Another view holds that it continues. Its readers cite "desire spiritual gifts, but rather that ye may prophesy" (1 Corinthians 14:1) and "your sons and your daughters shall prophesy" (Acts 2:17), and they still require testing: "Despise not prophesyings. Prove all things" (1 Thessalonians 5:20-21). This file does not decide the question. On either view, a business forecast is not a disclosure.
-- "Many false prophets are gone out" (observation 6). Text states: In 1 John the false prophets fail the test of confessing Christ (4:2). They are false teachers, not poor forecasters. Inference, by analogy only: expect many confident claims, and test each one.
+- Disputed: Christians differ on whether God still gives prophecy today. One view holds that it ended with the apostles. Its readers cite "the foundation of the apostles and prophets" (Ephesians 2:20), "Hath in these last days spoken unto us by his Son" (Hebrews 1:2), and "whether there be prophecies, they shall fail" (1 Corinthians 13:8). Another view holds that it continues. Its readers cite "desire spiritual gifts, but rather that ye may prophesy" (1 Corinthians 14:1) and "your sons and your daughters shall prophesy" (Acts 2:17), and they still require testing: "Despise not prophesyings. Prove all things" (1 Thessalonians 5:20-21). This file does not decide the question. On either view, a business forecast is not a disclosure.
+- "Many false prophets are gone out" (observation 6). Scripture says: In 1 John the false prophets fail the test of confessing Christ (4:2). They are false teachers, not poor forecasters. Reading, by analogy only: expect many confident claims, and test each one.
 - Expect a method, not an oracle. The passage supplies a procedure to verify and no procedure to generate. In business, you can build a process to evaluate forecasts. You cannot build a process to produce certainties.
 
 ---
@@ -716,22 +715,22 @@ Text (Matthew 13:18-23, KJV), Jesus' own explanation:
 > 22 He also that received seed among the thorns is he that heareth the word; and the care of this world, and the deceitfulness of riches, choke the word, and he becometh unfruitful.
 > 23 But he that received seed into the good ground is he that heareth the word, and understandeth it; which also beareth fruit, and bringeth forth, some an hundredfold, some sixty, some thirty.
 
-Text states: Jesus explains the parable himself. The seed is "the word of the kingdom" (v. 19), and the grounds are the hearts of those who hear it. The original audience is the crowd and the disciples, and the subject is how people receive the word of the kingdom. A business use of this text is an analogy.
+Scripture says: Jesus explains the parable himself. The seed is "the word of the kingdom" (v. 19), and the grounds are the hearts of those who hear it. The original audience is the crowd and the disciples, and the subject is how people receive the word of the kingdom. A business use of this text is an analogy.
 
 Observations:
 
-1. Text states: The seed is the same in all four cases. Text states: The variable is the ground.
-2. Text states (four outcomes, four separate mechanisms):
+1. Scripture says: The seed is the same in all four cases. Scripture says: The variable is the ground.
+2. Scripture says (four outcomes, four separate mechanisms):
    - Way side: the birds devour the seed. The seed is gone before it can take root.
    - Stony places: the seed springs up at once and then is scorched. It has no root, and the speed deceives.
    - Thorns: the seed grows and then is choked. Another growth competes with it.
    - Good ground: fruit, at three different rates.
-3. Text states: The stony ground gives fast growth: "forthwith they sprung up" (v. 5). Inference: The fastest first response is not the best ground. In this parable the fastest growth failed. The text gives no link between the speed of germination and the yield.
-4. Text states: The thorns "sprung up, and choked them" (v. 7). Text states: Jesus names the thorns: "the care of this world, and the deceitfulness of riches, choke the word" (v. 22). Inference: The failure was not a lack of growth. It was choking by something that grew next to it, and Jesus says what that is.
-5. Text states: The yields differ even in the good ground: "some an hundredfold, some sixtyfold, some thirtyfold" (v. 8). Text states: The variation exists inside the good category.
-6. Text states: The same sower sows all four. Text states: The text describes no selection before the sowing.
+3. Scripture says: The stony ground gives fast growth: "forthwith they sprung up" (v. 5). Reading: The fastest first response is not the best ground. In this parable the fastest growth failed. The text gives no link between the speed of germination and the yield.
+4. Scripture says: The thorns "sprung up, and choked them" (v. 7). Scripture says: Jesus names the thorns: "the care of this world, and the deceitfulness of riches, choke the word" (v. 22). Reading: The failure was not a lack of growth. It was choking by something that grew next to it, and Jesus says what that is.
+5. Scripture says: The yields differ even in the good ground: "some an hundredfold, some sixtyfold, some thirtyfold" (v. 8). Scripture says: The variation exists inside the good category.
+6. Scripture says: The same sower sows all four. Scripture says: The text describes no selection before the sowing.
 
-Inference, by analogy. The axioms this yields:
+Reading, by analogy. The axioms this yields:
 
 - Distribution determines yield. The same input gives different returns in different grounds (observations 1-2). The seed is constant. The outcome goes from 0 to 100 times.
 - Fast growth without root fails (observation 3). Jesus explains the stony ground as one who "anon with joy receiveth it; Yet hath he not root in himself" (vv. 20-21). The text does not say that fast growth always fails. It says that growth without root does not last. A business that reads early growth as validation, without checking the root, reads the stony ground.
@@ -743,7 +742,7 @@ Business consequences (all inferences, by analogy):
 
 - The ground, not the effort of sowing, decides the yield (observation 1). The same effort gives 0 or 100 times, according to the ground. The sower does not pick the ground in advance (observation 6). So sow broadly, and then watch where the yield comes. Do not claim that you can choose the good ground before you sow.
 - Do not read early traction as validation (observation 3). The stony ground sprang up first and had no root.
-- Name the thorns as Jesus names them (observation 4): the care of this world and the deceitfulness of riches. Inference: in a business, the first thorns to watch are worry and the love of money in your own people, because they choke what is good. Competing products are a weaker analogy.
+- Name the thorns as Jesus names them (observation 4): the care of this world and the deceitfulness of riches. Reading: in a business, the first thorns to watch are worry and the love of money in your own people, because they choke what is good. Competing products are a weaker analogy.
 - Expect a spread even in the good ground (observation 5). A plan that assumes uniform performance from good ground will miss.
 - Broad sowing is the pattern, and it is expensive (observation 6). Three of the four grounds produced nothing.
 
@@ -755,20 +754,20 @@ Text (Matthew 13:31-33, KJV):
 > 32 Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof.
 > 33 Another parable spake he unto them; The kingdom of heaven is like unto leaven, which a woman took, and hid in three measures of meal, till the whole was leavened.
 
-Text states: Both parables begin "The kingdom of heaven is like". The original audience is the crowd that heard the parables of the kingdom. A business use of this text is an analogy.
+Scripture says: Both parables begin "The kingdom of heaven is like". The original audience is the crowd that heard the parables of the kingdom. A business use of this text is an analogy.
 
 Observations:
 
-1. Text states (two models, in verses next to each other):
+1. Scripture says (two models, in verses next to each other):
    - Mustard seed: it starts smallest, becomes greatest, and becomes visible. Birds lodge in it.
    - Leaven: it is hidden in the meal, it works where nobody sees it, "till the whole was leavened."
-2. Text states: The text describes the growth of the mustard seed with a comparison: "the least of all seeds... the greatest among herbs".
-3. Text states: The leaven is hidden: "which a woman took, and hid in three measures of meal." Inference: The mechanism stays invisible the whole time.
-4. Text states: The process of the leaven has a completion: "till the whole was leavened." Text states: The endpoint is total.
-5. Text states: Both parables describe the same thing: "The kingdom of heaven is like" in both cases. Inference: The same subject admits a model of visible growth and a model of invisible diffusion.
-6. Text states: After the sowing, the text says nothing about tending the mustard seed. The man sows, and the text moves to the growth. Inference: The text presents the growth as intrinsic.
+2. Scripture says: The text describes the growth of the mustard seed with a comparison: "the least of all seeds... the greatest among herbs".
+3. Scripture says: The leaven is hidden: "which a woman took, and hid in three measures of meal." Reading: The mechanism stays invisible the whole time.
+4. Scripture says: The process of the leaven has a completion: "till the whole was leavened." Scripture says: The endpoint is total.
+5. Scripture says: Both parables describe the same thing: "The kingdom of heaven is like" in both cases. Reading: The same subject admits a model of visible growth and a model of invisible diffusion.
+6. Scripture says: After the sowing, the text says nothing about tending the mustard seed. The man sows, and the text moves to the growth. Reading: The text presents the growth as intrinsic.
 
-Inference. The axioms this yields:
+Reading. The axioms this yields:
 
 - There are two growth models. Both are valid, and they differ in structure (observation 1). One is visible and centralized: a tree that birds come to. The other is invisible and distributed: leaven through meal.
 - You cannot measure the leaven model during the process (observation 3). The growth stays hidden until the whole is leavened.
@@ -796,17 +795,17 @@ Text (Job 8:7, KJV):
 
 Observations (Zechariah):
 
-1. Text states: The question is rhetorical: "who hath despised the day of small things?" Text states: The verb is "despised", that is, looked down on.
-2. Text states: The verse states the reason not to despise with "for": "for they shall rejoice, and shall see the plummet in the hand of Zerubbabel".
-3. Text states: The instrument that the verse names is the "plummet". Inference: A plummet is a measuring instrument for verticality. A builder uses it to check whether a wall is true. Inference: The sign of progress is a measuring tool in the hand of the builder.
-4. Text states: The context is the house whose foundation Zerubbabel laid (4:9), the temple rebuilt after the return from exile. Text states (Haggai 2:3): The prophet asks the people who saw the first house: "is it not in your eyes in comparison of it as nothing?" Ezra 3:12 records that the old men "that had seen the first house" wept when they saw the new foundation. Inference: The "day of small things" is the phase of rebuilding, and the temptation is to compare it with the original house of Solomon.
-5. Text states (the context, Zechariah 4:6): "Not by might, nor by power, but by my spirit, saith the LORD of hosts." Text states (4:9): "The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it". Inference: The assurance is about completion. The same hands that started will finish.
+1. Scripture says: The question is rhetorical: "who hath despised the day of small things?" Scripture says: The verb is "despised", that is, looked down on.
+2. Scripture says: The verse states the reason not to despise with "for": "for they shall rejoice, and shall see the plummet in the hand of Zerubbabel".
+3. Scripture says: The instrument that the verse names is the "plummet". Reading: A plummet is a measuring instrument for verticality. A builder uses it to check whether a wall is true. Reading: The sign of progress is a measuring tool in the hand of the builder.
+4. Scripture says: The context is the house whose foundation Zerubbabel laid (4:9), the temple rebuilt after the return from exile. Scripture says (Haggai 2:3): The prophet asks the people who saw the first house: "is it not in your eyes in comparison of it as nothing?" Ezra 3:12 records that the old men "that had seen the first house" wept when they saw the new foundation. Reading: The "day of small things" is the phase of rebuilding, and the temptation is to compare it with the original house of Solomon.
+5. Scripture says (the context, Zechariah 4:6): "Not by might, nor by power, but by my spirit, saith the LORD of hosts." Scripture says (4:9): "The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it". Reading: The assurance is about completion. The same hands that started will finish.
 
 Observations (Job):
 
-6. Text states: The verse compares beginning and end: "Though thy beginning was small, yet thy latter end should greatly increase."
-7. Text states: The two clauses are opposites: a small beginning and a greatly increased end. Text states: The verse admits the smallness. It does not deny it.
-8. Text states (the context, Job 8:6): "If thou wert pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous." Inference: The speech of Bildad is a general claim about how things go. The book later shows that it does not account for the case of Job (Job 42:7). So the verse states a pattern that is generally true, and it is not a promise to every person in every situation. Quote it with that caveat.
+6. Scripture says: The verse compares beginning and end: "Though thy beginning was small, yet thy latter end should greatly increase."
+7. Scripture says: The two clauses are opposites: a small beginning and a greatly increased end. Scripture says: The verse admits the smallness. It does not deny it.
+8. Scripture says (the context, Job 8:6): "If thou wert pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous." Reading: The speech of Bildad is a general claim about how things go. The book later shows that it does not account for the case of Job (Job 42:7). So the verse states a pattern that is generally true, and it is not a promise to every person in every situation. Quote it with that caveat.
 
 Business consequences (all inferences):
 
@@ -830,14 +829,14 @@ Text (Ecclesiastes 11:4-6, KJV):
 
 Observations:
 
-1. Text states (the rule against paralysis): "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap" (v. 4). Text states: The verse does not call the observer wrong. It says that the observation stops the action.
-2. Text states: The consequence is total. He "shall not sow", so the action never happens.
-3. Text states (the ground): "As thou knowest not what is the way of the spirit... even so thou knowest not the works of God who maketh all" (v. 5). Text states: The verse states the uncertainty as a fact about the limits of knowledge, not as a temporary condition.
-4. Text states (the remedy): "In the morning sow thy seed, and in the evening withhold not thine hand" (v. 6). Text states: There are two sowings, at two different times.
-5. Text states (the reason): "for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good." Text states: The verse names three possibilities: this prospers, that prospers, or both.
-6. Text states: The verse addresses the reader directly with an imperative: "withhold not thine hand."
+1. Scripture says (the rule against paralysis): "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap" (v. 4). Scripture says: The verse does not call the observer wrong. It says that the observation stops the action.
+2. Scripture says: The consequence is total. He "shall not sow", so the action never happens.
+3. Scripture says (the ground): "As thou knowest not what is the way of the spirit... even so thou knowest not the works of God who maketh all" (v. 5). Scripture says: The verse states the uncertainty as a fact about the limits of knowledge, not as a temporary condition.
+4. Scripture says (the remedy): "In the morning sow thy seed, and in the evening withhold not thine hand" (v. 6). Scripture says: There are two sowings, at two different times.
+5. Scripture says (the reason): "for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good." Scripture says: The verse names three possibilities: this prospers, that prospers, or both.
+6. Scripture says: The verse addresses the reader directly with an imperative: "withhold not thine hand."
 
-Inference: The passage gives a complete doctrine of action under uncertainty:
+Reading: The passage gives a complete doctrine of action under uncertainty:
 
 1. Uncertainty is permanent (observation 3). It is not a problem of data.
 2. If you wait for certainty, you never act (observation 1).
@@ -863,14 +862,14 @@ Text (James 4:13-15, KJV):
 
 Observations:
 
-1. Text states: The quoted plan is specific and complete: a city, a duration ("continue there a year"), the activities ("buy and sell"), and the objective ("get gain"). Inference: This is a normal business plan, and it is well formed.
-2. Inference: The objection is not to the content of the plan. It is to the presumption in how it is stated: "ye that say, To day or to morrow we will..." Text states: Verse 16 names the fault: "But now ye rejoice in your boastings: all such rejoicing is evil."
-3. Text states: The ground is: "Whereas ye know not what shall be on the morrow" (v. 14).
-4. Text states: The comparison is: "what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away." Inference: The argument is A30 (Mortality makes time the binding constraint). So no plan reaches past what you control.
-5. Text states: The prescribed form is: "For that ye ought to say, If the Lord will, we shall live, and do this, or that" (v. 15). Text states: The condition is on the living and the doing, not only on the outcome.
-6. Text states: The passage does not forbid planning. It prescribes the form in which you state the plan.
+1. Scripture says: The quoted plan is specific and complete: a city, a duration ("continue there a year"), the activities ("buy and sell"), and the objective ("get gain"). Reading: This is a normal business plan, and it is well formed.
+2. Reading: The objection is not to the content of the plan. It is to the presumption in how it is stated: "ye that say, To day or to morrow we will..." Scripture says: Verse 16 names the fault: "But now ye rejoice in your boastings: all such rejoicing is evil."
+3. Scripture says: The ground is: "Whereas ye know not what shall be on the morrow" (v. 14).
+4. Scripture says: The comparison is: "what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away." Reading: The argument is A30 (Mortality makes time the binding constraint). So no plan reaches past what you control.
+5. Scripture says: The prescribed form is: "For that ye ought to say, If the Lord will, we shall live, and do this, or that" (v. 15). Scripture says: The condition is on the living and the doing, not only on the outcome.
+6. Scripture says: The passage does not forbid planning. It prescribes the form in which you state the plan.
 
-Inference: This is a clear statement in Scripture of how to plan under uncertainty. Make the plan specific, and state the condition on it. The failure is not the plan. The failure is a plan stated as a certainty.
+Reading: This is a clear statement in Scripture of how to plan under uncertainty. Make the plan specific, and state the condition on it. The failure is not the plan. The failure is a plan stated as a certainty.
 
 Business consequences (all inferences):
 
@@ -888,12 +887,12 @@ Text (Proverbs 27:1, KJV):
 
 Observations:
 
-1. Text states: The prohibition is on boasting, not on planning: "Boast not thyself of to morrow."
-2. Text states: The reason is: "for thou knowest not what a day may bring forth." Text states: The unit of uncertainty is "a day", the smallest unit available.
-3. Text states: The verb is reflexive: "boast not thyself". Inference: The object of the boast is the confidence of the speaker in himself.
-4. Text states (the comparison): Proverbs 27:1 stands in a chapter of short observations, and verse 2 follows it: "Let another man praise thee, and not thine own mouth". Inference: The theme is self-assessment, not forecasting.
+1. Scripture says: The prohibition is on boasting, not on planning: "Boast not thyself of to morrow."
+2. Scripture says: The reason is: "for thou knowest not what a day may bring forth." Scripture says: The unit of uncertainty is "a day", the smallest unit available.
+3. Scripture says: The verb is reflexive: "boast not thyself". Reading: The object of the boast is the confidence of the speaker in himself.
+4. Scripture says (the comparison): Proverbs 27:1 stands in a chapter of short observations, and verse 2 follows it: "Let another man praise thee, and not thine own mouth". Reading: The theme is self-assessment, not forecasting.
 
-Inference: The prohibition is on the posture, not on the activity. Scripture elsewhere commends planning for tomorrow: the ant "Provideth her meat in the summer" (Proverbs 6:6-8). The failure is to boast about tomorrow.
+Reading: The prohibition is on the posture, not on the activity. Scripture elsewhere commends planning for tomorrow: the ant "Provideth her meat in the summer" (Proverbs 6:6-8). The failure is to boast about tomorrow.
 
 Business consequences (all inferences):
 
@@ -911,13 +910,13 @@ Text (Lamentations 3:22-23, KJV):
 
 Observations:
 
-1. Text states: The context is destruction. Lamentations is a book of grief over a destroyed city. Text states: The statement is that "we are not consumed."
-2. Text states: The verse states the mechanism: "because his compassions fail not."
-3. Text states: The verse states the timing: "They are new every morning." Inference: The supply is daily, not stored.
-4. Text states: The conclusion is about faithfulness: "great is thy faithfulness." Inference: The attribute that the verse names is reliability over time, and the daily renewal shows it.
-5. Inference: The word "new" implies replacement. The supply of the previous day does not carry forward, so nobody can accumulate it.
+1. Scripture says: The context is destruction. Lamentations is a book of grief over a destroyed city. Scripture says: The statement is that "we are not consumed."
+2. Scripture says: The verse states the mechanism: "because his compassions fail not."
+3. Scripture says: The verse states the timing: "They are new every morning." Reading: The supply is daily, not stored.
+4. Scripture says: The conclusion is about faithfulness: "great is thy faithfulness." Reading: The attribute that the verse names is reliability over time, and the daily renewal shows it.
+5. Reading: The word "new" implies replacement. The supply of the previous day does not carry forward, so nobody can accumulate it.
 
-Inference. The axiom: the daily reset. The resource that sustains comes new on a daily cycle, and nobody can store it. This has a direct consequence for how a person or an organization faces a long crisis. The question is not "how will I endure the whole thing?" The question is "is the supply of today sufficient for today?"
+Reading. The axiom: the daily reset. The resource that sustains comes new on a daily cycle, and nobody can store it. This has a direct consequence for how a person or an organization faces a long crisis. The question is not "how will I endure the whole thing?" The question is "is the supply of today sufficient for today?"
 
 Business consequences (all inferences):
 
@@ -946,11 +945,11 @@ Text (Acts 17:22-31, KJV):
 
 Observations:
 
-1. Text states (the market observation): "as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD" (v. 23). Text states: The observation is specific: an altar, and its inscription. Inference: Paul read the artifacts of the market itself.
-2. Text states: Paul opens with a characterization: "I perceive that in all things ye are too superstitious" (v. 22). The next sentence gives the evidence at once and turns to the argument. Inference: The opening is an observation backed by evidence, not an attack. The tone is not hostile.
-3. Text states (the bridge): "Whom therefore ye ignorantly worship, him declare I unto you" (v. 23). Text states: Paul starts from their existing object of worship, the unknown god, and offers the content. Inference: The entry point is something that they already have, not something that he introduces.
-4. Text states (the quotation of their own sources): "as certain also of your own poets have said, For we are also his offspring" (v. 28). Text states: In this setting he quotes their poets, not his own scriptures. Inference: He uses the quotation as evidence, not as decoration.
-5. Text states (the sequence of the argument):
+1. Scripture says (the market observation): "as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD" (v. 23). Scripture says: The observation is specific: an altar, and its inscription. Reading: Paul read the artifacts of the market itself.
+2. Scripture says: Paul opens with a characterization: "I perceive that in all things ye are too superstitious" (v. 22). The next sentence gives the evidence at once and turns to the argument. Reading: The opening is an observation backed by evidence, not an attack. The tone is not hostile.
+3. Scripture says (the bridge): "Whom therefore ye ignorantly worship, him declare I unto you" (v. 23). Scripture says: Paul starts from their existing object of worship, the unknown god, and offers the content. Reading: The entry point is something that they already have, not something that he introduces.
+4. Scripture says (the quotation of their own sources): "as certain also of your own poets have said, For we are also his offspring" (v. 28). Scripture says: In this setting he quotes their poets, not his own scriptures. Reading: He uses the quotation as evidence, not as decoration.
+5. Scripture says (the sequence of the argument):
    1. The creator (v. 24).
    2. God is not contained in temples and needs no service (vv. 24-25).
    3. The unity of humanity and the ordering of times and places (v. 26).
@@ -959,15 +958,15 @@ Observations:
    6. The conclusion about images (v. 29).
    7. The call (v. 30).
    8. The judgment (v. 31).
-6. Inference: The argument moves from what the hearers already accept to what they do not accept. The created order, the ordering of nations and seasons, and the line of the poets are all shared ground.
-7. Text states: Verse 26 includes the claim about timing: "hath determined the times before appointed, and the bounds of their habitation." Text states: The verse states that the times and the bounds of the nations are "determined".
-8. Text states (the response): Some mocked, some deferred, and some believed (vv. 32-34). Inference: The outcome is mixed, and the text does not present it as a failure.
-9. Text states: Verse 30 states the transition: "And the times of this ignorance God winked at; but now commandeth all men every where to repent". Inference: The passage has its own _kairos_, a change in what the moment calls for. Text states: What the moment calls for is repentance, "Because he hath appointed a day, in the which he will judge the world in righteousness by that man whom he hath ordained" (v. 31).
-10. Text states (the context): Paul was provoked before he spoke: "his spirit was stirred in him, when he saw the city wholly given to idolatry" (17:16). The hearers understood his subject: "He seemeth to be a setter forth of strange gods: because he preached unto them Jesus, and the resurrection" (17:18).
+6. Reading: The argument moves from what the hearers already accept to what they do not accept. The created order, the ordering of nations and seasons, and the line of the poets are all shared ground.
+7. Scripture says: Verse 26 includes the claim about timing: "hath determined the times before appointed, and the bounds of their habitation." Scripture says: The verse states that the times and the bounds of the nations are "determined".
+8. Scripture says (the response): Some mocked, some deferred, and some believed (vv. 32-34). Reading: The outcome is mixed, and the text does not present it as a failure.
+9. Scripture says: Verse 30 states the transition: "And the times of this ignorance God winked at; but now commandeth all men every where to repent". Reading: The passage has its own _kairos_, a change in what the moment calls for. Scripture says: What the moment calls for is repentance, "Because he hath appointed a day, in the which he will judge the world in righteousness by that man whom he hath ordained" (v. 31).
+10. Scripture says (the context): Paul was provoked before he spoke: "his spirit was stirred in him, when he saw the city wholly given to idolatry" (17:16). The hearers understood his subject: "He seemeth to be a setter forth of strange gods: because he preached unto them Jesus, and the resurrection" (17:18).
 
 The original audience is the Athenians on Mars' hill, and the subject is the gospel: a call to repent and to believe in the risen Christ. A business use of this text is an analogy.
 
-Inference, by analogy: The passage gives a pattern for how to enter a culture with something new. The structure that transfers:
+Reading, by analogy: The passage gives a pattern for how to enter a culture with something new. The structure that transfers:
 
 1. Observe the artifacts of the market itself (observation 1). Do not start from its demographics. Start from its altars. Read what it actually built and inscribed.
 2. Begin from something that they already have (observation 3). The entry point is their existing practice, not your novelty.
@@ -994,14 +993,14 @@ Text (John 4:35, KJV):
 
 Observations:
 
-1. Text states: The verse quotes a common saying: "There are yet four months, and then cometh harvest". Inference: The saying reflects a general rule of the farming year. The verse quotes the saying. It does not state the agricultural fact, and it does not give the length of the season.
-2. Text states: Jesus overrides the saying: "behold, I say unto you".
-3. Text states: The instruction is physical: "Lift up your eyes, and look on the fields". Inference: The error that the verse corrects is a failure to look.
-4. Text states: The verse states the condition with urgency: "they are white already to harvest." Text states: The key word is "already".
-5. Text states (the context, vv. 34, 36): Verse 34 says: "My meat is to do the will of him that sent me, and to finish his work." Verse 36 says: "And he that reapeth receiveth wages, and gathereth fruit unto life eternal: that both he that soweth and he that reapeth may rejoice together." Text states: The passage includes both the sower and the reaper, and they rejoice together. Text states: The fruit is "unto life eternal". Inference: The harvest in this passage is a harvest of people. A business use of the verse is an analogy, not the meaning of the text.
-6. Text states: The occasion is the testimony of the Samaritan woman and the people of the town who come out (vv. 28-30, 39-42). Inference: The "fields" are the people who approach.
+1. Scripture says: The verse quotes a common saying: "There are yet four months, and then cometh harvest". Reading: The saying reflects a general rule of the farming year. The verse quotes the saying. It does not state the agricultural fact, and it does not give the length of the season.
+2. Scripture says: Jesus overrides the saying: "behold, I say unto you".
+3. Scripture says: The instruction is physical: "Lift up your eyes, and look on the fields". Reading: The error that the verse corrects is a failure to look.
+4. Scripture says: The verse states the condition with urgency: "they are white already to harvest." Scripture says: The key word is "already".
+5. Scripture says (the context, vv. 34, 36): Verse 34 says: "My meat is to do the will of him that sent me, and to finish his work." Verse 36 says: "And he that reapeth receiveth wages, and gathereth fruit unto life eternal: that both he that soweth and he that reapeth may rejoice together." Scripture says: The passage includes both the sower and the reaper, and they rejoice together. Scripture says: The fruit is "unto life eternal". Reading: The harvest in this passage is a harvest of people. A business use of the verse is an analogy, not the meaning of the text.
+6. Scripture says: The occasion is the testimony of the Samaritan woman and the people of the town who come out (vv. 28-30, 39-42). Reading: The "fields" are the people who approach.
 
-Inference. The axiom: the standard schedule can be wrong about the present moment. The four-month saying holds in general and is wrong here. Looking corrects the error, not recalculating.
+Reading. The axiom: the standard schedule can be wrong about the present moment. The four-month saying holds in general and is wrong here. Looking corrects the error, not recalculating.
 
 Business consequences (all inferences, by analogy):
 
@@ -1021,14 +1020,14 @@ Text (Genesis 50:20, KJV):
 
 Observations:
 
-1. Text states: The verse names two intentions, and both are real: "ye thought evil against me" and "God meant it unto good". Text states: The verse does not deny the first.
-2. Text states: The verse states the outcome: "to bring to pass, as it is this day, to save much people alive."
-3. Text states: The scale of the outcome is large: "much people".
-4. Text states (the timing): Joseph says this to his brothers after the death of their father (vv. 15-19). Jacob came to Egypt in the second year of the famine (45:6) and lived there seventeen years (47:28). Joseph lived to a hundred and ten (50:22). Inference: The statement comes about twelve years after the famine ended, and decades after the brothers sold Joseph. It is not at the end of his career. Inference: Joseph gave the reading before the arc was complete (observation 6). The full outcome, "to save much people alive", was visible only over the whole arc.
-5. Text states: Joseph states his own position: "am I in the place of God?" (v. 19). Text states: He refuses the seat of judgment, and then he states the interpretation.
-6. Text states (the earlier statement): Genesis 45:5 says: "Now therefore be not grieved, nor angry with yourselves, that ye sold me hither: for God did send me before you to preserve life." Text states: Joseph gave the same reading earlier, at the point of reconciliation. That was in the middle of the famine: "For these two years hath the famine been in the land: and yet there are five years" (45:6).
+1. Scripture says: The verse names two intentions, and both are real: "ye thought evil against me" and "God meant it unto good". Scripture says: The verse does not deny the first.
+2. Scripture says: The verse states the outcome: "to bring to pass, as it is this day, to save much people alive."
+3. Scripture says: The scale of the outcome is large: "much people".
+4. Scripture says (the timing): Joseph says this to his brothers after the death of their father (vv. 15-19). Jacob came to Egypt in the second year of the famine (45:6) and lived there seventeen years (47:28). Joseph lived to a hundred and ten (50:22). Reading: The statement comes about twelve years after the famine ended, and decades after the brothers sold Joseph. It is not at the end of his career. Reading: Joseph gave the reading before the arc was complete (observation 6). The full outcome, "to save much people alive", was visible only over the whole arc.
+5. Scripture says: Joseph states his own position: "am I in the place of God?" (v. 19). Scripture says: He refuses the seat of judgment, and then he states the interpretation.
+6. Scripture says (the earlier statement): Genesis 45:5 says: "Now therefore be not grieved, nor angry with yourselves, that ye sold me hither: for God did send me before you to preserve life." Scripture says: Joseph gave the same reading earlier, at the point of reconciliation. That was in the middle of the famine: "For these two years hath the famine been in the land: and yet there are five years" (45:6).
 
-Inference: Three claims.
+Reading: Three claims.
 
 - The evil was real (observation 1). The verse does not say that the brothers meant well.
 - The full outcome took decades to see (observations 4 and 6). Joseph stated the meaning in the second year of the famine and stated it again after Jacob died.
@@ -1052,13 +1051,13 @@ Text (Ecclesiastes 8:11, KJV):
 
 Observations:
 
-1. Text states: The verse states the mechanism as a chain of cause. The sentence is "not executed speedily", "therefore" the heart is "fully set" to do evil.
-2. Text states: The effect is not "some people are tempted." It is "the heart of the sons of men is fully set". Inference: The delay produces a settled disposition, not only a willingness.
-3. Text states: The word "therefore" makes the delay the cause. Text states: The verse also names where the effect settles: "the heart of the sons of men". Inference: The verse does not blame human nature alone. It names the delay as the factor that sets ordinary hearts toward evil.
-4. Inference: The verse reads as a fact about how people behave under a delayed consequence, not as a prescription.
-5. Text states (the context): Ecclesiastes 8:10 notes that the wicked are buried and forgotten and that "this is also vanity". Verse 12 then states the counter-claim: "Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God". Text states: The delay is real, and the text states the eventual outcome, but in separate verses.
+1. Scripture says: The verse states the mechanism as a chain of cause. The sentence is "not executed speedily", "therefore" the heart is "fully set" to do evil.
+2. Scripture says: The effect is not "some people are tempted." It is "the heart of the sons of men is fully set". Reading: The delay produces a settled disposition, not only a willingness.
+3. Scripture says: The word "therefore" makes the delay the cause. Scripture says: The verse also names where the effect settles: "the heart of the sons of men". Reading: The verse does not blame human nature alone. It names the delay as the factor that sets ordinary hearts toward evil.
+4. Reading: The verse reads as a fact about how people behave under a delayed consequence, not as a prescription.
+5. Scripture says (the context): Ecclesiastes 8:10 notes that the wicked are buried and forgotten and that "this is also vanity". Verse 12 then states the counter-claim: "Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God". Scripture says: The delay is real, and the text states the eventual outcome, but in separate verses.
 
-Inference. The axiom: a market with delayed or absent consequences for a behavior will produce more of that behavior. The delay drives the increase. It works on ordinary human hearts, and it does not need participants who are worse than others. This is a structural claim about incentives.
+Reading. The axiom: a market with delayed or absent consequences for a behavior will produce more of that behavior. The delay drives the increase. It works on ordinary human hearts, and it does not need participants who are worse than others. This is a structural claim about incentives.
 
 Business consequences (all inferences):
 
@@ -1081,14 +1080,14 @@ Text (Jeremiah 29:5-7, KJV):
 
 Observations:
 
-1. Text states (the situation): The people addressed are captives: "whither I have caused you to be carried away captives" (v. 7). Text states: The verse attributes the exile to the action of God: "I have caused you to be carried away".
-2. Text states (the instruction): Verses 5-6 give eight imperatives: build, dwell, plant, eat, take wives, beget, take wives for your sons, give your daughters to husbands. Inference: All are ordinary, long-horizon, domestic activities.
-3. Text states: The verse states the purpose: "that ye may be increased there, and not diminished" (v. 6). Text states: The growth happens "there", in the place of captivity.
-4. Text states: The final instruction is: "seek the peace of the city... and pray unto the LORD for it" (v. 7). Lexical: The word is probably H7965 שָׁלוֹם (_shalom_): "safe, i.e. (figuratively) well, happy, friendly; also (abstractly) welfare, i.e. health, prosperity, peace." KJV: "peace(-able, -ably), prosper(-ity, -ous), rest, safe(-ty), welfare, (all is, be) well, wholly." Inference: _Shalom_ is not only the absence of conflict. It is the welfare of the city.
-5. Text states: The verse gives the reason as self-interest: "for in the peace thereof shall ye have peace." Text states: The verse links the welfare of the host city and the welfare of the exiles.
-6. Text states (the context, vv. 8-10): The passage warns against the prophets and diviners who "prophesy falsely unto you in my name" (v. 9). Verses 8-9 do not say what those prophets predicted. Verse 10 gives the true time: "after seventy years be accomplished at Babylon I will visit you". Text states (Jeremiah 28:3): The prophet Hananiah had predicted a quick return: "Within two full years will I bring again into this place all the vessels of the LORD's house". Inference: The instruction to build and plant corrects a forecast about timing. The people expected a quick return, and the instruction assumes a long stay.
+1. Scripture says (the situation): The people addressed are captives: "whither I have caused you to be carried away captives" (v. 7). Scripture says: The verse attributes the exile to the action of God: "I have caused you to be carried away".
+2. Scripture says (the instruction): Verses 5-6 give eight imperatives: build, dwell, plant, eat, take wives, beget, take wives for your sons, give your daughters to husbands. Reading: All are ordinary, long-horizon, domestic activities.
+3. Scripture says: The verse states the purpose: "that ye may be increased there, and not diminished" (v. 6). Scripture says: The growth happens "there", in the place of captivity.
+4. Scripture says: The final instruction is: "seek the peace of the city... and pray unto the LORD for it" (v. 7). Word meaning: The word is probably H7965 שָׁלוֹם (_shalom_): "safe, i.e. (figuratively) well, happy, friendly; also (abstractly) welfare, i.e. health, prosperity, peace." KJV: "peace(-able, -ably), prosper(-ity, -ous), rest, safe(-ty), welfare, (all is, be) well, wholly." Reading: _Shalom_ is not only the absence of conflict. It is the welfare of the city.
+5. Scripture says: The verse gives the reason as self-interest: "for in the peace thereof shall ye have peace." Scripture says: The verse links the welfare of the host city and the welfare of the exiles.
+6. Scripture says (the context, vv. 8-10): The passage warns against the prophets and diviners who "prophesy falsely unto you in my name" (v. 9). Verses 8-9 do not say what those prophets predicted. Verse 10 gives the true time: "after seventy years be accomplished at Babylon I will visit you". Scripture says (Jeremiah 28:3): The prophet Hananiah had predicted a quick return: "Within two full years will I bring again into this place all the vessels of the LORD's house". Reading: The instruction to build and plant corrects a forecast about timing. The people expected a quick return, and the instruction assumes a long stay.
 
-Inference. The axiom: operate well in the place where you are, on a long horizon, even if it is not where you intend to end up. The reason that the text gives is that the welfare of the host and the welfare of the resident are linked.
+Reading. The axiom: operate well in the place where you are, on a long horizon, even if it is not where you intend to end up. The reason that the text gives is that the welfare of the host and the welfare of the resident are linked.
 
 Business consequences (all inferences):
 
@@ -1196,130 +1195,3 @@ On entering a culture:
 60. Expect a mixed response (Acts 17:32-34).
 
 ---
-
-## Appendix: verification log
-
-### Verses retrieved with `scripture.ts`
-
-- 1 Chronicles 12:23
-- 1 Chronicles 12:32
-- 2 Chronicles 10:16-19
-- Numbers 11:25
-- 1 Samuel 10:5
-- Luke 12:54-56
-- Matthew 16:2-3
-- Ecclesiastes 3:1-8
-- Ecclesiastes 3:11
-- Ecclesiastes 9:10-11
-- Genesis 8:21-22
-- Jeremiah 33:20-21
-- Genesis 41:29-36
-- Genesis 41:53-57
-- Genesis 45:5-6
-- Genesis 47:14-20
-- Genesis 47:28
-- Genesis 50:15-22
-- Numbers 13:17-33
-- Numbers 14:1-4, 28-38
-- 1 Samuel 17:32-40
-- Isaiah 28:14-17
-- Proverbs 21:5
-- Daniel 2:20-45
-- Daniel 7:3-7, 17, 23-24
-- Isaiah 44:24-28
-- Isaiah 45:1-5
-- Isaiah 42:9
-- Isaiah 43:19
-- Amos 3:7
-- Deuteronomy 18:21-22
-- 1 John 4:1
-- 1 Thessalonians 5:21
-- Matthew 13:3-9
-- Matthew 13:31-33
-- Zechariah 4:6-10
-- Haggai 2:3
-- Ezra 3:12
-- Job 8:6-7
-- Job 42:7
-- Ecclesiastes 11:4-6
-- James 4:13-15
-- Proverbs 27:1-2
-- Proverbs 6:6-8
-- Lamentations 3:22-23
-- Acts 17:22-34
-- John 4:28-42
-- Genesis 50:20
-- Ecclesiastes 8:10-12
-- Jeremiah 28:3
-- Jeremiah 29:5-10
-- 1 Chronicles 11:3
-- 1 Chronicles 25:1-7
-- 1 Samuel 19:20
-- Matthew 16:1-4
-- Luke 12:57
-- Ecclesiastes 3:14
-- Ecclesiastes 12:13-14
-- Ecclesiastes 8:7
-- Ecclesiastes 9:1
-- Proverbs 16:33
-- Genesis 41:16
-- Genesis 41:25
-- Genesis 47:13-26
-- Leviticus 25:23
-- Nehemiah 5:3-5
-- Numbers 13:2
-- Numbers 14:7-11
-- Hebrews 3:19
-- 1 Samuel 17:45-47
-- Romans 9:33
-- 1 Peter 2:6
-- Isaiah 41:23
-- Isaiah 46:9-10
-- Deuteronomy 13:1-3
-- 1 John 4:2-3
-- Ephesians 2:20
-- Hebrews 1:1-2
-- 1 Corinthians 13:8
-- 1 Corinthians 14:1
-- Acts 2:17-18
-- 1 Thessalonians 5:20-21
-- Matthew 13:18-23
-- Acts 17:16-19
-- James 4:16
-
-### Lexical claims verified with `lexicon.ts`
-
-H6256 _eth_, H3045 _yada_, H6213 _asah_, H7965 _shalom_, H4150 _moed_, H6294 _pega_, H7136 _qarah_, G2540 _kairos_, G4592 _semeion_, H2165 _zeman_, H995 _bin_, H998 _binah_, H213 _uts_, H4116 _mahar_, H7116 _qatser_, H2363 _chush_, H4195 _mowthar_, H4270 _machsowr_.
-
-These two links to verses are standard readings, and the KJV glosses of each entry include the English word in the verse. The definitions are quoted in the file:
-
-1. The word behind "chance" in Ecclesiastes 9:11 is H6294 _pega_ ("impact (casual)"). The word behind "happeneth" is H7136 _qarah_ ("to light upon (chiefly by accident)..."). Part 3 quotes both verbatim.
-2. The word behind "time" in Luke 12:56 is G2540 _kairos_, and the word behind "signs" in Matthew 16:3 is G4592 _semeion_. Part 2 quotes both verbatim.
-
-### Claims I could NOT verify with the supplied tools
-
-The supplied Strong's data has no tags at the level of the verse, and the bundled KJV JSON has no Strong's numbers. So the link between a word in a verse and a Strong's entry is not verified in the items below.
-
-1. The words in 1 Chronicles 12:32. "Understanding" is probably H998 _binah_ ("understanding"), the noun from H995 _bin_. "Know" is probably H3045 _yada_. Both entries are verified, and Part 1 quotes H3045 verbatim. The link to this verse is not verified.
-
-2. The word for "time" in Ecclesiastes 3:1. It is probably H6256 _eth_. The entry is verified. The link to this verse is not.
-
-3. The word for "season" in Ecclesiastes 3:1. It is probably H2165 _zeman_ ("an appointed occasion"). The entry is verified, and Part 3 quotes it. The link to this verse is not verified. H2166 is the Aramaic cognate of the same word.
-
-4. The word for "peace" in Jeremiah 29:7. It is probably H7965 _shalom_. The entry is verified, and Part 17 quotes the definition verbatim. The link to this verse is not verified.
-
-5. The count of "twenty-eight items in fourteen pairs" in Ecclesiastes 3:1-8. This is a count of the KJV text. Anyone can check it by reading the passage. The count found fourteen constructions of the form "a time to X, and a time to Y". It is a reading of the English, not a lexical finding.
-
-6. The seven years of plenty and the seven years of famine in Genesis 41. The text states that God disclosed them (41:25-32) and that Joseph interpreted by God (41:16). The file does not claim that any other means could read them.
-
-7. The claim that the spies had no way to know how the Canaanites saw them. This is an inference from the fact that Numbers 13 records no contact. It is an argument from silence, and the reader must treat it as one.
-
-8. The reading of the "plummet" in Zechariah 4:10 as a measuring instrument for verticality. The KJV word is verified. The underlying Hebrew and its exact technical sense were not looked up. The inference that it is a measuring tool comes from the English and from the context.
-
-9. The Hebrew word behind "hasty" in Proverbs 21:5. The KJV renders three entries as "hasty": H213 _uts_, H4116 _mahar_, H7116 _qatser_. The link to this verse is not available in the supplied data. The word behind "make haste" in Isaiah 28:16 is probably H2363 _chush_, and that link is also not verified. Part 7 quotes the definitions of all four entries, but this file does not build an argument on which word appears where.
-
-10. The reading of the four metals in Daniel 2 as a sequence of declining value. This is a standard reading of the passage, and it comes from the order in the text: gold, silver, brass, iron, iron and clay. The claim that the value declines is an inference. The text states the sequence and the materials, and it does not use the word "decline".
-
-11. The time from Genesis 50:20 back to the famine. Jacob came in the second year of the famine (Genesis 45:6) and lived seventeen years in Egypt (Genesis 47:28). The figure of about twelve years after the famine is arithmetic on those verses, not a statement of the text.
-
-12. The words behind "plenteousness" and "want" in Proverbs 21:5. In the supplied lexicon, H4195 is the only entry whose KJV renderings include "plenteousness". H4270 is one of several entries whose KJV renderings include "want". The links to Proverbs 21:5 are standard readings, not verified here.

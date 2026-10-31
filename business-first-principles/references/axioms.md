@@ -6,14 +6,15 @@ This file is the full derivation behind the 34 axioms in `SKILL.md`. It is a ref
 
 The method has four steps, from `scripture-foundations`: text, then observation, then axiom, then application. Most "biblical business" writing fails at the observation step. It jumps from a verse to a conclusion and does not say what happens in the passage.
 
-Every claim below carries one of four labels. The labels carry weight. Do not remove them.
+Every claim below carries one of five labels. The labels carry weight. Do not remove them.
 
 | Label | Meaning |
 | ----------- | -------------------------------------------------------------------------------- |
-| Text states | The passage says this, in these words. You can check it against the KJV. |
-| Lexical | A claim about the Hebrew or Greek word under the English, checked against Strong's. |
-| Inference | My reasoning from the text. It is the move of a fallible reader, and you can disagree with it. |
-| Speculation | A claim that goes past what the text and the lexicon support. It is marked so that you can discard it. |
+| Scripture says | The passage says this, in these words. You can check it against the KJV. |
+| Word meaning | A claim about the Hebrew or Greek word under the English, checked against Strong's. |
+| Reading | My reasoning from the text. It is the move of a fallible reader, and you can disagree with it. |
+| Disputed | Faithful readers or serious practitioners disagree. The file gives the range. |
+| Guess | A claim that goes past what the text and the lexicon support. It is marked so that you can discard it. |
 
 Two rules govern everything here:
 
@@ -22,11 +23,11 @@ Two rules govern everything here:
 
 ## Quotation conventions
 
-KJV wording is quoted exactly as `scripture.ts` returns it. The source data uses curly apostrophes. This file shows them as straight apostrophes. Wording, punctuation, and capitalization are otherwise unchanged. Strong's definitions are quoted word for word from the output of `lexicon.ts`, with its own abbreviations (`i.e.`, `etc.`, KJV renderings in brackets).
-
 A block quote gives one verse on each line. The verse number comes first, then the text.
 
 ## A note on what "axiom" means here
+
+Genesis 1-3 is read here as a pattern for making things. It has raw material, a maker, a method, a domain, workers, a boundary, a human failure, and the first promise of recovery (3:15). Everything after it in Scripture assumes it. The failure is the sin of the man and the woman, not a failure of God's work. The recovery that 3:15 promises comes in Christ, not in a method.
 
 These are not axioms in the mathematical sense, where a self-evident statement lets you deduce everything else. They are observations that carry weight. Each one is something the text shows, stated at a level where it needs no more justification and where a decision can come from it.
 
@@ -74,7 +75,6 @@ Axioms are for deriving, not for reciting. A quote of A17 is not an argument for
   - [A32. Some states must not be allowed to become permanent](#a32-some-states-must-not-be-allowed-to-become-permanent)
   - [A33. Access is guarded, and the guard is a feature](#a33-access-is-guarded-and-the-guard-is-a-feature)
   - [A34. There is an adversary for this age, and the victory is asymmetric](#a34-there-is-an-adversary-for-this-age-and-the-victory-is-asymmetric)
-- [Appendix: verification log](#appendix-verification-log)
 
 ---
 
@@ -84,27 +84,35 @@ Genesis 1:1-2. These three verses tell who acts, on what material, and in what c
 
 ### A1. All value is derived
 
+#### Summary
+
+Genesis 1:1: "In the beginning God created the heaven and the earth."
+
+Nothing is self-made. You receive the material, the mind, the market, and the moment.
+
+Reading: ownership is stewardship. The correct posture toward an asset is responsibility for it, not possession of it. Entitlement is a factual error, and it is expensive. It produces founders who cannot learn, because they believe that they earned what they were given.
+
 Grounding text, Genesis 1:1:
 
 > 1 In the beginning God created the heaven and the earth.
 
-#### Lexical
+#### Word meaning
 
-- H7225 רֵאשִׁית (_reshith_): "the first, in place, time, order or rank (specifically, a firstfruit)." KJV renders it "beginning, chief(-est), first(-fruits, part, time), principal thing." Speculation: the firstfruit sense is one of the senses that Strong's lists. In Genesis 1:1 the KJV renders the word "beginning", and nothing in the verse makes it mean "firstfruits". Do not build an argument on the firstfruit sense here.
+- H7225 רֵאשִׁית (_reshith_): "the first, in place, time, order or rank (specifically, a firstfruit)." KJV renders it "beginning, chief(-est), first(-fruits, part, time), principal thing." Guess: the firstfruit sense is one of the senses that Strong's lists. In Genesis 1:1 the KJV renders the word "beginning", and nothing in the verse makes it mean "firstfruits". Do not build an argument on the firstfruit sense here.
 - H1254 בָּרָא (_bara_): "(absolutely) to create; (qualified) to cut down (a wood), select, feed (as formative processes)." The main sense, used absolutely, is "to create". The formative senses apply only to the qualified uses. The idea "out of nothing" is a theological inference from the whole passage. This dictionary entry does not state it.
 - H776 אֶרֶץ (_erets_): "the earth (at large, or partitively a land)."
 - H8064 שָׁמַיִם (_shamayim_): "the sky (as aloft; the dual perhaps alluding to the visible arch in which the clouds move, as well as to the higher ether where the celestial bodies revolve)."
 
 #### Observations
 
-1. Text states: The chapter opens with an actor and a product. It gives no account of the origin of the actor. The universe is the thing made. It does not originate itself.
-2. Text states: The verb is "create". It is a making, not a discovery or a rearrangement by an agent that already existed. Whatever the material is, it comes into being by decision.
-3. Text states: Nothing in verses 1-31 credits a created thing with its own existence. The heavens, the earth, the light, the plants, the animals, and man are all objects of the verb. None is its subject.
-4. Text states (structure): The chapter is a chain of dependencies. Light depends on the word (v. 3). Land depends on the gathering of the waters (v. 9). Vegetation depends on land (v. 11). Man depends on dust and on breath (2:7). The account presents nothing as independent.
+1. Scripture says: The chapter opens with an actor and a product. It gives no account of the origin of the actor. The universe is the thing made. It does not originate itself.
+2. Scripture says: The verb is "create". It is a making, not a discovery or a rearrangement by an agent that already existed. Whatever the material is, it comes into being by decision.
+3. Scripture says: Nothing in verses 1-31 credits a created thing with its own existence. The heavens, the earth, the light, the plants, the animals, and man are all objects of the verb. None is its subject.
+4. Scripture says (structure): The chapter is a chain of dependencies. Light depends on the word (v. 3). Land depends on the gathering of the waters (v. 9). Vegetation depends on land (v. 11). Man depends on dust and on breath (2:7). The account presents nothing as independent.
 
 #### Derivation
 
-Inference: Nothing in the account originates itself. So ownership in the ordinary commercial sense is a delegated arrangement, not a natural right. The maker keeps the claim, and the holder holds. This is the derivation: the entity that did not make itself cannot claim absolute title over itself. So it cannot claim absolute title over anything that it holds.
+Reading: Nothing in the account originates itself. So ownership in the ordinary commercial sense is a delegated arrangement, not a natural right. The maker keeps the claim, and the holder holds. This is the derivation: the entity that did not make itself cannot claim absolute title over itself. So it cannot claim absolute title over anything that it holds.
 
 The text does not say "own nothing." It shows a grant (1:29, "Behold, I have given you...") and an assignment (2:15, the man is put into the garden). A grant is real, and the recipient has real use of it. But a grant stays a grant.
 
@@ -157,11 +165,19 @@ The companion failure is the inverse, and it is as common. A founder correctly c
 
 ### A2. The default state is formless and empty
 
+#### Summary
+
+Genesis 1:2: "And the earth was without form, and void; and darkness was upon the face of the deep."
+
+Formlessness, emptiness, and darkness are the starting condition, not the anomaly. Order is work that God does on the material. The unformed earth is unfinished, not corrupt, and nothing in Genesis 1-2 decays. Decay comes later. Romans 8:21 speaks of "the bondage of corruption", which most readers tie to the fall.
+
+Reading: in the world as it is now, decay is the baseline. Every system, relationship, and margin drifts toward disorder without continuous attention. A plan that assumes stability assumes a state that does not exist. Budget for entropy. That is not pessimism. It is a creation that "groaneth and travaileth in pain together until now" (Romans 8:22).
+
 Grounding text, Genesis 1:2:
 
 > 2 And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
 
-#### Lexical
+#### Word meaning
 
 - H8414 תֹּהוּ (_tohu_): "a desolation (of surface), i.e. desert; figuratively, a worthless thing; adverbially, in vain." KJV: "confusion, empty place, without form, nothing, (thing of) nought, vain, vanity, waste, wilderness."
 - H922 בֹּהוּ (_bohu_): "a vacuity, i.e. (superficially) an undistinguishable ruin." KJV: "emptiness, void." Note the pair. _Tohu_ is a desolation of surface, a waste. _Bohu_ is an undistinguishable ruin, a formlessness so complete that you cannot tell the parts apart.
@@ -170,14 +186,14 @@ Grounding text, Genesis 1:2:
 
 #### Observations
 
-1. Text states: The verse names three conditions before anything is made: formlessness (_tohu_), emptiness (_bohu_), and darkness. They describe the starting material.
-2. Text states: The verse does not condemn the three conditions. It passes no judgment on them. They are the state of things.
-3. Text states (sequence): Order comes after. Light (v. 3), division (v. 4), naming (v. 5), and the rest are all later acts. Nothing in the chapter describes order as the natural condition that something sometimes disturbs.
-4. Text states: At the end of the chapter, God evaluates the whole as "very good" (1:31). So formlessness is not evil. It is unfinished. This distinction matters, and readers lose it easily.
+1. Scripture says: The verse names three conditions before anything is made: formlessness (_tohu_), emptiness (_bohu_), and darkness. They describe the starting material.
+2. Scripture says: The verse does not condemn the three conditions. It passes no judgment on them. They are the state of things.
+3. Scripture says (sequence): Order comes after. Light (v. 3), division (v. 4), naming (v. 5), and the rest are all later acts. Nothing in the chapter describes order as the natural condition that something sometimes disturbs.
+4. Scripture says: At the end of the chapter, God evaluates the whole as "very good" (1:31). So formlessness is not evil. It is unfinished. This distinction matters, and readers lose it easily.
 
 #### Derivation
 
-Inference: The unformed state is the starting condition, not an anomaly. Order is the thing that needs input. But the unformed earth is unfinished, not corrupt, and nothing in Genesis 1-2 decays. Decay enters with the fall. Romans 8:20-21 speaks of a creation "made subject to vanity" and of "the bondage of corruption", and most readers tie that subjection to the curse of Genesis 3:17. So in the world as it is now, decay is the baseline. Every system drifts toward disorder unless something works against the drift all the time. This applies to a codebase, a relationship, a margin, a supply chain, and a culture.
+Reading: The unformed state is the starting condition, not an anomaly. Order is the thing that needs input. But the unformed earth is unfinished, not corrupt, and nothing in Genesis 1-2 decays. Decay enters with the fall. Romans 8:20-21 speaks of a creation "made subject to vanity" and of "the bondage of corruption", and most readers tie that subjection to the curse of Genesis 3:17. So in the world as it is now, decay is the baseline. Every system drifts toward disorder unless something works against the drift all the time. This applies to a codebase, a relationship, a margin, a supply chain, and a culture.
 
 This is a claim about what to expect. It is not a command to be pessimistic. The text states the condition. The business consequence is mine.
 
@@ -221,30 +237,38 @@ The organization develops a permanent surprise reflex. Every miss becomes a stor
 - Ecclesiastes 10:18: "By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through."
 - Proverbs 24:30-34: the field grown over with thorns, the broken wall, and the diagnosis.
 - Matthew 7:24-27: the house on the rock and the house on the sand. Both are tested, and the test is the same storm.
-- Nehemiah 2:13: "...and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire." Text states: the Babylonian army broke the walls down and burned the city (2 Kings 25:9-10, Nehemiah 1:3). The wall did not decay from neglect. Inference: the wall then stayed broken for generations, because no one rebuilt it. Damage that no one repairs becomes the normal state.
+- Nehemiah 2:13: "...and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire." Scripture says: the Babylonian army broke the walls down and burned the city (2 Kings 25:9-10, Nehemiah 1:3). The wall did not decay from neglect. Reading: the wall then stayed broken for generations, because no one rebuilt it. Damage that no one repairs becomes the normal state.
 
 ---
 
 ### A3. Presence precedes production
 
+#### Summary
+
+Genesis 1:2: "And the Spirit of God moved upon the face of the waters."
+
+The Spirit of God moves over the waters before God speaks. The text gives the order: presence, then word. God does not need to study a situation in order to understand it (see A26). The lesson for a human maker is an analogy: attention comes before output.
+
+Reading: the cheapest hour in any project is the hour that you spend to understand the situation before you act. The maker who speaks first and examines later pays for it in rework. A rush to visible output is the most common way to be slow.
+
 Grounding text, Genesis 1:2:
 
 > 2 ...And the Spirit of God moved upon the face of the waters.
 
-#### Lexical
+#### Word meaning
 
 - H7363 רָחַף (_rachaph_): "to brood; by implication, to be relaxed." KJV: "flutter, move, shake." The image is a bird over a nest. It broods. It does not only travel. The KJV "moved upon" is weaker than the dictionary.
 
 #### Observations
 
-1. Text states (sequence): The Spirit moves before God says anything. Verse 2 has the brooding. Verse 3 has the first word. The order is presence, then speech, then product.
-2. Text states: The brooding is "upon the face of the waters". It is over the unformed material, not apart from it. Inference, by analogy: for a human maker, it pictures attention directed at the real situation, with its formlessness.
-3. Text states: The verse records no product during the brooding. It is an act with no deliverable.
-4. Lexical: The verb is not a verb of planning, command, or measurement. Strong's defines it as "to brood". Inference: it is an image of quiet nearness. The text gives no length of time.
+1. Scripture says (sequence): The Spirit moves before God says anything. Verse 2 has the brooding. Verse 3 has the first word. The order is presence, then speech, then product.
+2. Scripture says: The brooding is "upon the face of the waters". It is over the unformed material, not apart from it. Reading, by analogy: for a human maker, it pictures attention directed at the real situation, with its formlessness.
+3. Scripture says: The verse records no product during the brooding. It is an act with no deliverable.
+4. Word meaning: The verb is not a verb of planning, command, or measurement. Strong's defines it as "to brood". Reading: it is an image of quiet nearness. The text gives no length of time.
 
 #### Derivation
 
-Inference: In the text, the presence of the Spirit of God comes before the word that orders the material. God does not need to study a situation in order to understand it (see A26, observation 2). The lesson for a human maker is an analogy. The cheapest hour in any project is the hour spent to understand the situation before you act. The maker who speaks first and examines later pays for it in rework.
+Reading: In the text, the presence of the Spirit of God comes before the word that orders the material. God does not need to study a situation in order to understand it (see A26, observation 2). The lesson for a human maker is an analogy. The cheapest hour in any project is the hour spent to understand the situation before you act. The maker who speaks first and examines later pays for it in rework.
 
 This is an inference from sequence. The text does not say "examine before acting." It shows an order of operations and leaves the reader to notice it.
 
@@ -267,7 +291,7 @@ Exodus 33:14 (presence before rest, and rest before the journey):
 
 #### Failure mode when violated
 
-The failure is rework. Inference: rework is very expensive, because it pays twice for the same result. The second-order failure follows. Teams learn that the reward goes to whoever produces something. So they produce something before they understand the problem, and the organization becomes efficient at building the wrong thing.
+The failure is rework. Reading: rework is very expensive, because it pays twice for the same result. The second-order failure follows. Teams learn that the reward goes to whoever produces something. So they produce something before they understand the problem, and the organization becomes efficient at building the wrong thing.
 
 #### Extending verses
 
@@ -284,23 +308,31 @@ Genesis 1:3-31 through 2:1. This group has eleven axioms on how the work is done
 
 ### A4. Making is by word
 
+#### Summary
+
+Genesis 1:3: "And God said, Let there be light: and there was light." The phrase "And God said" occurs ten times in the chapter.
+
+Specification comes before manifestation. The word is the main instrument of creation.
+
+Reading: the clarity of the specification sets the upper limit on the quality of the output. Briefs, specs, contracts, promises, and names are production tools, not paperwork. An unclear word is not a soft problem. It guarantees an unclear result.
+
 Grounding text, Genesis 1:3:
 
 > 3 And God said, Let there be light: and there was light.
 
-Text states (repetition, checked by search): The phrase "And God said" occurs ten times in Genesis 1, in verses 3, 6, 9, 11, 14, 20, 24, 26, 28, and 29. No other formula in the chapter repeats at that density. The repetition is the author's mark of what to notice.
+Scripture says (repetition, checked by search): The phrase "And God said" occurs ten times in Genesis 1, in verses 3, 6, 9, 11, 14, 20, 24, 26, 28, and 29. No other formula in the chapter repeats at that density. The repetition is the author's mark of what to notice.
 
 #### Observations
 
-1. Text states (sequence): In every case the speech comes before the result. "And God said, Let there be..." comes first, and then "...and there was". It is never the reverse.
-2. Text states: The speech is a specification, not persuasion. It does not argue with the darkness or bargain with the waters. It states what shall be.
-3. Text states: Most of the speeches are declarations of what will be, not requests or prayers. Two speeches have a stated audience. In 1:28 "God said unto them", to the man and the woman, and in 1:29 God says "I have given you". Inference: the making speeches in 1:3-26 do not name a hearer. The speeches in 1:28-29 are a blessing, a command, and a grant to the humans.
-4. Text states (result): The result matches the specification. The chapter shows no gap between what God said and what appeared. "And it was so" is the confirmation formula (vv. 7, 9, 11, 15, 24, 30).
-5. Text states (John 1): The New Testament identifies the Word as a person and as the agent of creation: "All things were made by him; and without him was not any thing made that was made" (John 1:3).
+1. Scripture says (sequence): In every case the speech comes before the result. "And God said, Let there be..." comes first, and then "...and there was". It is never the reverse.
+2. Scripture says: The speech is a specification, not persuasion. It does not argue with the darkness or bargain with the waters. It states what shall be.
+3. Scripture says: Most of the speeches are declarations of what will be, not requests or prayers. Two speeches have a stated audience. In 1:28 "God said unto them", to the man and the woman, and in 1:29 God says "I have given you". Reading: the making speeches in 1:3-26 do not name a hearer. The speeches in 1:28-29 are a blessing, a command, and a grant to the humans.
+4. Scripture says (result): The result matches the specification. The chapter shows no gap between what God said and what appeared. "And it was so" is the confirmation formula (vv. 7, 9, 11, 15, 24, 30).
+5. Scripture says (John 1): The New Testament identifies the Word as a person and as the agent of creation: "All things were made by him; and without him was not any thing made that was made" (John 1:3).
 
 #### Derivation
 
-Inference: In every instance, specification comes before manifestation. So the clarity of the specification sets the upper limit on the quality of the output. You cannot produce more precision than you specified. Briefs, specs, contracts, promises, and names are production tools, not paperwork.
+Reading: In every instance, specification comes before manifestation. So the clarity of the specification sets the upper limit on the quality of the output. You cannot produce more precision than you specified. Briefs, specs, contracts, promises, and names are production tools, not paperwork.
 
 The chain is tight. An unclear word is not a soft problem. It guarantees an unclear result, because the result comes from the word. The account also records acts of making: God "made the firmament" (1:7), "created great whales" (1:21), and "formed man of the dust of the ground" (2:7). So the word is not the only act. But in every case the word comes first.
 
@@ -321,18 +353,28 @@ The failure is rework. The anti-pattern table in `SKILL.md` names it: specifying
 - Isaiah 55:10-11: "...So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it."
 - Hebrews 11:3: "Through faith we understand that the worlds were framed by the word of God..."
 - Proverbs 18:21: "Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof."
-- Proverbs 30:5-6: "Every word of God is pure... Add thou not unto his words, lest he reprove thee, and thou be found a liar." Inference: the implementer does not edit the specification.
+- Proverbs 30:5-6: "Every word of God is pure... Add thou not unto his words, lest he reprove thee, and thou be found a liar." Reading: the implementer does not edit the specification.
 - John 1:1-3: the Word as person and agent.
 
 ---
 
 ### A5. Formation precedes filling
 
+#### Summary
+
+Genesis 1:3-31: days 1-3 create domains (light and dark, waters, land). Days 4-6 fill them (lights, fish and fowl, animals and man).
+
+Structure comes first and contents second, in two passes, not one.
+
+Reading: build the container before the contents. Build the platform before the features, the roles before the people, the chart of accounts before the spending, and the outline before the prose. If you fill before you form, you do not get a full thing. You get clutter, and clutter is harder to fix than emptiness.
+
+Proverbs 24:3-4 states the same shape: "Through wisdom is an house builded; and by understanding it is established: And by knowledge shall the chambers be filled".
+
 This axiom gets the longest treatment in this file. The two-pass structure is the thing in Genesis 1 that transfers best, and it is the easiest to get wrong.
 
 Grounding text: Genesis 1:3-31, the six days of work, in order.
 
-#### Text states (the structure, laid out)
+#### Scripture says (the structure, laid out)
 
 | Day | Forming (days 1-3) | Text | Filling (days 4-6) | Text |
 | --- | ---------------------------------------------------------------- | ------ | ---------------------------------------------------------- | ------- |
@@ -342,11 +384,11 @@ Grounding text: Genesis 1:3-31, the six days of work, in order.
 
 #### Observations
 
-1. Text states: Days 1-3 each set up a domain and its boundaries. The verbs divide and gather: "divided the light from the darkness" (1:4), "let it divide the waters from the waters" (1:6), "let the waters under the heaven be gathered together unto one place, and let the dry land appear" (1:9). Text states (checked by search): the word divide or divided occurs five times in Genesis 1, in verses 4, 6, 7, 14, and 18. Three of the five (verses 4, 6, and 7) are on the forming days. Verses 14 and 18 are on day 4, a filling day, where the lights divide the day from the night.
-2. Text states: Days 4-6 each populate a domain that an earlier day set up. The verbs fill: "Let there be lights" (1:14), "Let the waters bring forth abundantly" (1:20), "Let the earth bring forth the living creature" (1:24).
-3. Inference (correspondence): The pairs line up one to one and in order. Day 4 fills day 1: the lights rule the day and night that God divided on day 1 (1:16, 18). Day 5 fills day 2: fowl fly "in the open firmament" (1:20), the domain named on day 2, and creatures fill the divided waters. Text states: 1:22 says "fill the waters in the seas", and the seas were named on day 3 (1:10). So the match is close, not exact. Day 6 fills day 3: land animals and man live on the dry land, and their food is the herbs and trees from day 3 (1:29-30).
-4. Text states (the end): Only after both passes does God call the whole "very good" (1:31). Along the way God called the parts good six times (see A9). The "very good" attaches to the completed assembly.
-5. Text states (the one exception, stated honestly): Day 3 includes vegetation, and vegetation is arguably contents, not container. At that point the pattern is not perfectly clean. Two readings are available:
+1. Scripture says: Days 1-3 each set up a domain and its boundaries. The verbs divide and gather: "divided the light from the darkness" (1:4), "let it divide the waters from the waters" (1:6), "let the waters under the heaven be gathered together unto one place, and let the dry land appear" (1:9). Scripture says (checked by search): the word divide or divided occurs five times in Genesis 1, in verses 4, 6, 7, 14, and 18. Three of the five (verses 4, 6, and 7) are on the forming days. Verses 14 and 18 are on day 4, a filling day, where the lights divide the day from the night.
+2. Scripture says: Days 4-6 each populate a domain that an earlier day set up. The verbs fill: "Let there be lights" (1:14), "Let the waters bring forth abundantly" (1:20), "Let the earth bring forth the living creature" (1:24).
+3. Reading (correspondence): The pairs line up one to one and in order. Day 4 fills day 1: the lights rule the day and night that God divided on day 1 (1:16, 18). Day 5 fills day 2: fowl fly "in the open firmament" (1:20), the domain named on day 2, and creatures fill the divided waters. Scripture says: 1:22 says "fill the waters in the seas", and the seas were named on day 3 (1:10). So the match is close, not exact. Day 6 fills day 3: land animals and man live on the dry land, and their food is the herbs and trees from day 3 (1:29-30).
+4. Scripture says (the end): Only after both passes does God call the whole "very good" (1:31). Along the way God called the parts good six times (see A9). The "very good" attaches to the completed assembly.
+5. Scripture says (the one exception, stated honestly): Day 3 includes vegetation, and vegetation is arguably contents, not container. At that point the pattern is not perfectly clean. Two readings are available:
    - (a) The vegetation is part of the forming of the land. It is what the land typically brings forth, and it is the provision that the day-6 occupants eat.
    - (b) The pattern is a strong tendency, not a rigid scheme.
 
@@ -354,7 +396,7 @@ Grounding text: Genesis 1:3-31, the six days of work, in order.
 
 #### Derivation
 
-Inference: The domains come before their occupants. So structure comes first and contents second, in two passes, not one. Build the container before the contents. Build the platform before the features, the roles before the people, the chart of accounts before the spending, and the outline before the prose.
+Reading: The domains come before their occupants. So structure comes first and contents second, in two passes, not one. Build the container before the contents. Build the platform before the features, the roles before the people, the chart of accounts before the spending, and the outline before the prose.
 
 The derivation rests on the correspondence, and the correspondence is the argument. The order of the days is not accidental. The author took care to line them up. A reader who accepts the correspondence must deal with this claim: to fill before you form is a category error, not only a preference about sequence.
 
@@ -393,20 +435,28 @@ A second failure is less visible. A team that never built a container does not k
 
 ### A6. Distinction precedes order
 
+#### Summary
+
+Genesis 1:4: "And God divided the light from the darkness."
+
+Meaning requires boundaries. A thing becomes definable when you separate it from what it is not.
+
+Reading: you must be able to say what something is not. Scope, segment, and positioning are acts of division. A category that nobody divided has no meaning. A business that will not say "no" did not say "yes" to anything.
+
 Grounding text, Genesis 1:4:
 
 > 4 And God saw the light, that it was good: and God divided the light from the darkness.
 
 #### Observations
 
-1. Text states: The division comes after the evaluation of the light and before the naming. The sequence is: made, judged good, divided, named.
-2. Text states: God divides light from darkness, not light from nothing. Both terms are needed. The division is between two things, not between a thing and its absence.
-3. Text states (checked by search): "Divide" or "divided" occurs again and again in the chapter, in 1:4, 6, 7, 14, and 18. Boundaries are a repeated instrument, not a single act.
-4. Text states: The division makes a boundary. It does not discover one that already existed. "God divided" is an act.
+1. Scripture says: The division comes after the evaluation of the light and before the naming. The sequence is: made, judged good, divided, named.
+2. Scripture says: God divides light from darkness, not light from nothing. Both terms are needed. The division is between two things, not between a thing and its absence.
+3. Scripture says (checked by search): "Divide" or "divided" occurs again and again in the chapter, in 1:4, 6, 7, 14, and 18. Boundaries are a repeated instrument, not a single act.
+4. Scripture says: The division makes a boundary. It does not discover one that already existed. "God divided" is an act.
 
 #### Derivation
 
-Inference: Things become definable when they are separated from what they are not. So meaning requires boundaries. You must be able to say what something is not.
+Reading: Things become definable when they are separated from what they are not. So meaning requires boundaries. You must be able to say what something is not.
 
 The negative space is the argument. In verse 4 the light was already "good" before the division. The division adds definability. Before it, there is light and darkness. After it, there is Day and Night (v. 5). The category exists only on the far side of the cut.
 
@@ -432,21 +482,31 @@ The failure is scope explosion, and then nobody can say what the business is. Th
 
 ### A7. Naming is an act of authority
 
+#### Summary
+
+Genesis 1:5: "And God called the light Day, and the darkness he called Night."
+
+Naming is how the maker sets what a thing is.
+
+Disputed: readers differ on whether naming in Scripture always shows authority. Hagar names the LORD: "And she called the name of the LORD that spake unto her, Thou God seest me" (Genesis 16:13). There naming is recognition, not rule. The inference below holds where the one who names has the right to set the terms.
+
+Reading: names are decisions, not labels. Whoever names the category defines the terms of competition in it. Product names, role titles, and metric definitions each quietly set what people believe is true. Renaming is expensive because it means a new founding.
+
 Grounding text, Genesis 1:5:
 
 > 5 And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
 
 #### Observations
 
-1. Text states: The maker names what he made. He does not ask the light what it is called.
-2. Text states (repetition): Naming occurs at the forming steps: Day and Night (1:5), Heaven (1:8), Earth and Seas (1:10). Naming is part of the forming pass, not an appendix.
-3. Text states: The names stay. The text records no later revision. Day and Night are still Day and Night at the end of the chapter and through the rest of Scripture.
-4. Text states (Genesis 2): God delegates the pattern to man: "whatsoever Adam called every living creature, that was the name thereof" (2:19). God grants the authority to name. He does not keep it only for himself.
-5. Contested: readers differ on whether naming in Scripture always shows authority. Hagar names the LORD: "And she called the name of the LORD that spake unto her, Thou God seest me" (Genesis 16:13). She has no authority over him. There naming is recognition, not rule. The derivation below holds where the one who names has the right to set the terms, as God does in 1:5 and Adam does in 2:19.
+1. Scripture says: The maker names what he made. He does not ask the light what it is called.
+2. Scripture says (repetition): Naming occurs at the forming steps: Day and Night (1:5), Heaven (1:8), Earth and Seas (1:10). Naming is part of the forming pass, not an appendix.
+3. Scripture says: The names stay. The text records no later revision. Day and Night are still Day and Night at the end of the chapter and through the rest of Scripture.
+4. Scripture says (Genesis 2): God delegates the pattern to man: "whatsoever Adam called every living creature, that was the name thereof" (2:19). God grants the authority to name. He does not keep it only for himself.
+5. Disputed: readers differ on whether naming in Scripture always shows authority. Hagar names the LORD: "And she called the name of the LORD that spake unto her, Thou God seest me" (Genesis 16:13). She has no authority over him. There naming is recognition, not rule. The derivation below holds where the one who names has the right to set the terms, as God does in 1:5 and Adam does in 2:19.
 
 #### Derivation
 
-Inference: Naming is how the maker sets what a thing is. So names are decisions, not labels. Whoever names the category defines the terms of competition in it.
+Reading: Naming is how the maker sets what a thing is. So names are decisions, not labels. Whoever names the category defines the terms of competition in it.
 
 The delegation in 2:19 is the sharp part. The text states that the names Adam gave stand. It does not say that they were provisional or open to review. Naming authority is real authority.
 
@@ -473,11 +533,19 @@ The failure is not bad names. It is that no one is responsible for names. The bi
 
 ### A8. Time is a created instrument
 
+#### Summary
+
+Genesis 1:14: "let them be for signs, and for seasons, and for days, and years".
+
+Calendars, cycles, and seasons are made things, given for a purpose.
+
+Reading: cadence is a design choice, not a natural fact. Review rhythm, release rhythm, planning horizon, and the fiscal year are all instruments that you can shape. A business with no cadence has no memory and no rhythm of correction.
+
 Grounding text, Genesis 1:14:
 
 > 14 And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:
 
-#### Lexical
+#### Word meaning
 
 - H4150 מוֹעֵד (_moed_): "properly, an appointment, i.e. a fixed time or season; specifically, a festival; conventionally ayear [sic]; by implication, an assembly (as convened for a definite purpose); technically the congregation; by extension, the place of meeting; also a signal (as appointed beforehand)." The KJV renders it here as "seasons." Note the range of the word. The entry covers an appointed time, a festival, an assembly, and a signal. In Genesis 1:14 the sense is an appointed time or season. The "assembly" sense belongs to other passages. Do not carry it into this verse. The range of a word does not decide its sense in one verse. Compare the rule "Etymology is not meaning" in `scripture-foundations`.
 - H3974 מָאוֹר (_maor_): "properly, a luminous body or luminary, i.e. (abstractly) light (as an element); figuratively, brightness, i.e.cheerfulness; specifically, a chandelier". This is the word for "lights" in 1:14. The "light" of 1:3 is a different word, H216 אוֹר (_or_): "illumination or (concrete) luminary (in every sense, including lightning, happiness, etc.)". Both words come from the same root, H215.
@@ -485,14 +553,14 @@ Grounding text, Genesis 1:14:
 
 #### Observations
 
-1. Text states: God makes the lights, and he makes them for something. They are instruments with stated purposes.
-2. Text states: The verse lists the purposes: signs, seasons, days, years. All four are functions of measurement.
-3. Text states: God makes these instruments on day 4. That is after the division of day and night on day 1, and after three days are already counted. The account counts time before the clock is in place.
-4. Text states (the counting formula): The formula "And the evening and the morning were the ... day" occurs six times, checked by search (1:5, 8, 13, 19, 23, 31). The text counts the day by a formula. It does not take the day from the sky.
+1. Scripture says: God makes the lights, and he makes them for something. They are instruments with stated purposes.
+2. Scripture says: The verse lists the purposes: signs, seasons, days, years. All four are functions of measurement.
+3. Scripture says: God makes these instruments on day 4. That is after the division of day and night on day 1, and after three days are already counted. The account counts time before the clock is in place.
+4. Scripture says (the counting formula): The formula "And the evening and the morning were the ... day" occurs six times, checked by search (1:5, 8, 13, 19, 23, 31). The text counts the day by a formula. It does not take the day from the sky.
 
 #### Derivation
 
-Inference: Calendars, cycles, and seasons are made things, given for a purpose. So cadence is a design choice, not a natural fact. Review rhythm, release rhythm, planning horizon, and the fiscal year are instruments that you can shape.
+Reading: Calendars, cycles, and seasons are made things, given for a purpose. So cadence is a design choice, not a natural fact. Review rhythm, release rhythm, planning horizon, and the fiscal year are instruments that you can shape.
 
 Observation 3 is the argument for this. On days 1-3 the text counts time by a formula, before the sun and moon exist to define it. The formula is a convention that the maker set. If the count of days is a convention at the very origin of the world, then the count of quarters and sprints is a convention too.
 
@@ -501,7 +569,7 @@ Observation 3 is the argument for this. On days 1-3 the text counts time by a fo
 - A business with no cadence has no memory and no rhythm of correction. Cadence makes review possible. Without a fixed interval, no point exists at which anyone must look.
 - You choose the instruments, so you can choose them badly. An annual planning cycle in a market that moves every month is a badly chosen instrument, not bad luck.
 - Use different clocks for different things: weekly for delivery, monthly for cash, quarterly for strategy, annually for the covenant. Genesis 1 has one day-unit. It does not follow that every business process needs the same unit.
-- "Seasons" are appointed times. Inference, by analogy: in business, the useful "season" is a review that is fixed in advance. That is why the axiom connects to A20 (state the boundary before the pressure).
+- "Seasons" are appointed times. Reading, by analogy: in business, the useful "season" is a review that is fixed in advance. That is why the axiom connects to A20 (state the boundary before the pressure).
 
 #### Failure mode when violated
 
@@ -520,28 +588,36 @@ The failure is no rhythm of correction. Problems grow silently between the rare 
 
 ### A9. The maker evaluates the work
 
+#### Summary
+
+Genesis 1:4: "And God saw the light, that it was good". The pattern occurs seven times and ends at "very good".
+
+Evaluation is not a separate phase. It is inside the making. The maker does it again and again, against an intention.
+
+Reading: judgment is part of production. Taste is a deliverable. A person who builds without assessing is not building. That person accumulates. Build the assessment into the act.
+
 Grounding text, Genesis 1:4:
 
 > 4 And God saw the light, that it was good...
 
-Text states (repetition, checked by search): The pattern "God saw ... good" occurs seven times in Genesis 1, in verses 4, 10, 12, 18, 21, 25, and 31. The seventh is different: "And God saw every thing that he had made, and, behold, it was very good."
+Scripture says (repetition, checked by search): The pattern "God saw ... good" occurs seven times in Genesis 1, in verses 4, 10, 12, 18, 21, 25, and 31. The seventh is different: "And God saw every thing that he had made, and, behold, it was very good."
 
-#### Lexical
+#### Word meaning
 
 - H2896 טוֹב (_towb_): "good (as an adjective) in the widest sense; used likewise as a noun, both in the masculine and the feminine, the singular and the plural (good, a good or good thing, a good man or woman; the good, goods or good things, good men or women), also as an adverb (well)". KJV: "beautiful, best, better, bountiful, cheerful, at ease, [idiom] fair (word), (be in) favour, fine, glad, good (deed, -lier, -liest, -ly, -ness, -s), graciously, joyful, kindly, kindness, liketh (best), loving, merry, [idiom] most, pleasant, [phrase] pleaseth, pleasure, precious, prosperity, ready, sweet, wealth, welfare, (be) well(-favoured)."
-- Note what _towb_ covers. It is not only "morally correct". It includes beautiful, pleasant, precious, and ready. Inference: the evaluation is not only an ethical audit. It is also a judgment of beauty and of fitness.
+- Note what _towb_ covers. It is not only "morally correct". It includes beautiful, pleasant, precious, and ready. Reading: the evaluation is not only an ethical audit. It is also a judgment of beauty and of fitness.
 
 #### Observations
 
-1. Text states (structure): The evaluation is inside the making. It is not a phase after the six days. It occurs again and again inside them.
-2. Text states: The evaluator is the maker. It is not a customer, a committee, or a later consumer. The one who made the thing judges it.
-3. Inference: The judgment is against an intention, not against a benchmark. "That it was good" means good for what it was for. God made the lights for signs, seasons, days, and years (v. 14), and the judgment relates to that.
-4. Text states: The judgment repeats. God pronounces "good" six times inside the six days (1:4, 10, 12, 18, 21, 25). Day 2 has no verdict, and day 3 has two. The maker does not save judgment for the end.
-5. Text states: The judgment is stated and recorded. It is not an unspoken impression.
+1. Scripture says (structure): The evaluation is inside the making. It is not a phase after the six days. It occurs again and again inside them.
+2. Scripture says: The evaluator is the maker. It is not a customer, a committee, or a later consumer. The one who made the thing judges it.
+3. Reading: The judgment is against an intention, not against a benchmark. "That it was good" means good for what it was for. God made the lights for signs, seasons, days, and years (v. 14), and the judgment relates to that.
+4. Scripture says: The judgment repeats. God pronounces "good" six times inside the six days (1:4, 10, 12, 18, 21, 25). Day 2 has no verdict, and day 3 has two. The maker does not save judgment for the end.
+5. Scripture says: The judgment is stated and recorded. It is not an unspoken impression.
 
 #### Derivation
 
-Inference: The evaluation is inside the work, repeated, and done by the maker against an intention. So judgment is part of production, and taste is a deliverable.
+Reading: The evaluation is inside the work, repeated, and done by the maker against an intention. So judgment is part of production, and taste is a deliverable.
 
 The strongest form of the derivation is this. The person who builds without assessing is not building. That person accumulates. Accumulation and production differ in one thing: whether anyone judged anything. A pile of work is not a product until someone says "that is good" and means something by it.
 
@@ -567,21 +643,29 @@ The failure is accumulation without assessment. Work ships because it is finishe
 
 ### A10. Whole-system review is not the sum of part-reviews
 
+#### Summary
+
+Genesis 1:31: "And God saw every thing that he had made, and, behold, it was very good."
+
+God calls the work good six times (1:4, 10, 12, 18, 21, 25). Day 2 has no verdict, and day 3 has two. He calls only the whole very good (1:31).
+
+Reading: in human work, parts that are each correct can combine into a failure of the whole. So review the assembly, not only the components. Examples are end-to-end testing, an integrated P&L (profit and loss statement), review at the level of the portfolio, and the whole customer journey. Good parts can still make one bad product.
+
 Grounding text, Genesis 1:31:
 
 > 31 And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.
 
 #### Observations
 
-1. Text states (the asymmetry): God calls the parts good. He calls only the whole very good. The text uses the intensifier exactly once, and it uses it for the assembly.
-2. Text states: The object of the final evaluation is "every thing that he had made". It is the complete set, not a sample and not a sum.
-3. Text states: The final evaluation comes after God makes the last item. It is not mixed in with the work. It is a separate act at the end of the sequence.
-4. Text states (the counting formula): The text counts the sixth day after God evaluates the whole. The work is complete and evaluated before the day closes.
-5. Text states: Nothing in the chapter tells us how the parts combine. The chapter shows parts judged good, then the whole judged very good. It does not claim that the second follows from the first.
+1. Scripture says (the asymmetry): God calls the parts good. He calls only the whole very good. The text uses the intensifier exactly once, and it uses it for the assembly.
+2. Scripture says: The object of the final evaluation is "every thing that he had made". It is the complete set, not a sample and not a sum.
+3. Scripture says: The final evaluation comes after God makes the last item. It is not mixed in with the work. It is a separate act at the end of the sequence.
+4. Scripture says (the counting formula): The text counts the sixth day after God evaluates the whole. The work is complete and evaluated before the day closes.
+5. Scripture says: Nothing in the chapter tells us how the parts combine. The chapter shows parts judged good, then the whole judged very good. It does not claim that the second follows from the first.
 
 #### Derivation
 
-Inference: The whole receives an evaluation that no part received. So parts that are each correct can combine into a failure of the whole. In Genesis 1 the good parts make a very good whole. In human work, good parts can still make one bad product.
+Reading: The whole receives an evaluation that no part received. So parts that are each correct can combine into a failure of the whole. In Genesis 1 the good parts make a very good whole. In human work, good parts can still make one bad product.
 
 Observation 5 carries the weight. The text does not say that the whole is very good because the parts were good. It says that the maker looked at everything and gave a different verdict. That leaves open the possibility that good parts combine badly. The separate review of the whole is evidence that the maker did not assume otherwise.
 
@@ -607,13 +691,21 @@ The anti-pattern table gives the shape: a portfolio of things that are each corr
 
 ### A11. Multiplication is commanded, and it reproduces after its kind
 
+#### Summary
+
+Genesis 1:28: "Be fruitful, and multiply, and replenish the earth". See also "whose seed is in itself... after his kind" in verses 11-12, 21, and 24-25.
+
+Growth is part of the design of living things, and seeds yield the species that was planted.
+
+Reading, by analogy: Genesis 1:28 is a blessing and a command to the first man and woman, not to businesses. A business use of this text is an analogy. By analogy, growth is permitted and often good. It is not a duty for every firm. Jesus warns against growth for its own sake: "beware of covetousness" (Luke 12:15), said of a man who planned to "pull down my barns, and build greater" (12:18). A business that stays small out of contentment or calling is not defective. The part that transfers best is the kind formula: what you plant is what you get. Culture, standards, and character replicate in hires and subsidiaries with high fidelity. You cannot scale a thing that you do not want more of.
+
 Grounding text, Genesis 1:28:
 
 > 28 And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
 
-Text states (the "after his kind" formula, counted by search): The phrase "after his kind" occurs eight times in Genesis 1. It occurs three times in 1:11-12 (the herb and the fruit tree), once in 1:21 (the fowl), and four times in 1:24-25 (the living creature, the beast, and the creeping thing). The variant "after their kind" occurs two more times, in 1:21 (the sea creatures) and 1:25 (the cattle). The kind formula occurs ten times in all.
+Scripture says (the "after his kind" formula, counted by search): The phrase "after his kind" occurs eight times in Genesis 1. It occurs three times in 1:11-12 (the herb and the fruit tree), once in 1:21 (the fowl), and four times in 1:24-25 (the living creature, the beast, and the creeping thing). The variant "after their kind" occurs two more times, in 1:21 (the sea creatures) and 1:25 (the cattle). The kind formula occurs ten times in all.
 
-#### Lexical
+#### Word meaning
 
 - H4390 מָלֵא (_male_): "to fill or (intransitively) be full of, in a wide application (literally and figuratively)." The KJV renders it "replenish."
 - H3533 כָּבַשׁ (_kabash_): "to tread down; hence, negatively, to disregard; positively, to conquer, subjugate, violate." KJV: "bring into bondage, force, keep under, subdue, bring into subjection."
@@ -621,17 +713,17 @@ Text states (the "after his kind" formula, counted by search): The phrase "after
 
 #### Observations
 
-1. Text states: God commands multiplication. It is in the imperative: "Be fruitful, and multiply."
-2. Text states: A blessing comes with the command: "And God blessed them, and God said unto them..." God gives the command and the blessing together.
-3. Text states (the kind formula): What is planted decides what comes up: "whose seed is in itself... after his kind". The seed carries the species.
-4. Text states: The mechanism is internal. The seed is "in itself". Reproduction is a property of the thing that reproduces, not a process applied to it from outside.
-5. Text states: The command to multiply is given twice: to the sea creatures and the fowl (1:22) and to man (1:28). In 1:11 God speaks to the earth ("Let the earth bring forth"), and he gives no command to the plants. But the plants carry seed "in itself" (1:11-12). Inference: reproduction is a property of created life in general, not a special instruction to humanity only.
+1. Scripture says: God commands multiplication. It is in the imperative: "Be fruitful, and multiply."
+2. Scripture says: A blessing comes with the command: "And God blessed them, and God said unto them..." God gives the command and the blessing together.
+3. Scripture says (the kind formula): What is planted decides what comes up: "whose seed is in itself... after his kind". The seed carries the species.
+4. Scripture says: The mechanism is internal. The seed is "in itself". Reproduction is a property of the thing that reproduces, not a process applied to it from outside.
+5. Scripture says: The command to multiply is given twice: to the sea creatures and the fowl (1:22) and to man (1:28). In 1:11 God speaks to the earth ("Let the earth bring forth"), and he gives no command to the plants. But the plants carry seed "in itself" (1:11-12). Reading: reproduction is a property of created life in general, not a special instruction to humanity only.
 
 #### Derivation
 
-Inference: Two conclusions follow, and they are separate.
+Reading: Two conclusions follow, and they are separate.
 
-First, growth is part of the design of living things. Genesis 1:28 is a blessing and a command to humans, not to businesses. The original audience is the first man and woman. A business use of this text is an analogy. Inference, by analogy: growth is permitted and often good. It is not a duty for every firm. Jesus warns against growth for its own sake: "beware of covetousness" (Luke 12:15), said of a man who planned to "pull down my barns, and build greater" (12:18).
+First, growth is part of the design of living things. Genesis 1:28 is a blessing and a command to humans, not to businesses. The original audience is the first man and woman. A business use of this text is an analogy. Reading, by analogy: growth is permitted and often good. It is not a duty for every firm. Jesus warns against growth for its own sake: "beware of covetousness" (Luke 12:15), said of a man who planned to "pull down my barns, and build greater" (12:18).
 
 Second, what you plant is what you get. The seed is "in itself", and the yield is "after his kind". So culture, standards, and character replicate in hires and subsidiaries with high fidelity. You cannot scale a thing that you do not want more of.
 
@@ -639,7 +731,7 @@ The second conclusion matters most in operation. It says that growth is not neut
 
 #### Business consequences
 
-- Inference, by analogy: growth is a normal fruit of healthy work. It does not need a special excuse. This does not mean growth at any cost or growth in any direction, because A6 and A20 limit what grows. A business that chooses to stay small, out of contentment or calling, is not defective. "But godliness with contentment is great gain" (1 Timothy 6:6).
+- Reading, by analogy: growth is a normal fruit of healthy work. It does not need a special excuse. This does not mean growth at any cost or growth in any direction, because A6 and A20 limit what grows. A business that chooses to stay small, out of contentment or calling, is not defective. "But godliness with contentment is great gain" (1 Timothy 6:6).
 - Audit what replicates before you replicate it. Culture, hiring bar, code quality, customer expectations, and pricing discipline are seeds.
 - Franchises, subsidiaries, and second products are tests of fidelity. Whatever the parent does, the copy will reproduce. That includes the things the parent does not want reproduced.
 - The seed is internal. You cannot outsource the property of reproduction. A growth strategy that depends on an outside agent to reproduce is not the same as a business that reproduces.
@@ -663,6 +755,14 @@ The inverse failure also deserves a name: a refusal to multiply because the thin
 
 ### A12. Dominion is delegated and bounded
 
+#### Summary
+
+Genesis 1:26: "let them have dominion over the fish of the sea... and over all the earth". See also 1:28.
+
+Authority is real. It is real over a domain and under a law. It is granted, not seized. Scripture says: the domain is the fish, the fowl, the cattle, the earth, and every creeping thing. The list does not include other people.
+
+Reading, by analogy: authority over people inside an organization is a different grant. Do not borrow the force of "subdue" and "dominion" for it. Rule of one person over another first appears after the fall (A29), and Jesus forbids lordship among his people (Mark 10:42-43). With that limit, delegate real authority with real limits, and state both. Authority without limits becomes tyranny. Limits without authority become paralysis. In a growing company, the most expensive misunderstanding is about which of the two the company grants.
+
 After A5, this axiom and A17 carry the most weight in this group. The lexical work matters more here than anywhere else in the file. The KJV English "dominion" says less than the Hebrew, and the temptation is to overcorrect.
 
 Grounding text, Genesis 1:26 and 1:28:
@@ -671,7 +771,7 @@ Grounding text, Genesis 1:26 and 1:28:
 >
 > 28 ...and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
 
-#### Lexical (word for word from Strong's)
+#### Word meaning (word for word from Strong's)
 
 - H7287 רָדָה (_radah_): "to tread down, i.e. subjugate; specifically, to crumble off." From a primitive root. KJV renderings: "(come to, make to) have dominion, prevail against, reign, (bear, make to) rule,(-r, over), take."
 - H3533 כָּבַשׁ (_kabash_): "to tread down; hence, negatively, to disregard; positively, to conquer, subjugate, violate." KJV renderings: "bring into bondage, force, keep under, subdue, bring into subjection."
@@ -684,31 +784,31 @@ The lexicon establishes that both verbs are stronger than "custodianship." _Rada
 
 The lexicon does not establish that Genesis 1 commands aggressive extraction of resources. The warning in `scripture-foundations` applies. "The Hebrew is stronger than 'dominion' suggests" is a fair claim with the dictionary open. "The Hebrew proves that Genesis 1 commands aggressive resource extraction" is not a fair claim. Two limits hold the overcorrection in check, and both are in the same three verses:
 
-1. Text states: The grant is given. "Let them have dominion" is a permission, not a seizure. However strong the verb is, the authority is received.
-2. Text states: The grant is bounded. The verse lists its objects: fish of the sea, fowl of the air, cattle, all the earth, every creeping thing. And it sits under the frame of the image of God, stated one verse later (1:27, "So God created man in his own image"). Authority used as the image of God is authority used under a description.
+1. Scripture says: The grant is given. "Let them have dominion" is a permission, not a seizure. However strong the verb is, the authority is received.
+2. Scripture says: The grant is bounded. The verse lists its objects: fish of the sea, fowl of the air, cattle, all the earth, every creeping thing. And it sits under the frame of the image of God, stated one verse later (1:27, "So God created man in his own image"). Authority used as the image of God is authority used under a description.
 
 So the verbs are stronger than the English, and the scope is narrower than the verbs alone suggest. You need both halves.
 
 #### Observations
 
-1. Text states (structure of the grant): The grant has three elements, and each one is present:
+1. Scripture says (structure of the grant): The grant has three elements, and each one is present:
    - (a) An agent: the man, plural "them".
    - (b) A domain: listed item by item.
    - (c) A grantor: "Let them have".
-2. Text states: The grant is to "them", in the plural. It is not an individual possession.
-3. Text states: The grant covers living things and the earth, not the sky or the heavenly bodies. The lights (v. 14) are not in the grant. The text draws the boundary.
-4. Text states: God gives the grant before the fall. It has no curse in it. But the grant is not soft. The KJV renderings of _kabash_ include "force" and "bring into bondage". Inference: the subduing has real force in it, and the boundary and the image of God limit that force. The text does not describe a grant without force.
-5. Text states: The image of God is the ground of the grant. Verse 26 gives the reason ("Let us make man in our image... and let them have dominion"), and verse 27 states the image again right after. The authority comes from the resemblance.
+2. Scripture says: The grant is to "them", in the plural. It is not an individual possession.
+3. Scripture says: The grant covers living things and the earth, not the sky or the heavenly bodies. The lights (v. 14) are not in the grant. The text draws the boundary.
+4. Scripture says: God gives the grant before the fall. It has no curse in it. But the grant is not soft. The KJV renderings of _kabash_ include "force" and "bring into bondage". Reading: the subduing has real force in it, and the boundary and the image of God limit that force. The text does not describe a grant without force.
+5. Scripture says: The image of God is the ground of the grant. Verse 26 gives the reason ("Let us make man in our image... and let them have dominion"), and verse 27 states the image again right after. The authority comes from the resemblance.
 
 #### Derivation
 
-Inference: Two things follow, and they are in tension by design.
+Reading: Two things follow, and they are in tension by design.
 
 First, authority is real. It is not a fiction, a license, or a courtesy. The verbs are strong. Some readings reduce dominion to "stewardship" in the weak sense, which is care without authority. Such a reading does not survive the lexicon.
 
 Second, authority is bounded, and it is delegated. It is real over a domain and under a law. It is granted, not seized. Genesis 1 supplies the list of the domain. Genesis 2:16-17 supplies the law.
 
-Text states: the domain is the fish, the fowl, the cattle, the earth, and every creeping thing (1:26). The list does not include other people. Inference, by analogy: authority over people inside an organization is a different grant. Do not borrow the force of _radah_ and _kabash_ for it. Scripture says that "there is no power but of God" (Romans 13:1). Rule of one person over another first appears after the fall (A29), and Jesus forbids lordship among his people (Mark 10:42-43).
+Scripture says: the domain is the fish, the fowl, the cattle, the earth, and every creeping thing (1:26). The list does not include other people. Reading, by analogy: authority over people inside an organization is a different grant. Do not borrow the force of _radah_ and _kabash_ for it. Scripture says that "there is no power but of God" (Romans 13:1). Rule of one person over another first appears after the fall (A29), and Jesus forbids lordship among his people (Mark 10:42-43).
 
 Therefore, with that limit: delegate real authority with real limits, and state both. Authority without limits becomes tyranny. Limits without authority become paralysis. In a growing company, the most expensive misunderstanding is about which of the two the company grants.
 
@@ -716,7 +816,7 @@ Therefore, with that limit: delegate real authority with real limits, and state 
 
 - Write both halves down. A role description that names only responsibilities and no limits is not a grant. It is a liability. A role description that names only limits is not a grant either.
 - The list of the domain matters. A grant is over specific things. "Own the product" is not a domain. "Own the product roadmap for the SMB segment, excluding pricing and packaging" is a domain.
-- Authority comes from something, and the text states its source. The ground of the grant is the image of God, a resemblance. Every human bears that image (1:27), so it is not a credential that one person holds over another. Inference, by analogy: in organizational terms, authority also needs understanding of the thing governed. That is why a grant of authority to someone who does not understand the domain fails, however clearly the limits are written.
+- Authority comes from something, and the text states its source. The ground of the grant is the image of God, a resemblance. Every human bears that image (1:27), so it is not a credential that one person holds over another. Reading, by analogy: in organizational terms, authority also needs understanding of the thing governed. That is why a grant of authority to someone who does not understand the domain fails, however clearly the limits are written.
 - The grant is plural. "Let them have dominion." Dominion is a shared holding, not a personal one. This connects to A18 (aloneness) and to the material on organization design in `org-and-labor.md`.
 
 #### Failure mode when violated
@@ -741,23 +841,31 @@ The anti-pattern table does not list A12 directly. The violation of this axiom s
 
 ### A13. Provision precedes assignment
 
+#### Summary
+
+Genesis 1:29: "Behold, I have given you every herb... to you it shall be for meat."
+
+God grants the resources before he requires the work of the worker. Scripture says: in chapter 1 the grant of food (1:29) comes right after the command (1:28). In chapter 2 the garden is planted and its trees grow (2:8-9) before the man is put there to work it (2:15).
+
+Reading: fund the work before you operate. Fund the work before you demand from it. Deuteronomy 25:4 adds a related rule: do not muzzle the ox while it treads out the corn. The ox eats during the work. Paul applies this law to those who preach the gospel (1 Corinthians 9:9-14) and to elders (1 Timothy 5:17-18). A business use of these texts is an analogy. Paul also gave up the right himself: "Nevertheless we have not used this power" (1 Corinthians 9:12). So a worker may choose to forgo pay for a stated reason. The fault is a model that depends on unpaid work, or that forces it on people who did not choose it. A model that requires output before inputs is not disciplined. It is starving.
+
 Grounding text, Genesis 1:29:
 
 > 29 And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.
 
-Text states (sequence): God gives the provision in verse 29. That is after the command to multiply and subdue in verse 28, and before the work of tilling in Genesis 2:15. Inside chapter 1, the grant of food comes before the close of the sixth day.
+Scripture says (sequence): God gives the provision in verse 29. That is after the command to multiply and subdue in verse 28, and before the work of tilling in Genesis 2:15. Inside chapter 1, the grant of food comes before the close of the sixth day.
 
 #### Observations
 
-1. Text states: The verb is "give": "Behold, I have given you." It is not "you can buy" or "you can earn". It is given.
-2. Text states: The provision is listed and specific: every herb bearing seed, and every tree with fruit that yields seed. The grant is not "whatever you can find."
-3. Text states: The provision covers the animals too (v. 30): "And to every beast of the earth... I have given every green herb for meat".
-4. Text states: God gives the provision before the man does any recorded work. The first work in the account is in Genesis 2:15, and it comes after the food.
-5. Text states (Genesis 2:7): God forms the man from dust and gives him breath. That comes before he puts him in the garden (2:15) and before the command about the trees (2:16-17). The order is provision, then placement, then assignment.
+1. Scripture says: The verb is "give": "Behold, I have given you." It is not "you can buy" or "you can earn". It is given.
+2. Scripture says: The provision is listed and specific: every herb bearing seed, and every tree with fruit that yields seed. The grant is not "whatever you can find."
+3. Scripture says: The provision covers the animals too (v. 30): "And to every beast of the earth... I have given every green herb for meat".
+4. Scripture says: God gives the provision before the man does any recorded work. The first work in the account is in Genesis 2:15, and it comes after the food.
+5. Scripture says (Genesis 2:7): God forms the man from dust and gives him breath. That comes before he puts him in the garden (2:15) and before the command about the trees (2:16-17). The order is provision, then placement, then assignment.
 
 #### Derivation
 
-Inference: The resources are granted before the work is required of the worker. So fund the work before you operate. Fund the work before you demand from it.
+Reading: The resources are granted before the work is required of the worker. So fund the work before you operate. Fund the work before you demand from it.
 
 A model that requires output before inputs is not disciplined. It is starving. The difference matters. "Disciplined" implies that the inputs exist and that someone holds them back on purpose, for a good reason. The text gives no example of withheld inputs as a technique.
 
@@ -777,7 +885,7 @@ Deuteronomy 25:4:
 
 > 18 For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, The labourer is worthy of his reward.
 
-Text states: Paul reads the law of the ox as written "altogether for our sakes", and he applies it to "they which preach the gospel" (9:14). Text states: in the same chapter he gives up the right for himself: "Nevertheless we have not used this power; but suffer all things, lest we should hinder the gospel of Christ" (9:12), and "I have used none of these things" (9:15). Inference: the ox eats while it treads, so the law points to provision during the work, not only at the end. Note that this is provision during the work, not before it. Inference: the right is real, and a worker may still choose to give it up for a stated reason.
+Scripture says: Paul reads the law of the ox as written "altogether for our sakes", and he applies it to "they which preach the gospel" (9:14). Scripture says: in the same chapter he gives up the right for himself: "Nevertheless we have not used this power; but suffer all things, lest we should hinder the gospel of Christ" (9:12), and "I have used none of these things" (9:15). Reading: the ox eats while it treads, so the law points to provision during the work, not only at the end. Note that this is provision during the work, not before it. Reading: the right is real, and a worker may still choose to give it up for a stated reason.
 
 #### Business consequences
 
@@ -804,28 +912,36 @@ These verses show that God provides. None of them is a promise of business capit
 
 ### A14. Completion is a real state
 
+#### Summary
+
+Genesis 2:1: "Thus the heavens and the earth were finished, and all the host of them."
+
+There is a finish line, and God declares it. The work ends.
+
+Reading: define "done" before you start, and mean it. Scope creep is not ambition. It is a refusal to accept limits that were designed. You cannot evaluate, ship, celebrate, or build on a thing that is never finished.
+
 Grounding text, Genesis 2:1-2:
 
 > 1 Thus the heavens and the earth were finished, and all the host of them.
 >
 > 2 And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.
 
-#### Lexical
+#### Word meaning
 
 - H3615 כָּלָה (_kalah_): "to end, whether intransitive (to cease, be finished, perish) or transitived (to complete, prepare, consume)". The KJV "finished" (2:1) and "ended" (2:2) both translate this one verb.
 
 #### Observations
 
-1. Text states: The work has a finish. The KJV says "finished" in 2:1 and "ended" in 2:2. Lexical: both English words translate one Hebrew verb, _kalah_ (H3615). The text states the end of the work twice, in two consecutive verses.
-2. Text states: The finish is declared. The reader does not infer it from a lack of further activity. The text states it.
-3. Text states: The finish is total: "all the host of them." Nothing is left half made.
-4. Text states: The work stops and rest begins. Rest is possible only because the work ended. The seventh day is a different kind of day because the six are over.
-5. Text states: The KJV uses the same kind of words at the end of the tabernacle ("Thus was all the work of the tabernacle... finished", Exodus 39:32, and "So Moses finished the work", Exodus 40:33). It does the same at the end of the temple ("So was ended all the work", 1 Kings 7:51). Inference: the end of a work is a formula, not an accident of the story.
-6. Inference (the New Testament echo): At the end of his work Jesus says "It is finished" (John 19:30). Lexical: the Greek verb there is _teleo_ (G5055), "to end, i.e. complete, execute, conclude, discharge (a debt)". It is not the same word as the Hebrew _kalah_. The two words share a meaning, to end or complete, but not a form. Revelation 21:6 also says "It is done."
+1. Scripture says: The work has a finish. The KJV says "finished" in 2:1 and "ended" in 2:2. Word meaning: both English words translate one Hebrew verb, _kalah_ (H3615). The text states the end of the work twice, in two consecutive verses.
+2. Scripture says: The finish is declared. The reader does not infer it from a lack of further activity. The text states it.
+3. Scripture says: The finish is total: "all the host of them." Nothing is left half made.
+4. Scripture says: The work stops and rest begins. Rest is possible only because the work ended. The seventh day is a different kind of day because the six are over.
+5. Scripture says: The KJV uses the same kind of words at the end of the tabernacle ("Thus was all the work of the tabernacle... finished", Exodus 39:32, and "So Moses finished the work", Exodus 40:33). It does the same at the end of the temple ("So was ended all the work", 1 Kings 7:51). Reading: the end of a work is a formula, not an accident of the story.
+6. Reading (the New Testament echo): At the end of his work Jesus says "It is finished" (John 19:30). Word meaning: the Greek verb there is _teleo_ (G5055), "to end, i.e. complete, execute, conclude, discharge (a debt)". It is not the same word as the Hebrew _kalah_. The two words share a meaning, to end or complete, but not a form. Revelation 21:6 also says "It is done."
 
 #### Derivation
 
-Inference: Completion is a declared state with a boundary on both sides, work on one side and rest on the other. So you must define "done" before you start, and you must mean it.
+Reading: Completion is a declared state with a boundary on both sides, work on one side and rest on the other. So you must define "done" before you start, and you must mean it.
 
 Scope creep is not ambition. It is a refusal to accept limits that were designed. You cannot evaluate (A9, A10), ship, celebrate, or build on a thing that is never finished. The axiom is not about discipline in the abstract. It says that evaluation and rest both depend on an end point.
 
@@ -833,7 +949,7 @@ Scope creep is not ambition. It is a refusal to accept limits that were designed
 
 - Define "done" before you start, and mean it. `SKILL.md` step 8 asks: what condition that you can observe means done, and who declares it? A "done" that no one has the authority to declare is not a definition.
 - A stopping rule is part of the specification. The anti-pattern table pairs A8 and A14 for "A plan with no stopping rule". The result is endless projects, no learning, and no exit. The mechanism: with no finish, the evaluation never becomes binding, so no learning happens.
-- Completion makes rest deeper. God rested after he ended his work (2:2). The weekly rest in the law is set by the calendar, not by a finished quota (Exodus 20:9-10, see A15). Inference: rest does not wait for completion, but a clear "done" helps. Work that is declared finished can be left. Work with no end follows you into the rest.
+- Completion makes rest deeper. God rested after he ended his work (2:2). The weekly rest in the law is set by the calendar, not by a finished quota (Exodus 20:9-10, see A15). Reading: rest does not wait for completion, but a clear "done" helps. Work that is declared finished can be left. Work with no end follows you into the rest.
 - To ship is an act of closure, not an admission that the thing is incomplete. The text declares the work finished, and the story still continues: a fall in chapter 3, then a flood, then a tabernacle. Finished means that the designed scope is complete.
 
 #### Failure mode when violated
@@ -856,29 +972,39 @@ Genesis 2:1-3 and 2:15-25. This group has seven axioms on the pattern of work: r
 
 ### A15. Work is bounded; rest is structural
 
+#### Summary
+
+Genesis 2:2: "And on the seventh day God ended his work... and he rested".
+
+There are six units of work and one unit of cessation. The ratio is given, not earned.
+
+Reading: capacity planning must include rest, or the plan is wrong. This shows up as the sabbath and as the fallow year and the jubilee, which limit accumulation (Leviticus 25). The fallow year also fed the poor: "that the poor of thy people may eat" (Exodus 23:11). It also shows up in a plain fact: burnout is a design violation, not a character flaw. A plan that works only at full throttle forever is not a plan.
+
+Disputed: Christians differ on how the Sabbath command applies today. Some keep the seventh day, because Exodus 20:11 grounds it in the creation week. Some keep the first day as the Lord's Day (Acts 20:7, Revelation 1:10). Others hold that the Sabbath was a sign to Israel (Exodus 31:17) and a "shadow of things to come; but the body is of Christ" (Colossians 2:16-17), and that Romans 14:5 leaves the day to conscience. The axiom does not depend on the answer. It rests on the pattern of work and rest, which all these views accept.
+
 Grounding text, Genesis 2:2-3:
 
 > 2 And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.
 >
 > 3 And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.
 
-#### Lexical
+#### Word meaning
 
 - H7676 שַׁבָּת (_shabbath_): "intermission, i.e (specifically) the Sabbath." It is an intensive form from H7673 שָׁבַת (_shabath_). The root sense is cessation, not refreshment. What does not happen on the day defines it.
 - H7673 שָׁבַת (_shabath_): the root. "to repose, i.e. desist from exertion".
 
 #### Observations
 
-1. Text states (ratio): There are six days of work and one day of cessation. Inference: the ratio is given, not earned. For God the rest followed the end of the work (2:2). For Israel the day came by the calendar: "Six days shalt thou labour, and do all thy work: But the seventh day is the sabbath of the LORD thy God" (Exodus 20:9-10).
-2. Text states: God blesses and sanctifies the day. It is not only permitted. It is set apart. Rest is an institution. God sets it apart on the seventh day. That is after he makes man on the sixth day (1:27), and before the text records any human work (2:15).
-3. Text states (checked by search): The fourth commandment states the pattern again, on the same ground. Exodus 20:11: "For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it."
-4. Text states: The command extends the rest to other people and to animals. Exodus 20:10 names "thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates". Rest is not a personal privilege. It is a structural provision for everyone in the system.
-5. Text states: The rest is from work, and the work was finished (A14). The same verse pairs the two.
-6. Contested: Christians differ on how the Sabbath command applies today. Some keep the seventh day, because the command rests on the creation week (Exodus 20:11). Some keep the first day as the Lord's Day and see the fourth commandment carried into it: "upon the first day of the week, when the disciples came together to break bread" (Acts 20:7), and "I was in the Spirit on the Lord's day" (Revelation 1:10). Others hold that the Sabbath was "a sign between me and the children of Israel for ever" (Exodus 31:17) and a "shadow of things to come; but the body is of Christ" (Colossians 2:16-17). They read "There remaineth therefore a rest to the people of God" (Hebrews 4:9) as rest in Christ, and Romans 14:5 as leaving the day to conscience. This file does not settle the question. The business inference rests on the pattern of work and rest, which all these views accept.
+1. Scripture says (ratio): There are six days of work and one day of cessation. Reading: the ratio is given, not earned. For God the rest followed the end of the work (2:2). For Israel the day came by the calendar: "Six days shalt thou labour, and do all thy work: But the seventh day is the sabbath of the LORD thy God" (Exodus 20:9-10).
+2. Scripture says: God blesses and sanctifies the day. It is not only permitted. It is set apart. Rest is an institution. God sets it apart on the seventh day. That is after he makes man on the sixth day (1:27), and before the text records any human work (2:15).
+3. Scripture says (checked by search): The fourth commandment states the pattern again, on the same ground. Exodus 20:11: "For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it."
+4. Scripture says: The command extends the rest to other people and to animals. Exodus 20:10 names "thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates". Rest is not a personal privilege. It is a structural provision for everyone in the system.
+5. Scripture says: The rest is from work, and the work was finished (A14). The same verse pairs the two.
+6. Disputed: Christians differ on how the Sabbath command applies today. Some keep the seventh day, because the command rests on the creation week (Exodus 20:11). Some keep the first day as the Lord's Day and see the fourth commandment carried into it: "upon the first day of the week, when the disciples came together to break bread" (Acts 20:7), and "I was in the Spirit on the Lord's day" (Revelation 1:10). Others hold that the Sabbath was "a sign between me and the children of Israel for ever" (Exodus 31:17) and a "shadow of things to come; but the body is of Christ" (Colossians 2:16-17). They read "There remaineth therefore a rest to the people of God" (Hebrews 4:9) as rest in Christ, and Romans 14:5 as leaving the day to conscience. This file does not settle the question. The business inference rests on the pattern of work and rest, which all these views accept.
 
 #### Derivation
 
-Inference: The ratio is given, not earned. So capacity planning must include rest, or the plan is wrong. A plan that works only at full throttle forever is not a plan.
+Reading: The ratio is given, not earned. So capacity planning must include rest, or the plan is wrong. A plan that works only at full throttle forever is not a plan.
 
 The derivation has a sharp edge. Rest is not a reward for good performance. It does not depend on a finished quota (see observation 1 and A14). So it belongs in the plan as a fixed input, like the duty cycle of a machine in a manufacturing plan. It is not a variable to squeeze when the schedule slips.
 
@@ -898,13 +1024,13 @@ Leviticus 25 gives the sabbath of the land and the jubilee. See `capital-and-ste
 
 - Burnout is a design violation, not a character flaw. This new view is the main contribution of the axiom. If rest is structural, a person who breaks under a full-throttle plan is evidence that the plan was wrong. It is not evidence that the person was weak. If you treat it as a character flaw, you guarantee that the same plan runs again on the next person.
 - The provision of rest is for the whole system, not only the principal. Exodus 20:10 names the servants, the animals, and the foreigner who lives there. In business terms, these are contractors, on-call staff, and the people least able to refuse.
-- The fallow year had a stated purpose beyond rest: "that the poor of thy people may eat" (Exodus 23:11). Inference, by analogy: a planned pause is not waste, and a business can ask who else is fed by its rest and its margins. The question is whether you planned the pause or it happened by accident.
+- The fallow year had a stated purpose beyond rest: "that the poor of thy people may eat" (Exodus 23:11). Reading, by analogy: a planned pause is not waste, and a business can ask who else is fed by its rest and its margins. The question is whether you planned the pause or it happened by accident.
 - Use a duty cycle, not heroism. A team that can hit a date only by working every weekend has a plan with a duty cycle above 100%. That is not a plan.
 - Jubilee limits accumulation. Leviticus 25 releases land in the jubilee (25:10-13, 23-28) and releases servants (25:39-41). That is a structural limit on compounding advantage. The release of debts is a different law, the seventh-year release in Deuteronomy 15:1-2. `capital-and-stewardship.md` discusses both at length.
 
 #### Failure mode when violated
 
-The failure is burnout, attrition, and a cliff. That is the entry in the anti-pattern table for "full-throttle plans with no rest." The cliff is the important part. Inference: attrition often looks gradual, but the loss of the people who hold the plan together is sudden. The bill comes as a sudden collapse that you cannot recover from, not as a slow decline.
+The failure is burnout, attrition, and a cliff. That is the entry in the anti-pattern table for "full-throttle plans with no rest." The cliff is the important part. Reading: attrition often looks gradual, but the loss of the people who hold the plan together is sudden. The bill comes as a sudden collapse that you cannot recover from, not as a slow decline.
 
 #### Extending verses
 
@@ -919,13 +1045,21 @@ The failure is burnout, attrition, and a cliff. That is the entry in the anti-pa
 
 ### A16. Work precedes the fall
 
+#### Summary
+
+Genesis 2:15: "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it."
+
+God assigns work before the curse, in the garden, as part of the design.
+
+Reading: work is not the punishment, and it is not only the price of survival. It is where meaning is produced. A business that only pays, and makes nothing that anyone can love, will hold people with money and lose them anyway.
+
 Grounding text, Genesis 2:15:
 
 > 15 And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.
 
-Text states (sequence): This verse is in Genesis 2. The curse on the ground is in Genesis 3:17-19. God gives the work assignment before the fall, in the garden, as part of the design. The curse changes the conditions of work. It does not introduce work.
+Scripture says (sequence): This verse is in Genesis 2. The curse on the ground is in Genesis 3:17-19. God gives the work assignment before the fall, in the garden, as part of the design. The curse changes the conditions of work. It does not introduce work.
 
-#### Lexical
+#### Word meaning
 
 - H3240 יָנַח (_yanach_): "to deposit; by implication, to allow to stay." The KJV renders it "put." KJV: "bestow, cast down, lay (down, up), leave (off), let alone (remain), pacify, place, put, set (down), suffer, withdraw, withhold."
 - H5647 עָבַד (_abad_): see A17.
@@ -934,15 +1068,15 @@ Text states (sequence): This verse is in Genesis 2. The curse on the ground is i
 
 #### Observations
 
-1. Text states: God assigns work in the garden, before any curse. The garden is not a resort. It is a workplace with a job description.
-2. Text states: The verb of placement means to deposit. God deposits the man, as something placed in the care of a location. Inference: the placement starts a relationship of custody. It is not only a change of address.
-3. Text states: The job comes before the prohibition (2:15 before 2:16-17). Work comes before the boundary.
-4. Text states: The text describes the garden as abundant. It has "every tree that is pleasant to the sight, and good for food" (2:9), and a river waters it (2:10). The river parts into four heads. The first one goes around "the whole land of Havilah, where there is gold" (2:11-12). The gold is in Havilah, outside the garden, not among the resources of the garden. God assigns work in a place that already has what the man needs. Inference: in the design, work is not mainly a way to survive. It is what a person does who already has provision.
-5. Text states: The curse changes the ground ("cursed is the ground for thy sake," 3:17) and the yield ("in sorrow shalt thou eat of it," 3:17). It adds thorns (3:18) and sweat (3:19). It does not add the job.
+1. Scripture says: God assigns work in the garden, before any curse. The garden is not a resort. It is a workplace with a job description.
+2. Scripture says: The verb of placement means to deposit. God deposits the man, as something placed in the care of a location. Reading: the placement starts a relationship of custody. It is not only a change of address.
+3. Scripture says: The job comes before the prohibition (2:15 before 2:16-17). Work comes before the boundary.
+4. Scripture says: The text describes the garden as abundant. It has "every tree that is pleasant to the sight, and good for food" (2:9), and a river waters it (2:10). The river parts into four heads. The first one goes around "the whole land of Havilah, where there is gold" (2:11-12). The gold is in Havilah, outside the garden, not among the resources of the garden. God assigns work in a place that already has what the man needs. Reading: in the design, work is not mainly a way to survive. It is what a person does who already has provision.
+5. Scripture says: The curse changes the ground ("cursed is the ground for thy sake," 3:17) and the yield ("in sorrow shalt thou eat of it," 3:17). It adds thorns (3:18) and sweat (3:19). It does not add the job.
 
 #### Derivation
 
-Inference: God assigns work before the fall. So work is not the punishment, and it is not only the price of survival. It is where meaning is produced.
+Reading: God assigns work before the fall. So work is not the punishment, and it is not only the price of survival. It is where meaning is produced.
 
 The derivation rests on observation 5. The curse changes the conditions, not the existence of the task. If work were the curse, the curse must have introduced it. It did not.
 
@@ -977,33 +1111,43 @@ The inverse failure also deserves a name: to treat work as the whole of meaning,
 
 ### A17. Building and keeping are equal partners
 
+#### Summary
+
+Genesis 2:15, the same verse: to "dress" it (cultivate, serve, bring forth) and to "keep" it (guard, preserve, hold).
+
+The verse gives two verbs and two duties together as the job.
+
+Reading: creation and maintenance are equal. Maintenance is not junior work. Most businesses die of a failure to keep while they congratulate themselves on how they dress. The wall falls down while the new wing goes up. Give "keep" named owners, calendar time, and equal status.
+
+Nehemiah 4:17 is the image. The builders worked "with one of his hands... in the work, and with the other hand held a weapon." They build and defend at once. Proverbs 24:30-34 is the warning. The slothful man let both duties go. The field is "all grown over with thorns", "the stone wall thereof was broken down", and the diagnosis is: "Yet a little sleep, a little slumber".
+
 This is one of the two axioms in this group that carry the most operational weight. It rests on two separate Hebrew verbs, which the KJV translates with two ordinary English words.
 
 Grounding text, Genesis 2:15:
 
 > 15 And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.
 
-#### Lexical (word for word from Strong's)
+#### Word meaning (word for word from Strong's)
 
 - H5647 עָבַד (_abad_): "to work (in any sense); by implication, to serve, till, (causatively) enslave, etc." From a primitive root. The KJV renderings include: "[idiom] be, keep in bondage, be bondmen, bond-service, compel, do, dress, ear, execute, [phrase] husbandman, keep, labour(-ing man, bring to pass, (cause to, make to) serve(-ing, self), (be, become) servant(-s), do (use) service, till(-er), transgress (from margin), (set a) work, be wrought, worshipper".
   - Note the KJV list. "Dress" and "worshipper" are renderings of the same root. The word for tending a garden is the word for serving God.
   - Note also that the same root gives H5650 עֶבֶד (_ebed_), "a servant". The verb of the gardener and the noun for the servant come from the same root.
 - H8104 שָׁמַר (_shamar_): "properly, to hedge about (as with thorns), i.e. guard; generally, to protect, attend to, etc." From a primitive root. KJV renderings: "beward, be circumspect, take heed (to self), keep(-er, self), mark, look narrowly, observe, preserve, regard, reserve, save (self), sure, (that lay) wait (for), watch(-man)."
-  - Note: the definition itself uses thorns as the image, "to hedge about (as with thorns)". A hedge is a protective boundary. Speculation: the thorns of the curse in Genesis 3:18 are a different Hebrew word, H6975 קוֹץ (_qots_), "a thorn". So the link between the thorns of keeping and the thorns of the curse is only an English image. It is not a link in the Hebrew. Do not build on it.
+  - Note: the definition itself uses thorns as the image, "to hedge about (as with thorns)". A hedge is a protective boundary. Guess: the thorns of the curse in Genesis 3:18 are a different Hebrew word, H6975 קוֹץ (_qots_), "a thorn". So the link between the thorns of keeping and the thorns of the curse is only an English image. It is not a link in the Hebrew. Do not build on it.
   - Note also that the KJV renderings include "watch(-man)". Keeping is a post, not only an activity.
 
 #### Observations
 
-1. Text states: The job has two verbs and two duties, given together. It is not one verb with two aspects. It is two separate words, joined by "and".
-2. Text states: God gives both duties to the same person, at the same moment, as the same job. The sentence has no ranking.
-3. Text states: The first verb (_abad_) is productive. It works, tills, serves, and brings forth. The second verb (_shamar_) is protective. It hedges, guards, watches, and preserves.
-4. Text states (checked by search): _Shamar_ is the verb for the cherubim that guard the way to the tree of life. Genesis 3:24 says "...to keep the way of the tree of life." It is the same word. The verb for the second duty of the gardener describes the guard at the gate after the fall.
-5. Text states: Nothing in the verse or in the story around it treats _shamar_ as the lesser duty. God does not tell the man to dress the garden and, as a side matter, also not to lose it.
-6. Text states (Proverbs, the failure case): Proverbs 24:30-34 gives the result of neglect, in the exact vocabulary of a farm.
+1. Scripture says: The job has two verbs and two duties, given together. It is not one verb with two aspects. It is two separate words, joined by "and".
+2. Scripture says: God gives both duties to the same person, at the same moment, as the same job. The sentence has no ranking.
+3. Scripture says: The first verb (_abad_) is productive. It works, tills, serves, and brings forth. The second verb (_shamar_) is protective. It hedges, guards, watches, and preserves.
+4. Scripture says (checked by search): _Shamar_ is the verb for the cherubim that guard the way to the tree of life. Genesis 3:24 says "...to keep the way of the tree of life." It is the same word. The verb for the second duty of the gardener describes the guard at the gate after the fall.
+5. Scripture says: Nothing in the verse or in the story around it treats _shamar_ as the lesser duty. God does not tell the man to dress the garden and, as a side matter, also not to lose it.
+6. Scripture says (Proverbs, the failure case): Proverbs 24:30-34 gives the result of neglect, in the exact vocabulary of a farm.
 
 #### Derivation
 
-Inference: God gives the two verbs together as the same job. So creation and maintenance are equal. Maintenance is not junior work.
+Reading: God gives the two verbs together as the same job. So creation and maintenance are equal. Maintenance is not junior work.
 
 The derivation rests on observation 2. God gives the two duties in one sentence, to one person, at one time. Any ranking must come from outside the verse. The verse does not contain one.
 
@@ -1021,7 +1165,7 @@ Proverbs 24:30-34:
 >
 > 34 So shall thy poverty come as one that travelleth; and thy want as an armed man.
 
-Text states: The field is "all grown over with thorns", and "the stone wall thereof was broken down". The text names the cause as sloth. Inference: both duties failed. The thorns show that no one dressed the field, and the broken wall shows that no one kept it. So the passage does not show building chosen over keeping. It shows how neglect of either one grows. Note that the diagnosis is not total idleness. It is "a little sleep, a little slumber". The failure grows by small steps, and each step is small.
+Scripture says: The field is "all grown over with thorns", and "the stone wall thereof was broken down". The text names the cause as sloth. Reading: both duties failed. The thorns show that no one dressed the field, and the broken wall shows that no one kept it. So the passage does not show building chosen over keeping. It shows how neglect of either one grows. Note that the diagnosis is not total idleness. It is "a little sleep, a little slumber". The failure grows by small steps, and each step is small.
 
 Nehemiah gives the positive image.
 
@@ -1029,7 +1173,7 @@ Nehemiah 4:17:
 
 > 17 They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon.
 
-Text states: The people build and defend at once. They do not build first and defend later. The same people do both at the same time, and the verse names the two hands separately.
+Scripture says: The people build and defend at once. They do not build first and defend later. The same people do both at the same time, and the verse names the two hands separately.
 
 #### Business consequences
 
@@ -1043,7 +1187,7 @@ Text states: The people build and defend at once. They do not build first and de
 
 The anti-pattern table states it directly. Shipping with no owner for maintenance leads to rot, and then to a rewrite.
 
-The table in `SKILL.md` also gives a rewrite cost of 5-10 times. That number is an unsourced engineering estimate. It is not a number from Scripture and not a measured fact. The text gives only the shape: the field goes back to weeds, and the wall must be rebuilt, not repaired.
+A common estimate puts the cost of the rewrite at 5-10 times the cost of keeping. That number is an unsourced engineering estimate. It is not a number from Scripture and not a measured fact. The text gives only the shape: the field goes back to weeds, and the wall must be rebuilt, not repaired.
 
 The secondary failure: an organization that cannot tell building from keeping will call maintenance "not real work". Then nobody gives the people who do it credit. Then nobody who has a choice keeps doing it.
 
@@ -1061,32 +1205,44 @@ The secondary failure: an organization that cannot tell building from keeping wi
 
 ### A18. Aloneness is not good
 
+#### Summary
+
+Genesis 2:18: "And the LORD God said, It is not good that the man should be alone".
+
+After a chapter that calls everything good, the first "not good" is isolation.
+
+Reading: the earliest lack that the design names is a person without a counterpart. Partnership and counsel are not luxuries for the insecure. They correct a stated defect. Word meaning: Strong's defines the word for "help" (H5828, _ezer_) as "aid", and names that refer to God use it (Exodus 18:4). Reading: a counterpart can stand opposite and speak. It is more than someone who only takes direction.
+
+Disputed: faithful readers differ on what "an help meet for him" implies for the roles of man and woman. Complementarian readers see an order in Genesis 2 with equal worth. They cite 1 Corinthians 11:9 ("Neither was the man created for the woman; but the woman for the man"), 1 Timothy 2:13, and Ephesians 5:23-25. They read "he shall rule over thee" (Genesis 3:16) as sin bending that order (compare 4:7). Egalitarian readers see no order of rule before the fall. They read 3:16 as a result of the fall, and cite Genesis 1:27-28, 1 Corinthians 11:11, Ephesians 5:21, and Galatians 3:28. The business inference here does not depend on the answer.
+
+Proverbs 15:22: "Without counsel purposes are disappointed: but in the multitude of counsellors they are established."
+
 Grounding text, Genesis 2:18:
 
 > 18 And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him.
 
-#### Lexical (word for word from Strong's)
+#### Word meaning (word for word from Strong's)
 
 - H5828 עֵזֶר (_ezer_): "aid". From H5826 עָזַר (_azar_), "to surround, i.e. protect or aid". The KJV rendering of H5828 is "help". It is a singular noun.
 - H5048 נֶגֶד (_neged_): "a front, i.e. part opposite; specifically a counterpart, or mate; usually (adverbial, especially with preposition) over against or before". KJV renderings: "about, (over) against, [idiom] aloof, [idiom] far (off), [idiom] from, over, presence, [idiom] other side, sight, [idiom] to view."
 - The KJV phrase "an help meet for him" renders _ezer kenegdo_: an aid who is a counterpart, literally one "over against" him.
 
-Text states (the negative space): This is the first "not good" in the Bible. Genesis 1 calls things good again and again and ends with "very good". After that chapter, the first lack that God names is isolation.
+Scripture says (the negative space): This is the first "not good" in the Bible. Genesis 1 calls things good again and again and ends with "very good". After that chapter, the first lack that God names is isolation.
 
 #### Observations
 
-1. Text states: The judgment is "not good". It is not "unfortunate" or "less than ideal". It is the same word of evaluation as in chapter 1, with a negation.
-2. Text states: The problem is the aloneness of the man. God states it before the man notices it. God says it and then acts. Only after that does Adam find the gap (2:20, "but for Adam there was not found an help meet for him"). God declared the need before Adam felt it.
-3. Text states: The remedy is "an help meet for him". Lexical: the KJV "help meet" is _ezer kenegdo_. Strong's defines _ezer_ as "aid", and the gloss for _neged_ includes "a counterpart, or mate". Inference: an aid who is a counterpart, one set over against him.
-   - Contested: faithful readers differ on what this verse implies for the roles of man and woman. Complementarian readers hold that Genesis 2 sets an order between man and woman, with equal worth, before the fall. They cite 1 Corinthians 11:8-9 ("Neither was the man created for the woman; but the woman for the man") and 1 Timothy 2:13 ("For Adam was first formed, then Eve"). They also cite Ephesians 5:23 ("For the husband is the head of the wife, even as Christ is the head of the church") with 5:25 ("Husbands, love your wives, even as Christ also loved the church, and gave himself for it"). They read "he shall rule over thee" (3:16) as sin bending that order, and compare 4:7, "And unto thee shall be his desire, and thou shalt rule over him." Egalitarian readers hold that Genesis 2 sets no order of rule, and that rule enters with the fall (3:16). They read that rule as a consequence, described and not commanded, like the thorns. They cite Genesis 1:27-28, where both bear the image and both receive the dominion, 1 Corinthians 11:11 ("Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord"), Ephesians 5:21 ("Submitting yourselves one to another in the fear of God"), and Galatians 3:28 ("there is neither male nor female: for ye are all one in Christ Jesus"). This file does not settle the question. The business inference rests only on the counterpart, which both views accept.
-4. Text states (the sequence): God declares the lack (v. 18) before the naming of the animals (vv. 19-20), and the provision (vv. 21-22) comes after. So the man works, finds the gap, and then receives the counterpart.
-5. Lexical (the use of _ezer_, stated with its limits): Strong's defines H5828 as "aid". The word is also part of names that refer to God: Eliezer ("God of help", H410 + H5828), Azriel ("help of God", H5828 + H410), and Ebenezer ("stone of the help", H68 + H5828). Exodus 18:4 explains the name Eliezer directly: "And the name of the other was Eliezer; for the God of my father, said he, was mine help, and delivered me from the sword of Pharaoh".
+1. Scripture says: The judgment is "not good". It is not "unfortunate" or "less than ideal". It is the same word of evaluation as in chapter 1, with a negation.
+2. Scripture says: The problem is the aloneness of the man. God states it before the man notices it. God says it and then acts. Only after that does Adam find the gap (2:20, "but for Adam there was not found an help meet for him"). God declared the need before Adam felt it.
+3. Scripture says: The remedy is "an help meet for him". Word meaning: the KJV "help meet" is _ezer kenegdo_. Strong's defines _ezer_ as "aid", and the gloss for _neged_ includes "a counterpart, or mate". Reading: an aid who is a counterpart, one set over against him.
+   - Disputed: faithful readers differ on what this verse implies for the roles of man and woman. Complementarian readers hold that Genesis 2 sets an order between man and woman, with equal worth, before the fall. They cite 1 Corinthians 11:8-9 ("Neither was the man created for the woman; but the woman for the man") and 1 Timothy 2:13 ("For Adam was first formed, then Eve"). They also cite Ephesians 5:23 ("For the husband is the head of the wife, even as Christ is the head of the church") with 5:25 ("Husbands, love your wives, even as Christ also loved the church, and gave himself for it"). They read "he shall rule over thee" (3:16) as sin bending that order, and compare 4:7, "And unto thee shall be his desire, and thou shalt rule over him." Egalitarian readers hold that Genesis 2 sets no order of rule, and that rule enters with the fall (3:16). They read that rule as a consequence, described and not commanded, like the thorns. They cite Genesis 1:27-28, where both bear the image and both receive the dominion, 1 Corinthians 11:11 ("Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord"), Ephesians 5:21 ("Submitting yourselves one to another in the fear of God"), and Galatians 3:28 ("there is neither male nor female: for ye are all one in Christ Jesus"). This file does not settle the question. The business inference rests only on the counterpart, which both views accept.
+4. Scripture says (the sequence): God declares the lack (v. 18) before the naming of the animals (vv. 19-20), and the provision (vv. 21-22) comes after. So the man works, finds the gap, and then receives the counterpart.
+5. Word meaning (the use of _ezer_, stated with its limits): Strong's defines H5828 as "aid". The word is also part of names that refer to God: Eliezer ("God of help", H410 + H5828), Azriel ("help of God", H5828 + H410), and Ebenezer ("stone of the help", H68 + H5828). Exodus 18:4 explains the name Eliezer directly: "And the name of the other was Eliezer; for the God of my father, said he, was mine help, and delivered me from the sword of Pharaoh".
    - What this establishes: _ezer_ does not by itself mean a lesser person, because names use it for the help that God gives. The English Psalms also speak of God as the help of Israel (see the next point for the limit).
    - What this does not establish: the supplied tools have no Strong's tags at the level of each verse. So I was not able to check word by word that Psalm 121:2, Psalm 124:8, or Deuteronomy 33:29 use H5828. The KJV English of those verses is: "My help cometh from the LORD, which made heaven and earth" (Psalm 121:2), "Our help is in the name of the LORD, who made heaven and earth" (Psalm 124:8), and "the shield of thy help" (Deuteronomy 33:29). The evidence from the names is checked. The concordance claim is not. Treat the concordance claim as strongly supported but not checked here.
 
 #### Derivation
 
-Inference: The earliest lack that God names in the design is a person without a counterpart. So partnership and counsel are not luxuries for the insecure. They correct a stated defect.
+Reading: The earliest lack that God names in the design is a person without a counterpart. So partnership and counsel are not luxuries for the insecure. They correct a stated defect.
 
 Two separate derivations follow.
 
@@ -1094,7 +1250,7 @@ First, the lack is structural. Aloneness is not a mood or a preference. The eval
 
 Second, the counterpart is a counterpart, not only an assistant. _Ezer kenegdo_ carries "counterpart" and "mate". An assistant takes direction. A counterpart stands opposite and speaks. The words point away from a remedy for aloneness that only does what you say. Both readings in observation 3 accept this point.
 
-Text states (the support), Proverbs 15:22:
+Scripture says (the support), Proverbs 15:22:
 
 > 22 Without counsel purposes are disappointed: but in the multitude of counsellors they are established.
 
@@ -1121,25 +1277,33 @@ The failure is one point of judgment that nobody inside can correct. The bill co
 
 ### A19. Doing the work reveals the need
 
+#### Summary
+
+Genesis 2:19-20: Adam names the animals, and in the naming he finds that no counterpart exists for him.
+
+God states the need in 2:18, before the naming. But Adam finds it by doing the work.
+
+Reading: execution is an instrument of discovery, not only of delivery. The real problem is usually next to the one you set out to solve, and it appears only once you are in motion. This is the case for prototypes and for shipping a smaller version sooner.
+
 Grounding text, Genesis 2:19-20:
 
 > 19 And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof.
 >
 > 20 And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.
 
-Text states (sequence): God declares the lack (v. 18) before the work. Adam finds the lack (v. 20) after the work. "But for Adam there was not found an help meet for him": the text reports the negative result as a finding.
+Scripture says (sequence): God declares the lack (v. 18) before the work. Adam finds the lack (v. 20) after the work. "But for Adam there was not found an help meet for him": the text reports the negative result as a finding.
 
 #### Observations
 
-1. Text states: Adam does a real task, the naming of every living creature, and the task has a real output ("whatsoever Adam called every living creature, that was the name thereof").
-2. Text states: God states the gap in 2:18, before the naming. But the naming is where the gap shows up in Adam's own work: "there was not found an help meet for him" (2:20). Inference: the need was known to God from outside the work. The work made it visible to the worker.
-3. Text states: God delegates the work ("brought them unto Adam to see what he would call them") and leaves the result to Adam. God states the need in 2:18, but the text does not record that God told Adam what the naming would show.
-4. Text states: The text states the discovery as a failure to find: "there was not found". It does not say "Adam realized". The words are words of search and result.
-5. Text states: The provision follows at once (vv. 21-22). The discovery makes the provision understandable.
+1. Scripture says: Adam does a real task, the naming of every living creature, and the task has a real output ("whatsoever Adam called every living creature, that was the name thereof").
+2. Scripture says: God states the gap in 2:18, before the naming. But the naming is where the gap shows up in Adam's own work: "there was not found an help meet for him" (2:20). Reading: the need was known to God from outside the work. The work made it visible to the worker.
+3. Scripture says: God delegates the work ("brought them unto Adam to see what he would call them") and leaves the result to Adam. God states the need in 2:18, but the text does not record that God told Adam what the naming would show.
+4. Scripture says: The text states the discovery as a failure to find: "there was not found". It does not say "Adam realized". The words are words of search and result.
+5. Scripture says: The provision follows at once (vv. 21-22). The discovery makes the provision understandable.
 
 #### Derivation
 
-Inference: The need became visible to the worker only in the work. So execution is an instrument of discovery, not only of delivery.
+Reading: The need became visible to the worker only in the work. So execution is an instrument of discovery, not only of delivery.
 
 The derivation is precise. Adam was able to establish the content of the need (a counterpart, not another creature) only by testing all the alternatives. The naming of the animals was the test. The conclusion "not found" required the work.
 
@@ -1159,7 +1323,7 @@ The failure is analysis paralysis, and its mirror image: shipping something huge
 
 - Proverbs 27:23: "Be thou diligent to know the state of thy flocks, and look well to thy herds." Knowledge of the state comes from attention to the real flock.
 - Luke 14:28-30: the builder of the tower counts first. The failure shows up in the building.
-- Acts 16:6-10: "...they assayed to go into Bithynia: but the Spirit suffered them not." Text states: they were "forbidden of the Holy Ghost" (16:6), and "a vision appeared to Paul in the night" that called them to Macedonia (16:9). Inference: the closed doors came while they were moving, but the direction came from God, not from the attempt.
+- Acts 16:6-10: "...they assayed to go into Bithynia: but the Spirit suffered them not." Scripture says: they were "forbidden of the Holy Ghost" (16:6), and "a vision appeared to Paul in the night" that called them to Macedonia (16:9). Reading: the closed doors came while they were moving, but the direction came from God, not from the attempt.
 - James 4:13-15: "...ye know not what shall be on the morrow." Discovery limits planning.
 - Nehemiah 2:14: "...but there was no place for the beast that was under me to pass." This is a finding from the survey, a physical limit found by riding the route.
 
@@ -1167,25 +1331,35 @@ The failure is analysis paralysis, and its mirror image: shipping something huge
 
 ### A20. Abundance precedes restriction; the boundary is few and stated in advance
 
+#### Summary
+
+Genesis 2:16-17: "Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it".
+
+A wide yes comes first, then one clear no, given before the pressure arrives.
+
+Reading: make generous permission the default, and keep prohibitions few, explicit, and clear. A rule invented after the temptation arrives is not a rule. It is a negotiation.
+
+Daniel 1:8 is the pattern. He "purposed in his heart" before the request about the meat of the king.
+
 Grounding text, Genesis 2:16-17:
 
 > 16 And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat:
 >
 > 17 But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.
 
-Text states (the shape): A wide yes ("Of every tree... thou mayest freely eat"), then one clear no ("But of the tree... thou shalt not eat of it"). God states the prohibition before the serpent arrives in chapter 3.
+Scripture says (the shape): A wide yes ("Of every tree... thou mayest freely eat"), then one clear no ("But of the tree... thou shalt not eat of it"). God states the prohibition before the serpent arrives in chapter 3.
 
 #### Observations
 
-1. Text states (proportion): There is one prohibition, in a garden full of trees. The permission is general and strong, "freely eat". The restriction is a single named exception.
-2. Text states: The exception is specific. It is one named tree. It is not "some trees" or "the trees that the LORD did not approve".
-3. Text states: God states the consequence with the rule: "in the day that thou eatest thereof thou shalt surely die." Rule and consequence come together.
-4. Text states (timing): God gives the rule in chapter 2. The pressure arrives in chapter 3. Text states: The first move of the serpent is to change the wording of the rule: "Yea, hath God said, Ye shall not eat of every tree of the garden?" (3:1). The attack is on the rule as stated. That is why a precise statement of the rule matters.
-5. Daniel shows the pattern. Daniel 1:8: "But Daniel purposed in his heart that he would not defile himself with the portion of the king's meat, nor with the wine which he drank: therefore he requested of the prince of the eunuchs that he might not defile himself." Text states: in the verse, "purposed in his heart" comes before the request. Inference: Daniel made the decision before the pressure of the meal reached him.
+1. Scripture says (proportion): There is one prohibition, in a garden full of trees. The permission is general and strong, "freely eat". The restriction is a single named exception.
+2. Scripture says: The exception is specific. It is one named tree. It is not "some trees" or "the trees that the LORD did not approve".
+3. Scripture says: God states the consequence with the rule: "in the day that thou eatest thereof thou shalt surely die." Rule and consequence come together.
+4. Scripture says (timing): God gives the rule in chapter 2. The pressure arrives in chapter 3. Scripture says: The first move of the serpent is to change the wording of the rule: "Yea, hath God said, Ye shall not eat of every tree of the garden?" (3:1). The attack is on the rule as stated. That is why a precise statement of the rule matters.
+5. Daniel shows the pattern. Daniel 1:8: "But Daniel purposed in his heart that he would not defile himself with the portion of the king's meat, nor with the wine which he drank: therefore he requested of the prince of the eunuchs that he might not defile himself." Scripture says: in the verse, "purposed in his heart" comes before the request. Reading: Daniel made the decision before the pressure of the meal reached him.
 
 #### Derivation
 
-Inference: The restrictions are few and given in advance. So make generous permission the default, and keep prohibitions few, explicit, and clear. A rule invented after the temptation arrives is not a rule. It is a negotiation.
+Reading: The restrictions are few and given in advance. So make generous permission the default, and keep prohibitions few, explicit, and clear. A rule invented after the temptation arrives is not a rule. It is a negotiation.
 
 The last sentence gives the derivation its force. The serpent does not argue about whether the tree is rightly forbidden. He argues about what God said. A rule stated in advance has a fixed text to defend. A rule invented at the moment of pressure has no text. It has only the judgment of the person under pressure, and that is the least reliable instrument available.
 
@@ -1213,21 +1387,29 @@ The anti-pattern table says: growth with no stated boundary leads to scope explo
 
 ### A21. Commitment requires leaving and cleaving
 
+#### Summary
+
+Genesis 2:24: "Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh."
+
+A new union requires a real exit and a binding attachment.
+
+Reading: new ventures fail when founders try to keep every prior option open. A covenant structure is a real, costly, stated commitment. It produces behavior that a contract cannot produce. If you are not willing to leave something, you did not start anything. The verse is about marriage, so a business use of it is an analogy. Commitment is not the same as one bet. Inside one committed venture you can still run several small tests (see Ecclesiastes 11:6 in `references/canon-survey.md`). What fails is the founder who never leaves the old commitment.
+
 Grounding text, Genesis 2:24:
 
 > 24 Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.
 
 #### Observations
 
-1. Text states (structure): The verse has three elements, in order: leave, cleave, be one flesh. The union is the third step, not the first.
-2. Text states: The leaving is specific: "his father and his mother." It is not "his prior life". A named attachment must be left.
-3. Text states: The cleaving is a binding, and the word carries the sense of sticking to. Lexical: H1692 דָּבַק (_dabaq_), "properly, to impinge, i.e. cling or adhere". The two are not parallel options. One is an exit, and the other is an attachment.
-4. Text states: The verse states the formula as a general principle ("Therefore shall a man..."), right after the specific case of Adam and Eve. Inference: the formula is the pattern for all later unions, not only a description of the first one.
-5. Text states: The text describes the union as a new identity: "they shall be one flesh." It is not a partnership between two unchanged parties. It is a new single thing.
+1. Scripture says (structure): The verse has three elements, in order: leave, cleave, be one flesh. The union is the third step, not the first.
+2. Scripture says: The leaving is specific: "his father and his mother." It is not "his prior life". A named attachment must be left.
+3. Scripture says: The cleaving is a binding, and the word carries the sense of sticking to. Word meaning: H1692 דָּבַק (_dabaq_), "properly, to impinge, i.e. cling or adhere". The two are not parallel options. One is an exit, and the other is an attachment.
+4. Scripture says: The verse states the formula as a general principle ("Therefore shall a man..."), right after the specific case of Adam and Eve. Reading: the formula is the pattern for all later unions, not only a description of the first one.
+5. Scripture says: The text describes the union as a new identity: "they shall be one flesh." It is not a partnership between two unchanged parties. It is a new single thing.
 
 #### Derivation
 
-Inference: A new union requires a real exit and a binding attachment. So new ventures fail when founders try to keep every prior option open.
+Reading: A new union requires a real exit and a binding attachment. So new ventures fail when founders try to keep every prior option open.
 
 The sequence is the argument. Leave comes before cleave, and cleave comes before one flesh. A venture that never required anyone to leave anything did not reach the first step. So it cannot reach the third.
 
@@ -1236,7 +1418,7 @@ Second derivation: a covenant structure produces behavior that a contract cannot
 #### Business consequences
 
 - If you are not willing to leave something, you did not start anything. The test is concrete: what did this commitment cost me in alternatives that I gave up? A founder who still consults two days a week did not leave. The verse is about marriage. A business use of it is an analogy.
-- Commitment is not the same as one bet. Ecclesiastes 11:6 says "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper". Inference: commit to one venture, and run several small tests inside it. A21 is about leaving the old commitment. It does not forbid spreading risk inside the new one. See `canon-survey.md` section 7.
+- Commitment is not the same as one bet. Ecclesiastes 11:6 says "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper". Reading: commit to one venture, and run several small tests inside it. A21 is about leaving the old commitment. It does not forbid spreading risk inside the new one. See `canon-survey.md` section 7.
 - Name what you leave. The verse names the father and the mother. It does not only point toward them. Some founders describe their exit as "winding down my other things". They did not name what they leave, so nobody can tell whether it happened.
 - Covenant structures do better than contracts where commitment is the bottleneck. Founder agreements, equity with real vesting, non-competes with teeth, and public commitments all work on identity, not on terms. The text suggests why they work when contracts alone do not. Note the legal limit. The law on non-competes varies by state. California (Business and Professions Code section 16600), Minnesota, and North Dakota void most non-compete agreements. Get legal advice before you rely on one.
 - The union is a new thing, not an alliance. "One flesh" argues against partnership as two independent companies with a shared roadmap, at least for the commitments that must survive pressure.
@@ -1245,7 +1427,7 @@ Second derivation: a covenant structure produces behavior that a contract cannot
 
 The anti-pattern table says: if you avoid commitment to keep options open, you get no venture, only a permanent cost of holding options.
 
-The cost of holding options is the key insight. To keep options open is not free. It is a continuous payment, and the payment is attention. Inference, a rough estimate and not a measurement: a person with five open options has about one fifth of the attention available for each.
+The cost of holding options is the key insight. To keep options open is not free. It is a continuous payment, and the payment is attention. Reading, a rough estimate and not a measurement: a person with five open options has about one fifth of the attention available for each.
 
 #### Extending verses
 
@@ -1265,21 +1447,29 @@ The rule from `scripture-foundations` applies: "Genesis 3 describes the curse. I
 
 ### A22. Trust in the stated word is the first target
 
+#### Summary
+
+Genesis 3:1: "Now the serpent was more subtil... And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?"
+
+The attack opens on whether what was said is reliable, not on anything material.
+
+Reading: the integrity of your promises is the asset most worth defending, and it is the easiest to damage. People attack a reputation with questions, not with facts. So you cannot defend it with facts alone. Say what you will do, do what you said, and correct the record plainly when you cannot.
+
 Grounding text, Genesis 3:1:
 
 > 1 Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?
 
 #### Observations
 
-1. Text states: The attack opens on what God said, not on anything material. The first recorded question in the Bible is a question about whether a statement is reliable.
-2. Text states: The question distorts the statement. God said "Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it" (2:16-17). The version of the serpent is "Ye shall not eat of every tree of the garden". It turns the permission into a prohibition.
-3. Text states: The distortion is plausible. It is close enough to the original that the woman must correct it. Inference: so the attack succeeded in starting a discussion about the text, not about the tree.
-4. Text states: The reply of the woman (3:2-3) adds to the original: "neither shall ye touch it, lest ye die." The rule that God stated did not include touching. Inference: the drift began before the serpent spoke.
-5. Text states: Nothing material is taken in verse 1. Nobody eats fruit. The whole first move is an attack on the credibility of the word.
+1. Scripture says: The attack opens on what God said, not on anything material. The first recorded question in the Bible is a question about whether a statement is reliable.
+2. Scripture says: The question distorts the statement. God said "Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it" (2:16-17). The version of the serpent is "Ye shall not eat of every tree of the garden". It turns the permission into a prohibition.
+3. Scripture says: The distortion is plausible. It is close enough to the original that the woman must correct it. Reading: so the attack succeeded in starting a discussion about the text, not about the tree.
+4. Scripture says: The reply of the woman (3:2-3) adds to the original: "neither shall ye touch it, lest ye die." The rule that God stated did not include touching. Reading: the drift began before the serpent spoke.
+5. Scripture says: Nothing material is taken in verse 1. Nobody eats fruit. The whole first move is an attack on the credibility of the word.
 
 #### Derivation
 
-Inference: The attack opens on whether what was said is reliable. So the integrity of your promises is the asset most worth defending, and it is the easiest to damage.
+Reading: The attack opens on whether what was said is reliable. So the integrity of your promises is the asset most worth defending, and it is the easiest to damage.
 
 The second derivation matters most in operation. People attack a reputation with questions, not with facts. So you cannot defend it with facts alone. The serpent did not assert a falsehood. He asked a question. You cannot refute a question. You can only answer it, and an answer admits that the matter was open.
 
@@ -1306,6 +1496,14 @@ The failure is damage to reputation that evidence cannot repair, because the dam
 
 ### A23. Deception works by denying consequence and promising autonomy
 
+#### Summary
+
+Genesis 3:4-5: "Ye shall not surely die... ye shall be as gods".
+
+Both levers appear here: there is no downside, and you will be free. Scripture says: part of the promise came true. Their eyes were opened (3:7), and God says "the man is become as one of us, to know good and evil" (3:22). Reading: the lie was a half-truth. The promise came true in a form that brought ruin, and the same two levers recur in later deceptions.
+
+Reading: if someone presents an opportunity with no downside, someone is selling it. An offer of pure autonomy always hides a new master. These two signals are the fastest available test for a bad deal, a bad hire, or a bad partner.
+
 Grounding text, Genesis 3:4-5:
 
 > 4 And the serpent said unto the woman, Ye shall not surely die:
@@ -1314,17 +1512,17 @@ Grounding text, Genesis 3:4-5:
 
 #### Observations
 
-1. Text states (two levers, both present):
+1. Scripture says (two levers, both present):
    - (a) Consequence denied: "Ye shall not surely die".
    - (b) Autonomy promised: "ye shall be as gods".
-2. Text states: A causal word joins the two levers: "For God doth know that...". The serpent presents the denial of consequence as the reason that the autonomy is available. The structure is: nothing bad will happen, and you will be free.
-3. Text states: The claim of autonomy is specific about the mechanism: "your eyes shall be opened... knowing good and evil." It is not a vague promise of improvement. It is a claim about a new capability.
-4. Text states: The claim of autonomy also gives a motive to the present authority: "God doth know". It implies that God holds something back. The offer of freedom comes with an accusation against the one who set the boundary.
-5. Text states: The consequence comes (3:16-19), and death follows: "and he died" (5:5). Text states: part of the promise came true. "And the eyes of them both were opened" (3:7), and God says "the man is become as one of us, to know good and evil" (3:22). Inference: the lie was a half-truth. The promise came true in a form that brought ruin. The autonomy came as expulsion from the garden (3:23-24), followed by a new set of masters.
+2. Scripture says: A causal word joins the two levers: "For God doth know that...". The serpent presents the denial of consequence as the reason that the autonomy is available. The structure is: nothing bad will happen, and you will be free.
+3. Scripture says: The claim of autonomy is specific about the mechanism: "your eyes shall be opened... knowing good and evil." It is not a vague promise of improvement. It is a claim about a new capability.
+4. Scripture says: The claim of autonomy also gives a motive to the present authority: "God doth know". It implies that God holds something back. The offer of freedom comes with an accusation against the one who set the boundary.
+5. Scripture says: The consequence comes (3:16-19), and death follows: "and he died" (5:5). Scripture says: part of the promise came true. "And the eyes of them both were opened" (3:7), and God says "the man is become as one of us, to know good and evil" (3:22). Reading: the lie was a half-truth. The promise came true in a form that brought ruin. The autonomy came as expulsion from the garden (3:23-24), followed by a new set of masters.
 
 #### Derivation
 
-Inference: Both levers appear together in the first deception. So an opportunity presented with no downside is being sold to you. An offer of pure autonomy always hides a new master.
+Reading: Both levers appear together in the first deception. So an opportunity presented with no downside is being sold to you. An offer of pure autonomy always hides a new master.
 
 The second sentence comes from observation 5. In the real event, the promised autonomy produced subjection to a curse. The offer was not freedom from authority. It was a change of authority. That is why "hides a new master" is the right phrase.
 
@@ -1353,24 +1551,36 @@ The failure is the bad deal that looked clean. The bill comes as an obligation t
 
 ### A24. Desire runs on three channels
 
+#### Summary
+
+Genesis 3:6: "good for food... pleasant to the eyes... a tree to be desired to make one wise".
+
+The three channels are appetite, beauty, and status. Reading: 1 John 2:16 ("the lust of the flesh, and the lust of the eyes, and the pride of life") lines up with the same three.
+
+Appetite and beauty are goods that God made (Genesis 2:9: "pleasant to the sight, and good for food"). The third channel, "to be desired to make one wise", is the serpent's promise "ye shall be as gods" (3:5), and 1 John 2:16 says "the pride of life, is not of the Father".
+
+Reading: people weigh purchases, hires, and commitments on all three channels at once. Use the three as an ethics check, not a sales lever: serve real need and real beauty, do not sell standing, and audit your own decisions for the third channel. The same check shows how someone sells a bad decision to you.
+
+This is not a license to manipulate. The rule in `scripture-foundations` applies: "Never use Scripture to justify harm, exploitation, or the overriding of the conscience of another person."
+
 Grounding text, Genesis 3:6:
 
 > 6 And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.
 
 #### Observations
 
-1. Text states (three separate clauses):
+1. Scripture says (three separate clauses):
    - (a) "good for food": appetite.
    - (b) "pleasant to the eyes": beauty.
    - (c) "to be desired to make one wise": status or standing.
-2. Text states: The three come in sequence, as a chain of "and". The evaluation is compound, not single.
-3. Text states: The evaluation comes before the act. "And when the woman saw... she took". The assessment on three channels produced the decision.
-4. Inference (the New Testament echo): 1 John 2:16 says: "For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world." Inference: the three categories line up with the three clauses of Genesis 3:6, in the same order. Flesh matches appetite, eyes match beauty, and the pride of life matches status. John does not cite Genesis 3. The match is a reading, not a statement of either text. If you accept it, it is the strongest available support that the threefold structure is deliberate.
-5. Text states: The act is shared: "and gave also unto her husband with her". The decision spread at once.
+2. Scripture says: The three come in sequence, as a chain of "and". The evaluation is compound, not single.
+3. Scripture says: The evaluation comes before the act. "And when the woman saw... she took". The assessment on three channels produced the decision.
+4. Reading (the New Testament echo): 1 John 2:16 says: "For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world." Reading: the three categories line up with the three clauses of Genesis 3:6, in the same order. Flesh matches appetite, eyes match beauty, and the pride of life matches status. John does not cite Genesis 3. The match is a reading, not a statement of either text. If you accept it, it is the strongest available support that the threefold structure is deliberate.
+5. Scripture says: The act is shared: "and gave also unto her husband with her". The decision spread at once.
 
 #### Derivation
 
-Inference: People weigh purchases, hires, and commitments on all three channels at once.
+Reading: People weigh purchases, hires, and commitments on all three channels at once.
 
 The derivation rests on observation 2. The three clauses are joined, and all three are present in one evaluation.
 
@@ -1402,6 +1612,14 @@ There are two failures. The first is selling on the third channel: the deal is w
 
 ### A25. Undisclosed failure produces hiding and blame
 
+#### Summary
+
+Genesis 3:10-12: "I was afraid, because I was naked; and I hid myself... The woman whom thou gavest to be with me, she gave me of the tree".
+
+Shame leads to concealment, concealment leads to blame, and blame destroys the ability to learn.
+
+Reading: the report of a failure must be cheap, and the person must survive it. A culture that punishes the messenger pays for the silence later. Blame is not accountability. Accountability is owning your part without pushing it onto others.
+
 Grounding text, Genesis 3:10 and 3:12:
 
 > 10 And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself.
@@ -1410,16 +1628,16 @@ Grounding text, Genesis 3:10 and 3:12:
 
 #### Observations
 
-1. Text states (the chain): Fear, then hiding, then blame. Verse 10 gives the first two, and verse 12 gives the third. The sequence is explicit.
-2. Text states: The hiding is physical and specific. Adam and his wife "hid themselves... amongst the trees of the garden" (3:8). Concealment is an action, not a feeling.
-3. Text states: The man pushes the blame in two directions at once. He blames the woman ("she gave me") and God ("The woman whom thou gavest to be with me"). The second shows more. He blames the design for the failure.
-4. Text states (the contrast): Earlier, Adam made a different kind of statement about the same person: "This is now bone of my bones, and flesh of my flesh" (2:23). Now he describes the same relationship as a liability.
-5. Inference: The concealment cost more than the failure alone. Text states: verse 7 has the fig leaves, verse 8 has the hiding, and in verse 21 God makes coats. Inference: God covered the failure anyway, at his own cost, after the concealment added fear and blame to it.
-6. Text states (the contrast in Proverbs): Proverbs 28:13 says: "He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy."
+1. Scripture says (the chain): Fear, then hiding, then blame. Verse 10 gives the first two, and verse 12 gives the third. The sequence is explicit.
+2. Scripture says: The hiding is physical and specific. Adam and his wife "hid themselves... amongst the trees of the garden" (3:8). Concealment is an action, not a feeling.
+3. Scripture says: The man pushes the blame in two directions at once. He blames the woman ("she gave me") and God ("The woman whom thou gavest to be with me"). The second shows more. He blames the design for the failure.
+4. Scripture says (the contrast): Earlier, Adam made a different kind of statement about the same person: "This is now bone of my bones, and flesh of my flesh" (2:23). Now he describes the same relationship as a liability.
+5. Reading: The concealment cost more than the failure alone. Scripture says: verse 7 has the fig leaves, verse 8 has the hiding, and in verse 21 God makes coats. Reading: God covered the failure anyway, at his own cost, after the concealment added fear and blame to it.
+6. Scripture says (the contrast in Proverbs): Proverbs 28:13 says: "He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy."
 
 #### Derivation
 
-Inference: Shame leads to concealment, concealment leads to blame, and blame destroys the ability to learn. So the report of a failure must be cheap, and the person who reports must survive it. A culture that punishes the messenger pays for the silence later.
+Reading: Shame leads to concealment, concealment leads to blame, and blame destroys the ability to learn. So the report of a failure must be cheap, and the person who reports must survive it. A culture that punishes the messenger pays for the silence later.
 
 The engine of the derivation is the last point of observation 3: the blame of the design. Once someone blames the system and not the decision, nothing is left to learn, because no decision is left to examine. The chain of blame is not only unfair. It ends all learning.
 
@@ -1450,6 +1668,14 @@ The mechanism is a delay, not a denial. Nobody decides to hide a problem forever
 
 ### A26. Diagnose before you judge
 
+#### Summary
+
+Genesis 3:9-13: "Where art thou?... Who told thee that thou wast naked?... What is this that thou hast done?"
+
+The first response to failure is a sequence of questions that establish location, source, and act.
+
+Reading: establish the facts before you assign responsibility, and keep the two questions separate. A judgment that runs ahead of the diagnosis produces the wrong verdict and teaches people to hide. Ask, then weigh.
+
 Grounding text, Genesis 3:9, 3:11, and 3:13:
 
 > 9 And the LORD God called unto Adam, and said unto him, Where art thou?
@@ -1460,24 +1686,24 @@ Grounding text, Genesis 3:9, 3:11, and 3:13:
 
 #### Observations
 
-1. Text states (the sequence): The questions come in order:
+1. Scripture says (the sequence): The questions come in order:
    - "Where art thou?" (location).
    - "Who told thee?" and "Hast thou eaten?" (source and act).
    - "What is this that thou hast done?" (act, to the second party).
 
    The order is location, then source, then act.
-2. Inference: The questions are open in form. They are not accusations phrased as questions. The text does not say that God lacked the information. A God who knows all things does not ask in order to learn. Inference: the questions give each person the chance to give an account, and they bring the facts into the open before the verdict.
-3. Text states: The judgment comes after the man and the woman answer. God pronounces the curses in verses 14-19. Before that, he questions the man and the woman. He does not question the serpent. In 3:14 God curses the serpent at once, with no question and no answer.
-4. Text states: God questions the man first and then the woman. Each one gives a separate account. The serpent gets no hearing.
-5. Text states: The questions do not change the outcome. The blame that Adam pushes onto others does not prevent the curse. Inference: diagnosis is for accuracy, not for leniency. The purpose is a correct verdict, not a lighter one.
+2. Reading: The questions are open in form. They are not accusations phrased as questions. The text does not say that God lacked the information. A God who knows all things does not ask in order to learn. Reading: the questions give each person the chance to give an account, and they bring the facts into the open before the verdict.
+3. Scripture says: The judgment comes after the man and the woman answer. God pronounces the curses in verses 14-19. Before that, he questions the man and the woman. He does not question the serpent. In 3:14 God curses the serpent at once, with no question and no answer.
+4. Scripture says: God questions the man first and then the woman. Each one gives a separate account. The serpent gets no hearing.
+5. Scripture says: The questions do not change the outcome. The blame that Adam pushes onto others does not prevent the curse. Reading: diagnosis is for accuracy, not for leniency. The purpose is a correct verdict, not a lighter one.
 
 #### Derivation
 
-Inference: The first response to failure is a sequence of questions that establish location, source, and act. So establish the facts before you assign responsibility, and keep the two questions separate. A judgment that runs ahead of the diagnosis produces the wrong verdict and teaches people to hide.
+Reading: The first response to failure is a sequence of questions that establish location, source, and act. So establish the facts before you assign responsibility, and keep the two questions separate. A judgment that runs ahead of the diagnosis produces the wrong verdict and teaches people to hide.
 
 The last sentence connects to A25. A wrong verdict is a cost. A wrong verdict that people can see is wrong is worse. It teaches the organization that the process is arbitrary and that concealment is rational.
 
-Text states (the support):
+Scripture says (the support):
 
 Proverbs 18:13:
 
@@ -1523,6 +1749,14 @@ The secondary failure is the loss of the ability to diagnose. An organization th
 
 ### A27. Friction is structural
 
+#### Summary
+
+Genesis 3:17-19: "cursed is the ground for thy sake... Thorns also and thistles shall it bring forth to thee... In the sweat of thy face shalt thou eat bread".
+
+The environment now resists. Effort yields less. The resistance lasts for this age, "all the days of thy life" (Genesis 3:17). Scripture says: "there shall be no more curse" (Revelation 22:3).
+
+Reading: every plan must price the thorns. Name the specific friction as a line item, not as a surprise. Examples are churn, compliance cost, the drag on recruiting, and technical debt. The ROI (return on investment) must cover the weeds. A model that works only in ground with no curse is not a model.
+
 Grounding text, Genesis 3:17-19:
 
 > 17 And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed is the ground for thy sake; in sorrow shalt thou eat of it all the days of thy life;
@@ -1533,16 +1767,16 @@ Grounding text, Genesis 3:17-19:
 
 #### Observations
 
-1. Text states: The ground is cursed "for thy sake". The resistance is aimed at the worker, and the text says that it is for him. This is a strange phrase. Notice it. Do not smooth it over.
-2. Text states: The ground still produces. It is not barren. It brings forth "Thorns also and thistles" in addition to the herb of the field. The yield continues, and the ratio changes.
-3. Text states (duration): "all the days of thy life." The resistance lasts for this age. It is not a phase, a consequence that expires, or a condition that better technique removes. Text states: it does have an end that God sets: "there shall be no more curse" (Revelation 22:3).
-4. Text states: The verse names the effort: "In the sweat of thy face". The cost is exertion, not only poor outcomes.
-5. Text states: The curse slows the yield. It does not stop it. The ground resists. It does not refuse. Effort still yields bread, but not the bread that it yielded before the curse.
-6. Text states (the promise inside the curse): The man still eats the herb of the field. The curse changes the terms of the exchange. It does not cancel the exchange.
+1. Scripture says: The ground is cursed "for thy sake". The resistance is aimed at the worker, and the text says that it is for him. This is a strange phrase. Notice it. Do not smooth it over.
+2. Scripture says: The ground still produces. It is not barren. It brings forth "Thorns also and thistles" in addition to the herb of the field. The yield continues, and the ratio changes.
+3. Scripture says (duration): "all the days of thy life." The resistance lasts for this age. It is not a phase, a consequence that expires, or a condition that better technique removes. Scripture says: it does have an end that God sets: "there shall be no more curse" (Revelation 22:3).
+4. Scripture says: The verse names the effort: "In the sweat of thy face". The cost is exertion, not only poor outcomes.
+5. Scripture says: The curse slows the yield. It does not stop it. The ground resists. It does not refuse. Effort still yields bread, but not the bread that it yielded before the curse.
+6. Scripture says (the promise inside the curse): The man still eats the herb of the field. The curse changes the terms of the exchange. It does not cancel the exchange.
 
 #### Derivation
 
-Inference: The environment resists, and the resistance lasts for this age. So every plan must price the thorns. Name the specific friction as a line item, not as a surprise. Examples are churn, compliance cost, the drag on recruiting, and technical debt. The ROI (return on investment) must cover the weeds. A model that works only in ground with no curse is not a model.
+Reading: The environment resists, and the resistance lasts for this age. So every plan must price the thorns. Name the specific friction as a line item, not as a surprise. Examples are churn, compliance cost, the drag on recruiting, and technical debt. The ROI (return on investment) must cover the weeds. A model that works only in ground with no curse is not a model.
 
 The engine of the derivation is observation 3. If friction were temporary, a plan can reasonably assume that it will clear. It lasts "all the days of thy life". So a plan that leaves it out is a plan for a world that does not exist.
 
@@ -1551,7 +1785,7 @@ Observation 2 is the second half, and it prevents overcorrection. The ground sti
 #### Business consequences
 
 - Price the friction, with numbers where you can. `SKILL.md` step 5 asks: what will resist this, what will it cost each month, and what is the plan for it?
-- Name the specific thorn. A generic risk register is useless. "Churn runs at 1.8% a month, and the replacement cost is $14,000 for each seat" is a priced thorn.
+- Name the specific thorn. A generic risk register is useless. "Churn runs at 1.8% a month, and replacing each lost seat costs a known amount" is a priced thorn.
 - The ROI must cover the weeds. A margin model that leaves out the cost of friction is a model of a different business.
 - Do not confuse the thorn with a broken thing. The resistance of A27 is expected and lasting. The pain of delivery in A28 is different again. The skill is to tell them apart.
 - Watch for friction that is invisible because it is spread out. Churn, the overhead of coordination, and the cost of switching context are real costs. They never appear on one line, because they are spread across everything.
@@ -1574,23 +1808,31 @@ The typical symptom is an organization that has a story for each miss and no rat
 
 ### A28. Fruitfulness continues, but delivery costs
 
+#### Summary
+
+Genesis 3:16: "I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children".
+
+The output still comes. The pain is in the bringing forth. The man's work also carries sorrow throughout: "in sorrow shalt thou eat of it all the days of thy life" (3:17).
+
+Reading: pain is not evidence that a course is wrong, because every real thing has a hard delivery. But pain is also not a license to ignore the signal. Tell the pain of producing apart from the pain of a broken thing. The first is the cost of the work. The second is information.
+
 Grounding text, Genesis 3:16:
 
 > 16 Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee.
 
 #### Observations
 
-1. Text states: "I will greatly multiply thy sorrow and thy conception". Contested: readers differ on the phrase. Some read two things multiplied, sorrow and conception, so the output increases with the pain. Many read the pair as one idea: sorrow in conception, that is, pain in pregnancy. Lexical: Strong's defines the word for "conception" (H2032) as "pregnancy". On either reading the curse does not end fruitfulness.
-2. Text states: The second clause puts pain at the delivery: "in sorrow thou shalt bring forth children".
-3. Text states: The output still comes. Children are still born. The text does not say that the fruit is lost.
-4. Text states (the New Testament reading of it): John 16:21 says: "A woman when she is in travail hath sorrow, because her hour is come: but as soon as she is delivered of the child, she remembereth no more the anguish, for joy that a man is born into the world." Text states: Jesus uses this as the model for the grief of the disciples that turns to joy. The pain is real and limited in time, and the joy comes with the delivery.
-5. Text states (the pattern applied to work): Galatians 4:19 says: "My little children, of whom I travail in birth again until Christ be formed in you". Paul applies the same image to the work of formation.
+1. Scripture says: "I will greatly multiply thy sorrow and thy conception". Disputed: readers differ on the phrase. Some read two things multiplied, sorrow and conception, so the output increases with the pain. Many read the pair as one idea: sorrow in conception, that is, pain in pregnancy. Word meaning: Strong's defines the word for "conception" (H2032) as "pregnancy". On either reading the curse does not end fruitfulness.
+2. Scripture says: The second clause puts pain at the delivery: "in sorrow thou shalt bring forth children".
+3. Scripture says: The output still comes. Children are still born. The text does not say that the fruit is lost.
+4. Scripture says (the New Testament reading of it): John 16:21 says: "A woman when she is in travail hath sorrow, because her hour is come: but as soon as she is delivered of the child, she remembereth no more the anguish, for joy that a man is born into the world." Scripture says: Jesus uses this as the model for the grief of the disciples that turns to joy. The pain is real and limited in time, and the joy comes with the delivery.
+5. Scripture says (the pattern applied to work): Galatians 4:19 says: "My little children, of whom I travail in birth again until Christ be formed in you". Paul applies the same image to the work of formation.
 
 #### Derivation
 
-Inference: The output still comes, and the pain is at the bringing forth. So pain is not evidence that a course is wrong, because every real thing has a hard delivery. But pain is also not a license to ignore the signal. Tell the pain of producing apart from the pain of a broken thing. The first is the cost of the work. The second is information.
+Reading: The output still comes, and the pain is at the bringing forth. So pain is not evidence that a course is wrong, because every real thing has a hard delivery. But pain is also not a license to ignore the signal. Tell the pain of producing apart from the pain of a broken thing. The first is the cost of the work. The second is information.
 
-The derivation turns on observation 2. Pain at delivery is part of the sentence. But the curse also puts sorrow into the whole of the man's work: "in sorrow shalt thou eat of it all the days of thy life" (3:17, see A27). So pain in the middle of the work is not, by itself, a sign that the thing is broken. Inference: the test is not only where the pain is. It is whether the pain has a known shape and serves a delivery, or whether it repeats with no end and no product.
+The derivation turns on observation 2. Pain at delivery is part of the sentence. But the curse also puts sorrow into the whole of the man's work: "in sorrow shalt thou eat of it all the days of thy life" (3:17, see A27). So pain in the middle of the work is not, by itself, a sign that the thing is broken. Reading: the test is not only where the pain is. It is whether the pain has a known shape and serves a delivery, or whether it repeats with no end and no product.
 
 #### Business consequences
 
@@ -1620,27 +1862,39 @@ The question that tells them apart is the question of A28: is this the pain of p
 
 ### A29. Authority gets contested
 
+#### Summary
+
+Genesis 3:16: "thy desire shall be to thy husband, and he shall rule over thee."
+
+The verse speaks to the woman about her husband. Disputed: readers differ on "thy desire shall be to thy husband" (a longing, or a desire to control, compare 4:7), and on whether an order between husband and wife began before the fall (see A18) or only here.
+
+Reading, by analogy: after the fall, authority of every kind becomes a place of struggle, not a smooth order.
+
+Reading: expect the contest and design for it. Scripture grounds authority in God: "there is no power but of God" (Romans 13:1). It does not make authority depend on service. But among his people Jesus forbids lordship and calls for service. Authority that will not serve drifts into domination. Domination produces resistance, not followers.
+
+Mark 10:43: "whosoever will be great among you, shall be your minister". 1 Peter 5:2-3: not for money, "Neither as being lords over God's heritage, but being ensamples to the flock."
+
 Grounding text, Genesis 3:16:
 
 > 16 ...and thy desire shall be to thy husband, and he shall rule over thee.
 
 #### Observations
 
-1. Text states: The statement comes after the fall. It is part of the declaration of consequences. Text states: Genesis 2 does not use the word "rule" of the man and the woman. Contested: readers differ on whether this verse begins an order between husband and wife, or describes how an order that began in Genesis 2 is now bent by sin. See A18, observation 3, for the main views and their texts.
-2. Text states: The verse names two things together: a desire directed at the other, and a rule over the other. Inference: they are in the same sentence, which suggests that they are related.
-3. Contested: The phrase "thy desire shall be to thy husband" is truly difficult. Faithful readers differ on whether it describes longing, a desire to control, or something else. Lexical: the word is H8669 תְּשׁוּקָה (_teshuqah_), "a longing". The same construction appears in Genesis 4:7 ("And unto thee shall be his desire"). I will not invent certainty here. The text is not clear enough to settle it, and the axiom does not depend on the answer.
-4. Text states: Whatever the exact sense, the verse pairs a desire with a rule. Inference: the result is a hierarchy that becomes a place of struggle. The later accounts show many contests over authority and standing. Sarai and Hagar, Rachel and Leah, and Hannah and Peninnah are rivalries between women in the same household. They are not contests between a husband and a wife, so they do not illustrate this clause directly. They show only that contest marks relationships after the fall in general.
-5. Text states (the New Testament correction): The New Testament does not abolish authority. It redefines how authority works. Mark 10:42-45 and 1 Peter 5:1-4 both name the pagan model ("exercise lordship", "being lords over God's heritage") and forbid it.
+1. Scripture says: The statement comes after the fall. It is part of the declaration of consequences. Scripture says: Genesis 2 does not use the word "rule" of the man and the woman. Disputed: readers differ on whether this verse begins an order between husband and wife, or describes how an order that began in Genesis 2 is now bent by sin. See A18, observation 3, for the main views and their texts.
+2. Scripture says: The verse names two things together: a desire directed at the other, and a rule over the other. Reading: they are in the same sentence, which suggests that they are related.
+3. Disputed: The phrase "thy desire shall be to thy husband" is truly difficult. Faithful readers differ on whether it describes longing, a desire to control, or something else. Word meaning: the word is H8669 תְּשׁוּקָה (_teshuqah_), "a longing". The same construction appears in Genesis 4:7 ("And unto thee shall be his desire"). I will not invent certainty here. The text is not clear enough to settle it, and the axiom does not depend on the answer.
+4. Scripture says: Whatever the exact sense, the verse pairs a desire with a rule. Reading: the result is a hierarchy that becomes a place of struggle. The later accounts show many contests over authority and standing. Sarai and Hagar, Rachel and Leah, and Hannah and Peninnah are rivalries between women in the same household. They are not contests between a husband and a wife, so they do not illustrate this clause directly. They show only that contest marks relationships after the fall in general.
+5. Scripture says (the New Testament correction): The New Testament does not abolish authority. It redefines how authority works. Mark 10:42-45 and 1 Peter 5:1-4 both name the pagan model ("exercise lordship", "being lords over God's heritage") and forbid it.
 
 #### Derivation
 
 The verse speaks of a husband and a wife. A business use of this text is an analogy.
 
-Inference: After the fall, authority of every kind becomes a place of struggle, not a smooth order. So expect the contest and design for it. Authority that will not serve drifts into domination. Domination produces resistance, not followers.
+Reading: After the fall, authority of every kind becomes a place of struggle, not a smooth order. So expect the contest and design for it. Authority that will not serve drifts into domination. Domination produces resistance, not followers.
 
 The derivation gets its force from the word "expect". The verse describes what is, not what ought to be. A leader whom resistance surprises misread the environment, in the same way that a plan that ignores thorns misreads the ground (A27).
 
-Text states (the correction):
+Scripture says (the correction):
 
 Mark 10:42-45:
 
@@ -1661,7 +1915,7 @@ Mark 10:42-45:
 #### Business consequences
 
 - Expect the contest. People will test authority. That is not a hiring problem or a culture problem. It is the stated condition.
-- Service is how authority is to be used among Christ's people. Both passages give the same alternative to lordship. The one who leads serves, and by serving becomes an example, not a lord. This is not a soft recommendation. But service is not what makes authority legitimate. Scripture grounds authority in God: "there is no power but of God" (Romans 13:1). It tells servants to submit "not only to the good and gentle, but also to the froward" (1 Peter 2:18). Inference: authority that will not serve keeps its office and loses its followers.
+- Service is how authority is to be used among Christ's people. Both passages give the same alternative to lordship. The one who leads serves, and by serving becomes an example, not a lord. This is not a soft recommendation. But service is not what makes authority legitimate. Scripture grounds authority in God: "there is no power but of God" (Romans 13:1). It tells servants to submit "not only to the good and gentle, but also to the froward" (1 Peter 2:18). Reading: authority that will not serve keeps its office and loses its followers.
 - Domination produces resistance, not followers. The mechanism: a person who complies because he must will comply only while someone watches. Where it is safe, he will work against the arrangement.
 - "Being ensamples" is a specific requirement. 1 Peter 5:3 says that the leader is to be an example. An example is something that people can see and copy. So the real behavior of the leader is the instrument of management.
 - The disputed phrase does not carry the weight. Observation 3 matters for honesty. The axiom stands on the contest, which is plain. It does not stand on the answer to the difficult clause.
@@ -1683,21 +1937,29 @@ The failure is authority that someone must enforce all the time. The bill comes 
 
 ### A30. Mortality makes time the binding constraint
 
+#### Summary
+
+Genesis 3:19: "till thou return unto the ground... for dust thou art, and unto dust shalt thou return."
+
+Finite time is the base constraint under every plan.
+
+Reading: the first question is whether a thing is good: "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil" (Ecclesiastes 12:14). The second question is opportunity cost: is this the best use of the years it will consume? Luke 12:16-21 is the failure mode. Jesus names the fault himself: "beware of covetousness" (12:15), and "So is he that layeth up treasure for himself, and is not rich toward God" (12:21). The man also plans his barns with no account of his own end. A business use of the parable is an analogy.
+
 Grounding text, Genesis 3:19:
 
 > 19 In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return.
 
 #### Observations
 
-1. Text states: The sentence has an end point: "till thou return unto the ground". An end that the text states as certain limits the working life.
-2. Inference: The end point applies to the worker, not to the work. Text states: the man returns to the ground. Inference: the ground stays, so the work outlives the worker. The verse does not say this in plain words.
-3. Text states (the pairing): The verse joins labor and mortality in one sentence. They are not separate topics. Inference: the limit on life makes labor a limited quantity.
-4. Text states (the response of the wisdom literature): Psalm 90:12 says: "So teach us to number our days, that we may apply our hearts unto wisdom." Text states: the prayer is not for more days. It is for the ability to count them.
-5. Text states (the failure case): In Luke 12:16-21 the rich man plans barns with no account of his own end, and God calls him a fool: "But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?" Text states: Jesus names the fault: "Take heed, and beware of covetousness" (12:15), and "So is he that layeth up treasure for himself, and is not rich toward God" (12:21).
+1. Scripture says: The sentence has an end point: "till thou return unto the ground". An end that the text states as certain limits the working life.
+2. Reading: The end point applies to the worker, not to the work. Scripture says: the man returns to the ground. Reading: the ground stays, so the work outlives the worker. The verse does not say this in plain words.
+3. Scripture says (the pairing): The verse joins labor and mortality in one sentence. They are not separate topics. Reading: the limit on life makes labor a limited quantity.
+4. Scripture says (the response of the wisdom literature): Psalm 90:12 says: "So teach us to number our days, that we may apply our hearts unto wisdom." Scripture says: the prayer is not for more days. It is for the ability to count them.
+5. Scripture says (the failure case): In Luke 12:16-21 the rich man plans barns with no account of his own end, and God calls him a fool: "But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?" Scripture says: Jesus names the fault: "Take heed, and beware of covetousness" (12:15), and "So is he that layeth up treasure for himself, and is not rich toward God" (12:21).
 
 #### Derivation
 
-Inference: Finite time is the base constraint under every plan. So opportunity cost is a real cost of everything. The first question is still whether a thing is good: "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil" (Ecclesiastes 12:14). The second question is "is this the best use of the years it will consume?"
+Reading: Finite time is the base constraint under every plan. So opportunity cost is a real cost of everything. The first question is still whether a thing is good: "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil" (Ecclesiastes 12:14). The second question is "is this the best use of the years it will consume?"
 
 The derivation rests on observation 2: the work outlives the worker. So every commitment moves a slice of a finite life into a thing that will last after the slice is gone. The cost of the commitment is the slice. The question is whether the thing is worth it.
 
@@ -1727,21 +1989,29 @@ The failure is to spend the finite resource on the urgency of someone else. The 
 
 ### A31. Recovery is provided, and it costs something that is not you
 
+#### Summary
+
+Genesis 3:21: "Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them."
+
+God covers the failure. The covering is his gift, and it replaces the aprons that they made for themselves (3:7). The sentence of death still stands (3:19), but God does not abandon them. Reading: the coats of skins required the death of an animal. Many Christian readers see here a first picture of the covering that God provides in Christ. That points to the atonement. It gives no rule for cash.
+
+Reading: recovery from failure is never free. In a business, if no one prepared, the cost lands on others: the supplier, the employee, the customer. The ground for a reserve is other texts. Proverbs 21:20: "There is treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up." Joseph stored food "against the seven years of famine" (Genesis 41:36). So build cash reserves before you need them. Treat them as the cost of permission to fail, not as idle capital. A reserve is a prudent store, not a covering for sin. It does not replace trust in God, and it must not become the rich fool's barns (A30).
+
 Grounding text, Genesis 3:21:
 
 > 21 Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.
 
 #### Observations
 
-1. Text states: God makes the covering and gives it. "The LORD God make coats of skins, and clothed them." The man did not make it and did not ask for it.
-2. Text states (the cost): Coats of skins require animals. The text does not say which animals or how many, but it states the material. Inference: the covering required a death that is not the death of the man.
-3. Text states (the contrast): In verse 7 the man and the woman "made themselves aprons" of fig leaves. The contrast is explicit: a covering they made themselves, then a covering that God provides. Inference: the provided covering is the one that lasts.
-4. Text states (the sequence): The covering comes after the judgment (vv. 14-19) and before the expulsion (v. 23). God gives it to people who already failed and who already received their sentence.
-5. Text states: The covering does not depend on anything the man does. The text records no request, no confession, and no penance between verse 20 and verse 21.
+1. Scripture says: God makes the covering and gives it. "The LORD God make coats of skins, and clothed them." The man did not make it and did not ask for it.
+2. Scripture says (the cost): Coats of skins require animals. The text does not say which animals or how many, but it states the material. Reading: the covering required a death that is not the death of the man.
+3. Scripture says (the contrast): In verse 7 the man and the woman "made themselves aprons" of fig leaves. The contrast is explicit: a covering they made themselves, then a covering that God provides. Reading: the provided covering is the one that lasts.
+4. Scripture says (the sequence): The covering comes after the judgment (vv. 14-19) and before the expulsion (v. 23). God gives it to people who already failed and who already received their sentence.
+5. Scripture says: The covering does not depend on anything the man does. The text records no request, no confession, and no penance between verse 20 and verse 21.
 
 #### Derivation
 
-Inference: God covers the failure, and the covering is his gift. The man and the woman did not make it, and the aprons that they made did not last (observation 3). The sentence of death still stands: "unto dust shalt thou return" (3:19). But God does not abandon them after the failure (observation 4).
+Reading: God covers the failure, and the covering is his gift. The man and the woman did not make it, and the aprons that they made did not last (observation 3). The sentence of death still stands: "unto dust shalt thou return" (3:19). But God does not abandon them after the failure (observation 4).
 
 This is grace, and it is not a business method. Many Christian readers see in 3:21 a first picture of the covering that God provides in Christ (Isaiah 53:5, 2 Corinthians 5:21). Those texts point to Christ's atonement. They give no rule for cash, and this file does not use them for one.
 
@@ -1757,7 +2027,7 @@ Genesis 41:35-36:
 >
 > 36 And that food shall be for store to the land against the seven years of famine, which shall be in the land of Egypt; that the land perish not through the famine.
 
-Inference: recovery from failure is never free. In a business, someone pays. If you did not prepare, the cost lands on others: the supplier, the employee, the customer, the family. So build a cash reserve before you need it. Treat it as the cost of permission to fail, not as idle capital.
+Reading: recovery from failure is never free. In a business, someone pays. If you did not prepare, the cost lands on others: the supplier, the employee, the customer, the family. So build a cash reserve before you need it. Treat it as the cost of permission to fail, not as idle capital.
 
 The reserve is a prudent store. It is not a covering for sin, and it does not replace trust in God. It must also not become the rich fool's barns, kept so that he can "take thine ease" (Luke 12:19, see A30).
 
@@ -1766,7 +2036,7 @@ The reserve is a prudent store. It is not a covering for sin, and it does not re
 - Build cash reserves before you need them. A reserve that you gather during the crisis is not a reserve. It is a distress sale.
 - Treat the reserve as the cost of permission to fail, not as idle capital. This new view is the contribution of the axiom to the debate about reserves. Cash held for recovery is not underperforming. It does the job that you set it aside for.
 - Name what pays: the cash reserve, the insurance policy, the parent company, the customer contract, the patient shareholder. If you name nothing, nothing will pay.
-- Inference, by analogy only: the covering you make to hide a failure is the first instinct. See observation 3. Fig leaves are what the organization reaches for to hide a failure: a statement, a restructure, a rebrand. They cover the shame and fix nothing.
+- Reading, by analogy only: the covering you make to hide a failure is the first instinct. See observation 3. Fig leaves are what the organization reaches for to hide a failure: a statement, a restructure, a rebrand. They cover the shame and fix nothing.
 - A business failure is not the end. This is the counterweight, and you need it. An organization that believes that failure is fatal will hide it (A25). It will also never attempt anything that has a real chance of failure (A11).
 
 #### Failure mode when violated
@@ -1792,6 +2062,14 @@ For the covering itself (doctrine, not business method):
 
 ### A32. Some states must not be allowed to become permanent
 
+#### Summary
+
+Genesis 3:22-23: "and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever: Therefore the LORD God sent him forth".
+
+God prevented a bad condition from becoming irreversible.
+
+Reading: identify the actions that you cannot undo, and put a gate on them. Examples are irreversible deletions, obligations that grow out of control, contracts with no exit, and architectures that you can never migrate off. Slow these down on purpose. Speed is for reversible decisions.
+
 Grounding text, Genesis 3:22-23:
 
 > 22 And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:
@@ -1800,15 +2078,15 @@ Grounding text, Genesis 3:22-23:
 
 #### Observations
 
-1. Text states (the stated reason): "lest he put forth his hand, and take also of the tree of life, and eat, and live for ever". The text explains the expulsion by what it prevents.
-2. Text states: God already pronounced the sentence in verses 14-19. The expulsion is a separate act, and its stated purpose is to prevent: "lest he put forth his hand... and live for ever" (3:22). Inference: the act prevents more than it punishes. The text also says "he drove out the man" (3:24), so judgment is part of it too.
-3. Inference: The condition that God prevents is permanent life in a fallen state. The problem is not the life. It is the permanence.
-4. Text states: The prevention is immediate: "Therefore". The text describes no delay between the decision and the act.
-5. Text states (the permanence that does apply): Other consequences in this chapter are stated to last for life: "all the days of thy life" (v. 17), "till thou return unto the ground" (v. 19). Inference: the text separates lifelong consequences, which God declares, from permanent states, which God prevents. God puts a gate only on the second.
+1. Scripture says (the stated reason): "lest he put forth his hand, and take also of the tree of life, and eat, and live for ever". The text explains the expulsion by what it prevents.
+2. Scripture says: God already pronounced the sentence in verses 14-19. The expulsion is a separate act, and its stated purpose is to prevent: "lest he put forth his hand... and live for ever" (3:22). Reading: the act prevents more than it punishes. The text also says "he drove out the man" (3:24), so judgment is part of it too.
+3. Reading: The condition that God prevents is permanent life in a fallen state. The problem is not the life. It is the permanence.
+4. Scripture says: The prevention is immediate: "Therefore". The text describes no delay between the decision and the act.
+5. Scripture says (the permanence that does apply): Other consequences in this chapter are stated to last for life: "all the days of thy life" (v. 17), "till thou return unto the ground" (v. 19). Reading: the text separates lifelong consequences, which God declares, from permanent states, which God prevents. God puts a gate only on the second.
 
 #### Derivation
 
-Inference: God prevented a bad condition from becoming irreversible. So identify the actions that you cannot undo, and put a gate on them. Examples are irreversible deletions, obligations that grow out of control, contracts with no exit, and architectures that you can never migrate off. Slow these down on purpose. Speed is for reversible decisions.
+Reading: God prevented a bad condition from becoming irreversible. So identify the actions that you cannot undo, and put a gate on them. Examples are irreversible deletions, obligations that grow out of control, contracts with no exit, and architectures that you can never migrate off. Slow these down on purpose. Speed is for reversible decisions.
 
 The derivation rests on observation 1. The text states the reason for the act, and the reason is permanence. A reader who accepts the reason has the principle.
 
@@ -1836,25 +2114,33 @@ The failure is an irreversible state that someone entered casually. The bill com
 
 ### A33. Access is guarded, and the guard is a feature
 
+#### Summary
+
+Genesis 3:24: "he placed at the east of the garden of Eden Cherubims, and a flaming sword... to keep the way of the tree of life."
+
+God sets the guard after the fall. The cherubim are part of the order that follows the fall, not the order of Genesis 1-2. God himself sets this access control, so it is not only a human reaction to evil.
+
+Reading: permissions, locks, and limits belong in the design. A real cost of failure is lost access: to the market, the account, the trust. Guard the ways in that you control. Lost trust is rebuilt slowly, by kept promises. Scripture says: Revelation 22:14 speaks of those who "may have right to the tree of life", and Hebrews 10:19-20 speaks of entering "by the blood of Jesus, By a new and living way". Reading: the way that was closed in Genesis 3:24 is opened in Christ. It does not stay closed for good.
+
 Grounding text, Genesis 3:24:
 
 > 24 So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.
 
-#### Lexical
+#### Word meaning
 
-- H8104 שָׁמַר (_shamar_): "properly, to hedge about (as with thorns), i.e. guard; generally, to protect, attend to, etc." The KJV renders it "keep." Text states: this is the same verb as the second duty of the man in the garden (Genesis 2:15, "to dress it and to keep it"). The verb for the protective work of the gardener describes the guard at the gate.
+- H8104 שָׁמַר (_shamar_): "properly, to hedge about (as with thorns), i.e. guard; generally, to protect, attend to, etc." The KJV renders it "keep." Scripture says: this is the same verb as the second duty of the man in the garden (Genesis 2:15, "to dress it and to keep it"). The verb for the protective work of the gardener describes the guard at the gate.
 
 #### Observations
 
-1. Text states: The same agent who made the garden places the guard on purpose. The guard did not emerge as a consequence. It is an act.
-2. Text states: The guard has a specific function: "to keep the way of the tree of life." Its stated function is not to punish or to frighten. It is to keep a way, an access route.
-3. Text states: The guard is active: "a flaming sword which turned every way." The description is of continuous motion. It is not a locked door. It is a watched one.
-4. Text states: The guarded thing is the means of life, not the garden as such. God expels the man from the garden (v. 23), but the specific object of the guard is the tree of life.
-5. Text states: God sets the guard after the fall (3:24). The cherubim are part of the order that follows the fall. They are not in the order of Genesis 1-2. Inference: God himself sets this access control. So it is not only a human reaction to a fallen society.
+1. Scripture says: The same agent who made the garden places the guard on purpose. The guard did not emerge as a consequence. It is an act.
+2. Scripture says: The guard has a specific function: "to keep the way of the tree of life." Its stated function is not to punish or to frighten. It is to keep a way, an access route.
+3. Scripture says: The guard is active: "a flaming sword which turned every way." The description is of continuous motion. It is not a locked door. It is a watched one.
+4. Scripture says: The guarded thing is the means of life, not the garden as such. God expels the man from the garden (v. 23), but the specific object of the guard is the tree of life.
+5. Scripture says: God sets the guard after the fall (3:24). The cherubim are part of the order that follows the fall. They are not in the order of Genesis 1-2. Reading: God himself sets this access control. So it is not only a human reaction to a fallen society.
 
 #### Derivation
 
-Inference: God himself sets a guard on access after the fall. So security and access control are part of a God-given order in a fallen world, not only a reaction by suspicious people. Inference (wider, and less certain): permissions, locks, and limits belong in the design.
+Reading: God himself sets a guard on access after the fall. So security and access control are part of a God-given order in a fallen world, not only a reaction by suspicious people. Reading (wider, and less certain): permissions, locks, and limits belong in the design.
 
 The text shows the guard after the fall, not in the good order of Genesis 1-2. Any claim that access control belongs to the original good order goes past the text. Hold it only as an inference. One point supports it: the job in 2:15 already includes _shamar_, "to keep it", before the fall (A17).
 
@@ -1862,7 +2148,7 @@ The derivation has two halves.
 
 First, a guard is not a symptom of distrust. See observation 5. The maker placed the guard, and the text states its function positively: to keep a way. A company that treats access control as an insult to its people misreads the model.
 
-Second, a real cost of failure is lost access. See observation 4, and the phrase itself: "to keep the way". What was lost in Genesis 3 was not mainly comfort or a garden. It was the way in. Text states: Scripture later speaks of that way as open again. Revelation 22:14 speaks of those who "may have right to the tree of life", and Hebrews 10:19-20 speaks of entering "by the blood of Jesus, By a new and living way". Inference: the way closed in 3:24 is opened in Christ, not by the effort of the one shut out. Inference, by analogy: guard the ways in that you control: the market, the account, the trust.
+Second, a real cost of failure is lost access. See observation 4, and the phrase itself: "to keep the way". What was lost in Genesis 3 was not mainly comfort or a garden. It was the way in. Scripture says: Scripture later speaks of that way as open again. Revelation 22:14 speaks of those who "may have right to the tree of life", and Hebrews 10:19-20 speaks of entering "by the blood of Jesus, By a new and living way". Reading: the way closed in 3:24 is opened in Christ, not by the effort of the one shut out. Reading, by analogy: guard the ways in that you control: the market, the account, the trust.
 
 #### Business consequences
 
@@ -1889,38 +2175,46 @@ The failure is open access in the name of speed or trust. The bill comes as an i
 
 ### A34. There is an adversary for this age, and the victory is asymmetric
 
+#### Summary
+
+Genesis 3:15: "it shall bruise thy head, and thou shalt bruise his heel."
+
+Conflict is not a passing phase in this age, but it has an end. The promised win is to the head, and the cost is to the heel. Scripture says: "And the God of peace shall bruise Satan under your feet shortly" (Romans 16:20), and "the devil that deceived them was cast into the lake of fire" (Revelation 20:10).
+
+Reading: in business, competition and opposition last for as long as you operate. They are not a passing stage. Expect the wound to the heel as the price. Reading, by analogy only: the verse is a promise about the seed of the woman, not an instruction about competitors. The analogy is about where to aim. Aim at the head of the problem, its root cause, not at a competitor. A competitor is not the enemy. The long game is the only game.
+
 Grounding text, Genesis 3:15:
 
 > 15 And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
 
-#### Lexical
+#### Word meaning
 
 - H7779 שׁוּף (_shuph_): "properly, to gape, i.e. snap at; figuratively, to overwhelm". KJV: "break, bruise, cover." This is the verb "bruise" in Genesis 3:15, for both strikes.
 - G4937 συντρίβω (_syntribo_): "to crush completely, i.e. to shatter (literally or figuratively)". This is the verb "bruise" in Romans 16:20. It is a different word from _shuph_, in a different language.
 
 #### Observations
 
-1. Text states: God sets up the enmity: "I will put enmity". It is not a natural rivalry that arose. God declares it.
-2. Text states: The enmity is ongoing and passes through generations: "between thy seed and her seed". It lasts through this age. It is not a single event.
-3. Text states (the asymmetry): The verse has two strikes, at two different targets: head and heel. Inference: the targets differ in severity. A strike to the head is decisive. A strike to the heel is painful and survivable.
-4. Text states: The one who receives the strike to the heel delivers the strike to the head. The same sentence assigns both. The wound and the victory are connected.
-5. Text states: God speaks the verse to the serpent, in the middle of the judgments. Inference: many readers take it as the first promise in Scripture. Text states: God addresses it to the enemy, not to the man.
-6. Text states (the New Testament identification): Revelation 12:9 says: "And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world". Romans 16:20 says: "And the God of peace shall bruise Satan under your feet shortly." Lexical: the verb in Romans 16:20 is _syntribo_ (G4937), not the Hebrew _shuph_ (H7779) of Genesis 3:15. Inference: Romans 16:20 echoes the image of Genesis 3:15, with a crushed enemy under the feet. It is not the same verb.
-7. Text states (the end of the conflict): Romans 16:20 says "shortly". Revelation 20:10 says "And the devil that deceived them was cast into the lake of fire and brimstone". 1 John 3:8 says "For this purpose the Son of God was manifested, that he might destroy the works of the devil." The head wound is decisive, and the conflict has an end that God sets.
+1. Scripture says: God sets up the enmity: "I will put enmity". It is not a natural rivalry that arose. God declares it.
+2. Scripture says: The enmity is ongoing and passes through generations: "between thy seed and her seed". It lasts through this age. It is not a single event.
+3. Scripture says (the asymmetry): The verse has two strikes, at two different targets: head and heel. Reading: the targets differ in severity. A strike to the head is decisive. A strike to the heel is painful and survivable.
+4. Scripture says: The one who receives the strike to the heel delivers the strike to the head. The same sentence assigns both. The wound and the victory are connected.
+5. Scripture says: God speaks the verse to the serpent, in the middle of the judgments. Reading: many readers take it as the first promise in Scripture. Scripture says: God addresses it to the enemy, not to the man.
+6. Scripture says (the New Testament identification): Revelation 12:9 says: "And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world". Romans 16:20 says: "And the God of peace shall bruise Satan under your feet shortly." Word meaning: the verb in Romans 16:20 is _syntribo_ (G4937), not the Hebrew _shuph_ (H7779) of Genesis 3:15. Reading: Romans 16:20 echoes the image of Genesis 3:15, with a crushed enemy under the feet. It is not the same verb.
+7. Scripture says (the end of the conflict): Romans 16:20 says "shortly". Revelation 20:10 says "And the devil that deceived them was cast into the lake of fire and brimstone". 1 John 3:8 says "For this purpose the Son of God was manifested, that he might destroy the works of the devil." The head wound is decisive, and the conflict has an end that God sets.
 
 #### Derivation
 
-Inference: Conflict is not a passing phase in this age, but it has an end (observation 7). The promised win is to the head, and the cost is to the heel. So in business, competition and opposition last for as long as you operate. They are not a passing stage. The long game is the only game.
+Reading: Conflict is not a passing phase in this age, but it has an end (observation 7). The promised win is to the head, and the cost is to the heel. So in business, competition and opposition last for as long as you operate. They are not a passing stage. The long game is the only game.
 
 The engine of the derivation is observation 3. If the two strikes were equal, the instruction is to trade blows. They are not equal. So the strategy is to accept the wound to the heel and to aim at what is decisive. It is a statement about what to absorb and what to attack.
 
-Inference, by analogy only: Genesis 3:15 is a promise about the seed of the woman and the serpent. It is not an instruction about business competitors. The analogy is about where to aim. Aim at the problem, at the root cause, not at a person or a competitor. This fits observation 6 and the rule below: a competitor is not the enemy.
+Reading, by analogy only: Genesis 3:15 is a promise about the seed of the woman and the serpent. It is not an instruction about business competitors. The analogy is about where to aim. Aim at the problem, at the root cause, not at a person or a competitor. This fits observation 6 and the rule below: a competitor is not the enemy.
 
 #### Business consequences
 
 - Opposition is lasting. A business that expects competition to end, after the next release, the next raise, or the next regulation, misread the environment. No configuration of the market makes opposition stop.
 - Expect the wound to the heel. To be copied, undercut, criticized, sued, and misrepresented is the price. These are not evidence that the strategy is wrong. A strategy that produces no opposition is either trivial or already dead.
-- Inference, by analogy: aim at the head of the problem. The heel is survivable, and the head is decisive. In business terms, attack the thing that decides whether the problem continues: the root cause in your own economics, distribution, or key constraint. Do not attack a competitor, and do not spend effort on what only annoys you.
+- Reading, by analogy: aim at the head of the problem. The heel is survivable, and the head is decisive. In business terms, attack the thing that decides whether the problem continues: the root cause in your own economics, distribution, or key constraint. Do not attack a competitor, and do not spend effort on what only annoys you.
 - Do not confuse the adversary with a person. Ephesians 6:12 says in plain words: "For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places." A competitor is not the enemy. If you treat a competitor as the enemy, you get bad strategy and bad ethics.
 - The long game is the only game. See observation 2: the enmity passes through generations. A plan that requires the conflict to end within a quarter is not a plan.
 
@@ -1942,37 +2236,3 @@ There are two opposite failures, and both are common:
 - Romans 16:20: "And the God of peace shall bruise Satan under your feet shortly."
 
 ---
-
-## Appendix: verification log
-
-I retrieved every verse in this file with `scripture.ts lookup` or `scripture.ts search` (or the matching `scripture.py`). I retrieved every Hebrew and Greek claim with `lexicon.ts` (or `lexicon.py`). This appendix records what I checked, what I counted, and what I was not able to check with the available tools.
-
-### Counts verified by search
-
-| Claim | Method | Result |
-| ------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| "And God said" occurs ten times in Genesis 1 | `scripture.ts search "And God said" --book Genesis` | 10 occurrences in Genesis 1: vv. 3, 6, 9, 11, 14, 20, 24, 26, 28, 29 |
-| "God saw ... good" occurs seven times in Genesis 1 | `scripture.ts search "God saw" --book Genesis` | 7 occurrences in Genesis 1: vv. 4, 10, 12, 18, 21, 25, 31 (v. 31 is "very good") |
-| "that it was good" occurs six times in Genesis 1 | `scripture.py search "that it was good" --book Genesis` | 6 verses: 1:4, 10, 12, 18, 21, 25. Day 2 (1:6-8) has none. Day 3 has two (1:10, 12) |
-| "Evening and the morning" occurs six times | `scripture.ts search "evening and the morning" --book Genesis` | 6 occurrences: 1:5, 8, 13, 19, 23, 31 |
-| Divide or divided occurs in Genesis 1 | `scripture.ts search "divide" --book Genesis` | 5 verses in Genesis 1: vv. 4, 6, 7 (forming days) and 14, 18 (day 4, a filling day) |
-| "After his kind" occurs in Genesis 1 | `scripture.ts search "after his kind" --book Genesis` | 8 occurrences: 3 in 1:11-12, 1 in 1:21, 4 in 1:24-25 |
-| "After their kind" occurs in Genesis 1 | `scripture.ts search "after their kind" --book Genesis` | 2 occurrences: 1:21, 1:25 |
-
-### Lexical claims verified with `lexicon.ts`
-
-The file uses these entries, and I checked each one: H7225 _reshith_, H1254 _bara_, H776 _erets_, H8064 _shamayim_, H8414 _tohu_, H922 _bohu_, H2822 _choshek_, H7307 _ruach_, H7363 _rachaph_, H4150 _moed_, H3974 _maor_, H216 _or_, H3117 _yom_, H2896 _towb_, H4390 _male_, H3533 _kabash_, H7287 _radah_, H6754 _tselem_, H1823 _demuth_, H3615 _kalah_, G5055 _teleo_, H7676 _shabbath_, H7673 _shabath_, H3240 _yanach_, H127 _adamah_, H5647 _abad_, H5650 _ebed_, H8104 _shamar_, H6975 _qots_, H5828 _ezer_, H5826 _azar_, H5048 _neged_, H1692 _dabaq_, H8669 _teshuqah_, H2032 _herown_, H7779 _shuph_, and G4937 _syntribo_.
-
-Definitions are quoted word for word. Where an entry is long, "..." marks the part that is left out. The H4150 entry has a typo in the source data ("ayear"), and the quote keeps it.
-
-### Claims I was NOT able to verify with the supplied tools
-
-I state these openly. I do not hide them.
-
-1. The concordance claim for H5828 _ezer_. The claim is that the Bible also uses _ezer_ of God as the help of Israel.
-   - What the tools confirm: Strong's defines H5828 as "aid". H5828 is part of the names Eliezer ("God of help", H410 + H5828), Azriel ("help of God", H5828 + H410), and Ebenezer ("stone of the help", H68 + H5828). Exodus 18:4 explains the name Eliezer as "the God of my father... was mine help".
-   - What the tools do not provide: the supplied Strong's data is a dictionary with no tags at the level of each verse. The bundled KJV JSON has no Strong's numbers. So I was not able to confirm word by word that Psalm 121:2, Psalm 124:8, Deuteronomy 33:29, or Psalm 33:20 use H5828.
-   - The KJV English of those verses does speak of God as help, and the evidence from the names is strong. But the concordance claim is not checked here. Treat it as well supported, not proven.
-2. Genesis 3:16, "thy desire shall be to thy husband". Faithful readers dispute the Hebrew construction. I did not resolve it, and the axiom does not depend on the answer. See A29, observation 3. The same verse's "thy sorrow and thy conception" is also read in two ways (A28, observation 1). This file marks other contested matters where they occur: the roles of man and woman (A18, observation 3), the Sabbath (A15, observation 6), and naming as authority (A7, observation 5).
-3. The figure "5-10 times rewrite cost". This is an unsourced engineering estimate in `SKILL.md`. It is not a number from Scripture. A17 labels it as an estimate.
-4. Words that the tools cannot tag by verse. The tools give no word-level link from a KJV verse to a Strong's number. This file names the Hebrew or Greek word behind some verses (for example _kalah_ in Genesis 2:1-2, _maor_ in Genesis 1:14, _qots_ in Genesis 3:18, _herown_ in Genesis 3:16, _shuph_ in Genesis 3:15, _syntribo_ in Romans 16:20, _teleo_ in John 19:30). In those places I matched the KJV rendering to the Strong's entry by its English gloss. That match is standard, but the tools do not prove it.
