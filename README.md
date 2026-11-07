@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/icon.svg" alt="A stone wall built on a gold cornerstone" width="128"></p>
+<p align="center"><img src="icon/icon.svg" alt="A stone wall built on its cornerstone" width="128"></p>
 
 # Skills
 
@@ -19,7 +19,7 @@ Most of the biblical reasoning skills reason from Scripture. The `scripture-foun
 | [scripture-foundations](scripture-foundations/) | Gives the agent a local, searchable KJV and scripts to look up and verify verses, and a method to derive principles from the text. |
 | [self-grill](self-grill/) | Autonomously interrogates a plan, architecture, or request by traversing its decision tree, answering each question, and presenting a Decision Ledger. |
 
-Each folder has a `SKILL.md` file for the agent and a `README.md` file for people. Read the `README.md` of a skill for its triggers, steps, example prompts, and limits.
+Each skill folder has a `SKILL.md` file for the agent and a `README.md` file for people. The `icon` and `assets` folders hold the repository's icon and are not skills. Read the `README.md` of a skill for its triggers, steps, example prompts, and limits.
 
 ## Install
 
