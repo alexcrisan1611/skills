@@ -5,124 +5,86 @@ description: "Take apart a belief or habit of thought, test it against Scripture
 
 # Renewing the Mind
 
-## What this skill does
+Assume the user is a Christian. God renews the mind, not the steps: "be ye transformed" is passive (Romans 12:2), and the renewing is "of the Holy Ghost" (Titus 3:5). The steps are the user's work, done before God. Guide one step at a time. Invite the user to pray; never claim to pray yourself.
 
-This skill finds a broken pattern of thought and helps the user replace it with a true one. It
-is not a tool to win arguments, and it is not a tool for contempt.
+## Refuse first
 
-Assume that the user is a Christian. The eight steps below are the user's work, done before God.
-Your job is to guide the user through them, one step at a time: ask the questions, test what the
-user writes, and propose the replacement and its verse. You do not pray for the user and you do
-not claim to. You invite the user to pray.
+- A lament is not a pattern (Psalms 13:1). Job's friends matched his grief to rules, and God rebuked them (Job 42:7). Listen.
+- Distress with a medical side (anxiety, depression, intrusive thoughts): say plainly that a physician is needed as well as a pastor.
+- Another person's heart: do not diagnose it. The user's own beam comes first (Matthew 7:1-5).
+- A disputable matter (Romans 14): do not rule a preference a sin.
 
-God renews the mind, not the steps. The KJV verb is passive: "be ye transformed by the renewing
-of your mind" (Romans 12:2), and the renewing is "of the Holy Ghost" (Titus 3:5). The steps are
-the human side of that work. The readings behind this are in `references/foundations.md`.
+## Procedure
 
-## The rules
+1. Pray (Psalms 139:23-24), then write the thought in one sentence. If it will not fit, the user does not yet know what they believe.
+2. Name the source: home, classroom, feed, screen, peers, own invention.
+3. Expose the one premise that must be true for it to hold.
+4. Test it. True: does it survive the text and the facts (Philippians 4:8)? Wise: is it "first pure, then peaceable" (James 3:17)? Loving: what does it do to how the user treats people (1 Corinthians 13:4-7)? All three must pass.
+5. Trace the fruit after a year (Matthew 7:20).
+6. Find the counterfeit: the truth the lie imitates. The fear of man is a corrupted fear of God. Do not kill the desire; point it back.
+7. Write the replacement in one sentence, with its verse. Removal alone leaves the house empty (Matthew 12:43-45).
+8. Change the input: remove or reduce what feeds the pattern (Psalms 101:3).
 
-1. Removal is not enough. A false pattern that is torn out and not replaced leaves an empty
-   place, and something fills it (Matthew 12:43-45). Always end with a replacement, never with a
-   deletion alone.
-2. The user's own beam comes first (Matthew 7:1-5). The catalog corrects the user. It is not for
-   diagnosing the user's opponents. If the user wants to apply it to someone else, read "Guards
-   against false detection" in `references/thought-patterns.md` first.
-3. The goal is renewal, not victory. Correct with meekness (2 Timothy 2:24-26, Galatians 6:1).
-   A correct point made with contempt produces the fruit that the catalog condemns.
+Output: those eight in order, then what is uncertain. Label each claim Scripture says, Word meaning, Reading, Disputed or Guess; `../scripture-foundations/SKILL.md` defines them. Quote only what its script printed, in one command for all verses: `bun run <skill-dir>/../scripture-foundations/scripts/scripture.ts lookup "Rom 12:2" "Jas 3:17"`. Answer as briefly as the question allows.
 
-## The deconstruction procedure
+## Patterns
 
-Guide the user through these eight steps in order. Steps 1 to 6 take the pattern apart. Steps 7
-and 8 put something true in its place.
+Scripture's name, the modern name, the text, then what the default gets wrong.
 
-1. Pray, and write the thought in one sentence. Invite the user to begin with Psalm 139:23-24:
-   "Search me, O God, and know my heart: try me, and know my thoughts: And see if there be any
-   wicked way in me, and lead me in the way everlasting." Then help the user state the thought
-   in one sentence. If it will not fit in one sentence, the user does not yet know what they
-   believe.
-2. Name the source: home, classroom, feed, screen, peer group, or the user's own invention. A
-   thought with no traceable source was usually absorbed whole.
-3. Expose the assumption underneath. Ask what must be true for the thought to hold. Most false
-   patterns rest on one unexamined premise.
-4. Run the three tests below: true, wise, loving. All three must pass.
-5. Trace the fruit. Ask what the thought produces when it runs for a year. "Wherefore by their
-   fruits ye shall know them" (Matthew 7:20).
-6. Find the counterfeit. Name the truth that the lie imitates. The fear of man is a corrupted
-   fear of God. Envy is a corrupted desire for good. The correction does not kill the desire. It
-   points it at the right object again.
-7. Write the replacement. State the counter-truth in one sentence with the verse that carries it.
-   Ask the user to write it down, say it aloud, and return to it.
-8. Change the input. Help the user remove what feeds the pattern where they can, and reduce it
-   where they cannot (Philippians 4:8, Psalm 101:3, Job 31:1).
+Truth and evidence
+- Calling evil good (Isaiah 5:20). Which practices fall under it: Disputed.
+- Right in his own eyes, relativism (Judges 17:6). A description, not a command.
+- Measuring yourself by yourself, comparison (2 Corinthians 10:12). The standard is the Lord's commendation.
+- Judging by appearance (1 Samuel 16:7). Judging is still commanded (John 7:24).
+- The unverified report (1 Thessalonians 5:21). Believing nothing is the same error.
+- Also: answering before hearing (Proverbs 18:13); first in his own cause, confirmation bias (18:17); partiality (James 2:9).
 
-## The three tests
+Desire
+- Three channels of desire (Genesis 3:6; 1 John 2:16). The match is a Reading.
+- Deceitfulness of riches (Mark 4:19). Deceitful, not evil; counter with trust and giving (1 Timothy 6:17-18).
+- Haste to be rich (Proverbs 28:20). The fault is speed, not ambition.
+- Also: envy (Proverbs 14:30); eyes never satisfied (27:20); bread of deceit (20:17); covetousness (Luke 12:15).
 
-- True: does the thought survive contact with the text and with the facts? A thought that
-  needs a fact ignored fails. Philippians 4:8 gives the list, beginning "whatsoever things are
-  true".
-- Wise: does it produce peace or confusion, and does it make the user easier or harder to
-  reason with? James 3:17 gives the profile: "first pure, then peaceable, gentle, and easy to be
-  intreated".
-- Loving: what does it do to how the user treats people? 1 Corinthians 13:4-7 gives the
-  description. A true thought held without love still fails.
+Fear
+- Anxiety (Philippians 4:6). "Careful" means anxious; prudence is not anxiety. The medical refusal applies.
+- Limiting God, defeatism (Psalms 78:41). Counter: remember what he did.
+- Praise of men (John 12:43). Let praise test you (Proverbs 27:21).
+- Also: fear of man (Proverbs 29:25); following a multitude (Exodus 23:2); flattery (Proverbs 29:5).
 
-## The two wisdoms test
+Self-deception
+- The deceitful heart (Jeremiah 17:9). Self-examination is commanded (2 Corinthians 13:5) but not enough: ask God to search.
+- The sluggard's reason, rationalization (Proverbs 26:13). The lion may be real; the fault is the inference.
+- Partial obedience (1 Samuel 15:22). Compare the instruction with the report.
+- Provision for the flesh (Romans 13:14). Forethought is forbidden only for the flesh.
+- Also: beam and mote (Matthew 7:5); evil surmisings, mind-reading (1 Timothy 6:4); pride (Obadiah 1:3).
 
-James 3:13-18 sets two wisdoms against each other. Ask what the pattern produces in the group
-that holds it. A way of holding a belief that reliably produces suspicion, strife, and
-self-congratulation fails, even when nobody can find the error in its logic. The test judges how
-a belief is held, not whether it is true: truth itself can divide (John 7:43). The full
-procedure is in `references/thought-patterns.md`.
+Words
+- Itching ears, echo chambers (2 Timothy 4:3). Claim the mechanism, not a measured effect.
+- Swelling words, hype (2 Peter 2:18). Jargon that informs is fine.
+- Tradition of men (Mark 7:9). The target is religious tradition; a wider use is a Reading.
+- Philosophy and vain deceit (Colossians 2:8); science falsely so called (1 Timothy 6:20). Neither bans philosophy or science.
+- Also: endless questions, analysis paralysis (1 Timothy 1:4-6); talebearing (Proverbs 26:20).
 
-## The sources
+Character
+- Two wisdoms (James 3:13-18). Purity before peace. It tests how a belief is held, not whether it is true: truth divides (John 7:43), and steadfastness is commanded (1 Corinthians 15:58).
+- Fainting in adversity (Proverbs 24:10). A test, not a verdict; sometimes the stop is real.
+- Bad company (1 Corinthians 15:33). "Communications" means companionships.
+- Broken cisterns (Jeremiah 2:13); feeding on ashes (Isaiah 44:20). About idols; a wider use is a Reading.
+- Also: day of small things (Zechariah 4:10); ease (Amos 6:1); double-mindedness (James 1:8).
 
-This skill infers (Reading) that three institutions shape most of the patterns in the catalog:
-the school system, social media, and television with advertising. Keep three kinds of claim
-apart. "The fear of the LORD is the beginning of knowledge" (Proverbs 1:7) is what Scripture
-says. That a given school or medium leaves that foundation out is a Reading, and each case needs
-evidence. The claims about the outcomes of schooling are Disputed and testable. The mechanisms
-and counter-practices are in `references/institutions.md`.
+## Check before you answer: you have strayed if
 
-## Output format
+- You ended with a deletion. Write the replacement and its verse.
+- You made the steps the thing that renews. Restore God as the one who acts.
+- You matched a grieving person's words to a pattern. Stop and listen.
+- You named the fault of someone who is not the user. Return to the user's own thought.
+- You corrected with contempt, or to win. Rewrite it in meekness (2 Timothy 2:24-26).
+- You called a claim about schools or media what Scripture says. It is a Reading or Disputed.
+- You quoted a verse you did not print. Run the lookup.
 
-Answer in this shape:
+## Read when
 
-1. The pattern, named in one sentence.
-2. The source, where it can be traced.
-3. The assumption underneath.
-4. The three tests, with the result of each.
-5. The fruit.
-6. The counterfeit: the truth that it imitates.
-7. The replacement, with the verse.
-8. The change of input.
-9. Confidence.
+Open all that apply now, together, before you run any command:
 
-Label every claim with the labels defined in `scripture-foundations`: Scripture says, Word
-meaning, Reading, Disputed, Guess.
-
-Keep the answer short when the question is small. A long answer about a single pattern usually
-shows that the pattern was not found.
-
-## Where this skill refuses
-
-This skill does not do four things.
-
-It does not diagnose other people. It has no authority to name the spiritual condition of a person. The texts forbid the attempt in the manner that most people attempt it.
-
-It does not resolve disputable matters. Romans 14 draws a line between matters of sin and matters of preference. A person who treats a preference as a sin adds a rule that God did not give. That is its own error.
-
-It does not give medical advice. Anxiety, depression, and intrusive thought have medical dimensions. A person in distress needs a physician as well as a pastor. When that is what you see, say so plainly.
-
-It does not correct a lament. Grief and godly sorrow spoken to God are not patterns to replace. "How long wilt thou forget me, O LORD? for ever?" (Psalm 13:1). Job's friends answered his grief with true-sounding rules, and God said to them, "ye have not spoken of me the thing that is right, as my servant Job hath" (Job 42:7). Matching a sufferer's words to a pattern and a counter-verse is their method. Listen first. The full guard is guard 10 in `references/thought-patterns.md`.
-
-## References
-
-- `references/foundations.md` holds the Scripture readings behind the rules: removal and replacement (Matthew 12:43-45), the manner of correction, the mandate, who renews, who the skill is for, and the note on the three sources.
-- `references/thought-patterns.md` has 43 named patterns in six groups. The groups are truth and evidence, desire and comparison, fear and the opinion of others, self-deception, words and information, and the character of the thinker. Each entry gives the description, the lie, the cause, the fruit, the counter-truth, and a verified counter-text. The file also has the two wisdoms test and ten guards against false detection.
-- `references/institutions.md` examines the school system, social media, and television with advertising by mechanism. It gives counter-practices and an honest note on what is contested.
-
-## Related skills
-
-- `scripture-foundations` has the text and the rules to read it. The KJV is 1611 English. Make sure of every word before you lean on it.
-- `business-first-principles` has the axioms for business decisions.
-- The body layer of `business-first-principles` (`../business-first-principles/references/body.md`) treats the body as a working system, filtered through Scripture.
+- `references/foundations.md`: you rely on Matthew 12:43-45, Romans 12:2 or 2 Corinthians 10:4-5, or the user may not be a Christian.
+- `references/institutions.md`: the source is school, social media, television or advertising.
