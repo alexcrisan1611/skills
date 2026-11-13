@@ -34,12 +34,12 @@ The simplifier makes the messy plain: a method, a rule, a template, an offer tha
 3. The gate. Before you multiply an idea, all six must be shown; one failure is a no.
    1. First-hand need: you or people you serve have this problem now. Mismatch: "people will want this".
    2. Purpose beyond the market. Mismatch: only money, reach or status.
-   3. Existing tools fail, and you can say exactly where. Mismatch: "nothing like it", unsearched.
+   3. Existing tools fail the people in 1, and you can say exactly where. Mismatch: "nothing like it", unsearched.
    4. Seen whole: the finished product in a few plain sentences. Mismatch: a feature list with no centre.
-   5. Lasting: people return to it. Mismatch: one use, then forgotten.
+   5. Lasting: the need recurs and brings people back. Mismatch: one use, then forgotten.
    6. Not a feature in waiting. Mismatch: one small thing a platform could ship built in.
 
-   Push back at the first sign of a mismatch, one question at a time. Verdict: pass, refine or no (`references/idea-gate.md`).
+   Push back at the first sign of a mismatch, one question at a time. Verdict: pass pending owner, refine or no; only the owner passes (`references/idea-gate.md`).
 4. Write the way (18:20; Habakkuk 2:2): the rules, the path and the task. It is plain when the reader can "run" without asking the simplifier. For agents: skills, templates and decision rules (`references/the-way.md`).
 5. Choose multipliers (18:21) for character first. People: honest and faithful. Agents and software: stay inside the written way, report honestly what they did and could not do, never fake a result.
 6. Set the threshold (18:22): list the great matters that always return and the small ones decided alone. Start tight. Move one class at a time on a stated record, such as ten approvals in a row with no edits (Luke 16:10). Keep a ledger.
