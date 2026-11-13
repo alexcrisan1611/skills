@@ -1,4 +1,4 @@
-<p align="center"><img src="icon/icon.svg" alt="A stone wall built on its cornerstone" width="128"></p>
+<p align="center"><img src="icon.svg" alt="A stone wall built on its cornerstone" width="128"></p>
 
 # Skills
 

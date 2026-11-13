@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- The App icon of Skills, in the Solar Enterprise House style. The Dials below are its source: change one, then run the solar-enterprise-app-icon kit's render.ts to redraw this file and every platform icon. Tile oklch(0.695 0.13 80) -> oklch(0.561 0.107 74). -->
+  <metadata id="dials">
+{
+	"name": "Skills",
+	"vibe": [
+		"grounded",
+		"wise",
+		"warm"
+	],
+	"hue": 80,
+	"mark": {
+		"note": "A stone wall built on its chief cornerstone (Eph 2:20): skills built on a sure foundation. Four courses thin and step in as they rise; the cornerstone is set apart by a gap offset from its own sides. Drawn by ~/icon-work/skills/mark.ts."
+	},
+	"grid": {
+		"kind": "line"
+	},
+	"anchor": {
+		"shape": "square"
+	}
+}
+</metadata>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1024" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#C7932B"/><stop offset="1" stop-color="#9A6A1E"/>
+    </linearGradient>
+    <radialGradient id="fadeout" cx="512" cy="512" r="560" gradientUnits="userSpaceOnUse">
+      <stop offset=".25" stop-color="#FFFFFF"/><stop offset="1" stop-color="#000000"/>
+    </radialGradient>
+    <mask id="vignette" maskUnits="userSpaceOnUse" x="-256" y="-256" width="1536" height="1536">
+      <rect x="-256" y="-256" width="1536" height="1536" fill="url(#fadeout)"/>
+    </mask>
+    <path id="mark" fill-rule="evenodd" d="M197.5 596.6Q185.4 596.5 186.2 584.5L203.5 327.8Q206.2 287.7 246.4 287.7L474.8 287.7Q498.9 287.7 501.9 311.6L509.2 369.2Q510 375.2 503.9 375.3L275.1 378.1Q270.1 378.2 270.1 383.2L270.1 385.3Q270.1 390.3 275.1 390.3L593.5 393.1Q619.6 393.3 622.9 419.3L629.9 475.8Q630.7 481.8 624.6 481.9L268 484.8Q262.9 484.8 262.9 489.9L262.9 491.9Q262.9 496.9 268 496.9L706.1 499.7Q734.3 499.9 737.2 527.9L744.4 598.6Q745.3 607.6 754.4 607.6L814.8 607.6Q844.9 607.6 847.5 637.6L853.1 702.2Q856 736.3 821.8 736.3L362.1 736.3Q352 736.3 352 726.3L352 628.7Q352 618.6 362.1 618.5L674.9 614.7Q681 614.6 681 608.6L681 606.6Q681 600.5 674.9 600.5ZM182.3 642.7Q183.9 618.6 208.1 618.6L309.8 618.6Q329.9 618.6 329.9 638.7L329.9 720.2Q329.9 736.3 313.8 736.3L204.2 736.3Q176 736.3 177.9 708.2ZM607.7 635.7Q607.5 630.7 612.6 630.7L616.6 630.7Q621.6 630.7 621.5 635.7L619.7 714.2Q619.6 718.2 615.6 718.2L613.6 718.2Q609.6 718.2 609.5 714.2ZM464.8 521.1Q464.7 516 469.7 516L473.8 516Q478.8 516 478.6 521.1L476.9 585.4Q476.8 589.5 472.7 589.5L470.7 589.5Q466.7 589.5 466.6 585.4ZM366.3 412.4Q366.1 407.4 371.1 407.4L375.2 407.4Q380.2 407.4 380 412.4L378.3 461.7Q378.2 465.7 374.2 465.7L372.2 465.7Q368.1 465.7 368 461.7ZM324 308.8Q323.9 303.8 328.9 303.8L332.9 303.8Q338 303.8 337.8 308.8L336.1 357.1Q335.9 361.1 331.9 361.1L329.9 361.1Q325.9 361.1 325.7 357.1Z"/>
+    <linearGradient id="frost" x1="0" y1="288" x2="0" y2="736" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FBFAF5"/><stop offset=".1" stop-color="#F6F0DF"/>
+      <stop offset=".3" stop-color="#EEDBAD"/><stop offset="1" stop-color="#E9CA85"/>
+    </linearGradient>
+    <filter id="rim" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="13" result="blur"/>
+      <feOffset in="blur" dy="10" result="low"/>
+      <feComposite in="SourceAlpha" in2="low" operator="arithmetic" k2="1" k3="-1" result="edge"/>
+      <feFlood flood-color="#FFFFFF" flood-opacity=".9"/>
+      <feComposite in2="edge" operator="in"/>
+    </filter>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="20"/><feOffset dy="20"/>
+      <feColorMatrix values="0 0 0 0 0.361  0 0 0 0 0.259  0 0 0 0 0.129  0 0 0 .38 0"/>
+    </filter>
+    <clipPath id="tile"><rect x="100" y="100" width="824" height="824" rx="186"/></clipPath>
+  </defs>
+  <g clip-path="url(#tile)"><g transform="translate(100 100) scale(.8047)"><rect x="-256" y="-256" width="1536" height="1536" fill="url(#sky)"/><g mask="url(#vignette)"><g stroke="#FFFFFF" stroke-opacity=".17" stroke-width="2"><path d="M34 0V1024M68 0V1024M136 0V1024M170 0V1024M204 0V1024M272 0V1024M306 0V1024M340 0V1024M408 0V1024M442 0V1024M476 0V1024M544 0V1024M578 0V1024M612 0V1024M680 0V1024M714 0V1024M748 0V1024M816 0V1024M850 0V1024M884 0V1024M952 0V1024M986 0V1024M1020 0V1024"/><path d="M0 68H1024M0 102H1024M0 136H1024M0 204H1024M0 238H1024M0 272H1024M0 340H1024M0 374H1024M0 408H1024M0 476H1024M0 510H1024M0 544H1024M0 612H1024M0 646H1024M0 680H1024M0 748H1024M0 782H1024M0 816H1024M0 884H1024M0 918H1024M0 952H1024M0 1020H1024"/></g><g stroke="#FFFFFF" stroke-opacity=".24" stroke-width="2.8"><path d="M102 0V1024M238 0V1024M374 0V1024M510 0V1024M646 0V1024M782 0V1024M918 0V1024"/><path d="M0 34H1024M0 170H1024M0 306H1024M0 442H1024M0 578H1024M0 714H1024M0 850H1024M0 986H1024"/></g><g opacity="0.62"><rect x="96" y="28" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="96" y="164" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="96" y="300" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="96" y="436" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="96" y="572" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="96" y="708" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="96" y="844" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="96" y="980" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="232" y="28" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="232" y="164" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="232" y="300" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="232" y="436" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="232" y="572" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="232" y="708" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="232" y="844" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="232" y="980" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="368" y="28" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="368" y="164" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="368" y="300" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="368" y="436" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="368" y="572" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="368" y="708" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="368" y="844" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="368" y="980" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="504" y="28" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="504" y="164" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="504" y="300" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="504" y="436" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="504" y="572" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="504" y="708" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="504" y="844" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="504" y="980" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="640" y="28" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="640" y="164" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="640" y="300" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="640" y="436" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="640" y="572" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="640" y="708" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="640" y="844" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="640" y="980" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="776" y="28" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="776" y="164" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="776" y="300" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="776" y="436" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="776" y="572" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="776" y="708" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="776" y="844" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="776" y="980" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="912" y="28" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="912" y="164" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="912" y="300" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="912" y="436" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="912" y="572" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="912" y="708" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="912" y="844" width="12" height="12" rx="3" fill="#FFFFFF"/><rect x="912" y="980" width="12" height="12" rx="3" fill="#FFFFFF"/></g></g><use href="#mark" fill="#000000" filter="url(#shadow)"/><use href="#mark" fill="url(#frost)" fill-opacity=".94"/><use href="#mark" fill="#FFFFFF" filter="url(#rim)"/></g></g>
+</svg>
