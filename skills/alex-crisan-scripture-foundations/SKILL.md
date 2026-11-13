@@ -18,7 +18,7 @@ bun run <skill-dir>/scripts/lexicon.ts lookup H7287 G26
 bun run <skill-dir>/scripts/lexicon.ts english "charity"
 ```
 
-No Bun: `python <skill-dir>/scripts/scripture.py` or `lexicon.py`, same arguments. No data: tell the user the KJV and Strong's data are not bundled; `scripts/lib/paths.ts` lists where the scripts look.
+No data: tell the user the KJV and Strong's data are not bundled; `scripts/lib/paths.ts` lists where the scripts look.
 
 Run one command for everything you need: `lookup` takes several references, and `;` joins commands. A range stays inside one chapter (`"1 Cor 12:31" "1 Cor 13:1-7"`).
 

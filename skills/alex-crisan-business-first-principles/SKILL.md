@@ -12,7 +12,7 @@ description: "Biblical axioms (Genesis 1-3, A1-A34) for foundational business de
 1. The axioms are Readings, not Scripture. Label each claim Scripture says, Word meaning, Reading, Disputed or Guess; `../alex-crisan-scripture-foundations/SKILL.md` defines them.
 2. Derive, don't recite. Show why the axiom governs this decision and what follows here.
 3. Christ is the foundation (1 Corinthians 3:11) and love governs every use (Matthew 22:37-39). A conclusion that harms or exploits has a mistake in it.
-4. Quote only what the script printed, in one command for all verses: `bun run <skill-dir>/../alex-crisan-scripture-foundations/scripts/scripture.ts lookup "Gen 2:15" "Prov 21:20"`. No Bun: `python`, `scripture.py`.
+4. Quote only what the script printed, in one command for all verses: `bun run <skill-dir>/../alex-crisan-scripture-foundations/scripts/scripture.ts lookup "Gen 2:15" "Prov 21:20"`.
 
 ## The axioms
 
