@@ -1,5 +1,5 @@
 ---
-name: ancient-secret-wealth-principle
+name: alex-crisan-ancient-secret-wealth-principle
 description: "Diagnose an offer or career on Myron Golden's Four Levels of Value and move it toward more reach. Use when the user names the Four Levels, is stuck trading time for money, or resists selling."
 ---
 
@@ -14,7 +14,7 @@ Myron Golden's model, used to diagnose an offer or a career. Scripture governs; 
 3. The power to get wealth is given (Deuteronomy 8:17-18). Golden's "wealth" is money only; Scripture also names being "rich toward God" (Luke 12:21).
 4. Golden says the order of creation mirrors his levels. The text gives no such order, and the "image" of Genesis 1:26-27 is not "imagination".
 5. Test Level 4 by motive. Babel is reach for a name (Genesis 11:4-6); Bezaleel is design from a gift, for others (Exodus 31:3-4).
-6. Label each claim Scripture says, Word meaning, Reading, Disputed or Guess; a business application is a Reading. Quote only what the script printed, in one command for all verses: `bun run <skill-dir>/../scripture-foundations/scripts/scripture.ts lookup "Prov 14:23" "Deut 8:17-18"`.
+6. Label each claim Scripture says, Word meaning, Reading, Disputed or Guess; a business application is a Reading. Quote only what the script printed, in one command for all verses: `bun run <skill-dir>/../alex-crisan-scripture-foundations/scripts/scripture.ts lookup "Prov 14:23" "Deut 8:17-18"`.
 
 ## The model (Golden's)
 

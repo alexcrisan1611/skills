@@ -1,5 +1,5 @@
 ---
-name: scripture-foundations
+name: alex-crisan-scripture-foundations
 description: "Look up, search and verify KJV text with bundled scripts, and derive principles from it. Use before quoting any verse, or when the user asks for explicitly biblical reasoning."
 ---
 
@@ -9,7 +9,7 @@ Assume the user is a Christian. The foundation is Christ (1 Corinthians 3:11). Y
 
 ## Look up, never recall
 
-`<skill-dir>` is this folder. Sibling skills call `<their skill-dir>/../scripture-foundations/scripts/...`.
+`<skill-dir>` is this folder. Sibling skills call `<their skill-dir>/../alex-crisan-scripture-foundations/scripts/...`.
 
 ```
 bun run <skill-dir>/scripts/scripture.ts lookup "Gen 1:26-28" "Ps 24:1"

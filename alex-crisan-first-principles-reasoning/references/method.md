@@ -16,6 +16,6 @@ Stop points, each recorded with its reason:
 2. Strong pattern, unknown mechanism: stop, and set a review date.
 3. A known practice fits: apply it.
 
-An axiom from `business-first-principles` keeps its number and stays a Reading.
+An axiom from `alex-crisan-business-first-principles` keeps its number and stays a Reading.
 
 A character question ("am I lazy?") goes to the condition of the thinker, with evidence, not to the climb.

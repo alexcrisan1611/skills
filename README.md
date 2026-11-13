@@ -14,4 +14,4 @@ To install by hand, copy each skill folder into `~/.claude/skills/`.
 
 ## Data for the Scripture scripts
 
-The King James Version (KJV) text and the Strong's dictionary are not in this repository. The scripts in `scripture-foundations` look for them in `~/bible-kjv` and `~/strongs` by default. Download both before you use the scripts. The file `scripture-foundations/scripts/lib/paths.ts` lists the other places the scripts search.
+The King James Version (KJV) text and the Strong's dictionary are not in this repository. The scripts in `alex-crisan-scripture-foundations` look for them in `~/bible-kjv` and `~/strongs` by default. Download both before you use the scripts. The file `alex-crisan-scripture-foundations/scripts/lib/paths.ts` lists the other places the scripts search.

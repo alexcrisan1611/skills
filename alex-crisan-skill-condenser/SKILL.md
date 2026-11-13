@@ -1,5 +1,5 @@
 ---
-name: skill-condenser
+name: alex-crisan-skill-condenser
 description: "Condense a bloated agent skill (SKILL.md and its references) and prove with small-model runs that it behaves at least as well. Use when the user wants a skill shortened, condensed, tightened or made more potent, or calls it bloated."
 ---
 

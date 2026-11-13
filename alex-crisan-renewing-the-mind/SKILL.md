@@ -1,5 +1,5 @@
 ---
-name: renewing-the-mind
+name: alex-crisan-renewing-the-mind
 description: "Take apart a belief or habit of thought, test it against Scripture (true, wise, loving), and replace it. Use when the user asks to examine or unlearn a belief, slogan, or inherited assumption. Not medical or mental-health advice."
 ---
 
@@ -25,7 +25,7 @@ Assume the user is a Christian. God renews the mind, not the steps: "be ye trans
 7. Write the replacement in one sentence, with its verse. Removal alone leaves the house empty (Matthew 12:43-45).
 8. Change the input: remove or reduce what feeds the pattern (Psalms 101:3).
 
-Output: those eight in order, then what is uncertain. Label each claim Scripture says, Word meaning, Reading, Disputed or Guess; `../scripture-foundations/SKILL.md` defines them. Quote only what its script printed, in one command for all verses: `bun run <skill-dir>/../scripture-foundations/scripts/scripture.ts lookup "Rom 12:2" "Jas 3:17"`. Answer as briefly as the question allows.
+Output: those eight in order, then what is uncertain. Label each claim Scripture says, Word meaning, Reading, Disputed or Guess; `../alex-crisan-scripture-foundations/SKILL.md` defines them. Quote only what its script printed, in one command for all verses: `bun run <skill-dir>/../alex-crisan-scripture-foundations/scripts/scripture.ts lookup "Rom 12:2" "Jas 3:17"`. Answer as briefly as the question allows.
 
 ## Patterns
 

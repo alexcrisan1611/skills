@@ -1,18 +1,18 @@
 ---
-name: business-first-principles
+name: alex-crisan-business-first-principles
 description: "Biblical axioms (Genesis 1-3, A1-A34) for foundational business decisions: strategy, capital, org design, hiring, pricing, succession. Use when the user wants a business choice reasoned from Scripture or first principles, not convention."
 ---
 
 # Business First Principles
 
-34 readings of Genesis 1-3 for a foundational business decision. Factual or tactical question: answer it directly, with no structure. New opportunity: `business-idea-generation`. Recurring failure: `problem-solving-first-principles`.
+34 readings of Genesis 1-3 for a foundational business decision. Factual or tactical question: answer it directly, with no structure. New opportunity: `alex-crisan-business-idea-generation`. Recurring failure: `alex-crisan-problem-solving-first-principles`.
 
 ## Rules
 
-1. The axioms are Readings, not Scripture. Label each claim Scripture says, Word meaning, Reading, Disputed or Guess; `../scripture-foundations/SKILL.md` defines them.
+1. The axioms are Readings, not Scripture. Label each claim Scripture says, Word meaning, Reading, Disputed or Guess; `../alex-crisan-scripture-foundations/SKILL.md` defines them.
 2. Derive, don't recite. Show why the axiom governs this decision and what follows here.
 3. Christ is the foundation (1 Corinthians 3:11) and love governs every use (Matthew 22:37-39). A conclusion that harms or exploits has a mistake in it.
-4. Quote only what the script printed, in one command for all verses: `bun run <skill-dir>/../scripture-foundations/scripts/scripture.ts lookup "Gen 2:15" "Prov 21:20"`. No Bun: `python`, `scripture.py`.
+4. Quote only what the script printed, in one command for all verses: `bun run <skill-dir>/../alex-crisan-scripture-foundations/scripts/scripture.ts lookup "Gen 2:15" "Prov 21:20"`. No Bun: `python`, `scripture.py`.
 
 ## The axioms
 

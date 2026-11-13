@@ -1,5 +1,5 @@
 ---
-name: first-principles-reasoning
+name: alex-crisan-first-principles-reasoning
 description: "Derive an answer from what is given, not from convention: find and test the load-bearing assumption. Use when the user asks for first principles, challenges a best practice, or faces a hard-to-reverse decision where the known answer failed."
 ---
 
@@ -13,7 +13,7 @@ Use it when a decision is hard to reverse, a known practice failed, agreement ca
 
 1. An application of Scripture is a Reading by a fallible reader.
 2. The method has a limit. Name it; do not cover it with a confident story.
-3. Label each claim Scripture says, Word meaning, Reading, Disputed or Guess. Quote only what the script printed, in one command for all verses: `bun run <skill-dir>/../scripture-foundations/scripts/scripture.ts lookup "Jas 1:5" "Prov 18:17"`.
+3. Label each claim Scripture says, Word meaning, Reading, Disputed or Guess. Quote only what the script printed, in one command for all verses: `bun run <skill-dir>/../alex-crisan-scripture-foundations/scripts/scripture.ts lookup "Jas 1:5" "Prov 18:17"`.
 
 ## Procedure
 

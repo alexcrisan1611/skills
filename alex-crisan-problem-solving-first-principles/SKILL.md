@@ -1,11 +1,11 @@
 ---
-name: problem-solving-first-principles
+name: alex-crisan-problem-solving-first-principles
 description: "Root-cause diagnosis of recurring organizational or process failures (post-mortems, retros, crisis triage) using the Genesis 3 where/source/act method. Not for debugging code; use mattpocock-skills:diagnosing-bugs."
 ---
 
 # Problem Solving First Principles
 
-Diagnosis: where a failure is, what fed it, and what act carried it, in that order. Not for code bugs (`mattpocock-skills:diagnosing-bugs`), and not for deciding what to do once the cause is known (`first-principles-reasoning`).
+Diagnosis: where a failure is, what fed it, and what act carried it, in that order. Not for code bugs (`mattpocock-skills:diagnosing-bugs`), and not for deciding what to do once the cause is known (`alex-crisan-first-principles-reasoning`).
 
 ## Rules
 
@@ -29,7 +29,7 @@ You do not question the people involved. Ask the user what they know, one questi
 
 A failure that returns: rerun step 6. The class was probably wrong.
 
-Output: symptom; location; source and act; class; fix with owner, date and test; what is not known. Label each claim Scripture says, Word meaning, Reading, Disputed or Guess. Quote only what the script printed, in one command for all verses: `bun run <skill-dir>/../scripture-foundations/scripts/scripture.ts lookup "Gen 3:9-13"`. A minor slip gets a few lines: open no reference and cite no verse.
+Output: symptom; location; source and act; class; fix with owner, date and test; what is not known. Label each claim Scripture says, Word meaning, Reading, Disputed or Guess. Quote only what the script printed, in one command for all verses: `bun run <skill-dir>/../alex-crisan-scripture-foundations/scripts/scripture.ts lookup "Gen 3:9-13"`. A minor slip gets a few lines: open no reference and cite no verse.
 
 ## Check before you answer: you have strayed if
 

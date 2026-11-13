@@ -1,7 +1,7 @@
 # The verses: own point first, then the analogy
 
 Quote only what the script prints, all verses in one command:
-`bun run <skill-dir>/../scripture-foundations/scripts/scripture.ts lookup "Prov 11:1" "Prov 20:10"`
+`bun run <skill-dir>/../alex-crisan-scripture-foundations/scripts/scripture.ts lookup "Prov 11:1" "Prov 20:10"`
 
 No verse is about skills. State its own point, then label your use Reading. Never write that Scripture commands short skills or testing.
 

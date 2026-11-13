@@ -1,5 +1,5 @@
 ---
-name: simplifier-multiplier
+name: alex-crisan-simplifier-multiplier
 description: "Turn a simplifier's work into a multiplier (people, AI agents, an app, social media) on the pattern of Exodus 18:13-26. Use when the user names simplifier and multiplier, is the bottleneck of their own business, brings an idea to build, or wants to scale delivery or reach without scaling their hours."
 ---
 
@@ -9,7 +9,7 @@ The simplifier makes the messy plain: a method, a rule, a template, an offer tha
 
 ## Rules
 
-1. Quote the proof. Each verse you cite, quote word for word from the script, in one command for all verses: `bun run <skill-dir>/../scripture-foundations/scripts/scripture.ts lookup "Ex 18:19-23" "1 Cor 3:6"`. Never name the translation.
+1. Quote the proof. Each verse you cite, quote word for word from the script, in one command for all verses: `bun run <skill-dir>/../alex-crisan-scripture-foundations/scripts/scripture.ts lookup "Ex 18:19-23" "1 Cor 3:6"`. Never name the translation.
 2. Label each claim Scripture says, Word meaning, Reading, Disputed or Guess. Every business application is a Reading.
 3. God gives the increase (1 Corinthians 3:6). The counsel held only "If thou shalt do this thing, and God command thee so" (Exodus 18:23). Never promise a result.
 4. The miracles are Christ's. From the feeding of the five thousand, read only the order around it, and call it an analogy.

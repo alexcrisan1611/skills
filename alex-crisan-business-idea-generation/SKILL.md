@@ -1,13 +1,13 @@
 ---
-name: business-idea-generation
-description: "Find and test business opportunities with a 7-step change-to-test procedure grounded in business-first-principles. Use when the user asks for business ideas, a niche or gap, or whether an idea is any good."
+name: alex-crisan-business-idea-generation
+description: "Find and test business opportunities with a 7-step change-to-test procedure grounded in alex-crisan-business-first-principles. Use when the user asks for business ideas, a niche or gap, or whether an idea is any good."
 ---
 
 # Business Idea Generation
 
 An opportunity is a change in the world that makes some work newly worth doing. Scripture gives cases, not a method for market research: this procedure is a synthesis, and every business use of a text is a Reading. Say "this suggests".
 
-Not for capital, hiring or org design (`business-first-principles`), and not for choosing tools.
+Not for capital, hiring or org design (`alex-crisan-business-first-principles`), and not for choosing tools.
 
 ## Procedure
 
@@ -35,7 +35,7 @@ A reading of the market becomes a decision only with an owner, an action, a date
 8. The test: threshold, date, stopping rule.
 9. The smallest first step you can reverse.
 
-Label each claim Scripture says, Word meaning, Reading, Disputed or Guess; `../scripture-foundations/SKILL.md` defines them. The script cannot verify a market fact: every market claim is a Reading, a Guess or an invented illustration, and you say which. Quote only what the script printed, in one command for all verses: `bun run <skill-dir>/../scripture-foundations/scripts/scripture.ts lookup "Gen 41:25" "Eccl 11:6"`. A quick "is this idea any good?" gets a few lines on the weakest steps: open no reference and cite no verse.
+Label each claim Scripture says, Word meaning, Reading, Disputed or Guess; `../alex-crisan-scripture-foundations/SKILL.md` defines them. The script cannot verify a market fact: every market claim is a Reading, a Guess or an invented illustration, and you say which. Quote only what the script printed, in one command for all verses: `bun run <skill-dir>/../alex-crisan-scripture-foundations/scripts/scripture.ts lookup "Gen 41:25" "Eccl 11:6"`. A quick "is this idea any good?" gets a few lines on the weakest steps: open no reference and cite no verse.
 
 ## Check before you answer: you have strayed if
 
