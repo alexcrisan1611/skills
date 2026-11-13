@@ -3,6 +3,7 @@ name: Fix the README intro after dropping technology-selection
 description: The README's opening line no longer names architecture as a skill area
 milestone: README matches the skills
 created: 2026-11-08
+done: 2026-11-13
 ---
 # Fix the README intro after dropping technology-selection
 
