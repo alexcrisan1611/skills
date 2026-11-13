@@ -29,7 +29,7 @@ Governing passages:
 - Genesis 3:6, the demand test
 
 An ID that starts with "A" refers to an axiom in
-`../../business-first-principles/references/axioms.md`. The file uses these axioms most:
+`../../business-first-principles/SKILL.md`. The file uses these axioms most:
 
 - A5. Formation precedes filling
 - A19. Doing the work reveals the need
