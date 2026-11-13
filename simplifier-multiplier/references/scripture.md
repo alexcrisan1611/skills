@@ -14,6 +14,7 @@ Quote each verse from the lookup script before you use it, and quote its words i
 - Proverbs 25:13: the faithful messenger
 - 1 Corinthians 3:6-7 and Psalm 127:1: the increase is God's
 - Genesis 1:11-12: the seed is in itself
+- Luke 14:28-30 and Proverbs: the gate and the pushback
 
 ## Exodus 18:13-26: the pattern
 
@@ -157,3 +158,29 @@ Scripture says:
 > 1:12 And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.
 
 Reading: the seed carries what it needs to reproduce, "whose seed is in itself," and it reproduces "after his kind." The power is God's word: "God said... and it was so." See `nature.md` for the parallel in nature and where it breaks.
+
+## Luke 14:28-30 and Proverbs: the gate and the pushback
+
+Scripture says:
+
+> Luke 14:28 For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have sufficient to finish it?
+>
+> 14:29 Lest haply, after he hath laid the foundation, and is not able to finish it, all that behold it begin to mock him,
+>
+> 14:30 Saying, This man began to build, and was not able to finish.
+
+> Proverbs 27:6 Faithful are the wounds of a friend; but the kisses of an enemy are deceitful.
+
+> Proverbs 27:17 Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.
+
+> Proverbs 18:13 He that answereth a matter before he heareth it, it is folly and shame unto him.
+
+> Proverbs 20:5 Counsel in the heart of man is like deep water; but a man of understanding will draw it out.
+
+> Proverbs 16:3 Commit thy works unto the LORD, and thy thoughts shall be established.
+
+Reading:
+
+- In Luke 14:28-33, Jesus speaks of the cost of following him: "whosoever he be of you that forsaketh not all that he hath, he cannot be my disciple" (14:33). State that first. The analogy is narrow: someone who builds sits down before building and counts what it will take to finish. The idea gate is that sitting down.
+- Proverbs 27:6 and 27:17 make pushback a work of friendship. Agreeing with an idea that does not fit, to keep things pleasant, is the deceitful kiss.
+- Proverbs 18:13 and 20:5 set the manner: hear the whole answer before judging, and draw the counsel out with questions instead of pressing a verdict.

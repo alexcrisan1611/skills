@@ -6,27 +6,29 @@ This skill turns the work of a simplifier into a multiplier: people, AI agents, 
 
 A business needs two roles. The simplifier makes what is messy plain enough that someone else can act on it alone. The multiplier copies what is plain, faithfully and at scale, so that as many people as possible are served and drawn in by a product that works for them perfectly, completely and immediately.
 
-The skill designs the hand-over from one role to the other: the written way, the choice of multipliers, the threshold of what returns to the simplifier, the checks on the copy, the plan for reach, and the feedback that keeps the copy true.
+The skill tests whether an idea is worth multiplying, then designs the hand-over from one role to the other: the written way, the choice of multipliers, the threshold of what returns to the simplifier, the checks on the copy, the plan for reach, and the feedback that keeps the copy true.
 
 ## When to use it
 
 - You name the simplifier and multiplier framework.
 - Your business waits on you to deliver.
 - You want to scale delivery or reach without scaling your hours.
+- You bring an idea to build, and want it tested before you commit to it.
 - You are designing an app, an agent pipeline or a social media plan to multiply your work.
 
 ## How it works
 
 1. Find the bottleneck: the first point where the work waits on you.
 2. Name the motive and bring the plan to God.
-3. Write the way: the rules, the path and the task, plain enough to run with (Habakkuk 2:2).
-4. Choose the multipliers for character before capacity (Exodus 18:21).
-5. Set the threshold: great matters return to you, small matters stay with the multipliers. Move a class of matters to the multipliers only on a faithful record (Luke 16:10).
-6. Give the multiplier its structure before its volume (Mark 6:39-40).
-7. Check the copy against three standards: immediately, completely, perfectly.
-8. Draw people in with a product that works, not with pressure (Luke 14:17, 23).
-9. Close the loop: what spreads, what changes per context, and what needs the way rewritten.
-10. Name the test that would show the multiplier fails, and the limit: God gives the increase (1 Corinthians 3:6-7).
+3. Test the idea at the gate: six required criteria (first-hand need, purpose beyond the market, existing tools fail, seen whole, lasting, not a feature in waiting). The skill pushes back at the first sign of a mismatch and asks questions one at a time, even when you assume the idea is fine (Proverbs 27:6).
+4. Write the way: the rules, the path and the task, plain enough to run with (Habakkuk 2:2).
+5. Choose the multipliers for character before capacity (Exodus 18:21).
+6. Set the threshold: great matters return to you, small matters stay with the multipliers. Move a class of matters to the multipliers only on a faithful record (Luke 16:10).
+7. Give the multiplier its structure before its volume (Mark 6:39-40).
+8. Check the copy against three standards: immediately, completely, perfectly.
+9. Draw people in with a product that works, not with pressure (Luke 14:17, 23).
+10. Close the loop: what spreads, what changes per context, and what needs the way rewritten.
+11. Name the test that would show the multiplier fails, and the limit: God gives the increase (1 Corinthians 3:6-7).
 
 The skill also orders a social media plan: demonstrations first, built-in customer sharing next, and the simplifier's own voice alongside.
 
@@ -38,6 +40,8 @@ When the skill cites a verse, it quotes the words as proof, from the lookup scri
 
 - `SKILL.md`: the skill: rules, the Exodus 18 pattern, the procedure, social media and the output format.
 - `references/scripture.md`: the full text and reading of each passage.
+- `references/idea-gate.md`: the six criteria, who checks each one, how to push back, and the three verdicts.
+- `references/the-way.md`: the path from idea to approved, the idea file in `.tasks/ideas/`, what a spec must hold (including feel and voice), and the four-layer done ladder.
 - `references/nature.md`: the parallel of the seed and its code, the three layers of checking, the feedback loops, and where the parallel breaks.
 - `README.md`: this file.
 
@@ -49,6 +53,7 @@ It depends on sibling skills: `scripture-foundations` (labels and lookup script)
 - "Everything in my studio waits on me. Where do I start delegating to AI agents?"
 - "What should my agents decide alone, and what should come back to me?"
 - "Plan social media as a multiplier for the apps I ship."
+- "I have an app idea. Is it worth building?"
 
 ## Limits
 
