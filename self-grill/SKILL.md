@@ -5,41 +5,21 @@ description: "Autonomously interrogate a plan, architecture, or request by walki
 
 # Self-Grill
 
-Find the decisions hidden in a plan, answer each one yourself with your best recommendation,
-and show the result as a Decision Ledger followed by the plan. The user can then accept the
-whole thing or override single decisions by number. Do not stop to ask questions.
-
-## When to use it
-
-- The user says `self-grill` or `auto-grill`, or asks you to grill yourself on a plan, a
-  feature, or an architecture.
-- The user wants a full plan without rounds of questions and answers.
-- The user wants every hidden decision and trade-off shown, with your choice for each.
+Find the decisions hidden in a plan, answer each one yourself, and show the result as a Decision Ledger followed by the plan. Do not stop to ask questions: the user accepts the whole, or overrides decisions by number.
 
 ## Steps
 
-1. **Read the context first.** Read the workspace, the code, and anything the user supplied.
-   Answer factual questions from it. Never log a decision for a fact you can look up.
-2. **List the candidate decisions.** Find the open choices: forks in the design, unstated
-   requirements, edge cases.
-3. **Keep only the costly ones.** A decision goes in the ledger only if a wrong choice is
-   costly or hard to undo, and at least two options are viable. Keep at most about 10, ranked
-   by the cost of getting them wrong. Every other choice goes in the Assumed defaults list,
-   one line each.
-4. **Order them by dependency.** A decision that makes another one relevant comes first. The
-   dependent decision names its parent.
-5. **Resolve each decision in order.** State the question, the options with their main
-   trade-off, your choice, and a one-sentence reason. Treat each choice as settled when you
-   resolve the decisions that depend on it.
-6. **Write the output:** the Decision Ledger, then Assumed defaults, then the plan.
+1. Read the context first: the workspace, the code, anything supplied. A fact you can look up is never a decision.
+2. List the open choices: forks in the design, unstated requirements, edge cases.
+3. Keep only the costly ones. A decision enters the ledger only if a wrong choice is costly or hard to undo and at least two options are viable. At most about 10, ranked by the cost of getting them wrong. Everything else is an assumed default.
+4. Order by dependency: a decision that makes another relevant comes first, and the dependent one names its parent.
+5. Resolve each in order: the question, the options with their main trade-off, one choice, a one-sentence reason. Treat it as settled for the decisions below it.
 
-## Output format
+## Output
 
-Give the output in this order.
+**1. Decision Ledger**, highest cost first:
 
-**1. Decision Ledger.** One entry per decision, highest cost first, in this shape:
-
-> **D1 · Decision title** (parent: none, or D#)
+> **D1 · Title** (parent: none, or D#)
 > Question: the design question.
 > Options:
 > - A: what it is, and its main trade-off.
@@ -47,20 +27,17 @@ Give the output in this order.
 >
 > Selected: A, because one-sentence reason.
 
-**2. Assumed defaults.** One line each, numbered `AD1`, `AD2`, and so on: the choice, and a
-few words on why it is the obvious default.
+**2. Assumed defaults**, numbered AD1, AD2: the choice, and a few words on why it is obvious.
 
-**3. Plan.** The specification, architecture, or step-by-step plan that follows from every
-choice above. Keep it concrete and short.
+**3. Plan**: the concrete, short plan that follows from every choice above.
 
-End with one line that invites the user to approve, or to override by number, for example
-"Change D2 to B" or "Drop AD3".
+End with one line inviting approval or an override by number ("Change D2 to B", "Drop AD3"). On an override, redo the decisions that name it as parent, and say which changed.
 
-## Rules
+## Check before you answer: you have strayed if
 
-- **Commit.** Choose one option per decision. No hedging, so the plan holds together and can
-  be carried out at once.
-- **Track parents.** Every dependent decision names its parent, so that if the user overrides
-  D1, you know which decisions to redo. Redo them, and say which ones changed.
-- **No trivia.** If a choice is cheap to change later, it belongs in Assumed defaults, not in
-  the ledger.
+- You asked the user a question. Decide it and log it.
+- You logged a fact the code or the supplied files answer. Look it up.
+- A ledger entry is cheap to change later. Move it to Assumed defaults.
+- You hedged ("A or B, depending"). Choose one.
+- The plan contradicts a selected option. Fix the plan.
+- A dependent decision names no parent.
