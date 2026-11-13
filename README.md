@@ -2,7 +2,7 @@
 
 # Skills
 
-This repository contains eight agent skills for business, reasoning, architecture, and Scripture-based work. A skill is a folder of instructions that an AI agent, such as Claude Code, loads when a task matches it.
+This repository contains nine agent skills for business, reasoning, architecture, and Scripture-based work. A skill is a folder of instructions that an AI agent, such as Claude Code, loads when a task matches it.
 
 Most of the biblical reasoning skills reason from Scripture. The `scripture-foundations` skill supplies the King James Version (KJV) text and the method that those skills use.
 
@@ -18,6 +18,7 @@ Most of the biblical reasoning skills reason from Scripture. The `scripture-foun
 | [renewing-the-mind](renewing-the-mind/) | Takes apart a belief or a habit of thought, tests it against Scripture, and replaces it. It is not medical or mental-health advice. |
 | [scripture-foundations](scripture-foundations/) | Gives the agent a local, searchable KJV and scripts to look up and verify verses, and a method to derive principles from the text. |
 | [self-grill](self-grill/) | Autonomously interrogates a plan, architecture, or request by traversing its decision tree, answering each question, and presenting a Decision Ledger. |
+| [simplifier-multiplier](simplifier-multiplier/) | Turns the work of a simplifier into a multiplier (people, AI agents, an app, social media) on the pattern of Exodus 18:13-26: the written way, able multipliers, and a threshold for the great matters. |
 
 Each skill folder has a `SKILL.md` file for the agent and a `README.md` file for people. The `icon` and `assets` folders hold the repository's icon and are not skills. Read the `README.md` of a skill for its triggers, steps, example prompts, and limits.
 
