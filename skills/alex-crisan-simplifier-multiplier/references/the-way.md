@@ -7,14 +7,14 @@ Path:
 4. Rule: ask the owner their questions one at a time. Pass, refine or no.
 5. Hand over: a pass becomes a spec in `.tasks/`. A no moves to `.tasks/trash/` with the date and why (John 6:12).
 
-Idea file. Frontmatter: `name`, `captured` (date), `from`, `for`, `gate: open | refine`. Body: the idea in the owner's words, unpolished; a Gate table (criterion, result, evidence); open questions, one line each.
+Idea file. Frontmatter: `name`, `captured` (date), `from`, `for`, `gate: open | refine | owner` (owner: awaiting a ruling). Body: the idea, unpolished, in the owner's words; a Gate table (criterion, result, evidence), open questions, one per line.
 
 Spec ("the work that they must do").
-- Problem: who has it first-hand, and what it costs now.
+- Problem: who has it first-hand, and its cost now.
 - Core flow: the one path that must work immediately, step by step.
 - Out of scope.
 - Feel: two or three words, and the interactions that must feel right.
 - Voice: three tone words, three sample lines (button, empty state, error), words to avoid.
 - Done: the four layers, with the flow each checks.
 
-Feel and voice are usually missing; write them roughly before the build.
+Feel and voice are usually missing: draft them first.
