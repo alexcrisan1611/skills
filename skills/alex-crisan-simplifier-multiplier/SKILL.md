@@ -1,6 +1,6 @@
 ---
 name: alex-crisan-simplifier-multiplier
-description: "Turn a simplifier's work into a multiplier (people, AI agents, an app, social media) on the pattern of Exodus 18:13-26. Use when the user names simplifier and multiplier, is the bottleneck of their own business, brings an idea to build, or wants to scale delivery or reach without scaling their hours."
+description: "Turn a simplifier's work into a multiplier (people, AI agents, an app, social media) on the pattern of Exodus 18:13-26. Use when the user names simplifier and multiplier, is the bottleneck of their own business, says "capture an idea", brings an idea to build, or wants to scale delivery or reach without scaling their hours."
 ---
 
 # Simplifier and Multiplier
